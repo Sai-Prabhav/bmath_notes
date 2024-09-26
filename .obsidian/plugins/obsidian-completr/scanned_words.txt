@@ -88,6 +88,7 @@ tikzpicture
 thus
 tags
 things
+tho
 is
 italics
 its
@@ -457,6 +458,7 @@ conform
 conversly
 clear
 classes
+continous
 how
 hello
 hi
@@ -589,6 +591,7 @@ why
 width
 who
 wrt
+wan
 am
 and
 any
@@ -1061,6 +1064,7 @@ standard
 span
 search
 shall
+sequential
 Proof
 PDF
 Producer

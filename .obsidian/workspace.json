@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00536241829fb5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortcuts.md",
+                "file": "5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortcuts.md",
+                "file": "5..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortcuts.md"
+                "file": "5..md"
               }
             }
           }
@@ -148,13 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "393e549b8cfb5620",
+  "active": "00536241829fb5e2",
   "lastOpenFiles": [
+    "shortcuts.md",
+    "5..md",
     "All Quaries.md",
     "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
     "Index.md",
-    "shortcuts.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
     "Probability/Poisson.md",
@@ -190,7 +204,6 @@
     "html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
     "number theory/4..md",
     "Fermat's Little Theorem.md",
-    "linear algebra/Index.md",
     "Untitled.canvas"
   ]
 }
