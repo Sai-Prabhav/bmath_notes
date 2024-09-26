@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/3. Binary.md",
-                "mode": "source",
+                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/3. Binary.md"
+                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "19987f388dfa6a07",
   "lastOpenFiles": [
-    "linear algebra/Problems.md",
     "number_theory/3. Binary.md",
+    "linear algebra/Problems.md",
     "LICENSE",
     "real analyses/3. Convergences of Series.md",
     "real analyses/4. Continuity of Functions.md",
