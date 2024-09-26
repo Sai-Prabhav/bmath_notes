@@ -459,6 +459,7 @@ conversly
 clear
 classes
 continous
+cant
 how
 hello
 hi
@@ -685,6 +686,7 @@ average
 axis
 addplot
 available
+another
 bold
 bye
 bigest
@@ -929,6 +931,7 @@ loaded
 liminf
 limt
 limits
+leave
 small
 smaller
 same
@@ -2930,6 +2933,7 @@ rank
 row
 rows
 relation
+restriction
 ID
 Iil
 Io
@@ -2999,6 +3003,7 @@ Invertable
 Identical
 Inferior
 Inductively
+ISI
 qq
 qk
 qH

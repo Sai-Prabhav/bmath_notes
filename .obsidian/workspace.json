@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5..md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5..md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5..md"
+                "file": "Index.md"
               }
             }
           }
@@ -161,16 +161,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00536241829fb5e2",
+  "floating": {
+    "id": "2524fbdd7b571397",
+    "type": "floating",
+    "children": [
+      {
+        "id": "12a6695bdfdd4a4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "07c76ad926fb38ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c081f4fca2b2f1a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c081f4fca2b2f1a4",
   "lastOpenFiles": [
-    "shortcuts.md",
-    "5..md",
+    "website/number_theory/euler's-criterion.html",
+    "website/number_theory/3.-binary.html",
+    "website/number_theory/2.-sum-of-two-squares.html",
+    "website/number_theory/1.-pigeonhole-principle.html",
+    "website/number_theory",
+    "website/linear-algebra/problems.html",
+    "website/linear-algebra/3.-rank.html",
+    "website/linear-algebra/2.-direct-sum.html",
+    "website/linear-algebra/1.-infinite-dimensional-vector-spaces.html",
+    "website/linear-algebra",
+    "website/lib/rss.xml",
     "All Quaries.md",
+    "5..md",
     "real analyses/4. Continuity of Functions.md",
-    "real analyses/1. Cauchy Criterion.md",
-    "Index.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
+    "real analyses/1. Cauchy Criterion.md",
     "Probability/Poisson.md",
     "Probability/Exercise 4 Solutions.md",
     "Probability/2. Covariance.md",
@@ -185,25 +231,16 @@
     "linear algebra/3. Rank.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "shortcuts.md",
+    "Index.md",
     "A Brief Intro To Game Math & Economy Design.md",
     "Probability/Untitled.md",
-    "html_files/lib/search-index.json",
-    "html_files/lib/styles/main-styles.css",
-    "html_files/lib/styles/global-variable-styles.css",
-    "html_files/lib/styles/other-plugins.css",
-    "html_files/lib/styles/obsidian.css",
-    "html_files/lib/styles",
-    "html_files/lib/scripts/graph-data.js",
     "html_files/lib/media/favicon.png",
-    "html_files/lib/scripts/minisearch.js",
-    "html_files/lib/scripts/pixi.js",
-    "html_files/lib/scripts/tinycolor.js",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
     "html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
     "number theory/4..md",
-    "Fermat's Little Theorem.md",
     "Untitled.canvas"
   ]
 }

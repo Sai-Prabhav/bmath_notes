@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/</link><image><url>http://0.0.0.0:8000/Desktop/notes/notes/html_files/lib/media/favicon.png</url><title>notes</title><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 26 Sep 2024 09:31:27 GMT</lastBuildDate><atom:link href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 26 Sep 2024 09:31:15 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+ <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
+That is if  is not is not spanned by a finite set.<br><br>
+<br>All real polynomial space is a vector space 
+<br>Real Sequences
+<br>Convergent Sequences
+<br>Bounded sequences
+<br>All sequences with finitely many non - zero terms 
+<br>Definition (Span of Infinite Set).
+Let  be an infinite subset of <br>
+<br>
+Note:  is finite 
+<br>Definition (Linear Independence of Infinite Set).
+We say  is Liner Independent If any finite subset of it is linearly independent.<br>
+That is<br>
+<br>
+Note:  is finite
+<br>Definition (Basis of Infinite Dimension spaces).
+An infinite subset  of  is said to be a basis iff  and  is linearly independent 
+<br><br>If  is the sequence <br>
+If  is the sequence Infinite<br>
+and so on<br>
+ is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><br>Next: <a data-href="2. Direct Sum" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-href="2. Direct Sum" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 15:03:14 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br>Definition (Sum of Subspaces).
+Let  we a vector space<br>
+let  be subspaces of <br>
+The sum of theses subspaces denoted by  is the space of all <br>
+<br>
+Note:  is a subspace of  
+<br>Definition (Independence of Subspaces).
+The subspace  is said to be independent if whenever<br>
+ with  only if  
+<br>Proposition.
+The sum of  is the smallest subspace containing all  i.e,<br>
+if  is subspace of  and  then 
+<br>Definition (Direct sum).
+ is said to be the direct sum of  if<br>
+ and  are independent<br>
+we also represent direct sum by<br>
+
+<br>Proposition.
+If  is the direct sum of  then<br>
+ can be written uniquely as the sum of   
+<br>Proposition.
+let  be subspace of a finite dimensional vector space , and let  be the basis for <br>
+The order basis  obtained by listing the  in order is a basis of  iff  
+<br>Corollary.
+Let  be a subspace of . Then  of  such that<br>
+
+<br>Proof.<br>
+let  be a basis of  extend this basis to  say <br>
+let  which is linearly independent so it is the basis ow <br>
+clearly,  and  and  are independent <br>
+□ <br>Definition (Compliment).
+' is called a complement of  
+<br>Note: Compliment is not unique<br>Proposition.
+Let  be sub-spaces of finite dimensional vector space  then,
+
+<br>Proof.<br>
+let  be the dimension of subspace  and let  be the basis of it.<br>
+let basis of  be <br>
+let basis of  be <br>
+Claim:  is the basis of <br>
+Clearly  spans <br>
+lets show that  is independent<br><br><br> also <br>
+As  such that<br><br><br>which implies  as  is the basis of <br>
+so equation <a data-href="#^b488c5" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^b488c5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^b488c5</a><a data-href="#^b488c5" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^b488c5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a> becomes<br><br>and as  is basis of <br>
+□<br>
+<a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>Definition.
+Let  be a subset of  and  a compliment of  in  ,. <br>
+For  let  where <br>
+ is called the projection of  into  along  
+<br><br>let  be the basis of  and  a basis of  <br><br>this is true if <br><br>Exercise.
+Let <br>
+
+<br>let basis of  be <br><br>we extend it to basis of  by adding <br>Theorem.
+Let  be a complement of  in , ie  and define  by  if  for  that is  is the projection of  into  along  .  is a linear transformation.<br>
+this is called the projection operator into  along <br>
+i) <br>
+ii)<br>
+iii) if <br>
+iv) if  then <br>
+v)
+<br> Prove you dumb ass <br>Exercise.
+In the vector space  find two diffrent compliment of  where  is  
+<br>first lets find the basis of W<br><br>we assign arbitrary variable for non pivotal columns <br><br>
+<br>
+Basis of  is<br><br>we can see that  and  are to different basis of compliment]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/2.-direct-sum.html</link><guid isPermaLink="false">linear algebra/2. Direct Sum.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 12:58:52 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Rank of a matrix Let  be a  matrix,<br>
+column space of  is the subspace of  spanned by the columns of <br>
+if  are the columns of  and  is in  then,<br>
+column space of <br>so, column space of  is all  such that <br><br>has a solution.<br>In terms of liner transformation defined by the linear matrix <br>
+<br>
+<br>Column rank of  is the dimension of the column space of <br>
+Row rank of  is the dimension of the row space of  <br>Theorem.
+For a  matrix  the row rank is same as the column space  of  and is called the rank of  
+<br><br>Let  denote the rank of <br>
+Let us try to find an upper bound for  <br>Theorem.
+Let  and   be matrices with same number of rows<br>
+Then, column space   column space of  iff  for some matrix C
+<br> Let <br>
+Let  columns space of <br>
+Let  column space of <br>
+Conversely assume column space   column space of <br>
+In particular every column of  lies in the column space of  .<br>
+Which implies every column of  can be written as the linear combination of the columns of <br>
+So if  are the column vectors of  then there exist scalars <br>
+<br>
+Let  and <br>Theorem.
+Let  ,  be matrices with same number of columns then the row space of   row space of A iff  for a matrix <br>
+complete it
+<br>Definition (let   be a  matrix  is said to be of full column rank if ).
+ and is said to be full row rank is   
+<br>Lemma.
+if  have full column rank, then  has a left inverse, ie,  a  such that 
+<br> has a full column rank, the columns of  are linear independent  <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a><br><br>Theorem.
+Let  be a  matrix. Then the following are equivalent<br>
+i)  has a right inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie,  is a full row rank<br>
+V) column space of A is 
+<br>Proof.<br>
+  ii<br>
+If  has a right inverse such that <br>
+if <br><br>ii) iii)<br>
+clear<br>
+iii) =&gt; iv)<br>let the rows of  be  <br><br><br>by iii) <br>
+ the rows are linear independent<br>
+iv)v)<br>
+<br>
+<br>
+column space of <br>
+But <br>
+<br>
+V)i)<br>Col space of A <br>
+let  be the unit vectors in <br>as columns space   each  is a linear combination of columns in :<br>
+so there exist scalars  such that <br><br>so, <br>
+ <br>Theorem.
+Let  be a  matrix. The following are equvalent<br>
+i)  has a left inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie, A has full column rank<br>
+row space of 
+<br>iii)iv)<br>
+let the columns be <br>
+let  be a linear relation<br><br>iii)  that is <br>iv)  V) <br><br>v) i)<br>
+As row space  each of the basis vectors  of  in a linear combination of the rows of A let the rows be . So, there exist scalars <br>
+Take  and <br>Theorem.
+Let  a square matrix of order A TFAE<br>
+i) A has a right inverse<br>
+ii)<br>
+iii) A has a left inverse<br>
+iv) A has an inverse
+<br>Theorem.
+
+<br>Proof.<br>
+by <a data-href="#^8cc1ad" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^8cc1ad" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^8cc1ad</a><a data-href="#^8cc1ad" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^8cc1ad" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.2</a> <br>
+also by <a data-href="#^72e467" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^72e467" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^72e467</a><a data-href="#^72e467" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^72e467" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.3</a> <br>
+thus <br>
+□<br>Corollary.
+ if  is of full column rank 
+<br>Proof.<br>
+ has a left inverse say  <br><br>ii)  if  is a full row rank<br>
+□<br>Exercise.
+A is a matrix of rank 1 iff  where  and  are column vectors 
+<br>Proof.<br>
+If  then rank  as  and  as <br>Conversely let <br>
+That is, the dimension of column space <br>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 05:42:10 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
+<br>
+Let  be the linear transformation 
+
+a) Find the matrix of  wrt. the standard basis
+
+2 let <br>
+extend the basis  to  
+
+<br>
+Show that the space of all real valued continuous functions on  is infinite dimensional 
+
+<br>Consider the set  they are linearly independent and belong to the above space hence the space should be infinite<br>
+4. Consider the subspace of  and  in  <br><br>a) find bases for  and <br>basis of   we can extend this to basis of  and  <br>
+<br>Let 
+<br>a) Find the basis of <br>
+b)Find a complement  of  containing <br>
+c) Modify  and get a complement  of span  not containing  and find a projection  into the span  along  ]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/problems.html</link><guid isPermaLink="false">linear algebra/Problems.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 03:45:40 GMT</pubDate></item><item><title><![CDATA[1. Pigeonhole Principle]]></title><description><![CDATA[ 
+ <br>Theorem (Pigeonhole Principle).
+if  objects are distributed into  boxes then at least one box contains two or more of the objects
+<br><br>Let  be  integers<br>
+then  with  such that<br>
+ is divisible by <br><br>if any of the  is divisible by m we are done as  and <br>
+Else from pigeonhole principle we know at least two of  will have same residue say <br>
+then <br>Theorem (Dirichlet).
+let  and  be a real number then there exist integers  and  with  S.T.
+
+<br>Theorem (Strong form of Pigeonhole principle).
+let  be positive integers. If  boxes are distributed into n boxes then,<br>
+either  box contains at least  objects,<br>
+or  the  box contains at least  objects,<br>
+so on,<br>
+or the   box contains at least  objects
+<br>Proof.<br>
+If  the  box contains less than  objects then the  boxes can at most contain  objects<br>
+□]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1.-pigeonhole-principle.html</link><guid isPermaLink="false">number_theory/1. Pigeonhole Principle.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 06:26:24 GMT</pubDate></item><item><title><![CDATA[2. Sum of Two Squares]]></title><description><![CDATA[ 
+ <br>Lemma.
+If  and  are each the sum of two squares then so is there product 
+<br>Proof.<br>
+<br>
+□<br>Theorem.
+A prime  of form  can not be written as a sum of two squares
+<br>Proof.<br><br>□<br>Lemma.
+let  be a prime and let <br>
+The the congruenc<br>
+<br>
+admits a solution  where<br>
+ and 
+<br>Proof.<br>
+<br>
+consider the set<br>
+<br>
+Note that <br>
+<a data-href="1. Pigeonhole Principle#^6b5eb7" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/1. Pigeonhole Principle#^6b5eb7" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle &gt; ^6b5eb7</a><a data-href="1. Pigeonhole Principle#^6b5eb7" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1.-pigeonhole-principle.html#^6b5eb7" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle &gt; Theorem 1.1 (Pigeonhole Principle)</a> implies that<br>
+ where  or  such that<br><br>take,<br><br>Note: <br><br>□<br>Theorem.
+An odd prime  is expressed as a sum of two squares iff<br>
+
+<br>Proof.<br>“only if” part is done <a data-href="2. Sum of Two Squares#^8e7812" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/2. Sum of Two Squares#^8e7812" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares &gt; ^8e7812</a><a data-href="2. Sum of Two Squares#^8e7812" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2.-sum-of-two-squares.html#^8e7812" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares &gt; Theorem 2.2</a><br>
+let  There exists an integer a such that <br><br><br>Please help me again<br>
+In fact, we can take  where  is the primitives root of <br>
+Note that <br>
+□<br>Corollary (Uniqueness of  such that ).<br>Proof.<br>
+<br><br><br>
+<br>
+lets assume W.L.O.G  <br><br>Then<br><br>similarly we can show  <br>if we chose  then we get  and  <br>hence They are unique<br>
+□<br>Theorem.
+let the positive integers n be written as  where  is square-free. Then  can be represented as the sum of two squares if and only if  contains no prime factor of the form 
+<br>Proof.<br>
+Suppose  where  has no prime factor of the form  if  then  done.<br>
+Let  write  .<br>
+Each of the prime , being of the form , can be written as the sum of squares,<br>
+which implies there product  also can be written as .<br><br>The other way.<br>
+Suppose,<br>
+<br>
+assume that  and let  be an odd prime divisor of <br>
+let  then<br>
+ and  where <br>
+This gives <br>
+since  is square-free we have <br>
+<br>
+since  ,  cannot divide both  and <br>
+<br>
+we can find  such that <br><br><br>
+]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:02:59 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
+A binary quadratic form (bqf) is a polynomial of the form<br>
+ with <br>
+we may think of it as a function<br>
+<br>
+<br>
+In short we write  
+<br>We say that  is a primitive if <br>
+We say that  represents the integer  for some <br>
+We it represent primitively or properly if  and  <br>Remark.
+The same number can be represented primitively and non primitively
+<br>Definition ( Disc of Binary Quadratic Form).
+for  we define 
+<br><br>Proposition.
+Let  be a <a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a> with <br>
+i) then  represent 0   is a square<br>
+ii)  all non zero values represented by  are of the same sign
+<br>Proof.<br>
+Case I:  then<br><br>also <br><br>this proves i) for this case<br>
+for ii) <br>
+then <br>
+This shows that all values of  has the same sign of <br>
+Case II:  then,<br><br><br>Clearly,  is represented For what value?<br>
+let  <br><br>such that<br><br>which implies  is a square.we have shown if it represents 0 then its d is square how to show the other way<br>
+This proves i)<br>
+for ii) if  then clearly<br>
+ so  is of constant sign( same as ) from <a data-href="#^6d9892" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
+conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
+let  be a  <a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a> with .<br>
+Then for a given  there are at most a finite number of  such that 
+<br>Proof.<br>
+say  then<br><br>which show  has finitely many values<br>
+also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
+This is false for  example 
+<br> Say  then<br>
+<br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
+<br> set of all <a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a> 
+<br> set of all  Matrices
+<br> set of all  Invertable Matrices
+<br> set of all  Matrices with determinant <br>
+Note:  and  are both groups and  is the sub group of 
+<br>let  and <br><br>Define the new <a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
+Let  then
+
+<br>
+<br> 
+
+<br>Proof.<br>
+i) <br><br>ii) <br><br>□<br>--<br>Definition.
+let , <br>
+we say that  is equivalent to  if  st <br>
+we say  is properly equivalent to  if  st <br>
+Notation<br>
+ equivalent<br>
+ properly equivalent 
+<br>Definition (mat of Binary Quadratic Form).
+
+<br>Exercise.
+what is 
+<br>Hint:<br><br>why is there a 2<br>
+let  <br><br><br>Hence  can we be sure of it? (,y) is not invertable<br>Theorem.
+let 
+
+<br>then 
+<br> and  represents the same set of integers the same number of times
+<br>  and  are either both primitive or both non-primitive
+
+<br>Proof.<br>
+say  with <br><br>ii) say <br>
+then <br><br>if <br><br>iii)<br><br>then  divides <br>
+since the set of the values of  and  are he same it follows that  divides <br>
+if  is primitive then  is the maximum value of  which implies   is primitive<br>
+if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
+let  and  then  represents  properly iff<br>
+<br>
+form some <br>
+moreover if  then   such that 
+<br>Proof.<br>
+suppose <br>
+say,  <br><br>then<br><br>since  <br>
+so  properly represent <br>
+Now the other way<br>
+assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/bezout's theorem" class="internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
+let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
+let  where is this correct how to prove it <br><br>Remark (principle forms of disc ).
+ can be  and they can be simply represented by<br>
+ if <br>
+ if <br>
+these are known as principal forms of disc  
+<br>Theorem (Lagrange).
+Let . The following are equivalent 
+
+<br> is a square 
+<br>there is a <a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a>   of discriminant  which properly represents  
+
+<br>1 2<br>
+say  for some  <br>
+let  then  so  properly represents <br>
+2  1<br>
+let  be a <a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.13</a> <br><br>for some  <a data-href="#^216a99" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.11</a><br>
+since <br>
+we get <br><br>hence  is a square mod  <br>Corollary.
+let  let  be a prime such thta  Then there is a<a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a>  of the disc  which properly represents  
+]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 08:15:30 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
+ <br>Theorem (Euler's criterion).
+let  be and odd prime and 
+
+Euler's criterion can be concisely reformulated using the <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Legendre_symbol" rel="noopener" class="external-link" title="Legendre symbol" href="https://en.wikipedia.org/wiki/Legendre_symbol" target="_blank">Legendre symbol</a>
+<br><br>Proof.<br><br>from <a data-href="Fermat's Little Theorem" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fermat's Little Theorem" class="internal-link" target="_self" rel="noopener">Fermat's Little Theorem</a><br>
+which can be written as<br><br>Therefore either<br><br>or <br><br>Case one: ( is a quadratic residue)<br>
+let  we a primitive root of  as  is a quadratic residue<br>
+ for some <br><br>this proves that <br><br>Case two: ( is a quadratic non-residue)<br>
+ for some  as  is a quadratic non-residue<br>lets assume<br><br><br>Which contradicts  is a primitive root of <br>
+Therefore<br><br>□]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/euler&apos;s-criterion.html</link><guid isPermaLink="false">number_theory/Euler&apos;s criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
+ <br>Theorem (Infinite Primes ).
+There are infinite Primes of the form  equivalently there are infinity many primes
+<br>Proof.<br>
+We can see this is a direct result of <a data-href="Fundamental Theorem of Arithmetic" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a>.<br>
+Let us assume there are finitely many primes with the larges prime being  where  represents  prime.<br>
+Lets define  such that<br><br>Claim 1.1.
+Let  be the smallest divisor of  and  is a prime
+<br>Lets prove this my contradiction if  is not a primes  such that  this contradicts the fact that  is smallest hence  is a prime.<br>
+ as none of <br>
+We assumed there are finitely many primes but now found a new prime which is not equal to any of the other prime this shows that our assumption is false and there infinitely many prime.<br>Note: Even though we said its a direct consequence of <a data-href="Fundamental Theorem of Arithmetic" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we haven't used it in our theorem but can be used to make a simpler Proof<br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+<a data-tooltip-position="top" aria-label="https://math.stackexchange.com/a/4663883/1299918" rel="noopener" class="external-link" href="https://math.stackexchange.com/a/4663883/1299918" target="_blank">Stack exchange proof</a> <br>Let  be primes of the form .<br>
+We prove that there are infinitely primes of form  by of contradiction by assuming that there are finitely many primes of form <br>
+Let .<br>
+Let  be a prime and .<br><br>this shows <br>
+Case I: <br><br>Case II: <br><br>This shows that q should be congruent to  in both cases<br>
+If  as  is prime but <br><br>This contradicts the fact  there for .<br>
+This contradicts the fact that there are finitely many primes of the form  <br> There are infinitely many primes of the form <br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+We prove this by contradiction lets assume there are finitely many primes of the form <br>
+let  be  prime of the form <br>
+Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
+Note: <br>
+All of  can't be of the form  as then the product  will also be of the form  so at least one of  be of the form  but that contradict the fact that  are the only primes of form .<br>
+ There are infinitely many primes of the form  <br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+We prove this by contradiction lets assume there are finitely many primes of the form <br>
+let  be  prime of the form <br>
+Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
+Note: <br>
+All of  can't be of the form  as then the product  will also be of the form , so at least one of  must be of the form . But that contradict the fact that  are the only primes of form .<br>
+ There are infinitely many primes of the form <br>
+□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>We prove this but contradiction, let assume that there are finitely many primes of the form .<br>
+Let  be the highest prime of form  .<br>
+let<br><br>Let  be a prime such that  then <br><br>From <a data-href="Fermat's Little Theorem" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Fermat's Little Theorem" class="internal-link" target="_self" rel="noopener">Fermat's Little Theorem</a>  <br><br>Note: <br>
+We have shown a new prime of form  which is greater than  this contradicts the fact that there are finitely many primes.<br>
+ We have shown that there are infinitely many primes of form ]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/infinite-primes.html</link><guid isPermaLink="false">number_theory/Infinite Primes.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 21 Sep 2024 14:59:43 GMT</pubDate></item><item><title><![CDATA[Mid Sem Questions]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
+ <br>
+<br>let  be a prime what is the period of ?
+Claim.
+Period of  is order of  
+
+
+<br> Proof.<br>
+let  be the order of  then <br>
+so <br><br>Note that <br><br>so r has at most  has at most  digits now,<br><br>we have added in  zeros to pad for the m digits so we have <br>
+ periodicity of  is <br>
+□<br>
+<br>last  digits of  ?
+<br><br><br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> ]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/mid-sem-questions.html</link><guid isPermaLink="false">number_theory/Mid Sem Questions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:20:26 GMT</pubDate></item><item><title><![CDATA[1. Multinomial Distribution]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a><br>Definition (Multinomial Distribution).
+ independent and identical experiments. Each experiments results in one of  possible outcomes, with probability   such that  <br>
+ is number of results in outcome <br>
+whenever  
+<br><br>this is also written as the Multinomial <br>this is called the Multinomial <br>Remark (Multinomial as Binomial).
+when  Multinomial is same as Binomial
+<br>Remark.<br><br>Definition (Independence of Random Variable ).
+Let  take values be <br>
+let  take values <br>
+The random variables  and  are independent if<br>
+ 
+<br><br>Remark.
+Equivalently  are independent if for all <br>
+ 
+<br>Theorem.
+ and  are independent if and only if<br>
+
+<br>Proof.<br>let <br><br>The other way <br><br>□<br><br>Exercise.
+Given random number of balls of <a data-href="Poisson" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a> ()<br>
+Each ball is colored white with probability  and Black with probability <br>
+let<br>
+ Total number of balls<br>
+ number of white balls<br>
+ number of black balls
+<br>Solution:<br><br>Remark.
+If number of balls fixed say  then clearly  is clearly not independent
+<br>Remark.
+if  Then  are independent from<a data-href="1. Multinomial Distribution#^716f78" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/1. Multinomial Distribution#^716f78" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution &gt; ^716f78</a><a data-href="1. Multinomial Distribution#^716f78" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/1.-multinomial-distribution.html#^716f78" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution &gt; (1.1)</a>
+<br>Exercise.
+Let number of balls  Geometric<br>
+<br>
+Color each ball white with probability <br>
+Color each ball black with probability <br>
+ Number of white balls<br>
+ Number of black balls<br>
+show that  is not independent
+<br>Exercise (Sum of <a class="original-internal-link" data-href="Poisson" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Poisson" target="_blank" rel="noopener" style="display: none;">Poisson</a><a class="internal-link mathLink-internal-link" data-href="Poisson" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html" target="_self" rel="noopener">Poisson</a> Variables).
+<br>
+<br>
+show that 
+<br>Exercise (Sum of Binomials).
+<br>
+<br>
+show that 
+<br> have joint pmf <br>
+<br><br>we saw earlier<br>
+<br><br>Theorem.
+If  and  are independent then
+<br><br>for some <br>Proof.<br><br>□]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
+The Covariance between  and  is 
+<br><br>Remark.
+If  is independent<br>
+The converse may not be true
+<br>Exercise.
+(i) <br>
+(ii) <br>
+(iii) <br>
+(iv) 
+<br>Proof.<br>
+(i)<br>
+(ii)<br>
+(iii)<br><br>(iv) let<br><br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
+let  are random variable they are independent if 
+<br><br><br>Definition (identical Random Variable ).
+let  are random variable they are Identical if<br>
+
+<br><br>let  are independent and identically distributed random variable<br>
+let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
+Polulation of  people voting in election  is a candiditte for election
+<br>for each person  in population<br><br><br>Proportion in favor of <br>
+Take sample of size  from population.<br>
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>how the second step happen<br><br><br><br>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 17:21:14 GMT</pubDate></item><item><title><![CDATA[1]]></title><description><![CDATA[ 
+ <br><br><br><br><br> The Variance of first  natural numbers is  <br>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/exercise-4-solutions.html</link><guid isPermaLink="false">Probability/Exercise 4 Solutions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 22 Sep 2024 19:43:08 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
+ <br>A discrete random variable  is said to have a Poisson distribution, with parameter  if it has a probability mass function given by:<br><br><br><br><br> <br><br>The Poisson distribution may be useful to model events such as:<br>
+<br>The number of meteorites greater than 1-meter diameter that strike Earth in a year;
+<br>The number of laser photons hitting a detector in a particular time interval;
+<br>The number of students achieving a low and high mark in an exam; and
+<br>Locations of defects and dislocations in materials.
+]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html</link><guid isPermaLink="false">Probability/Poisson.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 14:54:56 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/untitled.html</link><guid isPermaLink="false">Probability/Untitled.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 05:49:02 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
+ <br>Definition (Convergence sequence).
+A sequence  of real numbers is said to be converges to a real number  if for every , there exist  such that<br>
+
+<br>Definition (Cauchy Sequence ).
+A sequence  of real number is said to be Cauchy if for every , There exist  such that
+
+<br>Theorem (Bolzano-Weierstrass).
+Every bounded sequence of real numbers has a convergent sequence.
+<br>Theorem (Convergent Sequences are Cauchy).
+Let   be a convergent sequence of real number. Then   is a Cauchy.
+<br>Proof.<br>
+suppose  converges to <br>
+for every  such that <br><br>Now for <br><br>□<br>Lemma (Cauchy Sequences are Bounded).
+let  be a Cauchy sequence<br>
+Then it is bounded
+<br>Proof.<br>
+Take  As  is Cauchy There exist  such that <br><br>take  Then,<br><br>That is <br>
+so <br>
+then  where <br>
+□<br>Theorem (Every Cauchy Sequence is Convergent).
+Let  be a Cauchy sequence of real number. Then   is convergent
+<br>Proof.<br>By <a data-href="#^0e5611" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^0e5611" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^0e5611</a><a data-href="#^0e5611" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^0e5611" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lemma 1.5 (Cauchy Sequences are Bounded)</a>  is bounded. Then by <a data-href="#^59b909" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^59b909" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^59b909</a><a data-href="#^59b909" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^59b909" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 1.3 (Bolzano-Weierstrass)</a>  has a convergent sequence.<br>
+Suppose  is a Convergent sequence<br>
+Take <br>
+For  such that<br><br> such that<br><br>Take <br>Then  by<a data-href="#^40d31f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^40d31f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^40d31f</a><a data-href="#^40d31f" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^40d31f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.2)</a><br>
+now for <br><br>from<a data-href="#^cead38" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^cead38" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^cead38</a><a data-href="#^cead38" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^cead38" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.1)</a><br>
+<br>
+<br>
+Which implies Cauchy sequence is convergent<br>
+□<br>Theorem.
+A sequence of real numbers id Cauchy iff it is convergent
+<br><br>Let  be a non-empty set<br>
+Suppose  is a function satisfying<br>
+<br> (positivity)
+<br>
+<br> (symmetry)
+<br> (Triangle inequality)
+<br>Suppose  is a metric space then  with  is said to be convergent to  if  converges to <br>
+A sequence  is said to be Cauchy if for  there exist  such that<br><br>Definition (Complete Metric Space).
+A metric space  is said to be complete if every Cauchy sequence in  converges
+<br><br>Let  <br>
+<br> is complete.
+<br>Let  consider the sequence  it is Cauchy sequence but not convergent in  so, its not complete
+<br> is not complete
+<br> is complete
+<br> is complete
+]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html</link><guid isPermaLink="false">real analyses/1. Cauchy Criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 05:22:56 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ <br>Definition (Limit Points).
+Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
+<br><br>
+<br> has no limit points
+<br> has exactly one limit points
+<br> has exactly two limit points
+<br>let  and  we define  will have infinitely many limit point 
+<br>Claim.
+The only limit points of  <a data-href="2. Limit Points#^1146e3" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/2. Limit Points#^1146e3" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points &gt; ^1146e3</a><a data-href="2. Limit Points#^1146e3" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/2.-limit-points.html#^1146e3" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points &gt; ^1146e3</a> is  where 
+<br>Proof.<br>
+Zero is the limit of  as . And  is the limit of  as . Thus  are all limit points. We will show these are the only limit points. <br>Let . Then there is an  such that the interval  has no point of the form  (or 0).<br>Therefore, the sum , with least one of  or  less than , must be at a distance of at least  from . So the only such numbers in the interval  must have  and . So  and . Hence there are only a finite number of numbers of the form  in the interval . Thus  is not a limit point.<br>
+□<br>
+<a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
+If a sequence is bounded than the set of limit points of the sequence is also bounded<br>Definition ( limit Superior and Limit Inferior).
+For a bounded sequence  the  is called as the limit Inferior<br>
+For a bounded sequence  the  is called as the superior Inferior
+<br>Notation<br><br><br>Theorem.
+Let   be a real sequence then  
+<br><br>Proof.<br>
+ fix   such that   <br><br>Conversely<br>
+ consider <br><br>such that <br><br>Inductively we can find infinite values of  <br>if conversely  such that  is finite<br>
+fix   is infinite for <br>
+ is finite for   <br>
+<br>
+<br>
+ <br>Claim ( ).<br><br>this shows  <br><br>Theorem.
+Let  be a real sequence then  
+<br><br>conversely if  is finite and  is infinite for some  and all   then  is the liminf<br><br>Theorem.
+Let  be a bounded sequence of  Then Limsup of  is a limit point of  and if  is limt point of  then  
+<br>Theorem.
+Let   be a bounded real sequence of  then all the limit points of  lies in<br>
+
+<br>Theorem.
+ be a bounded set of real numbers then the set of limits points of  is bounded
+<br>Theorem.
+ be a bounded set of real numbers then  exist iff<br>
+
+<br>Definition (properly diverges).
+note the definition later
+]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/2.-limit-points.html</link><guid isPermaLink="false">real analyses/2. Limit Points.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 25 Sep 2024 17:51:23 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
+ <br>Suppose  are real numbers<br>
+what is <br>
+for <br>
+let  for  then  is called the partial sum<br>
+that is <br><br>Definition.
+suppose  is a sequence of real numbers<br>
+Then the series  is said to converge if the sequence of partial sums  converges<br>
+that is 
+<br>If the series doesn't converge It is meaningless<br><br><br><br>Here  converges therefore so is the series.<br>A series converges if and only if there exist an  such that for every , there exist  such that <br><br>In terms of <a data-href="1. Cauchy Criterion#^5cfca9" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/1. Cauchy Criterion#^5cfca9" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion &gt; ^5cfca9</a><a data-href="1. Cauchy Criterion#^5cfca9" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html#^5cfca9" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion &gt; Definition 1.2 (Cauchy Sequence)</a> <br>A series converges if and only if for every  there exist  such that<br><br><br>Theorem.
+For  with <br>
+
+<br>Proof.<br>
+For <br>
+ <br><br>using <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" target="_blank">Bernoulli's inequality</a> we can show  for  <br>□<br>Theorem.
+Suppose  is a convergent series of .<br>
+Then 
+<br>Proof.<br><br>using <a data-href="1. Cauchy Criterion" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-href="1. Cauchy Criterion" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a> for  such that<br><br>let  <br><br><br>□<br>
+Note the converse is not true example  does not converge we can show that  converges to infinite<br>Theorem.
+let  be sequence of <br>
+such that  and  then<br>
+
+<br>Proof.<br><br><br>Claim.
+
+<br>To prove Both converge to same value Hope Sir proves this]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 19 Sep 2024 17:06:50 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
+Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that at  if  such that 
+
+<br>Example 1.
+ some non-empty subset of   fix <br>
+ we can show  is continuous function  with the above definition
+<br>Example 2 (Identity Function).
+Suppose  is a non empty subset of  
+<br><br>Consider any <br>
+now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
+let <br>
+consider  defined by 
+<br>Consider <br>
+we need to estimate <br><br>Take  Then for <br><br>Example 4.
+let <br>
+show that  is continuous
+<br>Fix  <br><br>if  then <br>
+Take <br>
+Then for  then  <br>complete the excercise<br>Theorem.
+Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
+<br> Proof.<br>
+Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
+for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
+so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
+so for  take  then <br>
+such that <br><br>As  do not converge to <br>□<br>
+<a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Suppose  and   does that mean  converge?<br>
+No, let  and  <br>Definition (continuity at a point   version).
+Let A be a non empty subset of  let  be a function .<br>
+Fix  then  is said to be continuous at  if for every  such that
+<br><br><br>Definition.
+Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+ 
+<br>Corollary.
+suppose  is an isolated point in  . Then any function  is continuous at  
+<br><br>Definition (Continuity of function).
+Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Theorem.
+Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continus at .<br>
+then  is defined by <br>
+is also continuous at c
+<br>Proof.<br>
+for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
+so for this value of  both <a data-href="#^ba9cbb" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 09:35:11 GMT</pubDate></item><item><title><![CDATA[5.]]></title><description><![CDATA[<a class="tag" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
+ <br><a href="http://0.0.0.0:8000/Desktop/notes/notes/html_files?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
+Let A be a non-empty subset of  and let  suppose   are functions continuous at c
+
+<br>For  defined by m is continuous at   
+<br> defined by  is continuous at c
+<br>if  then  defined by  is continuous at c
+
+<br>Proof.<br>
+(using sequential version of continuity.)<br>
+<br>Take  we want to show that  is continous at .<br>
+suppose  is a sequence in A converging to  we wan tho show that   converges to 
+
+
+<br>\end{align}<br><br>\begin{align}<br>
+h(x{n} ) &amp; =f(x{n} )g(x{n} ) \<br>
+h(x{n} ) &amp; =f(c)g(c)  \text{ as } n\to \infty\<br>
+h(x_{n} ) &amp; =h(c)<br>
+\end{align}<br><br>\begin{align}<br>
+h(x{n} ) &amp; =\frac{f(x{n} )}{g(x{n} )} \<br>
+h(x{n} ) &amp; =\frac{f(c )}{g(c )} \text{ as } n\to \infty\<br>
+h(x_{n} ) &amp; =h(c)<br>
+\end{align}<br><br>\begin{align}<br>
+\left| f(x)-f(c) \right| &lt;\upvarepsilon  \ \forall \ x \in(c-\delta,c+\delta)\cap A<br>
+\end{align}<br><br>\begin{align}<br>
+\left| g(x)-g(c) \right| =|f(x)-f(c)|&lt;\upvarepsilon<br>
+\end{align}<br><br>\begin{align}<br>
+h(x{n})  &amp; =g\left( f\left( x{n}  \right)  \right)  \<br>
+h(x{n}) &amp;  =g\left( f\left( c\right)  \right)  \text{ as } n\to \infty\<br>
+h(x{n})  &amp; =g\left( f\left( c\right)  \right)  \<br>
+\end{align}<br>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/5..html</link><guid isPermaLink="false">5..md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 09:25:43 GMT</pubDate></item><item><title><![CDATA[All Quaries]]></title><description><![CDATA[ 
+ <br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: <br>conform the above stuff<br>how the second step happen<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: Please help me again<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: <br>For what value?<br>we have shown if it represents 0 then its d is square how to show the other way<br>why is there a 2<br>can we be sure of it? (,y) is not invertable<br>is this correct how to prove it<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: Hope Sir proves this<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: -<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -<br><a data-tooltip-position="top" aria-label="5..md" data-href="5..md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/5." class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5.</a><a data-tooltip-position="top" aria-label="5..md" data-href="5..md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/5..html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5.</a>: -<br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: Prove you dumb ass<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: complete it<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: note the definition later<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: complete the excercise<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -<br><a data-tooltip-position="top" aria-label="5..md" data-href="5..md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/5." class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5.</a><a data-tooltip-position="top" aria-label="5..md" data-href="5..md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/5..html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5.</a>: -]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/all-quaries.html</link><guid isPermaLink="false">All Quaries.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 08:19:22 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+ <br><br><br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a><br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a><br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a><br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a><br><br><br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a><br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a><br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a><br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a><br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a><br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a><br><br><br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a><br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a><br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a><br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a><br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a><br><br><br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a><br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a><br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a><br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="http://0.0.0.0:8000/Desktop/notes/notes/html_files/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a><br>Remark.
+You can use tags to search for the classes done on that day for example if you want to search all the notes on January 1st search tag:#1-jan  
+<br><br>]]></description><link>http://0.0.0.0:8000/Desktop/notes/notes/html_files/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 08:07:45 GMT</pubDate></item></channel></rss>
