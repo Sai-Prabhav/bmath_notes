@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/3. Convergences of Series.md",
-                "mode": "source",
+                "file": "number_theory/3. Binary.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/3. Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/3. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md"
+                "file": "number_theory/3. Binary.md"
               }
             }
           }
@@ -148,47 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "2524fbdd7b571397",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d1868b8dc7c4e5ae",
-        "type": "window",
-        "children": [
-          {
-            "id": "21524e210cd8adfc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7015617a4f01c6b5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "real analyses/4. Continuity of Functions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7015617a4f01c6b5",
+  "active": "393e549b8cfb5620",
   "lastOpenFiles": [
-    "number_theory/3. Binary.md",
+    "LICENSE",
     "real analyses/3. Convergences of Series.md",
+    "real analyses/4. Continuity of Functions.md",
+    "number_theory/3. Binary.md",
     "shortcuts.md",
     "Index.md",
     "website/number_theory/euler's-criterion.html",
@@ -203,7 +168,6 @@
     "website/linear-algebra",
     "All Quaries.md",
     "5..md",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
     "Probability/Poisson.md",
