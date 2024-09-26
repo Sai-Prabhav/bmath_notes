@@ -460,6 +460,8 @@ clear
 classes
 continous
 cant
+converts
+claim
 how
 hello
 hi
@@ -1815,6 +1817,8 @@ Ffs
 Function
 Fix
 Find
+Fundamental
+Finally
 Obsidian
 Ordering
 Oo
@@ -2193,6 +2197,7 @@ BJ
 Bx
 Basic
 Basically
+BQF
 Normal
 Nk
 Nb
@@ -2846,6 +2851,7 @@ favour
 flavor
 favor
 full
+fundamental
 rE
 ra
 ref
@@ -2934,6 +2940,7 @@ row
 rows
 relation
 restriction
+recall
 ID
 Iil
 Io
@@ -3297,6 +3304,7 @@ Dashes
 Delta
 Define
 DON
+Discriminant
 UxA
 UNP
 UQ
