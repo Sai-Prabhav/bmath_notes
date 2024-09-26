@@ -1,6 +1,6 @@
 {
   "remoteURL": "git@github.com:Sai-Prabhav/bmath_notes.git",
   "gitLocation": "",
-  "syncinterval": 10,
+  "syncinterval": 30,
   "isSyncOnLoad": true
 }

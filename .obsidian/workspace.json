@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+                "file": "linear algebra/3. Rank.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+                "file": "linear algebra/3. Rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+                "file": "linear algebra/3. Rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md"
+                "file": "linear algebra/3. Rank.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "19987f388dfa6a07",
   "lastOpenFiles": [
+    "linear algebra/2. Direct Sum.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "number_theory/3. Binary.md",
     "linear algebra/Problems.md",
     "LICENSE",
@@ -180,8 +182,6 @@
     "number_theory/2. Sum of Two Squares.md",
     "number_theory/1. Pigeonhole Principle.md",
     "linear algebra/3. Rank.md",
-    "linear algebra/2. Direct Sum.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "A Brief Intro To Game Math & Economy Design.md",
     "Probability/Untitled.md",
     "html_files/lib/media/favicon.png",
