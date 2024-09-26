@@ -89,6 +89,8 @@ thus
 tags
 things
 tho
+those
+type
 is
 italics
 its
@@ -462,6 +464,7 @@ continous
 cant
 converts
 claim
+click
 how
 hello
 hi
