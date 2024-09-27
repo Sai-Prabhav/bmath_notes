@@ -1,3 +1,4 @@
 \implies
 \And
 \arg
+\equiv
