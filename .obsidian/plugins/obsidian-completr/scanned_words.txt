@@ -249,6 +249,7 @@ nqFy
 natural
 net
 num
+never
 made
 make
 may
@@ -694,6 +695,7 @@ axis
 addplot
 available
 another
+aim
 bold
 bye
 bigest
@@ -939,6 +941,7 @@ liminf
 limt
 limits
 leave
+list
 small
 smaller
 same
@@ -1075,6 +1078,7 @@ span
 search
 shall
 sequential
+sense
 Proof
 PDF
 Producer
@@ -1549,6 +1553,7 @@ odot
 oplus
 otimes
 operator
+open
 Lesson
 Little
 Linux

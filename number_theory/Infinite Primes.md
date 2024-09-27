@@ -1,3 +1,6 @@
+
+The aim of this note is to try and make a list of all possible prove that $an+b$ has infinitely many primes type of question. This is an open note in the sense it is never complete 
+
 > [!theorem] Infinite Primes 
 > There are infinite Primes of the form $2k+1$ equivalently there are infinity many primes
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "647a1f4b2d537a12",
+        "id": "f175b2e4015eb8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "19987f388dfa6a07",
+            "id": "e205e1bf2b30f5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/3. Rank.md",
-                "mode": "preview",
+                "file": "number_theory/3. Binary.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "number_theory/3. Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "number_theory/3. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/3. Rank.md"
+                "file": "number_theory/3. Binary.md"
               }
             }
           }
@@ -148,16 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19987f388dfa6a07",
+  "active": "e205e1bf2b30f5ae",
   "lastOpenFiles": [
+    "Probability/2. Covariance.md",
+    "All Quaries.md",
+    "shortcuts.md",
+    "number_theory/3. Binary.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "number_theory/Infinite Primes.md",
+    "linear algebra/3. Rank.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "number_theory/3. Binary.md",
     "linear algebra/Problems.md",
     "LICENSE",
     "real analyses/3. Convergences of Series.md",
     "real analyses/4. Continuity of Functions.md",
-    "shortcuts.md",
     "Index.md",
     "website/number_theory/euler's-criterion.html",
     "website/number_theory/3.-binary.html",
@@ -168,20 +173,15 @@
     "website/linear-algebra/3.-rank.html",
     "website/linear-algebra/2.-direct-sum.html",
     "website/linear-algebra/1.-infinite-dimensional-vector-spaces.html",
-    "All Quaries.md",
     "5..md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
     "Probability/Poisson.md",
     "Probability/Exercise 4 Solutions.md",
-    "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Mid Sem Questions.md",
-    "number_theory/Infinite Primes.md",
     "number_theory/Euler's criterion.md",
-    "number_theory/2. Sum of Two Squares.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "linear algebra/3. Rank.md",
     "A Brief Intro To Game Math & Economy Design.md",
     "Probability/Untitled.md",
     "html_files/lib/media/favicon.png",
