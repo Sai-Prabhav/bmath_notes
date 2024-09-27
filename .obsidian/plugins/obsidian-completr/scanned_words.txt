@@ -91,6 +91,8 @@ things
 tho
 those
 type
+them
+through
 is
 italics
 its
@@ -467,6 +469,7 @@ converts
 claim
 click
 cab
+completely
 how
 hello
 hi
@@ -532,6 +535,8 @@ high
 height
 happen
 here
+happy
+hosted
 want
 will
 wZFn
@@ -601,6 +606,7 @@ width
 who
 wrt
 wan
+website
 am
 and
 any
@@ -696,6 +702,9 @@ addplot
 available
 another
 aim
+aware
+accurate
+access
 bold
 bye
 bigest
@@ -789,6 +798,7 @@ bound
 better
 belong
 bases
+bit
 great
 gather
 ggr
@@ -942,6 +952,7 @@ limt
 limits
 leave
 list
+licensed
 small
 smaller
 same
@@ -1079,6 +1090,10 @@ search
 shall
 sequential
 sense
+storing
+sharing
+solely
+slow
 Proof
 PDF
 Producer
@@ -1254,6 +1269,8 @@ person
 proportion
 pgfplots
 pgfplotsset
+please
+project
 Claim
 Creator
 Chrome
@@ -1481,6 +1498,10 @@ estimator
 excercise
 eabe
 equvalent
+export
+errors
+entire
+explore
 other
 one
 order
@@ -1624,6 +1645,8 @@ Locations
 Lagrange
 Limsup
 List
+License
+LICENSE
 Multiline
 Mozilla
 ModDate
@@ -1693,6 +1716,7 @@ McyKT
 Msh
 More
 Modify
+MIT
 Title
 Theorem
 TH
@@ -1945,6 +1969,7 @@ AxQ
 Advanced
 And
 Analyses
+Access
 KHTML
 Kg
 Kn
@@ -2048,6 +2073,7 @@ GF
 Gv
 Gamma
 GAMBLE
+GitHub
 Safari
 Skia
 SH
@@ -2133,6 +2159,7 @@ Sampling
 Sample
 Superior
 Show
+Since
 BM
 BVvvzK
 BH
@@ -2208,6 +2235,7 @@ Bx
 Basic
 Basically
 BQF
+Bmath
 Normal
 Nk
 Nb
@@ -2265,6 +2293,7 @@ NR
 NBZ
 Notation
 Next
+Notes
 ds
 dR
 dr
@@ -2364,6 +2393,8 @@ denote
 document
 diverges
 day
+don
+details
 xl
 xD
 xG
@@ -2522,6 +2553,7 @@ HK
 Hd
 Hint
 HN
+However
 VKDG
 VR
 Vn
@@ -2862,6 +2894,9 @@ flavor
 favor
 full
 fundamental
+frequently
+feel
+file
 rE
 ra
 ref
@@ -2951,6 +2986,9 @@ rows
 relation
 restriction
 recall
+repository
+recommend
+relying
 ID
 Iil
 Io
@@ -3371,6 +3409,7 @@ UX
 Us
 UT
 Upsilon
+Usage
 YL
 Yq
 Yd
@@ -3606,6 +3645,7 @@ upper
 usepackage
 unit
 use
+update
 Wi
 WO
 Widths
@@ -3659,3 +3699,5 @@ Wxu
 WU
 WN
 Wx
+Website
+What
