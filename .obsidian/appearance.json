@@ -1,6 +1,8 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "textFontFamily": "Liberation Serif",
-  "cssTheme": "Atom"
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "",
+  "baseFontSizeAction": true
 }
