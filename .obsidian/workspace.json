@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "number_theory/3. Binary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/2. Covariance.md",
+                "file": "number_theory/3. Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/2. Covariance.md",
+                "file": "number_theory/3. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/2. Covariance.md"
+                "file": "number_theory/3. Binary.md"
               }
             }
           }
@@ -160,51 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "f714b918de9d24b4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3bec4025df5ff735",
-        "type": "window",
-        "children": [
-          {
-            "id": "e90aed796dd16f5f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5fa8ccbef0d35bb0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Probability/2. Covariance.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5fa8ccbef0d35bb0",
+  "active": "e205e1bf2b30f5ae",
   "lastOpenFiles": [
+    "Probability/2. Covariance.md",
     "number_theory/Infinite Primes.md",
     "number_theory/3. Binary.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "README.md",
     "shortcuts.md",
-    "Probability/2. Covariance.md",
     "All Quaries.md",
     "number_theory/2. Sum of Two Squares.md",
     "linear algebra/3. Rank.md",
