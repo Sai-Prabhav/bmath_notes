@@ -1,7 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 26 Sep 2024 10:54:31 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 26 Sep 2024 10:54:31 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[ 
- <br><br><br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a><br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a><br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a><br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a><br><br><br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a><br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a><br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a><br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a><br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a><br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a><br><br><br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a><br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a><br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a><br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a><br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a><br><br><br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a><br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a><br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a><br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a><br>Remark.
-You can use tags to search for the classes done on that day for example if you want to search all the notes on January 1st search tag:#1-jan  
-<br><br>You can click on the tags to search all of those of that type <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 10:54:09 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 27 Sep 2024 10:29:41 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 27 Sep 2024 10:29:36 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -23,7 +20,262 @@ An infinite subset  of  is said to be a basis iff  and  is linearly independent
 <br><br>If  is the sequence <br>
 If  is the sequence Infinite<br>
 and so on<br>
- is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><br>Next: <a data-href="2. Direct Sum" href="https://sai-prabhav.github.io/bmath_notes/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-href="2. Direct Sum" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 15:03:14 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 13:41:40 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
+A binary quadratic form (bqf) is a polynomial of the form<br>
+ with <br>
+we may think of it as a function<br>
+<br>
+<br>
+In short we write  
+<br>We say that  is a primitive if <br>
+We say that  represents the integer  for some <br>
+We it represent primitively or properly if  and  <br>Remark.
+The same number can be represented primitively and non primitively
+<br>Definition ( Disc of Binary Quadratic Form).
+for  we define 
+<br><br>Proposition.
+Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
+i) then  represent 0   is a square<br>
+ii)  all non zero values represented by  are of the same sign
+<br>Proof.<br>
+Case I:  then<br><br>also <br><br>this proves i) for this case<br>
+for ii) <br>
+then <br>
+This shows that all values of  has the same sign of <br>
+Case II:  then,<br><br><br>Clearly,  is represented For what value?<br>
+let  <br><br>such that<br><br>which implies  is a square.we have shown if it represents 0 then its d is square how to show the other way<br>
+This proves i)<br>
+for ii) if  then clearly<br>
+ so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
+conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
+let  be a  <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>with .<br>
+Then for a given  there are at most a finite number of  such that 
+<br>Proof.<br>
+say  then<br><br>which show  has finitely many values<br>
+also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
+This is false for  example 
+<br> Say  then<br>
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
+<br> set of all <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>
+<br> set of all  Matrices
+<br> set of all  Invertable Matrices note the det here is 1 or -1
+<br> set of all  Matrices with determinant <br>
+Note:  and  are both groups and  is the sub group of 
+<br>let  and <br><br>Define the new <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
+Let  then
+
+<br>
+<br> 
+
+<br>Proof.<br>
+i) <br><br>ii) <br><br>□<br><br>Definition.
+let , <br>
+we say that  is equivalent to  if  st <br>
+we say  is properly equivalent to  if  st <br>
+Notation<br>
+ equivalent<br>
+ properly equivalent 
+<br>Definition (mat of Binary Quadratic Form).
+
+<br>Exercise.
+what is 
+<br>Hint:<br><br>why is there a 2<br>
+let  <br><br><br>Hence  <br>Theorem.
+let 
+
+<br>then 
+<br> and  represents the same set of integers the same number of times
+<br>  and  are either both primitive or both non-primitive
+
+<br>Proof.<br>
+say  with <br><br>ii) say <br>
+then <br><br>if <br><br>iii)<br><br>then  divides <br>
+since the set of the values of  and  are he same it follows that  divides <br>
+if  is primitive then  is the maximum value of  which implies   is primitive<br>
+if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
+let  and  then  represents  properly iff<br>
+<br>
+form some <br>
+moreover if  then   such that 
+<br>Proof.<br>
+suppose <br>
+say,  <br><br>then<br><br>since   is possible<br>
+so  properly represent <br>
+Now the other way<br>
+assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
+let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
+let  where is this correct how to prove it <br><br>Remark (principle forms of disc ).
+ can be  and they can be simply represented by<br>
+ if <br>
+ if <br>
+these are known as principal forms of disc  
+<br>Theorem (Lagrange).
+Let . The following are equivalent 
+
+<br> is a square 
+<br>there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>   of discriminant  which properly represents  
+
+<br>1 2<br>
+say  for some  <br>
+let  then  so  properly represents <br>
+2  1<br>
+let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.13</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.11</a><br>
+since <br>
+we get <br><br>hence  is a square mod <br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
+let  let  be a prime such that   Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
+<br> Proof.<br>
+We know that  represents  from <a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^f95cab</a><a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15 (Lagrange)</a><br>
+By Lagrange, there is a bqf  which properly represents . Then we know that  <br><br>for some  with  Now  converts <br>
+so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
+As above we may take <br><br>with <br>
+we need to prove that <br>
+since  have the same discriminant we have<br><br> why cant 4 divide one of it and the other be odd <br>if  then we are done    and   <br>
+so suppose  but  <br><br>so in any case <br>
+it follows that <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
+recall that  is a discriminant  <br>Definition (Fundamental Discriminant).
+We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive
+<br><br> is a fundamental discriminant for if  is of discriminant  and if  then  which implies .<br>
+ is a fundamental discriminant.<br>
+ is a fundamental discriminant.<br>
+as if  then  can be  if  is .<br>
+ has a disc of  we can we the second equation is also a discriminant hence it cant be equal to .<br>Proposition.
+let  be a discriminant. Then  is a fundamental discriminant if<br>
+i)  and  is square free<br>
+ii)  and  is square free and 
+<br>Proof.<br>
+Let  be a fundamental discriminant <br>Case I: <br>
+we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
+but then the above bqf is not primitive hence  should be square free<br>
+Case II: <br>If <br>
+ is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
+Finally we prove that is square free <br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:27-sep" class="tag" target="_blank" rel="noopener">#27-sep</a><br>Exercise.
+What are all the bqf of disc 0?
+<br>Suppose   has disc 0, say <br>case I: <br>
+then <br>
+hence <br>
+case II:  <br>
+then <br><br>there fore <br><br>for some  again <br><br>suppose <br>now let <br><br>is  (NO!)<br>
+as <br>
+and <br>
+hence if   and  are complete different.<br>
+hence there are infinitely many bqf of discriminant 0 which are in equivalent <br>Proposition.
+Let   with . Then up to proper equivalence there are only finitely many distinct  bqf of discriminant    
+<br>Proof.<br>
+Let  be of  hence  properly represents  and hence <br><br>write  with  then<br><br>so there are at most  distinct form up to proper equivalence<br>□<br>Lemma (Lagrange Reduction).
+Let  be a discriminant  and not a square<br>
+Then,  is properly equivalent to a form (a,  ,c) with <br>
+also, such a form  satisfying  
+<br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
+Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a>.<br><br><br>□<br>Theorem ( Lagrange).
+Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
+<br>Proof.<br>
+we know<br>
+ with <br><br>hence there are only finitely many possibilities for  and hence for  and  since<br><br>the possibilities for  is also finite<br>
+□<br>Definition.
+let  be a discriminant<br>
+ set of proper equivalence classes of bqf of <br>
+ set of proper equivalence classes of primitive bqf of disc  <br>
+we have (Disc of P ) this is know as the Class Number of    
+<br><br>
+<br>What is <br>
+Since  we assume <br>
+then note that <br>
+than <br>
+since 
+
+thus the only possibility is  hence .<br>
+Also  then
+
+since  we have  then
+
+also recall that if   primitively represents p<br>
+ . , if , then there exist  such that <br>
+Now, <br>
+Then every prime  can be written as a sum of square.
+<br>Theorem.
+let  then <br>
+Gauss conjecture that  for any other  
+<br>Conjecture (UNSOLVED).
+Are there infinitely many  ..  
+<br>Proof.<br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 10:20:58 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
+ <br>The aim of this note is to try and make a list of all possible prove that  has infinitely many primes type of question. This is an open note in the sense it is never complete <br>Theorem (Infinite Primes ).
+There are infinite Primes of the form  equivalently there are infinity many primes
+<br>Proof.<br>
+We can see this is a direct result of <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a>.<br>
+Let us assume there are finitely many primes with the larges prime being  where  represents  prime.<br>
+Lets define  such that<br><br>Claim 1.1.
+Let  be the smallest divisor of  and  is a prime
+<br>Lets prove this my contradiction if  is not a primes  such that  this contradicts the fact that  is smallest hence  is a prime.<br>
+ as none of <br>
+We assumed there are finitely many primes but now found a new prime which is not equal to any of the other prime this shows that our assumption is false and there infinitely many prime.<br>Note: Even though we said its a direct consequence of <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we haven't used it in our theorem but can be used to make a simpler Proof<br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+<a data-tooltip-position="top" aria-label="https://math.stackexchange.com/a/4663883/1299918" rel="noopener" class="external-link" href="https://math.stackexchange.com/a/4663883/1299918" target="_blank">Stack exchange proof</a> <br>Let  be primes of the form .<br>
+We prove that there are infinitely primes of form  by of contradiction by assuming that there are finitely many primes of form <br>
+Let .<br>
+Let  be a prime and .<br><br>this shows <br>
+Case I: <br><br>Case II: <br><br>This shows that q should be congruent to  in both cases<br>
+If  as  is prime but <br><br>This contradicts the fact  there for .<br>
+This contradicts the fact that there are finitely many primes of the form  <br> There are infinitely many primes of the form <br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+We prove this by contradiction lets assume there are finitely many primes of the form <br>
+let  be  prime of the form <br>
+Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
+Note: <br>
+All of  can't be of the form  as then the product  will also be of the form  so at least one of  be of the form  but that contradict the fact that  are the only primes of form .<br>
+ There are infinitely many primes of the form  <br>□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>Proof.<br>
+We prove this by contradiction lets assume there are finitely many primes of the form <br>
+let  be  prime of the form <br>
+Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
+Note: <br>
+All of  can't be of the form  as then the product  will also be of the form , so at least one of  must be of the form . But that contradict the fact that  are the only primes of form .<br>
+ There are infinitely many primes of the form <br>
+□<br>Theorem (Infinite primes of form ).
+There are infinitely many primes of form 
+<br>We prove this but contradiction, let assume that there are finitely many primes of the form .<br>
+Let  be the highest prime of form  .<br>
+let<br><br>Let  be a prime such that  then <br><br>From <a data-href="Fermat's Little Theorem" href="https://sai-prabhav.github.io/bmath_notes/Fermat's Little Theorem" class="internal-link" target="_self" rel="noopener">Fermat's Little Theorem</a>  <br><br>Note: <br>
+We have shown a new prime of form  which is greater than  this contradicts the fact that there are finitely many primes.<br>
+ We have shown that there are infinitely many primes of form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html</link><guid isPermaLink="false">number_theory/Infinite Primes.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 18:07:15 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
+The Covariance between  and  is 
+<br><br>Remark.
+If  is independent<br>
+The converse may not be true
+<br>Exercise.
+(i) <br>
+(ii) <br>
+(iii) <br>
+(iv) 
+<br>Proof.<br>
+(i)<br>
+(ii)<br>
+(iii)<br><br>(iv) let<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
+let  are random variable they are independent if 
+<br><br><br>Definition (identical Random Variable ).
+let  are random variable they are Identical if<br>
+
+<br><br>let  are independent and identically distributed random variable<br>
+let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
+Polulation of  people voting in election  is a candiditte for election
+<br>for each person  in population<br><br><br>Proportion in favor of <br>
+Take sample of size  from population.<br>
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 08:33:36 GMT</pubDate></item><item><title><![CDATA[📚 Bmath Notes]]></title><description><![CDATA[ 
+ <br><br>This repository is for storing and sharing the notes I’ve written. I will try to frequently export these notes to the website. However, please be aware that:<br>
+<br>⚠️ These notes may not always be complete or accurate.
+<br>🤔 I don't recommend relying solely on this repository.
+<br>If you find any errors, please let me know—I’ll be more than happy to update and correct them! 😊<br><br>The entire repository is completely free to use, so feel free to explore and learn! 🚀<br><br>You can access the notes through the website:<br><a data-tooltip-position="top" aria-label="https://sai-prabhav.github.io/bmath_notes/website/index" rel="noopener" class="external-link" href="https://sai-prabhav.github.io/bmath_notes/website/index" target="_blank">👉 Click here to visit the website</a>.<br>
+Note: Since it's hosted on GitHub, the website may be a bit slow. 🐢
+<br><br>This project is licensed under the MIT License. See the <a class="original-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/LICENSE" target="_blank" rel="noopener" style="display: none;">LICENSE</a><a class="internal-link mathLink-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/license" target="_self" rel="noopener">LICENSE</a> file for more details.]]></description><link>https://sai-prabhav.github.io/bmath_notes/readme.html</link><guid isPermaLink="false">README.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 11:21:40 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+ <br><br><br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a><br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a><br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a><br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a><br><br><br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a><br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a><br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a><br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a><br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a><br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a><br><br><br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a><br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a><br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a><br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a><br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a><br><br><br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a><br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a><br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a><br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a><br>Remark.
+You can use tags to search for the classes done on that day for example if you want to search all the notes on January 1st search tag:#1-jan  
+<br><br>You can click on the tags to search all of those of that type <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 10:54:09 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
  <br>Definition (Sum of Subspaces).
 Let  we a vector space<br>
 let  be subspaces of <br>
@@ -255,134 +507,7 @@ since  is square-free we have <br>
 since  ,  cannot divide both  and <br>
 <br>
 we can find  such that <br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:02:59 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
-A binary quadratic form (bqf) is a polynomial of the form<br>
- with <br>
-we may think of it as a function<br>
-<br>
-<br>
-In short we write  
-<br>We say that  is a primitive if <br>
-We say that  represents the integer  for some <br>
-We it represent primitively or properly if  and  <br>Remark.
-The same number can be represented primitively and non primitively
-<br>Definition ( Disc of Binary Quadratic Form).
-for  we define 
-<br><br>Proposition.
-Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
-i) then  represent 0   is a square<br>
-ii)  all non zero values represented by  are of the same sign
-<br>Proof.<br>
-Case I:  then<br><br>also <br><br>this proves i) for this case<br>
-for ii) <br>
-then <br>
-This shows that all values of  has the same sign of <br>
-Case II:  then,<br><br><br>Clearly,  is represented For what value?<br>
-let  <br><br>such that<br><br>which implies  is a square.we have shown if it represents 0 then its d is square how to show the other way<br>
-This proves i)<br>
-for ii) if  then clearly<br>
- so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
-conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
-let  be a  <a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a> with .<br>
-Then for a given  there are at most a finite number of  such that 
-<br>Proof.<br>
-say  then<br><br>which show  has finitely many values<br>
-also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
-This is false for  example 
-<br> Say  then<br>
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
-<br> set of all <a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a> 
-<br> set of all  Matrices
-<br> set of all  Invertable Matrices
-<br> set of all  Matrices with determinant <br>
-Note:  and  are both groups and  is the sub group of 
-<br>let  and <br><br>Define the new <a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
-Let  then
-
-<br>
-<br> 
-
-<br>Proof.<br>
-i) <br><br>ii) <br><br>□<br>--<br>Definition.
-let , <br>
-we say that  is equivalent to  if  st <br>
-we say  is properly equivalent to  if  st <br>
-Notation<br>
- equivalent<br>
- properly equivalent 
-<br>Definition (mat of Binary Quadratic Form).
-
-<br>Exercise.
-what is 
-<br>Hint:<br><br>why is there a 2<br>
-let  <br><br><br>Hence  can we be sure of it? (,y) is not invertable<br>Theorem.
-let 
-
-<br>then 
-<br> and  represents the same set of integers the same number of times
-<br>  and  are either both primitive or both non-primitive
-
-<br>Proof.<br>
-say  with <br><br>ii) say <br>
-then <br><br>if <br><br>iii)<br><br>then  divides <br>
-since the set of the values of  and  are he same it follows that  divides <br>
-if  is primitive then  is the maximum value of  which implies   is primitive<br>
-if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
-let  and  then  represents  properly iff<br>
-<br>
-form some <br>
-moreover if  then   such that 
-<br>Proof.<br>
-suppose <br>
-say,  <br><br>then<br><br>since  <br>
-so  properly represent <br>
-Now the other way<br>
-assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
-let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
-let  where is this correct how to prove it <br><br>Remark (principle forms of disc ).
- can be  and they can be simply represented by<br>
- if <br>
- if <br>
-these are known as principal forms of disc  
-<br>Theorem (Lagrange).
-Let . The following are equivalent 
-
-<br> is a square 
-<br>there is a <a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a>   of discriminant  which properly represents  
-
-<br>1 2<br>
-say  for some  <br>
-let  then  so  properly represents <br>
-2  1<br>
-let  be a <a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^ebdd1f</a><a data-href="3. Binary#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Definition 3.1 (Binary Quadratic Form)</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.13</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.11</a><br>
-since <br>
-we get <br><br>hence  is a square mod  <br>Corollary.
-let  let  be a prime such thta  Then there is a<a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ebdd1f</a><a data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Definition 3.1 (Binary Quadratic Form)</a>  of the disc  which properly represents  . This form is unique up to equivalence
-<br> Proof.<br>
-By Lagrange, there is a bqf  which properly represents . Then we know that <br><br>for some  with  Now  converts <br>
-so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
-As above we may take <br><br>with <br>
-we need to prove that <br>
-since  have the same discriminant we have<br><br>if  then we are done <br>
-so suppose  but  <br><br>so in any case <br>
-it follows that <br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
-recall that  is a discriminant  <br>We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive<br><br>5 is an fundamental discriminant  for if  is of discriminant 5 and if  then  which implies <br>
-4 is a fundamental discriminant<br>
-8 is a fundamental discriminant<br>
-as if  then  can be 1,2 if  is 2<br>
- has a disc of   we can we the second equation is also a discriminant hence it cant be equal to 2<br>Proposition.
-let  be a discriminant. Then  is a fundamental discriminant if<br>
-i)  and  is square free<br>
-ii)  and  is square free and 
-<br>Proof.<br>
-Let  be a fundamental discriminant <br>Case I: <br>
-we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
-but then the above bqf is not primitive hence  should be square free<br>
-Case II: <br>If <br>
- is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
-Finally we prove that is square free <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 10:42:49 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:02:59 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
  <br>Theorem (Euler's criterion).
 let  be and odd prime and 
 
@@ -392,49 +517,7 @@ which can be written as<br><br>Therefore either<br><br>or <br><br>Case one: ( is
 let  we a primitive root of  as  is a quadratic residue<br>
  for some <br><br>this proves that <br><br>Case two: ( is a quadratic non-residue)<br>
  for some  as  is a quadratic non-residue<br>lets assume<br><br><br>Which contradicts  is a primitive root of <br>
-Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html</link><guid isPermaLink="false">number_theory/Euler's criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
- <br>Theorem (Infinite Primes ).
-There are infinite Primes of the form  equivalently there are infinity many primes
-<br>Proof.<br>
-We can see this is a direct result of <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a>.<br>
-Let us assume there are finitely many primes with the larges prime being  where  represents  prime.<br>
-Lets define  such that<br><br>Claim 1.1.
-Let  be the smallest divisor of  and  is a prime
-<br>Lets prove this my contradiction if  is not a primes  such that  this contradicts the fact that  is smallest hence  is a prime.<br>
- as none of <br>
-We assumed there are finitely many primes but now found a new prime which is not equal to any of the other prime this shows that our assumption is false and there infinitely many prime.<br>Note: Even though we said its a direct consequence of <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we haven't used it in our theorem but can be used to make a simpler Proof<br>□<br>Theorem (Infinite primes of form ).
-There are infinitely many primes of form 
-<br>Proof.<br>
-<a data-tooltip-position="top" aria-label="https://math.stackexchange.com/a/4663883/1299918" rel="noopener" class="external-link" href="https://math.stackexchange.com/a/4663883/1299918" target="_blank">Stack exchange proof</a> <br>Let  be primes of the form .<br>
-We prove that there are infinitely primes of form  by of contradiction by assuming that there are finitely many primes of form <br>
-Let .<br>
-Let  be a prime and .<br><br>this shows <br>
-Case I: <br><br>Case II: <br><br>This shows that q should be congruent to  in both cases<br>
-If  as  is prime but <br><br>This contradicts the fact  there for .<br>
-This contradicts the fact that there are finitely many primes of the form  <br> There are infinitely many primes of the form <br>□<br>Theorem (Infinite primes of form ).
-There are infinitely many primes of form 
-<br>Proof.<br>
-We prove this by contradiction lets assume there are finitely many primes of the form <br>
-let  be  prime of the form <br>
-Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
-Note: <br>
-All of  can't be of the form  as then the product  will also be of the form  so at least one of  be of the form  but that contradict the fact that  are the only primes of form .<br>
- There are infinitely many primes of the form  <br>□<br>Theorem (Infinite primes of form ).
-There are infinitely many primes of form 
-<br>Proof.<br>
-We prove this by contradiction lets assume there are finitely many primes of the form <br>
-let  be  prime of the form <br>
-Let <br><br>using <a data-href="Fundamental Theorem of Arithmetic" href="https://sai-prabhav.github.io/bmath_notes/Fundamental Theorem of Arithmetic" class="internal-link" target="_self" rel="noopener">Fundamental Theorem of Arithmetic</a> we can write  as<br><br>where  are prime divisors of .<br>
-Note: <br>
-All of  can't be of the form  as then the product  will also be of the form , so at least one of  must be of the form . But that contradict the fact that  are the only primes of form .<br>
- There are infinitely many primes of the form <br>
-□<br>Theorem (Infinite primes of form ).
-There are infinitely many primes of form 
-<br>We prove this but contradiction, let assume that there are finitely many primes of the form .<br>
-Let  be the highest prime of form  .<br>
-let<br><br>Let  be a prime such that  then <br><br>From <a data-href="Fermat's Little Theorem" href="https://sai-prabhav.github.io/bmath_notes/Fermat's Little Theorem" class="internal-link" target="_self" rel="noopener">Fermat's Little Theorem</a>  <br><br>Note: <br>
-We have shown a new prime of form  which is greater than  this contradicts the fact that there are finitely many primes.<br>
- We have shown that there are infinitely many primes of form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html</link><guid isPermaLink="false">number_theory/Infinite Primes.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 21 Sep 2024 14:59:43 GMT</pubDate></item><item><title><![CDATA[Mid Sem Questions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
+Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html</link><guid isPermaLink="false">number_theory/Euler's criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Mid Sem Questions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
  <br>
 <br>let  be a prime what is the period of ?
 Claim.
@@ -496,31 +579,7 @@ show that
 <br><br>we saw earlier<br>
 <br><br>Theorem.
 If  and  are independent then
-<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
-The Covariance between  and  is 
-<br><br>Remark.
-If  is independent<br>
-The converse may not be true
-<br>Exercise.
-(i) <br>
-(ii) <br>
-(iii) <br>
-(iv) 
-<br>Proof.<br>
-(i)<br>
-(ii)<br>
-(iii)<br><br>(iv) let<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
-let  are random variable they are independent if 
-<br><br><br>Definition (identical Random Variable ).
-let  are random variable they are Identical if<br>
-
-<br><br>let  are independent and identically distributed random variable<br>
-let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
-Polulation of  people voting in election  is a candiditte for election
-<br>for each person  in population<br><br><br>Proportion in favor of <br>
-Take sample of size  from population.<br>
-Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>how the second step happen<br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 17:21:14 GMT</pubDate></item><item><title><![CDATA[1]]></title><description><![CDATA[ 
+<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[1]]></title><description><![CDATA[ 
  <br><br><br><br><br> The Variance of first  natural numbers is  <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html</link><guid isPermaLink="false">Probability/Exercise 4 Solutions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 22 Sep 2024 19:43:08 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
  <br>A discrete random variable  is said to have a Poisson distribution, with parameter  if it has a probability mass function given by:<br><br><br><br><br> <br><br>The Poisson distribution may be useful to model events such as:<br>
 <br>The number of meteorites greater than 1-meter diameter that strike Earth in a year;
@@ -728,721 +787,4 @@ then  defined by<br>
 <br>Proof.<br>
 suppose  is a sequence in A converging to .<br>
 We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 09:45:57 GMT</pubDate></item><item><title><![CDATA[All Quaries]]></title><description><![CDATA[ 
- <br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: <br>conform the above stuff<br>how the second step happen<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: Please help me again<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: <br>For what value?<br>we have shown if it represents 0 then its d is square how to show the other way<br>why is there a 2<br>can we be sure of it? (,y) is not invertable<br>is this correct how to prove it<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: Hope Sir proves this<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: -<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -<br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: Prove you dumb ass<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: complete it<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: note the definition later<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: complete the excercise<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -]]></description><link>https://sai-prabhav.github.io/bmath_notes/all-quaries.html</link><guid isPermaLink="false">All Quaries.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 08:19:22 GMT</pubDate></item><item><title><![CDATA[shortcuts]]></title><description><![CDATA[ 
- <br>[
-
-//theorems
-
-{ trigger: "axm", replacement: "&gt; [!axiom] $0\n&gt; $1", options: "t" },
-
-{ trigger: "def", replacement: "&gt; [!definition] $0\n&gt; $1", options: "t" },
-
-{ trigger: "lem", replacement: "&gt; [!lemma] $0\n&gt; $1", options: "t" },
-
-{ trigger: "prp", replacement: "&gt; [!proposition] $0\n&gt; $1", options: "t" },
-
-{ trigger: "thm", replacement: "&gt; [!theorem] $0\n&gt; $1", options: "t" },
-
-{ trigger: "cor", replacement: "&gt; [!corollary] $0\n&gt; $1", options: "t" },
-
-{ trigger: "clm", replacement: "&gt; [!claim] $0\n&gt; $1", options: "t" },
-
-{ trigger: "asm", replacement: "&gt; [!assumption] $0\n&gt; $1", options: "t" },
-
-{ trigger: "exm", replacement: "&gt; [!example] $0\n&gt; $1", options: "t" },
-
-{ trigger: "exr", replacement: "&gt; [!exercise] $0\n&gt; $1", options: "t" },
-
-{ trigger: "cnj", replacement: "&gt; [!conjecture] $0\n&gt; $1", options: "t" },
-
-{ trigger: "hyp", replacement: "&gt; [!hypothesis] $0\n&gt; $1", options: "t" },
-
-{ trigger: "rmk", replacement: "&gt; [!remark] $0\n&gt; $1", options: "t" },
-
-{ trigger: "axiom", replacement: "&gt; [!axiom] $0\n&gt; $1", options: "t" },
-
-{ trigger: "definition", replacement: "&gt; [!definition] $0\n&gt; $1", options: "t" },
-
-{ trigger: "lemma", replacement: "&gt; [!lemma] $0\n&gt; $1", options: "t" },
-
-{ trigger: "proposition", replacement: "&gt; [!proposition] $0\n&gt; $1", options: "t" },
-
-{ trigger: "theorem", replacement: "&gt; [!theorem] $0\n&gt; $1", options: "t" },
-
-{ trigger: "corollary", replacement: "&gt; [!corollary] $0\n&gt; $1", options: "t" },
-
-{ trigger: "claim", replacement: "&gt; [!claim] $0\n&gt; $1", options: "t" },
-
-{ trigger: "assumption", replacement: "&gt; [!assumption] $0\n&gt; $1", options: "t" },
-
-{ trigger: "example", replacement: "&gt; [!example] $0\n&gt; $1", options: "t" },
-
-{ trigger: "exercise", replacement: "&gt; [!exercise] $0\n&gt; $1", options: "t" },
-
-{ trigger: "conjecture", replacement: "&gt; [!conjecture] $0\n&gt; $1", options: "t" },
-
-{ trigger: "hypothesis", replacement: "&gt; [!hypothesis] $0\n&gt; $1", options: "t" },
-
-{ trigger: "remark", replacement: "&gt; [!remark] $0\n&gt; $1", options: "t" },
-
-// Math mode
-
-{trigger: "mk", replacement: "$$0$", options: "tA"},
-
-{trigger: "dm", replacement: "$$\n\\begin{align}\n$0\n\\end{align}\n$$", options: "tAw"},
-
-  
-
-// Greek letters
-
-{trigger: "@a", replacement: "\\alpha", options: "mA"},
-
-{trigger: "@b", replacement: "\\beta", options: "mA"},
-
-{trigger: "@g", replacement: "\\gamma", options: "mA"},
-
-{trigger: "@G", replacement: "\\Gamma", options: "mA"},
-
-{trigger: "@d", replacement: "\\delta", options: "mA"},
-
-{trigger: "@D", replacement: "\\Delta", options: "mA"},
-
-{trigger: "@e", replacement: "\\upvarepsilon", options: "mA"},
-
-{trigger: ":e", replacement: "\\epsilon", options: "mA"},
-
-{trigger: "@z", replacement: "\\zeta", options: "mA"},
-
-{trigger: "@t", replacement: "\\theta", options: "mA"},
-
-{trigger: "@T", replacement: "\\Theta", options: "mA"},
-
-{trigger: ":t", replacement: "\\vartheta", options: "mA"},
-
-{trigger: "@i", replacement: "\\iota", options: "mA"},
-
-{trigger: "@k", replacement: "\\kappa", options: "mA"},
-
-{trigger: "@l", replacement: "\\lambda", options: "mA"},
-
-{trigger: "@L", replacement: "\\Lambda", options: "mA"},
-
-{trigger: "@s", replacement: "\\sigma", options: "mA"},
-
-{trigger: "@S", replacement: "\\Sigma", options: "mA"},
-
-{trigger: "@u", replacement: "\\upsilon", options: "mA"},
-
-{trigger: "@U", replacement: "\\Upsilon", options: "mA"},
-
-{trigger: "@o", replacement: "\\omega", options: "mA"},
-
-{trigger: "@O", replacement: "\\Omega", options: "mA"},
-
-{trigger: "ome", replacement: "\\omega", options: "mA"},
-
-{trigger: "Ome", replacement: "\\Omega", options: "mA"},
-
-  
-
-// Text environment
-
-{trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
-
-{trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
-
-  
-
-// Basic operations
-
-{trigger: "sr", replacement: "^{2} ", options: "mA"},
-
-{trigger: "cb", replacement: "^{3} ", options: "mA"},
-
-{trigger: "^", replacement: "^{$0} $1", options: "mA"},
-
-{trigger: "_", replacement: "_{$0} $1", options: "mA"},
-
-{trigger: "sq", replacement: "\\sqrt{ $0 }$1", options: "mA"},
-
-{trigger: "//", replacement: "\\frac{$0}{$1}$2", options: "mA"},
-
-{trigger: "ee", replacement: "e^{ $0 }$1", options: "mA"},
-
-{trigger: "invs", replacement: "^{-1}", options: "mA"},
-
-{trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
-
-{trigger: /([^\\])(exp|log|ln)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
-
-{trigger: "conj", replacement: "^{*}", options: "mA"},
-
-{trigger: "Re", replacement: "\\mathrm{Re}", options: "mA"},
-
-{trigger: "Im", replacement: "\\mathrm{Im}", options: "mA"},
-
-{trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
-
-{trigger: "bb", replacement: "\\mathbb{$0}", options: "mA"},
-
-{trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
-
-{trigger: "var", replacement: "\\mathrm{Var} \\left[ ${0:X} \\right] $1", options: "mA"},
-
-{trigger: "Ex", replacement: "\\mathrm{E} \\left[ ${0:X} \\right] $1", options: "mA"},
-
-{trigger: "cov", replacement: "\\mathrm{ Cov} \\left( ${0:x},${1:y} \\right) $2", options: "mA"},
-
-  
-
-// Linear algebra
-
-{trigger: /([^\\])(det)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
-
-{trigger: "trace", replacement: "\\mathrm{Tr}", options: "mA"},
-
-  
-
-// More operations
-
-{trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z])bar", replacement: "\\bar{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: -1},
-
-{trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 1},
-
-{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
-
-{trigger: "([a-zA-Z])\\.,", replacement: "\\mathbf{[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}),\\.", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK})\\.,", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
-
-  
-
-{trigger: "hat", replacement: "\\hat{$0}$1", options: "mA"},
-
-{trigger: "bar", replacement: "\\bar{$0}$1", options: "mA"},
-
-{trigger: "dot", replacement: "\\dot{$0}$1", options: "mA", priority: -1},
-
-{trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA"},
-
-{trigger: "cdot", replacement: "\\cdot", options: "mA"},
-
-{trigger: "tilde", replacement: "\\tilde{$0}$1", options: "mA"},
-
-{trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
-
-{trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
-
-  
-
-// More auto letter subscript
-
-{trigger: /([A-Za-z])_(\d\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA"},
-
-{trigger: /\\hat{([A-Za-z])}(\d)/, replacement: "\\hat{[[0]]}_{[[1]]}", options: "rmA"},
-
-{trigger: /\\vec{([A-Za-z])}(\d)/, replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
-
-{trigger: /\\mathbf{([A-Za-z])}(\d)/, replacement: "\\mathbf{[[0]]}_{[[1]]}", options: "rmA"},
-
-  
-
-{trigger: "xnn", replacement: "x_{n}", options: "mA"},
-
-{trigger: "\\xii", replacement: "x_{i}", priority: 10, options: "mA"},
-
-{trigger: "\\xi nn", replacement: "x \\in", priority: 10, options: "mA"},
-
-{trigger: "xjj", replacement: "x_{j}", options: "mA"},
-
-{trigger: "xp1", replacement: "x_{n+1}", options: "mA"},
-
-{trigger: "ynn", replacement: "y_{n}", options: "mA"},
-
-{trigger: "yii", replacement: "y_{i}", options: "mA"},
-
-{trigger: "yjj", replacement: "y_{j}", options: "mA"},
-
-  
-
-// Symbols
-
-{trigger: "ooo", replacement: "\\infty", options: "mA"},
-
-{trigger: "sum", replacement: "\\sum_{${0:i}=${1:1}}^{${2:N}} $3", options: "mA"},
-
-{trigger: "pm", replacement: "\\pmod{${0:p}} $1", options: "mA"},
-
-  
-
-{trigger: "prod", replacement: "\\prod_{${0:i}=${1:1}}^{${2:N}} $3", options: "mA"},
-
-{trigger: "\\sum", replacement: "\\sum_{${0:i}=${1:1}}^{${2:N}} $3", options: "m"},
-
-{trigger: "\\prod", replacement: "\\prod_{${0:i}=${1:1}}^{${2:N}} $3", options: "m"},
-
-{trigger: "lim", replacement: "\\lim_{ ${0:n} \\to ${1:\\infty} } $2", options: "mA"},
-
-{trigger: "+-", replacement: "\\pm", options: "mA"},
-
-{trigger: "-+", replacement: "\\mp", options: "mA"},
-
-{trigger: "...", replacement: "\\dots", options: "mA"},
-
-{trigger: "nabl", replacement: "\\nabla", options: "mA"},
-
-{trigger: "del", replacement: "\\nabla", options: "mA"},
-
-{trigger: "xx", replacement: "\\times", options: "mA"},
-
-{trigger: "**", replacement: "\\cdot", options: "mA"},
-
-{trigger: "para", replacement: "\\parallel", options: "mA"},
-
-  
-
-{trigger: "===", replacement: "\\equiv", options: "mA"},
-
-{trigger: "!=", replacement: "\\neq", options: "mA"},
-
-{trigger: "&gt;=", replacement: "\\geq", options: "mA"},
-
-{trigger: "&lt;=", replacement: "\\leq", options: "mA"},
-
-{trigger: "&gt;&gt;", replacement: "\\gg", options: "mA"},
-
-{trigger: "&lt;&lt;", replacement: "\\ll", options: "mA"},
-
-{trigger: "simm", replacement: "\\sim", options: "mA"},
-
-{trigger: "sim=", replacement: "\\simeq", options: "mA"},
-
-{trigger: "prop", replacement: "\\propto", options: "mA"},
-
-  
-  
-
-{trigger: "&lt;-&gt;", replacement: "\\leftrightarrow ", options: "mA"},
-
-{trigger: "-&gt;", replacement: "\\to", options: "mA"},
-
-{trigger: "!&gt;", replacement: "\\mapsto", options: "mA"},
-
-{trigger: "=&gt;", replacement: "\\implies", options: "mA"},
-
-{trigger: "=&lt;", replacement: "\\impliedby", options: "mA"},
-
-  
-
-{trigger: "and", replacement: "\\cap", options: "mA"},
-
-{trigger: "band", replacement: "\\bigcap_{$0}^{$1}", options: "mA"},
-
-{trigger: "orr", replacement: "\\cup", options: "mA"},
-
-{trigger: "borr", replacement: "\\bigcup_{$0}^{$1}", options: "mA"},
-
-  
-
-{trigger: "inn", replacement: "\\in", options: "mA"},
-
-{trigger: "notin", replacement: "\\not\\in", options: "mA"},
-
-{trigger: "\\\\\\", replacement: "\\setminus", options: "mA"},
-
-{trigger: "sub=", replacement: "\\subseteq", options: "mA"},
-
-{trigger: "sup=", replacement: "\\supseteq", options: "mA"},
-
-{trigger: "eset", replacement: "\\phi", options: "mA"},
-
-{trigger: "set", replacement: "\\left\\{ $0 \\right\\}$1", options: "mA"},
-
-{trigger: "exi", replacement: "\\exists \\ ", options: "mA", priority: 10},
-
-  
-
-{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
-
-{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
-
-{trigger: "BB", replacement: "\\mathcal{B}", options: "mA"},
-
-{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
-
-{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
-
-{trigger: "+RR", replacement: "\\mathbb{R}^{+}", options: "mA"},
-
-{trigger: "-RR", replacement: "\\mathbb{R}^{-}", options: "mA"},
-
-{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
-
-{trigger: "+ZZ", replacement: "\\mathbb{Z}^{+}", options: "mA"},
-
-{trigger: "-ZZ", replacement: "\\mathbb{Z}^{-}", options: "mA"},
-
-{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
-
-  
-
-// Handle spaces and backslashes
-
-  
-
-// Snippet variables can be used as shortcuts when writing snippets.
-
-// For example, ${GREEK} below is shorthand for "alpha|beta|gamma|Gamma|delta|..."
-
-// You can edit snippet variables under the Advanced snippet settings section.
-
-  
-
-{trigger: "([^\\\\])(${GREEK})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before Greek letters"},
-
-{trigger: "([^\\\\])(${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before symbols"},
-
-  
-
-// Insert space after Greek letters and symbols
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}|${MORE_SYMBOLS})([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) sr", replacement: "\\[[0]]^{2} ", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) cb", replacement: "\\[[0]]^{3} ", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) rd", replacement: "\\[[0]]^{$0}$1", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) hat", replacement: "\\hat{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) dot", replacement: "\\dot{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) bar", replacement: "\\bar{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\vec{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) tilde", replacement: "\\tilde{\\[[0]]}", options: "rmA"},
-
-{trigger: "\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\underline{\\[[0]]}", options: "rmA"},
-
-  
-  
-
-// Derivatives and integrals
-
-{trigger: "par", replacement: "\\frac{ \\partial ${0:y} }{ \\partial ${1:x} } $2", options: "m"},
-
-{trigger: /pa([A-Za-z])([A-Za-z])/, replacement: "\\frac{ \\partial [[0]] }{ \\partial [[1]] } ", options: "rm"},
-
-{trigger: "ddt", replacement: "\\frac{d}{dt} ", options: "mA"},
-
-  
-
-{trigger: /([^\\])int/, replacement: "[[0]]\\int", options: "mA", priority: -1},
-
-{trigger: "\\int", replacement: "\\int $0 \\, d${1:x} $2", options: "m"},
-
-{trigger: "dint", replacement: "\\int_{${0:0}}^{${1:1}} $2 \\, d${3:x} $4", options: "mA"},
-
-{trigger: "oint", replacement: "\\oint", options: "mA"},
-
-{trigger: "iint", replacement: "\\iint", options: "mA"},
-
-{trigger: "iiint", replacement: "\\iiint", options: "mA"},
-
-{trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
-
-{trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
-
-  
-  
-
-// Trigonometry
-
-{trigger: /([^\\])(arcsin|sin|arccos|cos|arctan|tan|csc|sec|cot)/, replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before trig funcs"},
-
-  
-
-{trigger: /\\(arcsin|sin|arccos|cos|arctan|tan|csc|sec|cot)([A-Za-gi-z])/,
-
-replacement: "\\[[0]] [[1]]", options: "rmA",
-
-description: "Add space after trig funcs. Skips letter h to allow sinh, cosh, etc."},
-
-  
-
-{trigger: /\\(sinh|cosh|tanh|coth)([A-Za-z])/,
-
-replacement: "\\[[0]] [[1]]", options: "rmA",
-
-description: "Add space after hyperbolic trig funcs"},
-
-  
-  
-
-// Visual operations
-
-{trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
-
-{trigger: "O", replacement: "\\overbrace{ ${VISUAL} }^{ $0 }", options: "mA"},
-
-{trigger: "B", replacement: "\\underset{ $0 }{ ${VISUAL} }", options: "mA"},
-
-{trigger: "C", replacement: "\\cancel{ ${VISUAL} }", options: "mA"},
-
-{trigger: "K", replacement: "\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},
-
-{trigger: "S", replacement: "\\sqrt{ ${VISUAL} }", options: "mA"},
-
-  
-  
-
-// Quantum mechanics
-
-{trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
-
-{trigger: "o+", replacement: "\\oplus ", options: "mA"},
-
-{trigger: "ox", replacement: "\\otimes ", options: "mA"},
-
-  
-  
-
-// Environments
-
-{trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "MA"},
-
-{trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "MA"},
-
-{trigger: "Bmat", replacement: "\\begin{Bmatrix}\n$0\n\\end{Bmatrix}", options: "MA"},
-
-{trigger: "vmat", replacement: "\\begin{vmatrix}\n$0\n\\end{vmatrix}", options: "MA"},
-
-{trigger: "Vmat", replacement: "\\begin{Vmatrix}\n$0\n\\end{Vmatrix}", options: "MA"},
-
-{trigger: "matrix", replacement: "\\begin{matrix}\n$0\n\\end{matrix}", options: "MA"},
-
-  
-
-{trigger: "pmat", replacement: "\\begin{pmatrix}$0\\end{pmatrix}", options: "nA"},
-
-{trigger: "bmat", replacement: "\\begin{bmatrix}$0\\end{bmatrix}", options: "nA"},
-
-{trigger: "Bmat", replacement: "\\begin{Bmatrix}$0\\end{Bmatrix}", options: "nA"},
-
-{trigger: "vmat", replacement: "\\begin{vmatrix}$0\\end{vmatrix}", options: "nA"},
-
-{trigger: "Vmat", replacement: "\\begin{Vmatrix}$0\\end{Vmatrix}", options: "nA"},
-
-{trigger: "matrix", replacement: "\\begin{matrix}$0\\end{matrix}", options: "nA"},
-
-  
-
-{trigger: "cases", replacement: "\\begin{cases}\n$0\n\\end{cases}", options: "mA"},
-
-{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
-
-{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
-
-  
-  
-
-// Brackets
-
-{trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
-
-{trigger: "norm", replacement: "\\lvert $0 \\rvert $1", options: "mA", priority: 1},
-
-{trigger: "Norm", replacement: "\\lVert $0 \\rVert $1", options: "mA", priority: 1},
-
-{trigger: "ceil", replacement: "\\lceil $0 \\rceil $1", options: "mA"},
-
-{trigger: "floor", replacement: "\\lfloor $0 \\rfloor $1", options: "mA"},
-
-// {trigger: "mod", replacement: "|$0|$1", options: "mA"},
-
-{trigger: "(", replacement: "\\left(${VISUAL}\\right)", options: "mA"},
-
-{trigger: "[", replacement: "\\left[${VISUAL}\\right]", options: "mA"},
-
-{trigger: "{", replacement: "\\left\\{ ${VISUAL} \\right\\}", options: "mA"},
-
-{trigger: "|", replacement: "\\left|${VISUAL}\\right|", options: "mA"},
-
-{trigger: "(", replacement: "($0)$1", options: "mA"},
-
-{trigger: "{", replacement: "{$0}$1", options: "mA"},
-
-{trigger: "[", replacement: "[$0]$1", options: "mA"},
-
-{trigger: "lr(", replacement: "\\left( $0 \\right) $1", options: "mA"},
-
-{trigger: "lr{", replacement: "\\left\\{ $0 \\right\\} $1", options: "mA"},
-
-{trigger: "lr[", replacement: "\\left[ $0 \\right] $1", options: "mA"},
-
-{trigger: "lr|", replacement: "\\left| $0 \\right| $1", options: "mA"},
-
-{trigger: "lra", replacement: "\\left&lt; $0 \\right&gt; $1", options: "mA"},
-
-  
-  
-
-// Misc
-
-  
-
-// Automatically convert standalone letters in text to math (except a, A, I).
-
-// (Un-comment to enable)
-
-{trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
-
-  
-
-// Automatically convert Greek letters in text to math.
-
-{trigger: "(${GREEK})([\\n\\s.,?!:'])", replacement: "$\\[[0]]$[[1]]", options: "rtAw"},
-
-  
-
-// Automatically convert text of the form "x=2" and "x=n+1" to math.
-
-{trigger: /([A-Za-z]=[A-Za-z][+-]\d+)([\n\s.,?!:'])/, replacement: "$[[0]]$[[1]]", options: "tAw"},
-
-{trigger: /([A-Za-z]=[+-]?\d+)([\n\s.,?!:'])/, replacement: "$[[0]]$[[1]]", options: "rtAw"},
-
-{trigger: /([A-Za-z]=[+-]?[A-Za-z]+)([\n\s.,?!:'])/, replacement: "$[[0]]$[[1]]", options: "rtAw"},
-
-{trigger: /([A-Za-z]=[+-]?[\d]?[A-Za-z][+-]\d+)([\n\s.,?!:'])/, replacement: "$[[0]]$[[1]]", options: "tAw"},
-
-  
-  
-
-// Snippet replacements can also be JavaScript functions.
-
-// See the documentation for more information.
-
-{trigger: /iden(\d)/, replacement: (match) =&gt; {
-
-const n = match[1];
-
-  
-
-let arr = [];
-
-for (let j = 0; j &lt; n; j++) {
-
-arr[j] = [];
-
-for (let i = 0; i &lt; n; i++) {
-
-arr[j][i] = (i === j) ? 1 : 0;
-
-}
-
-}
-
-  
-
-let output = arr.map(el =&gt; el.join(" &amp; ")).join(" \\\\\n");
-
-output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
-
-return output;
-
-}, options: "mA", description: "N x N identity matrix"},
-
-  
-
-{trigger: /(\d)byb(\d)/, replacement: (match) =&gt; {
-
-const r = match[1];
-
-const c = match[2];
-
-let arr = [];
-
-  
-
-let num=0;
-
-for (let j = 0; j &lt; r; j++) {
-
-arr[j] = [];
-
-for (let i = 0; i &lt;c ; i++) {
-
-num=(((j)*c)+(i+1)+1);
-
-arr[j][i] = "${"+num+":0}";
-
-}
-
-}
-
-  
-
-let output = arr.map(el =&gt; el.join(" &amp; ")).join(" \\\\\n");
-
-output = `\\begin{\${0:b}matrix}\n${output}\n\\end{\${0:b}matrix} \${${num+1}: }`;
-
-return output;
-
-}, options: "mA", description: "N x N matrix"},
-
-// custom functions
-
-{trigger: "disc", replacement: "\\text{disc } ", options: "mA"},
-
-{trigger: "mat", replacement: "\\text{mat } ", options: "mA"},
-
-  
-
-// martices
-
-{trigger: "col2", replacement: "\\begin{${0:b}matrix}${1:x} \\\\ ${2:y}\\end{${0:b}matrix} $3", options: "mA"},
-
-{trigger: "col3", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0}\\end{${0:b}matrix} $4", options: "mA"},
-
-{trigger: "col4", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\end{${0:b}matrix} $5", options: "mA"},
-
-{trigger: "col5", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\\\ ${5:0}\\end{${0:b}matrix} $6", options: "mA"},
-
-{trigger: "col6", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\\\ ${5:0}\\\\ ${6:0}\\end{${0:b}matrix} $7", options: "mA"},
-
-{trigger: "2by1", replacement: "\\begin{${0:b}matrix}${1:x} \\\\ ${2:y}\\end{${0:b}matrix} $3", options: "mA"},
-
-{trigger: "3by1", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0}\\end{${0:b}matrix} $4", options: "mA"},
-
-{trigger: "4by1", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\end{${0:b}matrix} $5", options: "mA"},
-
-{trigger: "5by1", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\\\ ${5:0}\\end{${0:b}matrix} $6", options: "mA"},
-
-{trigger: "6by1", replacement: "\\begin{${0:b}matrix}${1:0} \\\\ ${2:0} \\\\ ${3:0} \\\\ ${4:0}\\\\ ${5:0}\\\\ ${6:0}\\end{${0:b}matrix} $7", options: "mA"},
-
-{trigger: "2by2", replacement: "\\begin{${0:b}matrix}${1:0} &amp; ${2:0} \\\\ ${3:0} &amp; ${4:0}\\end{${0:b}matrix} $5", options: "mA"},
-
-{trigger: "2by3", replacement: "\\begin{${0:b}matrix}${1:0} &amp; ${2:0} &amp; ${3:0}\\\\ ${4:0} &amp; ${5:0}&amp; ${6:0}\\end{${0:b}matrix} $7", options: "mA"},
-
-{trigger: "3by2", replacement: "\\begin{${0:b}matrix}${1:0} &amp; ${2:0} \\\\ ${3:0} &amp; ${4:0}\\\\ ${5:0} &amp; ${6:0}\\end{${0:b}matrix} $7", options: "mA"},
-
-{trigger: "3by3", replacement: "\\begin{${0:b}matrix}${1:0} &amp; ${2:0} &amp; ${3:0}\\\\ ${4:0} &amp; ${5:0}&amp; ${6:0}\\\\ ${7:0} &amp; ${8:0}&amp; ${9:0}\\end{${0:b}matrix} ${10: }", options: "mA"},
-
-  
-
-]
-Copy<br><br><br><br>\]]></description><link>https://sai-prabhav.github.io/bmath_notes/shortcuts.html</link><guid isPermaLink="false">shortcuts.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 25 Sep 2024 06:46:35 GMT</pubDate></item></channel></rss>
+ <br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: <br>conform the above stuff<br>how the second step happen<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: Please help me again<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: <br>For what value?<br>we have shown if it represents 0 then its d is square how to show the other way<br>why is there a 2<br>can we be sure of it? (,y) is not invertable<br>is this correct how to prove it<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: Hope Sir proves this<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: -<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -<br><br><br><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/All Quaries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Quaries</a><a data-tooltip-position="top" aria-label="All Quaries.md" data-href="All Quaries.md" href="https://sai-prabhav.github.io/bmath_notes/all-quaries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Quaries</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Probability/Untitled.md" data-href="Probability/Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/probability/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: Prove you dumb ass<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: complete it<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: note the definition later<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: complete the excercise<br><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">shortcuts</a><a data-tooltip-position="top" aria-label="shortcuts.md" data-href="shortcuts.md" href="https://sai-prabhav.github.io/bmath_notes/shortcuts.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">shortcuts</a>: -]]></description><link>https://sai-prabhav.github.io/bmath_notes/all-quaries.html</link><guid isPermaLink="false">All Quaries.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 08:19:22 GMT</pubDate></item></channel></rss>

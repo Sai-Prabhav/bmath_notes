@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "Probability/2. Covariance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "Probability/2. Covariance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/3. Binary.md"
+                "file": "Probability/2. Covariance.md"
               }
             }
           }
@@ -160,18 +160,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e205e1bf2b30f5ae",
+  "floating": {
+    "id": "f714b918de9d24b4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3bec4025df5ff735",
+        "type": "window",
+        "children": [
+          {
+            "id": "e90aed796dd16f5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5fa8ccbef0d35bb0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Probability/2. Covariance.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5fa8ccbef0d35bb0",
   "lastOpenFiles": [
-    "README.md",
+    "number_theory/Infinite Primes.md",
     "number_theory/3. Binary.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "README.md",
     "shortcuts.md",
     "Probability/2. Covariance.md",
     "All Quaries.md",
     "number_theory/2. Sum of Two Squares.md",
-    "number_theory/Infinite Primes.md",
     "linear algebra/3. Rank.md",
     "linear algebra/2. Direct Sum.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "linear algebra/Problems.md",
     "LICENSE",
     "real analyses/3. Convergences of Series.md",
