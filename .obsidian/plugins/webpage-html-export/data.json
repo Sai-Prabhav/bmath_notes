@@ -45,6 +45,15 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/home/greenflame/Desktop/final_note/website",
   "filesToExport": [
-    []
+    [
+      "linear algebra",
+      "number_theory",
+      "Probability",
+      "real analyses",
+      "All Quaries.md",
+      "Index.md",
+      "LICENSE",
+      "README.md"
+    ]
   ]
 }
