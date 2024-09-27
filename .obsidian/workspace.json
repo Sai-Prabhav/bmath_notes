@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -142,12 +142,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e205e1bf2b30f5ae",
+  "active": "d044461e9838f0f8",
   "lastOpenFiles": [
     "Probability/2. Covariance.md",
     "number_theory/Infinite Primes.md",
