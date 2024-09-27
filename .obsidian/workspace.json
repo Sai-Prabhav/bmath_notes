@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f175b2e4015eb8f3",
+        "id": "cddb65e087f226d2",
         "type": "tabs",
         "children": [
           {
@@ -15,18 +15,6 @@
               "state": {
                 "file": "number_theory/3. Binary.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8409ef5185d65c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -161,50 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "8124b6215201cd27",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e4c768626c850381",
-        "type": "window",
-        "children": [
-          {
-            "id": "7dc0a9d2e5c300c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "13cefe8d8aa6682e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "number_theory/3. Binary.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "13cefe8d8aa6682e",
+  "active": "e205e1bf2b30f5ae",
   "lastOpenFiles": [
     "number_theory/3. Binary.md",
+    "README.md",
     "Probability/2. Covariance.md",
     "number_theory/Infinite Primes.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "README.md",
     "shortcuts.md",
     "All Quaries.md",
     "number_theory/2. Sum of Two Squares.md",
