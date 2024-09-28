@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22c3fdbff37a2e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sainnik School.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "Sainnik School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "Sainnik School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/3. Binary.md"
+                "file": "Sainnik School.md"
               }
             }
           }
@@ -148,9 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e205e1bf2b30f5ae",
+  "active": "22c3fdbff37a2e50",
   "lastOpenFiles": [
     "number_theory/3. Binary.md",
+    "Sainnik School.md",
     "README.md",
     "Probability/2. Covariance.md",
     "number_theory/Infinite Primes.md",
@@ -190,7 +204,6 @@
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
     "html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
-    "number theory/4..md",
     "Untitled.canvas"
   ]
 }
