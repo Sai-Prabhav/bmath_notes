@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "Probability/Poisson.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "22c3fdbff37a2e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sainnik School.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sainnik School.md",
+                "file": "Probability/Poisson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sainnik School.md",
+                "file": "Probability/Poisson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sainnik School.md"
+                "file": "Probability/Poisson.md"
               }
             }
           }
@@ -161,12 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c3fdbff37a2e50",
+  "active": "e205e1bf2b30f5ae",
   "lastOpenFiles": [
-    "number_theory/3. Binary.md",
-    "Sainnik School.md",
-    "README.md",
+    "Probability/exercises_4.pdf",
+    "Probability/Untitled.md",
+    "Probability/Poisson.md",
+    "Probability/Exercise 4 Solutions.md",
     "Probability/2. Covariance.md",
+    "Sainnik School.md",
+    "number_theory/3. Binary.md",
+    "README.md",
     "number_theory/Infinite Primes.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "shortcuts.md",
@@ -187,18 +178,13 @@
     "website/linear-algebra/problems.html",
     "website/linear-algebra/3.-rank.html",
     "website/linear-algebra/2.-direct-sum.html",
-    "website/linear-algebra/1.-infinite-dimensional-vector-spaces.html",
     "5..md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
-    "Probability/Poisson.md",
-    "Probability/Exercise 4 Solutions.md",
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Mid Sem Questions.md",
     "number_theory/Euler's criterion.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "A Brief Intro To Game Math & Economy Design.md",
-    "Probability/Untitled.md",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
