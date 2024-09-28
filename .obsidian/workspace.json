@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "number_theory/3. Binary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
