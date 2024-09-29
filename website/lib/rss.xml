@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 27 Sep 2024 21:01:43 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 27 Sep 2024 21:01:41 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 29 Sep 2024 10:45:05 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 29 Sep 2024 10:45:02 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
@@ -6,9 +6,12 @@ we may think of it as a function<br>
 <br>
 <br>
 In short we write  
-<br>We say that  is a primitive if <br>
+<br><br>Definition (Primitive QBF).
+We say that  is a primitive if 
+<br>Definition (Represents and Primitively Represents ).
 We say that  represents the integer  for some <br>
-We it represent primitively or properly if  and  <br>Remark.
+We it represent primitively or properly if  and  
+<br>Remark.
 The same number can be represented primitively and non primitively
 <br>Definition ( Disc of Binary Quadratic Form).
 for  we define 
@@ -92,12 +95,12 @@ Let . The following are equivalent
 say  for some  <br>
 let  then  so  properly represents <br>
 2  1<br>
-let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.13</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.11</a><br>
+let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.15</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a><br>
 since <br>
 we get <br><br>Hence  is a square mod  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
 let  let  be a prime such that   Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
 <br> Proof.<br>
-from <a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^f95cab</a><a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15 (Lagrange)</a><br>
+from <a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^f95cab</a><a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.17 (Lagrange)</a><br>
 we know    of disc     properly represents    iff    then <br>So    represents  <br>
 By Lagrange, there is a bqf  which properly represents . Then we know that  <br><br>for some  with  Now  converts <br>
 so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
@@ -112,7 +115,7 @@ We say that a discriminant  is a Fundamental Discriminant if every bqf of discri
  is a fundamental discriminant.<br>
  is a fundamental discriminant.<br>
 as if  then  can be  if  is .<br>
- has a disc of  we can we the second equation is also a discriminant hence it cant be equal to .<br>Proposition.
+ has a disc of  The second equation is also a discriminant hence it cant be equal to .<br>Proposition.
 let  be a discriminant. Then  is a fundamental discriminant if<br>
 i)  and  is square free<br>
 ii)  and  is square free and 
@@ -140,11 +143,11 @@ Let  be a discriminant  and not a square<br>
 Then,  is properly equivalent to a form (a,  ,c) with <br>
 also, such a form  satisfying  
 <br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
-Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a>.<br><br><br>□<br>Theorem ( Lagrange).
+Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a>.<br><br><br>□<br>Theorem ( Lagrange).
 Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
 <br>Proof.<br>
 we know<br>
- with <br><br>hence there are only finitely many possibilities for  and hence for  and  since<br><br>the possibilities for  is also finite<br>
+ with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
 □<br>Definition.
 let  be a discriminant<br>
  set of proper equivalence classes of bqf of <br>
@@ -156,23 +159,27 @@ Since  we assume <br>
 then note that <br>
 than <br>
 since 
-
-thus the only possibility is  hence .<br>
-Also  then
-
-since  we have  then
-
-also recall that if   primitively represents p<br>
+<br><br>thus the only possibility is  hence .<br>
+Also  then<br><br>since  we have  then<br><br>also recall that if   primitively represents p<br>
  . , if , then there exist  such that <br>
 Now, <br>
-Then every prime  can be written as a sum of square.
-<br>Theorem.
+Then every prime  can be written as a sum of square.<br>Theorem.
 let  then <br>
 Gauss conjecture that  for any other  
 <br>Conjecture (UNSOLVED).
 Are there infinitely many  ..  
 <br>Proof.<br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 20:59:31 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 28 Sep 2024 08:25:02 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+ <br>Exercise 1.
+Let  be a uniform  random variable; that is  takes any of the  values with equal probability  . Find  and .
+<br><br><br><br> The Variance of first  natural numbers is  <br>Exercise 12.
+A group of 20 people consisting of 10 men and 10 women is randomly<br>
+arranged into 10 pairs of 2 each. Compute the expectation and variance of the number of<br>
+pairs that consist of a man and a woman. Now suppose the 20 people consist of 10 married<br>
+couples. Compute the mean and variance of the number of married couples that are paired<br>
+together.
+<br>Let  be the event that the  pair consist of a man and women.<br><br><br><br>Now let  be the event that  pair is a married couple<br>
+And lets redefine our indicator function and let  be the random variable number of married couples<br><br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html</link><guid isPermaLink="false">Probability/Exercise 4 Solutions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 10:44:40 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -564,15 +571,13 @@ let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Let
 Polulation of  people voting in election  is a candiditte for election
 <br>for each person  in population<br><br><br>Proportion in favor of <br>
 Take sample of size  from population.<br>
-Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 08:33:36 GMT</pubDate></item><item><title><![CDATA[1]]></title><description><![CDATA[ 
- <br><br><br><br><br> The Variance of first  natural numbers is  <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html</link><guid isPermaLink="false">Probability/Exercise 4 Solutions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 22 Sep 2024 19:43:08 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 08:33:36 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
  <br>A discrete random variable  is said to have a Poisson distribution, with parameter  if it has a probability mass function given by:<br><br><br><br><br> <br><br>The Poisson distribution may be useful to model events such as:<br>
 <br>The number of meteorites greater than 1-meter diameter that strike Earth in a year;
 <br>The number of laser photons hitting a detector in a particular time interval;
 <br>The number of students achieving a low and high mark in an exam; and
 <br>Locations of defects and dislocations in materials.
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/poisson.html</link><guid isPermaLink="false">Probability/Poisson.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 14:54:56 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
- ]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/untitled.html</link><guid isPermaLink="false">Probability/Untitled.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 05:49:02 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/poisson.html</link><guid isPermaLink="false">Probability/Poisson.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 14:54:56 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
  <br>Definition (Convergence sequence).
 A sequence  of real numbers is said to be converges to a real number  if for every , there exist  such that<br>
 
