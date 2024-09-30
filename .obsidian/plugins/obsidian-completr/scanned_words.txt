@@ -267,6 +267,7 @@ njcoj
 nE
 nxs
 ng
+newcommand
 made
 make
 may
@@ -1380,6 +1381,7 @@ prPe
 pair
 pairs
 paired
+pmod
 Claim
 Creator
 Chrome
@@ -1524,6 +1526,7 @@ Ej
 Eb
 EEVQS
 Eor
+Exp
 element
 elements
 exactly
@@ -1630,6 +1633,7 @@ eFE
 ehj
 eo
 expectation
+exercise
 other
 one
 order
@@ -2509,6 +2513,7 @@ Nn
 NV
 NE
 Nf
+NNP
 ds
 dR
 dr
@@ -2616,6 +2621,7 @@ dC
 dg
 dx
 dX
+def
 xl
 xD
 xG
@@ -2862,6 +2868,7 @@ VN
 Voj
 VO
 VxdWq
+Var
 yk
 yT
 yp
@@ -3607,6 +3614,7 @@ Rs
 RaN
 RDD
 Represents
+Res
 DW
 DSI
 DI
