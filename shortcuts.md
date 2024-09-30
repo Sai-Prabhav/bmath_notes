@@ -1,3 +1,22 @@
+$$
+   \newcommand{\Exp}[1][X]{\mathrm{E}\left[ #1 \right]} 
+   \newcommand{\Var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
+   \newcommand{\cov}[2]{\mathrm{Cov}\left[ #1,#2 \right]} 
+   \newcommand{\mod}[1][X]{\left| #1 \right|} 
+   \newcommand{\Res}[2][f]{\left. #1\right| _{#2}} 
+   \newcommand{\NN}{\mathbb{N }} 
+   \newcommand{\RR}{\mathbb{R }} 
+   \newcommand{\CC}{\mathbb{C }} 
+   \newcommand{\ZZ}{\mathbb{Z }} 
+   
+\begin{align}
+\cov{x}{y} \\
+\cov{X}{Y}  \\
+\cov{X0}{y}
+\end{align}
+$$
+
+
 ```
 [
 
@@ -721,16 +740,7 @@ return output;
 $$
 
 
-   \newcommand{\Exp}[1]{\mathrm{E}\left[ #1 \right]} 
-   \newcommand{\Var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
-   \newcommand{\cov}[2]{\mathrm{Cov}\left[ #1,#2 \right]} 
-   \newcommand{\mod}[1][X]{\left| #1 \right|} 
-   \newcommand{\Res}[2][f]{\left. #1\right| _{#2}} 
-   \newcommand{\NN}{\mathbb{N }} 
-   \newcommand{\RR}{\mathbb{R }} 
-   \newcommand{\CC}{\mathbb{C }} 
-   \newcommand{\ZZ}{\mathbb{Z }} 
-   
+
 \begin{align} \\
 \mod[2333333333] 
 \pmod{}  \\
@@ -782,5 +792,10 @@ $$
 \begin{align}
 \mathbb{N} \\ \\
 \NN
+\end{align}
+$$
+$$
+\begin{align}
+\det \\
 \end{align}
 $$
