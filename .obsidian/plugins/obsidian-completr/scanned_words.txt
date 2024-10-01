@@ -512,6 +512,7 @@ couples
 couple
 cov
 convetion
+condition
 how
 hello
 hi
@@ -1191,6 +1192,7 @@ sd
 sIv
 six
 solutions
+says
 Proof
 PDF
 Producer
@@ -1645,6 +1647,8 @@ ehj
 eo
 expectation
 exercise
+equality
+easy
 other
 one
 order
@@ -1724,6 +1728,7 @@ oN
 oA
 oCb
 over
+oct
 Lesson
 Little
 Linux
@@ -2033,6 +2038,7 @@ Fu
 Fia
 Fg
 FAz
+Factorization
 Obsidian
 Ordering
 Oo
@@ -2377,6 +2383,7 @@ SE
 SgH
 SC
 Sh
+Sylvester
 BM
 BVvvzK
 BH
@@ -3206,6 +3213,7 @@ fyp
 fSMU
 four
 field
+factorization
 rE
 ra
 ref
@@ -3377,6 +3385,7 @@ IJXz
 IO
 IFn
 IP
+Its
 qq
 qk
 qH
