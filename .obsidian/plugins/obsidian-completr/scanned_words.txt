@@ -517,6 +517,8 @@ convetion
 condition
 correlation
 coefficient
+conditional
+cumulative
 how
 hello
 hi
@@ -1198,6 +1200,7 @@ sIv
 six
 solutions
 says
+showing
 Proof
 PDF
 Producer
@@ -1480,6 +1483,9 @@ Compute
 Cov
 Corelation
 Coefficient
+Conditional
+Cumulative
+CDF
 Ever
 Every
 Environments

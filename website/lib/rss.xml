@@ -1,116 +1,150 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 30 Sep 2024 05:18:33 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 30 Sep 2024 05:18:31 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
-Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Oct 2024 08:34:53 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Oct 2024 08:34:47 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Rank of a matrix Let  be a  matrix,<br>
+column space of  is the subspace of  spanned by the columns of <br>
+if  are the columns of  and  is in  then,<br>
+column space of <br>so, column space of  is all  such that <br><br>has a solution.<br>In terms of liner transformation defined by the linear matrix <br>
+<br>
+<br>Column rank of  is the dimension of the column space of <br>
+Row rank of  is the dimension of the row space of  <br>Theorem.
+For a  matrix  the row rank is same as the column space  of  and is called the rank of  
+<br><br>Let  denote the rank of <br>
+Let us try to find an upper bound for  <br>Theorem.
+Let  and   be matrices with same number of rows<br>
+Then, column space   column space of  iff  for some matrix C
+<br> Let <br>
+Let  columns space of <br>
+Let  column space of <br>
+Conversely assume column space   column space of <br>
+In particular every column of  lies in the column space of  .<br>
+Which implies every column of  can be written as the linear combination of the columns of <br>
+So if  are the column vectors of  then there exist scalars <br>
+<br>
+Let  and <br>Theorem.
+Let  ,  be matrices with same number of columns then the row space of   row space of A iff  for a matrix <br>
+complete it
+<br>Definition (let   be a  matrix  is said to be of full column rank if ).
+ and is said to be full row rank is   
+<br>Lemma.
+if  have full column rank, then  has a left inverse, ie,  a  such that 
+<br> has a full column rank, the columns of  are linear independent  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a><br><br>Theorem.
+Let  be a  matrix. Then the following are equivalent<br>
+i)  has a right inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie,  is a full row rank<br>
+V) column space of A is 
+<br>Proof.<br>
+  ii<br>
+If  has a right inverse such that <br>
+if <br><br>ii) iii)<br>
+clear<br>
+iii) =&gt; iv)<br>let the rows of  be  <br><br><br>by iii) <br>
+ the rows are linear independent<br>
+iv)v)<br>
+<br>
+<br>
+column space of <br>
+But <br>
+<br>
+V)i)<br>Col space of A <br>
+let  be the unit vectors in <br>as columns space   each  is a linear combination of columns in :<br>
+so there exist scalars  such that <br><br>so, <br>
+ <br>Theorem.
+Let  be a  matrix. The following are equvalent<br>
+i)  has a left inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie, A has full column rank<br>
+row space of 
+<br>iii)iv)<br>
+let the columns be <br>
+let  be a linear relation<br><br>iii)  that is <br>iv)  V) <br><br>v) i)<br>
+As row space  each of the basis vectors  of  in a linear combination of the rows of A let the rows be . So, there exist scalars <br>
+Take  and <br>Theorem.
+Let  a square matrix of order A TFAE<br>
+i) A has a right inverse<br>
+ii)<br>
+iii) A has a left inverse<br>
+iv) A has an inverse
+<br>Theorem.
 
-<br>Example 1.
- some non-empty subset of   fix <br>
- we can show  is continuous function  with the above definition
-<br>Example 2 (Identity Function).
-Suppose  is a non empty subset of  
-<br><br>Consider any <br>
-now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
-let <br>
-consider  defined by 
-<br>Consider <br>
-we need to estimate <br><br>Take  Then for <br><br>Example 4.
-let <br>
-show that  is continuous
-<br>Fix  <br><br>if  then <br>
-Take <br>
-Then for  then  <br>complete the exercise<br>Theorem.
-Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
-<br> Proof.<br>
-Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
-for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
-so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
-so for  take  then <br>
-such that <br><br>As  do not converge to <br>□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Suppose  and   does that mean  converge?<br>
-No, let  and  <br>Definition (continuity at a point   version).
-Let A be a non empty subset of  let  be a function .<br>
-Fix  then  is said to be continuous at  if for every  such that
-<br><br><br>Definition.
-Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+<br>Proof.<br>
+by <a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^8cc1ad</a><a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.2</a> <br>
+also by <a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^72e467</a><a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.3</a> <br>
+thus <br>
+□<br>Corollary.
+ if  is of full column rank 
+<br>Proof.<br>
+ has a left inverse say  <br><br>ii)  if  is a full row rank<br>
+□<br>Exercise.
+A is a matrix of rank 1 iff  where  and  are column vectors 
+<br>Proof.<br>
+If  then rank  as  and  as <br>Conversely let <br>
+That is, the dimension of column space <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a><br>Let  denote the column space<br>
+ denote row space<br>
+ denote the null space of A<br>Theorem.
+Let    be an  matrix over    and    be a subspace of     is a field let   <br>
+Let    be null space of      then    is a subspace of  and<br>
+Then  
+<br>Proof.<br>
+<br>
+<br>
+<a data-href="Rank Nullity" href="https://sai-prabhav.github.io/bmath_notes/Rank Nullity" class="internal-link" target="_self" rel="noopener">Rank Nullity</a> for  says that <br>
+□<br>Theorem.
+If  is defined, then<br>
  
-<br>Corollary.
-suppose  is an isolated point in  . Then any function  is continuous at  
-<br><br>Definition (Continuity of function).
-Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Proof.<br>
+<br><br>□<br>Theorem (Sylvester's inequality).
+Let  be matrices of order   and  ,<br>
+then  <br>
+the equality holds iff  
+<br>Proof.<br><br>□<br><br>Definition (Rank Factorization of Matrix).
+Let  be a  matrix of rank    .  Rank factorization of  is a pair of matrices  where    is  of order  and  is of order , such that  
 <br>Theorem.
-Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
-then  is defined by <br>
-is also continuous at c
+Let     is  and  be  then  also, TFAE<br>
+i)k=r(A),   ,   (  ,Q) is a rank factorization<br>
+ii)  ie,    is a full column matrix and    is a full row matrix<br>
+iii) columns of    form a basis <br>
+iv) rows of    form a basis of 
 <br>Proof.<br>
-for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
-so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
-Let A be a non-empty subset of  and let  suppose   are functions continuous at c
-
-<br>For  defined by m is continuous at   
-<br> defined by  is continuous at c
-<br>if  then  defined by  is continuous at c
-
-<br>Proof.<br>
-(using sequential version of continuity.)<br>
-<br>Take  we want to show that  is continuous at  .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to 
-<br><br>
 <br>
-Take  we want to show that  is continuous at .<br>
-suppose  is a sequence in A converging to  we wan tho show that  converges to 
-
-
+not to prove the equivalence of condition i to iv<br>    ii<br>
+let  <br>
 <br>
-Take  we want to show that  is continuous at .<br>
-Suppose  is a sequence in A converging to  we wan tho show that   converges to  and  for all  in  then
-
-□
-
-<br>Example.
-Suppose  then the polynomial   defined by  is continuous
-<br>If you can't prove it leave ISI<br>Theorem.
-Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
+<br> ii iii<br>
+  is a full column rank matrix ie, columns of     are linearly independent<br>
+  is a full row rank matrix ie,    has right inverse say, .<br>
+<br>
+we need to show <br>
+Its easy to see that <br>
+if <br>
+<br>
+as  columns of  is linearly independent columns of    form basis of    <br>iii  i) easy<br>complete this by showing ii=&gt;iv and iv&lt;=ii<br>
+□<br>Corollary.
+If  is a rank factorization of A then<br>
+i) <br>
+ii) <br>
+iii) 
+<br>Proof.<br>If <br>
+if <br>
+□<br>Theorem.
+Let A    be of the same order then<br>
+<br>
+equality holds iff  and  
 <br>Proof.<br>
-for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
- is known as the restriction of  to  and is denoted by  
-<br>Corollary.
-If  is a non-empty subset of  and   is a polynomial then  is continuous<br>
-suppose  is another polynomial, with <br>
-then  defined by<br>
- is continuous  
-<br>Theorem.
-Let A  be non empty subset of <br>
-suppose  and  be functions<br>
-Assume  suppose for some   is continuous at   is continuous at <br>
-then  defined by<br>
- is continuous at 
-<br>Proof.<br>
-suppose  is a sequence in A converging to .<br>
-We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 18:11:37 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
- <br>Suppose  are real numbers<br>
-what is <br>
-for <br>
-let  for  then  is called the partial sum<br>
-that is <br><br>Definition.
-suppose  is a sequence of real numbers<br>
-Then the series  is said to converge if the sequence of partial sums  converges<br>
-that is 
-<br>If the series doesn't converge It is meaningless<br><br><br><br>Here  converges therefore so is the series.<br>A series converges if and only if there exist an  such that for every , there exist  such that <br><br>In terms of <a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion#^5cfca9" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion &gt; ^5cfca9</a><a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html#^5cfca9" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion &gt; Definition 1.2 (Cauchy Sequence)</a> <br>A series converges if and only if for every  there exist  such that<br><br><br>Theorem.
-For  with <br>
-
-<br>Proof.<br>
-For <br>
- <br><br>using <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" target="_blank">Bernoulli's inequality</a> we can show  for  <br>□<br>Theorem.
-Suppose  is a convergent series of .<br>
-Then 
-<br>Proof.<br><br>using <a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a> for  such that<br><br>let  <br><br><br>□<br>
-Note the converse is not true example  does not converge we can show that  converges to infinite<br>Theorem.
-let  be sequence of <br>
-such that  and  then<br>
-
-<br>Proof.<br><br><br>Claim.
-
-<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 17:45:46 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> 
+<br>
+So the column space of  is a subspace of the sum of the column space of A and column space of    <br><br>suppose equality holds then <br><br>As equality holds <br><br>conversely, let  and <br>
+let  and <br>
+if  we are done<br>
+so lets assume  <br>
+let  be a rank factorization of  and  that of B<br>then <br>
+if  and <br>
+then <br>
+<br>
+also columns of  and  are linearly independent<br>
+columns of    are linearly independent from ()<br>
+so  is a rank factorization of  and <br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 01 Oct 2024 05:31:46 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
@@ -281,7 +315,250 @@ Gauss conjecture that  for any other
 <br>Conjecture (UNSOLVED).
 Are there infinitely many  ..  
 <br>Proof.<br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 28 Sep 2024 08:25:02 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:30-sep" class="tag" target="_blank" rel="noopener">#30-sep</a><br>Remark.
+ set of proper equivalence classes of primitive bqf of discriminant    with convetion that bqf are assumed to be positive if    ,  . for  with  we always assume 
+<br><br>
+<br>From now on we shall assume that our bqf are of negative discriminant with positive values. That is  with 
+<br>Definition ( Gaussian Reduction).
+A bqf  with  is said to be Reduced if either<br>
+  or m 
+<br>Lemma.
+Let  be reduced bqf of discriminant   then  is the smallest value of <br>
+i) There are exactly 2 primitive vectors    .  .  namely  and exactly two primitive vectors    .  .  namely   unless  , in which case there are four vector's    .  .  namely <br>
+ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
+<br>Proof.<br>
+Let  then for any  <br><br>Now at  say  first<br>
+then <br>
+now <br>
+indeed  in all other cases its grater than  <br>
+Hence <br><br>similarly for  <br>
+prove it<br>then   unless ( ) or ( and  )<br>
+or<br>
+  unless  or( and  )<br>□<br>Theorem.
+Let<br>
+<br>
+<br>
+be reduced bqf of the same discriminant with  then   
+<br>Proof.<br>
+ with  with  since  they have the same set of values so in particular their smallest values are equal <br>
+case I: <br>
+in this case  with exactly 2 primitive solution namely  hence,  , also has exactly 2 solutions. now,<br>
+ where <br>
+hence,<br><br>there fore    .   , <br>
+which implies <br><br>let <br>
+also <br>
+than <br>
+now  and  have exactly two solutions each namely  <br><br>now let  <br>
+ ,  . <br><br>since  is reduced we have  <br><br>adding    and <br>
+<br>
+Case II:  in this case<br>
+  has exactly four solution, namely <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 30 Sep 2024 10:35:37 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
+The Covariance between  and  is 
+<br><br>Remark.
+If  is independent<br>
+The converse may not be true
+<br>Exercise.
+(i) <br>
+(ii) <br>
+(iii) <br>
+(iv) 
+<br>Proof.<br>
+(i)<br>
+(ii)<br>
+(iii)<br><br>(iv) let<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
+let  are random variable they are independent if 
+<br><br><br>Definition (identical Random Variable ).
+let  are random variable they are Identical if<br>
+
+<br><br>let  are independent and identically distributed random variable<br>
+let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
+Polulation of  people voting in election  is a candiditte for election
+<br>for each person  in population<br><br><br>Proportion in favor of <br>
+Take sample of size  from population.<br>
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br><br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 01 Oct 2024 05:48:04 GMT</pubDate></item><item><title><![CDATA[3. Corelation Coefficient]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Corelation Coefficient).
+The correlation coefficient between    and Y
+<br><br>Lemma.
+
+<br>let  standard deviation of    <br><br>similarly<br><br>Remark.
+Say  with Probability 1<br>
+if 
+<br>Remark.
+Recall for discrete Random variable, we need to focus on values that RV takes<br>
+that is  with  for all 
+<br><br> is measure of linear relation between    and  <br>
+if  high degree of linearity<br>
+ say   ,   is uncorrelated <br><br>
+<br>
+
+
+
+<br>\end{align}<br><br>\begin{align}<br>
+\bar{X} &amp; =\frac{1}{n}\left( X{1}+X{2}\dots+X{n}  \right)  \<br>
+\mathrm{Var} \left[ X{1} \right]  &amp; =\sigma^{2}<br>
+\end{align}<br><br>\begin{align}<br>
+\cov{X{i}-\bar{X} }{\bar{X}}  &amp; =\cov{X{i} }{\bar{X}} -\mathrm{Var} \left[ \bar{X} \right]  \<br>
+&amp; = \cov{X{i} }{\frac{X{1}+X{2}\dots X{n}}{n} }  - \cov{\frac{X{1}+X{2}\dots X{n}}{n}}{\frac{X{1}+X{2}\dots X{n}}{n}}  \<br>
+&amp; = \frac{1}{n}\left[ \sum{i=1}^{n} \cov{X{1}}{X_{i} }  \right] -\frac{1}{n^{2} }\sum{i,j=1}^{n} \cov{X{i} }{X{j} }  \<br>
+&amp; =\frac{1}{n}\left[ \mathrm{Var} \left[ X{1}   \right]  +\cancelto{ 0 }{ \sum{i=2}^{n} \cov{X{1 \<br>
+} }{X{i} }  }\right] -\frac{1}{n^{2} }\left[ \sum{i=1}^{n} \cov{X{i} }{X{i} } + \cancelto{ 0 }{ \sum{i\neq j}^{}  \cov{X{i} }{X{j} } } \right] \<br>
+&amp; =\frac{1}{n}\mathrm{Var} \left[ X{1} \right] -\frac{1}{n^{2} }n\mathrm{Var} \left[ X_{1}  \right]   \<br>
+&amp; =0<br>
+\end{align}<br><br>\begin{align}<br>
+N_{i}=\left{ 1,\dots, r \right} \text{ # of trail resulting in outcome } i<br>
+\end{align}<br><br>\begin{align}<br>
+P(N{1}=n{1}\dots,N{r}=n{r}  )= \frac{m!}{n{1}!n{2}!\dots n{r} !} p{1}^{n{1}} p{2}^{n{2}}\dots p{r}^{n_{r} }<br>
+\end{align}<br><br>\begin{align}<br>
+\cov{N{i} }{N{j} } =E(N{i}N{j}  )- \Exp[N_{i} ]\Exp[Nj]<br>
+\end{align}<br><br>\begin{align}<br>
+N{i} &amp; =\sum{k=1}^{m} I{i} (k)   \<br>
+I{i}(K) &amp; =\begin{cases}<br>
+1 \quad\text{if } k^{th} \text{ trial results in } i  \<br>
+0 \quad \text{otherwise}<br>
+\end{cases}  \<br>
+\cov{N{i} }{N{j} }=\sum{k=1}^{m} \sum{l=1}^{m} \cov{I{i}(k) }{I{i}(l) }<br>
+\end{align}<br><br>\begin{align}<br>
+\cov{I{i}(k) }{I{j}(k) }  &amp; =\cancelto{ 0 }{ \Exp[I{i}(k)I{j}(k)  ] }-\Exp[I_{i}(k) ] \Exp[I_{j}(k) ]   \<br>
+I{i}(k) &amp; \sim \text{Ber} (P{i} ) \<br>
+\therefore \cov{I{i}(k) }{I{j} (K)}  &amp; =-p{i}p{j}   \<br>
+\cov{I{i}(k) }{I{j}(l) } &amp; =\cancelto{ P{i}P{j}   }{ \Exp[I{i}(k)I{i}(l)  ] } -\cancelto{ p{i}  }{ \Exp[I{i}(k) ] }\cancelto{ p{j}  }{ \Exp[I{j}(l) ] }   \<br>
+&amp; =0<br>
+\end{align}<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 01 Oct 2024 07:04:05 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
+  ,   discrete RV the conditional pmf of    given <br>
+ only when 
+<br>Remark.
+ 
+<br><br><br>Definition ( Conditional Cumulative Distribution function ).
+  ,   discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
+of    given   
+<br><br>If  ,  are independent<br><br><br>
+<br>If pmf of    and  <br>
+$$<br>
+\begin{align}<br>
+p(0,0) &amp; =0.4 \<br>
+p(0,1) &amp; =0.2 \<br>
+p(1,0) &amp; =0.1 \<br>
+p(1,1) &amp; =0.3 \
+<br>\end{align}<br><br>\begin{align}<br>
+P(X=K|X+Y=n) &amp; =\frac{P(X=K,X+Y=n)}{P(X+Y=n)} \ \<br> &amp; =\frac{\cfrac{e^{ -\lambda{1} } \lambda{1} ^{k} }{k!} \cfrac{e^{ -\lambda{2} } \lambda{2} ^{n-k} }{(n-k)!} }{\cfrac{e^{ -(\lambda{1}+ \lambda_2)} (\lambda{1}+\lambda{2}) ^{n} }{n!} } \<br>
+&amp; =  \binom{n }{k}\left( \frac{\lambda{1}}{\lambda{1}+\lambda{2}  }  \right)^{k}\left( \frac{\lambda{2}}{\lambda{1}+\lambda_{2}  }  \right)^{n-k}<br>
+\end{align}<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 01 Oct 2024 08:33:34 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
+Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
+
+<br>Example 1.
+ some non-empty subset of   fix <br>
+ we can show  is continuous function  with the above definition
+<br>Example 2 (Identity Function).
+Suppose  is a non empty subset of  
+<br><br>Consider any <br>
+now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
+let <br>
+consider  defined by 
+<br>Consider <br>
+we need to estimate <br><br>Take  Then for <br><br>Example 4.
+let <br>
+show that  is continuous
+<br>Fix  <br><br>if  then <br>
+Take <br>
+Then for  then  <br>complete the exercise<br>Theorem.
+Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
+<br> Proof.<br>
+Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
+for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
+so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
+so for  take  then <br>
+such that <br><br>As  do not converge to <br>□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Suppose  and   does that mean  converge?<br>
+No, let  and  <br>Definition (continuity at a point   version).
+Let A be a non empty subset of  let  be a function .<br>
+Fix  then  is said to be continuous at  if for every  such that
+<br><br><br>Definition.
+Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+ 
+<br>Corollary.
+suppose  is an isolated point in  . Then any function  is continuous at  
+<br><br>Definition (Continuity of function).
+Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Theorem.
+Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
+then  is defined by <br>
+is also continuous at c
+<br>Proof.<br>
+for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
+so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
+Let A be a non-empty subset of  and let  suppose   are functions continuous at c
+
+<br>For  defined by m is continuous at   
+<br> defined by  is continuous at c
+<br>if  then  defined by  is continuous at c
+
+<br>Proof.<br>
+(using sequential version of continuity.)<br>
+<br>Take  we want to show that  is continuous at  .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to 
+<br><br>
+<br>
+Take  we want to show that  is continuous at .<br>
+suppose  is a sequence in A converging to  we wan tho show that  converges to 
+
+
+<br>
+Take  we want to show that  is continuous at .<br>
+Suppose  is a sequence in A converging to  we wan tho show that   converges to  and  for all  in  then
+
+□
+
+<br>Example.
+Suppose  then the polynomial   defined by  is continuous
+<br>If you can't prove it leave ISI<br>Theorem.
+Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
+<br>Proof.<br>
+for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
+ is known as the restriction of  to  and is denoted by  
+<br>Corollary.
+If  is a non-empty subset of  and   is a polynomial then  is continuous<br>
+suppose  is another polynomial, with <br>
+then  defined by<br>
+ is continuous  
+<br>Theorem.
+Let A  be non empty subset of <br>
+suppose  and  be functions<br>
+Assume  suppose for some   is continuous at   is continuous at <br>
+then  defined by<br>
+ is continuous at 
+<br>Proof.<br>
+suppose  is a sequence in A converging to .<br>
+We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 18:11:37 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
+ <br>Suppose  are real numbers<br>
+what is <br>
+for <br>
+let  for  then  is called the partial sum<br>
+that is <br><br>Definition.
+suppose  is a sequence of real numbers<br>
+Then the series  is said to converge if the sequence of partial sums  converges<br>
+that is 
+<br>If the series doesn't converge It is meaningless<br><br><br><br>Here  converges therefore so is the series.<br>A series converges if and only if there exist an  such that for every , there exist  such that <br><br>In terms of <a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion#^5cfca9" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion &gt; ^5cfca9</a><a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html#^5cfca9" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion &gt; Definition 1.2 (Cauchy Sequence)</a> <br>A series converges if and only if for every  there exist  such that<br><br><br>Theorem.
+For  with <br>
+
+<br>Proof.<br>
+For <br>
+ <br><br>using <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" target="_blank">Bernoulli's inequality</a> we can show  for  <br>□<br>Theorem.
+Suppose  is a convergent series of .<br>
+Then 
+<br>Proof.<br><br>using <a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a> for  such that<br><br>let  <br><br><br>□<br>
+Note the converse is not true example  does not converge we can show that  converges to infinite<br>Theorem.
+let  be sequence of <br>
+such that  and  then<br>
+
+<br>Proof.<br><br><br>Claim.
+
+<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 17:45:46 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
  <br>Exercise 1.
 Let  be a uniform  random variable; that is  takes any of the  values with equal probability  . Find  and .
 <br><br><br><br> The Variance of first  natural numbers is  <br>Exercise 12.
@@ -378,90 +655,7 @@ v)
 In the vector space  find two diffrent compliment of  where  is  
 <br>first lets find the basis of W<br><br>we assign arbitrary variable for non pivotal columns <br><br>
 <br>
-Basis of  is<br><br>we can see that  and  are to different basis of compliment]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html</link><guid isPermaLink="false">linear algebra/2. Direct Sum.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 12:58:52 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Rank of a matrix Let  be a  matrix,<br>
-column space of  is the subspace of  spanned by the columns of <br>
-if  are the columns of  and  is in  then,<br>
-column space of <br>so, column space of  is all  such that <br><br>has a solution.<br>In terms of liner transformation defined by the linear matrix <br>
-<br>
-<br>Column rank of  is the dimension of the column space of <br>
-Row rank of  is the dimension of the row space of  <br>Theorem.
-For a  matrix  the row rank is same as the column space  of  and is called the rank of  
-<br><br>Let  denote the rank of <br>
-Let us try to find an upper bound for  <br>Theorem.
-Let  and   be matrices with same number of rows<br>
-Then, column space   column space of  iff  for some matrix C
-<br> Let <br>
-Let  columns space of <br>
-Let  column space of <br>
-Conversely assume column space   column space of <br>
-In particular every column of  lies in the column space of  .<br>
-Which implies every column of  can be written as the linear combination of the columns of <br>
-So if  are the column vectors of  then there exist scalars <br>
-<br>
-Let  and <br>Theorem.
-Let  ,  be matrices with same number of columns then the row space of   row space of A iff  for a matrix <br>
-complete it
-<br>Definition (let   be a  matrix  is said to be of full column rank if ).
- and is said to be full row rank is   
-<br>Lemma.
-if  have full column rank, then  has a left inverse, ie,  a  such that 
-<br> has a full column rank, the columns of  are linear independent  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a><br><br>Theorem.
-Let  be a  matrix. Then the following are equivalent<br>
-i)  has a right inverse<br>
-ii) <br>
-iii) <br>
-iv)  ie,  is a full row rank<br>
-V) column space of A is 
-<br>Proof.<br>
-  ii<br>
-If  has a right inverse such that <br>
-if <br><br>ii) iii)<br>
-clear<br>
-iii) =&gt; iv)<br>let the rows of  be  <br><br><br>by iii) <br>
- the rows are linear independent<br>
-iv)v)<br>
-<br>
-<br>
-column space of <br>
-But <br>
-<br>
-V)i)<br>Col space of A <br>
-let  be the unit vectors in <br>as columns space   each  is a linear combination of columns in :<br>
-so there exist scalars  such that <br><br>so, <br>
- <br>Theorem.
-Let  be a  matrix. The following are equvalent<br>
-i)  has a left inverse<br>
-ii) <br>
-iii) <br>
-iv)  ie, A has full column rank<br>
-row space of 
-<br>iii)iv)<br>
-let the columns be <br>
-let  be a linear relation<br><br>iii)  that is <br>iv)  V) <br><br>v) i)<br>
-As row space  each of the basis vectors  of  in a linear combination of the rows of A let the rows be . So, there exist scalars <br>
-Take  and <br>Theorem.
-Let  a square matrix of order A TFAE<br>
-i) A has a right inverse<br>
-ii)<br>
-iii) A has a left inverse<br>
-iv) A has an inverse
-<br>Theorem.
-
-<br>Proof.<br>
-by <a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^8cc1ad</a><a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.2</a> <br>
-also by <a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^72e467</a><a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.3</a> <br>
-thus <br>
-□<br>Corollary.
- if  is of full column rank 
-<br>Proof.<br>
- has a left inverse say  <br><br>ii)  if  is a full row rank<br>
-□<br>Exercise.
-A is a matrix of rank 1 iff  where  and  are column vectors 
-<br>Proof.<br>
-If  then rank  as  and  as <br>Conversely let <br>
-That is, the dimension of column space <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 05:42:10 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+Basis of  is<br><br>we can see that  and  are to different basis of compliment]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html</link><guid isPermaLink="false">linear algebra/2. Direct Sum.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 24 Sep 2024 12:58:52 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
 <br>
 Let  be the linear transformation 
@@ -659,31 +853,7 @@ show that
 <br><br>we saw earlier<br>
 <br><br>Theorem.
 If  and  are independent then
-<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
-The Covariance between  and  is 
-<br><br>Remark.
-If  is independent<br>
-The converse may not be true
-<br>Exercise.
-(i) <br>
-(ii) <br>
-(iii) <br>
-(iv) 
-<br>Proof.<br>
-(i)<br>
-(ii)<br>
-(iii)<br><br>(iv) let<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
-let  are random variable they are independent if 
-<br><br><br>Definition (identical Random Variable ).
-let  are random variable they are Identical if<br>
-
-<br><br>let  are independent and identically distributed random variable<br>
-let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
-Polulation of  people voting in election  is a candiditte for election
-<br>for each person  in population<br><br><br>Proportion in favor of <br>
-Take sample of size  from population.<br>
-Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 27 Sep 2024 08:33:36 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
+<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[Poisson]]></title><description><![CDATA[ 
  <br>A discrete random variable  is said to have a Poisson distribution, with parameter  if it has a probability mass function given by:<br><br><br><br><br> <br><br>The Poisson distribution may be useful to model events such as:<br>
 <br>The number of meteorites greater than 1-meter diameter that strike Earth in a year;
 <br>The number of laser photons hitting a detector in a particular time interval;
