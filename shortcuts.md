@@ -109,6 +109,7 @@ $$
 {trigger: ":t", replacement: "\\vartheta", options: "mA"},
 
 {trigger: "@i", replacement: "\\iota", options: "mA"},
+{trigger: "@r", replacement: "\\rho", options: "mA"},
 
 {trigger: "@k", replacement: "\\kappa", options: "mA"},
 

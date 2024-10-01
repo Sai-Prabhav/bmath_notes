@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "Probability/2. Covariance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3fc2f146c2d3952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Corelation Coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "3. Corelation Coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "3. Corelation Coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/3. Rank.md"
+                "file": "3. Corelation Coefficient.md"
               }
             }
           }
@@ -161,15 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35be76dd3011713d",
+  "active": "c3fc2f146c2d3952",
   "lastOpenFiles": [
     "shortcuts.md",
+    "3. Corelation Coefficient.md",
+    "Probability/2. Covariance.md",
     "linear algebra/3. Rank.md",
     "linear algebra/2. Direct Sum.md",
     "number_theory/3. Binary.md",
     "Probability/exercises_4.pdf",
     "real analyses/4. Continuity of Functions.md",
-    "Probability/2. Covariance.md",
     "real analyses/2. Limit Points.md",
     "Index.md",
     "real analyses/3. Convergences of Series.md",

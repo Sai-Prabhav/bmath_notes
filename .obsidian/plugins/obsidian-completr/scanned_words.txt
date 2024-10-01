@@ -513,6 +513,8 @@ couple
 cov
 convetion
 condition
+correlation
+coefficient
 how
 hello
 hi
@@ -1473,6 +1475,8 @@ CX
 Ci
 Compute
 Cov
+Corelation
+Coefficient
 Ever
 Every
 Environments
