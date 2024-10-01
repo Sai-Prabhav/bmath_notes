@@ -99,6 +99,7 @@ tnR
 together
 takes
 their
+trials
 is
 italics
 its
@@ -371,6 +372,7 @@ mt
 man
 men
 married
+measure
 check
 cool
 co
@@ -1044,6 +1046,7 @@ lR
 lEW
 lN
 lb
+linearity
 small
 smaller
 same
@@ -2646,6 +2649,8 @@ dg
 dx
 dX
 def
+deviation
+degree
 xl
 xD
 xG
@@ -3218,6 +3223,7 @@ fSMU
 four
 field
 factorization
+focus
 rE
 ra
 ref
@@ -3390,6 +3396,7 @@ IO
 IFn
 IP
 Its
+IID
 qq
 qk
 qH
@@ -3645,6 +3652,7 @@ RDD
 Represents
 Res
 Reduced
+Recall
 DW
 DSI
 DI
@@ -4044,6 +4052,7 @@ use
 update
 uniform
 unless
+uncorrelated
 Wi
 WO
 Widths
