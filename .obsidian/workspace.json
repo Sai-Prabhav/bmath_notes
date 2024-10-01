@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/3. Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/3. Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/3. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md"
+                "file": "number_theory/3. Binary.md"
               }
             }
           }
@@ -149,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5df166a36f7e812",
+  "active": "434c53ba65ebef92",
   "lastOpenFiles": [
-    "real analyses/Untitled.md",
     "real analyses/4. Continuity of Functions.md",
+    "real analyses/Untitled.md",
     "Probability/4. Conditional distribution.md",
     "All Quaries.md",
     "question.md",
