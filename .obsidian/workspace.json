@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "405c463026d79e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "real analyses/4. Continuity of Functions.md"
               }
             }
           }
@@ -161,24 +149,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "405c463026d79e48",
+  "active": "e5df166a36f7e812",
   "lastOpenFiles": [
+    "real analyses/Untitled.md",
+    "real analyses/4. Continuity of Functions.md",
     "Probability/4. Conditional distribution.md",
+    "All Quaries.md",
+    "question.md",
+    "Index.md",
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "number_theory/3. Binary.md",
     "linear algebra/3. Rank.md",
-    "Index.md",
-    "real analyses/4. Continuity of Functions.md",
     "shortcuts.md",
     "linear algebra/2. Direct Sum.md",
     "Probability/exercises_4.pdf",
     "real analyses/2. Limit Points.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/1. Cauchy Criterion.md",
-    "question.md",
     "Probability/Exercise 4 Solutions.md",
     "Probability/Poisson.md",
     "Probability/Untitled.md",
@@ -186,7 +176,6 @@
     "README.md",
     "number_theory/Infinite Primes.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "All Quaries.md",
     "number_theory/2. Sum of Two Squares.md",
     "linear algebra/Problems.md",
     "LICENSE",

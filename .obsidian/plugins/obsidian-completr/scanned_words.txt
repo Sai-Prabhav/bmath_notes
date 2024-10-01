@@ -197,6 +197,7 @@ iLv
 izRbAP
 indicator
 indeed
+infimum
 note
 notes
 number
@@ -373,6 +374,7 @@ man
 men
 married
 measure
+minimum
 check
 cool
 co
@@ -777,6 +779,8 @@ ag
 ak
 aO
 arranged
+attained
+attains
 bold
 bye
 bigest
@@ -1201,6 +1205,8 @@ six
 solutions
 says
 showing
+supreimum
+supremum
 Proof
 PDF
 Producer
