@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea8848e1d9a81e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/3. Binary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "434c53ba65ebef92",
+  "active": "ea8848e1d9a81e25",
   "lastOpenFiles": [
     "real analyses/4. Continuity of Functions.md",
     "real analyses/Untitled.md",
