@@ -11,6 +11,15 @@ If you find any errors, please let me know—I’ll be more than happy to update
 
 The entire repository is completely free to use, so feel free to explore and learn! 🚀
 
+### 💡 Collaboration
+
+If you're interested in helping correct these notes or want to collaborate to make them better, feel free to:
+
+- 📧 **Email me:** [saiprabhav.ss@gmail.com](mailto:saiprabhav.ss@gmail.com)
+- 📱 **WhatsApp me** (if you have my number).
+
+Additionally, if you'd like to set up an **Obsidian** environment for note-taking or need help with **learning LaTeX**, I'd be happy to assist you in getting started! ✨
+
 ### 🔗 Link to Website
 
 You can access the notes through the website:
