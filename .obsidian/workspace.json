@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6bec164e066b6c34",
+        "id": "af3bd5540a9fd710",
         "type": "tabs",
         "children": [
           {
-            "id": "17974e46197416e9",
+            "id": "81f609ead9260f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/3. Rank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e456006afb419a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "510822fd7d105d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "real analyses/2. Limit Points.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "real analyses/2. Limit Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "real analyses/2. Limit Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "real analyses/2. Limit Points.md"
               }
             }
           }
@@ -173,45 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "510822fd7d105d18",
+  "active": "81f609ead9260f3b",
   "lastOpenFiles": [
-    "shortcuts.md",
+    "Probability/4. Conditional distribution.md",
+    "Custom Commands.md",
+    "snippet/old_snippet.md",
+    "snippet/my_snippet.js",
+    "snippet/my_snippet.md",
+    "Index.md",
+    "Probability/3. Corelation Coefficient.md",
+    "Probability/2. Covariance.md",
+    "Probability/1. Multinomial Distribution.md",
+    "number_theory/Euler's criterion.md",
+    "number_theory/3. Binary.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "number_theory/1. Pigeonhole Principle.md",
+    "linear algebra/3. Rank.md",
+    "linear algebra/2. Direct Sum.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "question.md",
+    "snippet/old_snippet.js",
+    "Untitled.canvas",
     "Untitled.md",
     "snippet",
-    "linear algebra/3. Rank.md",
-    "Probability/3. Corelation Coefficient.md",
-    "Untitled.canvas",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "number_theory/3. Binary.md",
     "real analyses/4. Continuity of Functions.md",
     "real analyses/Untitled.md",
-    "Probability/4. Conditional distribution.md",
     "All Quaries.md",
-    "question.md",
-    "Index.md",
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
-    "Probability/2. Covariance.md",
-    "linear algebra/2. Direct Sum.md",
     "Probability/exercises_4.pdf",
     "real analyses/2. Limit Points.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/1. Cauchy Criterion.md",
     "Probability/Exercise 4 Solutions.md",
     "Probability/Poisson.md",
-    "Probability/Untitled.md",
-    "Sainnik School.md",
-    "README.md",
-    "number_theory/Infinite Primes.md",
-    "number_theory/2. Sum of Two Squares.md",
-    "linear algebra/Problems.md",
     "LICENSE",
     "website/number_theory/euler's-criterion.html",
     "website/number_theory/3.-binary.html",
     "website/number_theory/2.-sum-of-two-squares.html",
-    "website/number_theory/1.-pigeonhole-principle.html",
-    "website/number_theory",
-    "5..md",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
