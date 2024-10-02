@@ -8,30 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c946db4e5415d16",
+            "id": "46e7a8429ba8df98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1ab95978f04a5085",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/3. Corelation Coefficient.md",
+                "file": "real analyses/2. Limit Points.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "45e4c7fb050a96ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/2. Covariance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/3. Corelation Coefficient.md",
+                "file": "Probability/4. Conditional distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/3. Corelation Coefficient.md",
+                "file": "Probability/4. Conditional distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/3. Corelation Coefficient.md"
+                "file": "Probability/4. Conditional distribution.md"
               }
             }
           }
@@ -160,15 +163,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c946db4e5415d16",
+  "floating": {
+    "id": "c19a8eadd12da4df",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6c8d86c06df3e24e",
+        "type": "window",
+        "children": [
+          {
+            "id": "252ef4b0bd859217",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d23b788d6d5d2b1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Probability/4. Conditional distribution.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d23b788d6d5d2b1b",
   "lastOpenFiles": [
-    "Probability/2. Covariance.md",
     "Probability/3. Corelation Coefficient.md",
+    "Probability/2. Covariance.md",
+    "real analyses/2. Limit Points.md",
     "Custom Commands.md",
+    "Probability/4. Conditional distribution.md",
+    "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
+    "All Quaries.md",
     "snippet/my_snippet.md",
     "snippet/my_snippet.jmd",
-    "Probability/4. Conditional distribution.md",
-    "real analyses/2. Limit Points.md",
     "real analyses/4. Continuity of Functions.md",
     "number_theory/3. Binary.md",
     "linear algebra/3. Rank.md",
@@ -187,7 +229,6 @@
     "Untitled.md",
     "snippet",
     "real analyses/Untitled.md",
-    "All Quaries.md",
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
     "Probability/exercises_4.pdf",
@@ -197,7 +238,6 @@
     "Probability/Poisson.md",
     "LICENSE",
     "website/number_theory/euler's-criterion.html",
-    "website/number_theory/3.-binary.html",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",

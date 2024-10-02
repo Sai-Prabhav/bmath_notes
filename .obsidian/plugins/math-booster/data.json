@@ -32,7 +32,8 @@
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
       "insertSpace": true
-    }
+    },
+    "Custom Commands.md": {}
   },
   "extraSettings": {
     "foldDefault": "",
