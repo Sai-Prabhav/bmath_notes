@@ -378,6 +378,7 @@ married
 measure
 minimum
 mailto
+mode
 check
 cool
 co
@@ -1882,6 +1883,7 @@ LyC
 Lh
 Lt
 LeJ
+Large
 Multiline
 Mozilla
 ModDate

@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81f609ead9260f3b",
+            "id": "7c946db4e5415d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/2. Limit Points.md",
+                "file": "Probability/3. Corelation Coefficient.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45e4c7fb050a96ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/2. Covariance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "Probability/3. Corelation Coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "Probability/3. Corelation Coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md"
+                "file": "Probability/3. Corelation Coefficient.md"
               }
             }
           }
@@ -148,56 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "2286dcd79d9e7840",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d160d9a8fb7f22e7",
-        "type": "window",
-        "children": [
-          {
-            "id": "926f85d84dd08409",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60ba2c8dc13a315c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "real analyses/4. Continuity of Functions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "60ba2c8dc13a315c",
+  "active": "7c946db4e5415d16",
   "lastOpenFiles": [
-    "real analyses/2. Limit Points.md",
-    "Probability/4. Conditional distribution.md",
+    "Probability/2. Covariance.md",
     "Probability/3. Corelation Coefficient.md",
+    "Custom Commands.md",
+    "snippet/my_snippet.md",
+    "snippet/my_snippet.jmd",
+    "Probability/4. Conditional distribution.md",
+    "real analyses/2. Limit Points.md",
+    "real analyses/4. Continuity of Functions.md",
     "number_theory/3. Binary.md",
     "linear algebra/3. Rank.md",
-    "Custom Commands.md",
     "snippet/old_snippet.md",
     "snippet/my_snippet.js",
-    "snippet/my_snippet.md",
     "Index.md",
-    "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Euler's criterion.md",
     "number_theory/2. Sum of Two Squares.md",
@@ -209,7 +186,6 @@
     "Untitled.canvas",
     "Untitled.md",
     "snippet",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/Untitled.md",
     "All Quaries.md",
     "website/probability/4.-conditional-distribution.html",
@@ -222,7 +198,6 @@
     "LICENSE",
     "website/number_theory/euler's-criterion.html",
     "website/number_theory/3.-binary.html",
-    "website/number_theory/2.-sum-of-two-squares.html",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
