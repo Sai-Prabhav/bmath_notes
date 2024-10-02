@@ -1,18 +1,54 @@
 $$
-   \newcommand{\Exp}[1][X]{\mathrm{E}\left[ #1 \right]} 
-   \newcommand{\Var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
+\begin{align} \\
+
+\end{align}
+$$
+$$
+   \newcommand{\ex}[1][X]{\mathrm{E}\left[ #1 \right]} 
+   \newcommand{\var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
    \newcommand{\cov}[2]{\mathrm{Cov}\left[ #1,#2 \right]} 
-   \newcommand{\mod}[1][X]{\left| #1 \right|} 
-   \newcommand{\Res}[2][f]{\left. #1\right| _{#2}} 
+   \newcommand{\cor}[2]{\rho\left[ #1,#2 \right]} 
+   \newcommand{\csp}[1]{\mathcal{C}\left( #1 \right)} 
+   \newcommand{\rsp}[1]{\mathcal{R}\left( #1 \right)} 
+   \newcommand{\nsp}[1]{\mathcal{N}\left( #1 \right)} 
+   \newcommand{\Mod}[1][X]{\left| #1 \right|} 
+   \newcommand{\res}[2][f]{\left. #1\right| _{#2}} 
    \newcommand{\NN}{\mathbb{N }} 
    \newcommand{\RR}{\mathbb{R }} 
    \newcommand{\CC}{\mathbb{C }} 
    \newcommand{\ZZ}{\mathbb{Z }} 
+   \newcommand{\re}{\mathrm{Re}} 
+   \newcommand{\im}{\mathrm{Im}} 
+   \newcommand{\where}{\text{ where }} 
+   \newcommand{\disc}{\text{disc }} 
+   \newcommand{\mat}{\text{mat }} 
+   \newcommand{\if}{\text{ if }}
+   \newcommand{\so}{\text{ so }}
+   \newcommand{\then}{\text{ then }}
+   \newcommand{\st}{\text{ such that }}
    
-\begin{align}
-\cov{x}{y} \\
-\cov{X}{Y}  \\
-\cov{X0}{y}
+   
+   
+   
+
+\begin{align} \\
+\csp{A} \\
+\rsp{A} \\
+\nsp{A} \\
+\mod{3}\\
+\mat \\
+\then \\
+\so\\
+\cor{X}{Y}\\
+\Mod[X ]\\
+\cov{x}{y}  \\
+\st \\ 
+\disc\\
+\where \\ \\
+\lvert 333333^{^{SS^{S^{S^{S^{S^{S} } } } } } }  \rvert 
+\if\\ \\
+\ker \im\re \\
+mod
 \end{align}
 $$
 
@@ -738,65 +774,8 @@ return output;
 ```
 
 
-$$
-
-
-
-\begin{align} \\
-\mod[2333333333] 
-\pmod{}  \\
-\cov{Y}{X}
-\end{align}
-$$
 
 
 
 
 
-```tikz
-\begin{document}
-
-hello
-\end{document}
-```
-```tikz
-\usepackage{tikz-cd}
-\usepackage{pgfplots}
-\begin{document}
-\begin{tikzpicture} 
-    \draw[color=black] plot (0.001*\x*\x*\x,{0.5*(\x*\x)-3\x}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x+xy$};
-    \draw[color=black] plot (0.1*\x,{(\x*\x)-3\x}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x+xy$};
-\end{tikzpicture}
-
-\quad \quad
-
-\end{document}
-```
-
-```tikz
-\begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-5.1,-5.1) grid (9.9,9.9);
-    \draw[->] (-9.2,0) -- (9.2,0) node[right] {$x$};
-    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
-    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
-    \draw[color=blue]   plot (\x,{cos(\x r)/sec(\x r)*\x*0.2})    node[right] {$f(x) = \sin x$};
-    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[left] {$f(x) = \frac{1}{20} \mathrm e^x$};
-  \end{tikzpicture}
-\end{document}
-```
-
-
-
-\
-$$
-\begin{align}
-\mathbb{N} \\ \\
-\NN
-\end{align}
-$$
-$$
-\begin{align}
-\det \\
-\end{align}
-$$
