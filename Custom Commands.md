@@ -25,6 +25,7 @@ $$
    \newcommand{\so}{\text{ so }}
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
+   \st
 $$
 
 ```latex

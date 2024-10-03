@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/2. Limit Points.md",
-                "mode": "preview",
-                "source": false
+                "file": "snippet/my_snippet.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -100,8 +100,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/4. Conditional distribution.md",
-                "collapseAll": false,
+                "file": "snippet/my_snippet.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/4. Conditional distribution.md",
+                "file": "snippet/my_snippet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,16 +140,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/4. Conditional distribution.md"
+                "file": "snippet/my_snippet.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,56 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "c19a8eadd12da4df",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6c8d86c06df3e24e",
-        "type": "window",
-        "children": [
-          {
-            "id": "252ef4b0bd859217",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d23b788d6d5d2b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Probability/4. Conditional distribution.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d23b788d6d5d2b1b",
+  "active": "1ab95978f04a5085",
   "lastOpenFiles": [
-    "Probability/3. Corelation Coefficient.md",
-    "Probability/2. Covariance.md",
+    "number_theory/3. Binary.md",
+    "snippet/my_snippet.md",
     "real analyses/2. Limit Points.md",
     "Custom Commands.md",
     "Probability/4. Conditional distribution.md",
+    "Probability/3. Corelation Coefficient.md",
+    "Probability/2. Covariance.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "All Quaries.md",
-    "snippet/my_snippet.md",
     "snippet/my_snippet.jmd",
     "real analyses/4. Continuity of Functions.md",
-    "number_theory/3. Binary.md",
     "linear algebra/3. Rank.md",
     "snippet/old_snippet.md",
     "snippet/my_snippet.js",
