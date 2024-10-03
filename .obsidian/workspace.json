@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af3bd5540a9fd710",
+        "id": "b7c6c34333f0a0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "46e7a8429ba8df98",
+            "id": "c68952bdfa536e63",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,14 +22,14 @@
             }
           },
           {
-            "id": "1ab95978f04a5085",
+            "id": "672c4c71f252aae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippet/my_snippet.md",
+                "file": "number_theory/3. Binary.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippet/my_snippet.md",
+                "file": "number_theory/3. Binary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippet/my_snippet.md",
+                "file": "number_theory/3. Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippet/my_snippet.md"
+                "file": "number_theory/3. Binary.md"
               }
             }
           }
@@ -163,30 +163,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab95978f04a5085",
+  "active": "672c4c71f252aae1",
   "lastOpenFiles": [
-    "number_theory/3. Binary.md",
-    "snippet/my_snippet.md",
-    "real analyses/2. Limit Points.md",
+    "Index.md",
     "Custom Commands.md",
+    "number_theory/3. Binary.md",
+    "All Quaries.md",
+    "real analyses/3. Convergences of Series.md",
+    "question.md",
+    "real analyses/2. Limit Points.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "snippet/my_snippet.md",
     "Probability/4. Conditional distribution.md",
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
-    "All Quaries.md",
     "snippet/my_snippet.jmd",
     "real analyses/4. Continuity of Functions.md",
     "linear algebra/3. Rank.md",
     "snippet/old_snippet.md",
     "snippet/my_snippet.js",
-    "Index.md",
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Euler's criterion.md",
-    "number_theory/2. Sum of Two Squares.md",
     "number_theory/1. Pigeonhole Principle.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "question.md",
     "snippet/old_snippet.js",
     "Untitled.canvas",
     "Untitled.md",
@@ -195,7 +196,6 @@
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
     "Probability/exercises_4.pdf",
-    "real analyses/3. Convergences of Series.md",
     "real analyses/1. Cauchy Criterion.md",
     "Probability/Exercise 4 Solutions.md",
     "Probability/Poisson.md",
