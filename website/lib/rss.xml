@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Oct 2024 08:13:13 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Oct 2024 08:13:09 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Oct 2024 10:16:13 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Oct 2024 10:16:04 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
@@ -187,9 +187,11 @@ now <br>
 Hence <br><br>similarly for  <br>
 now <br>
 indeed  in all other cases its grater than  <br>
-prove it<br>then   unless ( ) or ( and  )<br>
+Then  unless ( ) or ( and  )<br>
 or<br>
-  unless  or(  and  )<br>□<br>Theorem.
+ unless  or(  and )<br>
+za<br>
+□<br>Theorem.
 Let<br>
 <br>
 <br>
@@ -245,7 +247,157 @@ here <br>
 in this case the process completes<br>
 In general continues this way we get a sequence<br>
 <br>
-as the sum is reducing this will complete at some point the last step has the reduced form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 08:05:19 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+as the sum is reducing this will complete at some point the last step has the reduced form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 08:22:51 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
+Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
+
+<br>Example 1.
+ some non-empty subset of   fix <br>
+ we can show  is continuous function  with the above definition
+<br>Example 2 (Identity Function).
+Suppose  is a non empty subset of  
+<br><br>Consider any <br>
+now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
+let <br>
+consider  defined by 
+<br>Consider <br>
+we need to estimate <br><br>Take  Then for <br><br>Example 4.
+let <br>
+show that  is continuous
+<br>Fix  <br><br>if  then <br>
+Take <br>
+Then for  then  <br>complete the exercise<br>Theorem.
+Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
+<br> Proof.<br>
+Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
+for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
+so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
+so for  take  then <br>
+such that <br><br>As  do not converge to <br>□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Suppose  and   does that mean  converge?<br>
+No, let  and  <br>Definition (continuity at a point   version).
+Let A be a non empty subset of  let  be a function .<br>
+Fix  then  is said to be continuous at  if for every  such that
+<br><br><br>Definition.
+Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+ 
+<br>Corollary.
+suppose  is an isolated point in  . Then any function  is continuous at  
+<br><br>Definition (Continuity of function).
+Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Theorem.
+Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
+then  is defined by <br>
+is also continuous at c
+<br>Proof.<br>
+for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
+so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
+Let A be a non-empty subset of  and let  suppose   are functions continuous at c
+
+<br>For  defined by m is continuous at   
+<br> defined by  is continuous at c
+<br>if  then  defined by  is continuous at c
+
+<br>Proof.<br>
+(using sequential version of continuity.)<br>
+<br>Take  we want to show that  is continuous at  .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to 
+<br><br>
+<br>
+Take  we want to show that  is continuous at .<br>
+suppose  is a sequence in A converging to  we wan tho show that  converges to 
+
+
+<br>
+Take  we want to show that  is continuous at .<br>
+Suppose  is a sequence in A converging to  we wan tho show that   converges to  and  for all  in  then
+
+□
+
+<br>Example.
+Suppose  then the polynomial   defined by  is continuous
+<br>If you can't prove it leave ISI<br>Theorem.
+Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
+<br>Proof.<br>
+for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
+ is known as the restriction of  to  and is denoted by  
+<br>Corollary.
+If  is a non-empty subset of  and   is a polynomial then  is continuous<br>
+suppose  is another polynomial, with <br>
+then  defined by<br>
+ is continuous  
+<br>Theorem.
+Let A  be non empty subset of <br>
+suppose  and  be functions<br>
+Assume  suppose for some   is continuous at   is continuous at <br>
+then  defined by<br>
+ is continuous at 
+<br>Proof.<br>
+suppose  is a sequence in A converging to .<br>
+We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
+□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition.
+Let A be a non-empty subset of  and let  be a function then    is said to be bounded above if there exist <br>
+similarly    is said to be bounded below if there exist  such that <br>
+it is said to be bounded if there exist  such that<br>
+ let    be bounded above then  is called the supreimum of  <br>
+it is said to be a maximum if there exist  such that  
+suppose    is bounded below<br>
+ is called the infimum of  <br>
+it is said to be a minimum if the infimum is attained, that is there exist     .  .  
+<br>Theorem.
+Let  with  let    be a continuous function then    is bounded<br>
+moreover    attains its supremum and infimum in  
+<br>Proof.<br>
+suppose    is not bounded<br>
+then for any natural number   ,    is not a upper bound<br>
+this means that there exist  such that  <br>as  is bounded by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a> it has a convergent sequence <br>
+Take  then <br>
+then by continuity of     is convergent in particular it is bounded but we have<br>
+<br>
+so it cant be bounded this is a contradiction<br>take <br>
+For  is not upper bound for   so there exist  such that <br><br>once again by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>  has a convergent sequence say  converging to some <br>
+thus <br>
+as  tends to  by squeeze theorem   is convergent and converges for  as    is continuous at    <br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:3-oct" class="tag" target="_blank" rel="noopener">#3-oct</a><br>Theorem ( Location of roots ).
+Let   with . Let  be a continuous function. Suppose  then there exist a   can also be called as 'root'
+<br>Proof. 1<br>
+We will use nested intervals property of <br>
+take  and  and <br>consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+take <br>Note that  and <br>
+repeat the process consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+we continue so on<br>
+if it terminates we have a <br>If it doesn't terminated we have sequence of nested interval<br><br>by nested interval property <br>
+the length of <br>
+thus the  is  a singleton say <br>Claim.
+ 
+<br><br><br>For every every <br>
+By continuous of     hence <br>
+similarly, for every <br>
+by continuity of    at    <br>
+so, <br>
+Hence <br>□<br>
+Proof. 2<br>consider <br><br>   is non empty as <br>
+ is bounded by  <br>
+by the limit upper bound property    has a supremum<br>
+Take <br>Claim.
+
+<br>for  consider .<br>
+As  is not a supremum of  there exist <br>
+such that <br><br>So  <br>
+Hence <br>
+in particular <br>
+Now consider <br>
+not for any <br>
+let <br><br>as  <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 10:12:52 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
  <br>Definition (Limit Points).
 Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
 <br><br>
@@ -513,119 +665,7 @@ then <br>
 <br>
 also columns of  and  are linearly independent<br>
 columns of    are linearly independent from ()<br>
-so  is a rank factorization of  and <br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 08:20:42 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
-Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
-
-<br>Example 1.
- some non-empty subset of   fix <br>
- we can show  is continuous function  with the above definition
-<br>Example 2 (Identity Function).
-Suppose  is a non empty subset of  
-<br><br>Consider any <br>
-now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
-let <br>
-consider  defined by 
-<br>Consider <br>
-we need to estimate <br><br>Take  Then for <br><br>Example 4.
-let <br>
-show that  is continuous
-<br>Fix  <br><br>if  then <br>
-Take <br>
-Then for  then  <br>complete the exercise<br>Theorem.
-Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
-<br> Proof.<br>
-Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
-for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
-so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
-so for  take  then <br>
-such that <br><br>As  do not converge to <br>□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Suppose  and   does that mean  converge?<br>
-No, let  and  <br>Definition (continuity at a point   version).
-Let A be a non empty subset of  let  be a function .<br>
-Fix  then  is said to be continuous at  if for every  such that
-<br><br><br>Definition.
-Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
- 
-<br>Corollary.
-suppose  is an isolated point in  . Then any function  is continuous at  
-<br><br>Definition (Continuity of function).
-Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
-<br>Theorem.
-Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
-then  is defined by <br>
-is also continuous at c
-<br>Proof.<br>
-for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
-so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
-Let A be a non-empty subset of  and let  suppose   are functions continuous at c
-
-<br>For  defined by m is continuous at   
-<br> defined by  is continuous at c
-<br>if  then  defined by  is continuous at c
-
-<br>Proof.<br>
-(using sequential version of continuity.)<br>
-<br>Take  we want to show that  is continuous at  .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to 
-<br><br>
-<br>
-Take  we want to show that  is continuous at .<br>
-suppose  is a sequence in A converging to  we wan tho show that  converges to 
-
-
-<br>
-Take  we want to show that  is continuous at .<br>
-Suppose  is a sequence in A converging to  we wan tho show that   converges to  and  for all  in  then
-
-□
-
-<br>Example.
-Suppose  then the polynomial   defined by  is continuous
-<br>If you can't prove it leave ISI<br>Theorem.
-Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
-<br>Proof.<br>
-for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
- is known as the restriction of  to  and is denoted by  
-<br>Corollary.
-If  is a non-empty subset of  and   is a polynomial then  is continuous<br>
-suppose  is another polynomial, with <br>
-then  defined by<br>
- is continuous  
-<br>Theorem.
-Let A  be non empty subset of <br>
-suppose  and  be functions<br>
-Assume  suppose for some   is continuous at   is continuous at <br>
-then  defined by<br>
- is continuous at 
-<br>Proof.<br>
-suppose  is a sequence in A converging to .<br>
-We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
-□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition.
-Let A be a non-empty subset of  and let  be a function then    is said to be bounded above if there exist <br>
-similarly    is said to be bounded below if there exist  such that <br>
-it is said to be bounded if there exist  such that<br>
- let    be bounded above then  is called the supreimum of  <br>
-it is said to be a maximum if there exist  such that  
-suppose    is bounded below<br>
- is called the infimum of  <br>
-it is said to be a minimum if the infimum is attained, that is there exist     .  .  
-<br>Theorem.
-Let  with  let    be a continuous function then    is bounded<br>
-moreover    attains its supremum and infimum in  
-<br>Proof.<br>
-suppose    is not bounded<br>
-then for any natural number   ,    is not bound<br>
-this means that there exist  such that  <br>as  is bounded by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a> it has a convergent sequence <br>
-Take  then <br>
-then by continuity of     is convergent in particular it is bounded but we have<br>
-<br>
-so it cant be bounded this is a contradiction<br>take <br>
-For  is not upper bound for   so there exist  such that <br><br>once again by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>  has a convergent sequence say  converging to some <br>
-thus <br>
-as    tends to  by squeeze theorem   is convergent and converges for  as    is continus at    <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 01 Oct 2024 09:28:38 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
+so  is a rank factorization of  and <br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 08:20:42 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
  <br>Suppose  are real numbers<br>
 what is <br>
 for <br>
