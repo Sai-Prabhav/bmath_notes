@@ -43,6 +43,7 @@ couples. Compute the mean and variance of the number of married couples that are
 together.
 
 Let $A_{i}$ be the event that the $i^{th}$ pair consist of a man and women.
+
 $$
 \begin{align}
 I_{i} & =\begin{cases}

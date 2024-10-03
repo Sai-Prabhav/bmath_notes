@@ -10,12 +10,13 @@
     },
     {
         trigger:
-            /([^\\])(exp|log|ln|NN|RR|CC|ZZ|where|disc|mat|if|so|then|st|re|im)/,
+            /([^\\])(exp|log|ln|NN|RR|CC|ZZ|where|disc|mat|if|or|so|then|st|re|im)/,
         replacement: "[[0]]\\[[1]]",
         options: "rmA",
     },
 
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },
+    { trigger: "mod", replacement: "\\Mod[${0:X}] $1", options: "mA" },
     { trigger: "var", replacement: "\\var[${0:X}] $1", options: "mA" },
     { trigger: "cov", replacement: "\\cov{${0:X}}{${1:X}} $2", options: "mA" },
     { trigger: "cor", replacement: "\\cov{${0:X}}{${1:X}} $2", options: "mA" },
