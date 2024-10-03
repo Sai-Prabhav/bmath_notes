@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,9 +151,11 @@
   },
   "active": "f49c3c35b88ae381",
   "lastOpenFiles": [
+    "real analyses/2. Limit Points.md",
+    "number_theory/3. Binary.md",
+    "Untitled.md",
     "Custom Commands.md",
     "snippet/my_snippet.md",
-    "number_theory/3. Binary.md",
     "number_theory/Euler's criterion.md",
     "number_theory/Infinite Primes.md",
     "Probability/Exercise 4 Solutions.md",
@@ -160,7 +163,6 @@
     "All Quaries.md",
     "real analyses/3. Convergences of Series.md",
     "question.md",
-    "real analyses/2. Limit Points.md",
     "number_theory/2. Sum of Two Squares.md",
     "Probability/4. Conditional distribution.md",
     "Probability/3. Corelation Coefficient.md",
@@ -177,7 +179,6 @@
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "snippet/old_snippet.js",
     "Untitled.canvas",
-    "Untitled.md",
     "snippet",
     "real analyses/Untitled.md",
     "website/probability/4.-conditional-distribution.html",

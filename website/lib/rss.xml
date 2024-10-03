@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Oct 2024 04:24:55 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Oct 2024 04:24:52 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Oct 2024 08:13:13 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Oct 2024 08:13:09 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
@@ -147,11 +147,11 @@ Let  be a discriminant  and  not a square then up to proper equivalence only fin
 <br>Proof.<br>
 we know<br>
  with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
-□<br>Definition.
+□<br><br>Definition.
 let  be a discriminant<br>
  set of proper equivalence classes of bqf of <br>
  set of proper equivalence classes of primitive bqf of disc  <br>
-we have (Disc of P ) this is know as the Class Number of    
+we have  this is know as the Class Number of    
 <br><br>
 <br>What is <br>
 Since  we assume <br>
@@ -179,30 +179,32 @@ A bqf  with  is said to be Reduced if either<br>
 Let  be reduced bqf of discriminant  , then  is the smallest value of <br>
 i) There are exactly 2 primitive vectors    .  .  namely  and exactly two primitive vectors    .  .  namely   unless  , in which case there are four vector's    .  .  namely <br>
 ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
-<br>Proof.<br>
-Let  then for any  <br><br>Now at  say  first<br>
+<br>Proof.<br>Remark.
+  if  is primitive iff 
+<br>Let  then for any  <br><br>Now at  say  first<br>
 then <br>
 now <br>
-indeed  in all other cases its grater than  <br>
 Hence <br><br>similarly for  <br>
+now <br>
+indeed  in all other cases its grater than  <br>
 prove it<br>then   unless ( ) or ( and  )<br>
 or<br>
-  unless  or( and  )<br>□<br>Theorem.
+  unless  or(  and  )<br>□<br>Theorem.
 Let<br>
 <br>
 <br>
 be reduced bqf of the same discriminant with  then   
-<br>Proof.<br>since minimum values of are equal hence  =a say<br>
+<br>Proof.<br>Since minimum values of are equal hence  =a say<br>
 Case I <br>
 in this case  has exactly 2 solutions namely <br>
-hence  also has exactly 2 solutions namely   <br>
-as if   then  has &gt;3 solutions<br>
+hence  also has exactly 2 solutions namely  <br>
+as if  then  has &gt;3 solutions<br>
 Also <br><br>by uniqueness we get <br>
 hence <br>
 then <br>
 so <br>
 thus <br>
-since  are reduced we have   and <br>
+since  are reduced we have  and <br>
 <br>
  and <br>
 adding we get<br>
@@ -212,19 +214,22 @@ In this case <br>
 has exactly four primitive solutions, <br>
 then  will also have exactly four solution hence <br>
 then <br>
-since<br><br>we get  so  since both are non negative <br>subcase   : <br>
+since<br><br>we get  so  since both are non negative <br>Subcase  : <br>
 thus <br>
 hence<br>
  has six primitive solution so  also has six primitive solution thus  thus <br>□<br>Proposition.
 Let  be a reduced bqf of disc  if gcd(  ,y)=1 and <br>
 then <br>
-ie,  or 
+ie,  or  
 <br>Proof.<br>
-we know that  for  hence<br>
-<br>complete the rest<br>□<br>Theorem.
+we know that  for  hence <br><br>
+if ,<br>
+when  we can have  or else  <br><br>if  and <br><br> if  and <br>
+if  and <br><br> if  and <br>
+hence for all values of  we have verified that  can only be between  ,  iff  <br>□<br>Theorem.
 Let    be a bqf of discriminant  then there is a reduced bqf  such that 
 <br>Proof. 1<br>
-by Lagrange reduction lemma there is a form  such that  and  since by convetion all values are positive we have <br>
+by Lagrange reduction lemma there is a form  such that  and  since by convention all values are positive we have <br>
  now if  then we are done<br>
 case I  but b&lt;0<br>
 in this case <br>case II a&lt;   but b=-a<br>
@@ -240,7 +245,47 @@ here <br>
 in this case the process completes<br>
 In general continues this way we get a sequence<br>
 <br>
-as the sum is reducing this will complete at some point the last step has the reduced form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 04:23:05 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+as the sum is reducing this will complete at some point the last step has the reduced form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 08:05:19 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ <br>Definition (Limit Points).
+Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
+<br><br>
+<br> has no limit points
+<br> has exactly one limit points
+<br> has exactly two limit points
+<br>let  and  we define  will have infinitely many limit point 
+<br>Claim.
+The only limit points of  <a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/2. Limit Points#^1146e3" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points &gt; ^1146e3</a><a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html#^1146e3" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points &gt; ^1146e3</a> is  where 
+<br>Proof.<br>
+Zero is the limit of  as . And  is the limit of  as . Thus  are all limit points. We will show these are the only limit points. <br>Let . Then there is an  such that the interval  has no point of the form  (or 0).<br>Therefore, the sum , with least one of  or  less than , must be at a distance of at least  from . So the only such numbers in the interval  must have  and . So  and . Hence there are only a finite number of numbers of the form  in the interval . Thus  is not a limit point.<br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
+If a sequence is bounded than the set of limit points of the sequence is also bounded<br>Definition ( limit Superior and Limit Inferior).
+For a bounded sequence  the  is called as the limit Inferior<br>
+For a bounded sequence  the  is called as the superior Inferior
+<br>Notation<br><br><br>Theorem.
+Let   be a real sequence then  
+<br><br>Proof.<br>
+ fix   such that   <br><br>Conversely<br>
+ consider <br><br>such that <br><br>Inductively we can find infinite values of  <br>if conversely  such that  is finite<br>
+fix   is infinite for <br>
+ is finite for   <br>
+<br>
+<br>
+ <br>Claim ( ).<br><br>this shows  <br><br>Theorem.
+Let  be a real sequence then  
+<br><br>conversely if  is finite and  is infinite for some  and all   then  is the liminf<br><br>Theorem.
+Let  be a bounded sequence of  Then Limsup of  is a limit point of  and if  is limt point of  then  
+<br>Theorem.
+Let   be a bounded real sequence of  then all the limit points of  lies in<br>
+
+<br>Theorem.
+ be a bounded set of real numbers then the set of limits points of  is bounded
+<br>Theorem.
+ be a bounded set of real numbers then  exist iff<br>
+
+<br>Definition (properly diverges).
+note the definition later
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html</link><guid isPermaLink="false">real analyses/2. Limit Points.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 08:11:05 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
 The Covariance between  and  is 
 <br><br>Remark.
@@ -322,47 +367,7 @@ You can use tags to search for the classes done on that day for example if you w
 <br>📱 WhatsApp me (if you have my number).
 <br>Additionally, if you'd like to set up an Obsidian environment for note-taking or need help with learning LaTeX, I'd be happy to assist you in getting started! ✨<br><br>You can access the notes through the website:<br><a data-tooltip-position="top" aria-label="https://sai-prabhav.github.io/bmath_notes/website/index" rel="noopener" class="external-link" href="https://sai-prabhav.github.io/bmath_notes/website/index" target="_blank">👉 Click here to visit the website</a>.<br>
 Note: Since it's hosted on GitHub, the website may be a bit slow. 🐢
-<br><br>This project is licensed under the MIT License. See the <a class="original-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/LICENSE" target="_blank" rel="noopener" style="display: none;">LICENSE</a><a class="internal-link mathLink-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/license" target="_self" rel="noopener">LICENSE</a> file for more details.]]></description><link>https://sai-prabhav.github.io/bmath_notes/readme.html</link><guid isPermaLink="false">README.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 10:43:40 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
- <br>Definition (Limit Points).
-Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
-<br><br>
-<br> has no limit points
-<br> has exactly one limit points
-<br> has exactly two limit points
-<br>let  and  we define  will have infinitely many limit point 
-<br>Claim.
-The only limit points of  <a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/2. Limit Points#^1146e3" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points &gt; ^1146e3</a><a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html#^1146e3" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points &gt; ^1146e3</a> is  where 
-<br>Proof.<br>
-Zero is the limit of  as . And  is the limit of  as . Thus  are all limit points. We will show these are the only limit points. <br>Let . Then there is an  such that the interval  has no point of the form  (or 0).<br>Therefore, the sum , with least one of  or  less than , must be at a distance of at least  from . So the only such numbers in the interval  must have  and . So  and . Hence there are only a finite number of numbers of the form  in the interval . Thus  is not a limit point.<br>
-□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
-If a sequence is bounded than the set of limit points of the sequence is also bounded<br>Definition ( limit Superior and Limit Inferior).
-For a bounded sequence  the  is called as the limit Inferior<br>
-For a bounded sequence  the  is called as the superior Inferior
-<br>Notation<br><br><br>Theorem.
-Let   be a real sequence then  
-<br><br>Proof.<br>
- fix   such that   <br><br>Conversely<br>
- consider <br><br>such that <br><br>Inductively we can find infinite values of  <br>if conversely  such that  is finite<br>
-fix   is infinite for <br>
- is finite for   <br>
-<br>
-<br>
- <br>Claim ( ).<br><br>this shows  <br><br>Theorem.
-Let  be a real sequence then  
-<br><br>conversely if  is finite and  is infinite for some  and all   then  is the liminf<br><br>Theorem.
-Let  be a bounded sequence of  Then Limsup of  is a limit point of  and if  is limt point of  then  
-<br>Theorem.
-Let   be a bounded real sequence of  then all the limit points of  lies in<br>
-
-<br>Theorem.
- be a bounded set of real numbers then the set of limits points of  is bounded
-<br>Theorem.
- be a bounded set of real numbers then  exist iff<br>
-
-<br>Definition (properly diverges).
-note the definition later
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html</link><guid isPermaLink="false">real analyses/2. Limit Points.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 10:29:09 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+<br><br>This project is licensed under the MIT License. See the <a class="original-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/LICENSE" target="_blank" rel="noopener" style="display: none;">LICENSE</a><a class="internal-link mathLink-internal-link" data-href="./LICENSE" href="https://sai-prabhav.github.io/bmath_notes/license" target="_self" rel="noopener">LICENSE</a> file for more details.]]></description><link>https://sai-prabhav.github.io/bmath_notes/readme.html</link><guid isPermaLink="false">README.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 10:43:40 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
 Rank of a matrix Let  be a  matrix,<br>
 column space of  is the subspace of  spanned by the columns of <br>
@@ -644,17 +649,7 @@ such that  and  then<br>
 
 <br>Proof.<br><br><br>Claim.
 
-<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 17:45:46 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
- <br>Exercise 1.
-Let  be a uniform  random variable; that is  takes any of the  values with equal probability  . Find  and .
-<br><br><br><br> The Variance of first  natural numbers is  <br>Exercise 12.
-A group of 20 people consisting of 10 men and 10 women is randomly<br>
-arranged into 10 pairs of 2 each. Compute the expectation and variance of the number of<br>
-pairs that consist of a man and a woman. Now suppose the 20 people consist of 10 married<br>
-couples. Compute the mean and variance of the number of married couples that are paired<br>
-together.
-<br>Let  be the event that the  pair consist of a man and women.<br><br><br><br>Now let  be the event that  pair is a married couple<br>
-And lets redefine our indicator function and let  be the random variable number of married couples<br><br><br><br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html</link><guid isPermaLink="false">Probability/Exercise 4 Solutions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 10:44:40 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 17:45:46 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
