@@ -13,22 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "snippet/old_snippet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ed8db5975d2b298",
+            "id": "a6123d7b0daf95fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Custom Commands.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "snippet/old_snippet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "snippet/old_snippet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/3. Binary.md"
+                "file": "snippet/old_snippet.md"
               }
             }
           }
@@ -162,14 +164,15 @@
   },
   "active": "79cf16a829a0cfff",
   "lastOpenFiles": [
-    "real analyses/4. Continuity of Functions.md",
     "number_theory/3. Binary.md",
-    "Custom Commands.md",
     "snippet/old_snippet.md",
+    "snippet/my_snippet.md",
+    "Probability/Poisson.md",
+    "Custom Commands.md",
+    "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
     "real analyses/2. Limit Points.md",
     "Untitled.md",
-    "snippet/my_snippet.md",
     "number_theory/Euler's criterion.md",
     "number_theory/Infinite Primes.md",
     "Probability/Exercise 4 Solutions.md",
@@ -196,7 +199,6 @@
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
     "Probability/exercises_4.pdf",
-    "Probability/Poisson.md",
     "LICENSE",
     "website/number_theory/euler's-criterion.html",
     "html_files/lib/media/favicon.png",

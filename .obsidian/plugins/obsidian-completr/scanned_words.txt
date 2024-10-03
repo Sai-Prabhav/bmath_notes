@@ -8883,6 +8883,7 @@ eBN
 eaf
 entries
 else
+equations
 other
 one
 order
@@ -12848,6 +12849,7 @@ AFl
 Acrobat
 Alt
 Author
+Adding
 KHTML
 Kg
 Kn
