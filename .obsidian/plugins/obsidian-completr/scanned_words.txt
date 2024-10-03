@@ -383,6 +383,7 @@ tmf
 title
 terminates
 terminated
+trial
 is
 italics
 its
@@ -6468,6 +6469,7 @@ sYM
 sOXN
 smsN
 singleton
+successes
 Proof
 PDF
 Producer
@@ -14993,6 +14995,7 @@ BITu
 BIiU
 Bds
 Bau
+Bernoulli
 Normal
 Nk
 Nb
@@ -20083,6 +20086,7 @@ fiu
 fzM
 format
 ffe
+failures
 rE
 ra
 ref
@@ -20485,6 +20489,7 @@ rpAY
 rdf
 roots
 repeat
+run
 ID
 Io
 Ie

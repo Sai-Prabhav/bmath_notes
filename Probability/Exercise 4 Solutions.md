@@ -1,38 +1,36 @@
-> [!exercise|1] 
-> Let $X$ be a uniform $\{1, 2, · · · , N \}$ random variable; that is $X$ takes any of the $N$ values with equal probability $\frac{1}{N}$ . Find $\mathrm{E} \left[ X \right]$ and $\mathrm{Var} \left[ X \right]$.
-  
-$$
-\begin{align}
-E\left[ X \right]  & = \sum_{i=1}^{N}iP(X=i)\\
-E\left[ X \right]  & = \sum_{i=1}^{N} \frac{i}{N}\\
-E\left[ X \right]  & = \frac{1}{N}\sum_{i=1}^{N} {i}\\
-E\left[ X \right]  & = \frac{1}{N} \cdot \frac{N*(N+1)}{2}\\
-E\left[ X \right]  & =\frac{(N+1)}{2}\\
-\end{align}
-$$
-$$
-\begin{align}
-E\left[ X ^{2}\right]  & = \sum_{i=1}^{N}i^{2}P(X=i)\\
-E\left[ X ^{2}\right]  & = \sum_{i=1}^{N}i^{2} \frac{1}{N}\\
-E\left[ X ^{2}\right]  & = \frac{1}{N}\cdot\sum_{i=1}^{N}i^{2} \\
-E\left[ X ^{2}\right]  & = \frac{1}{N}\cdot \left( \frac{N(2N+1)(N+1)}{6} \right) \\
-E\left[ X ^{2}\right]  & = \frac{(2N+1)(N+1)}{6}  \\
-\end{align}
-$$
-$$
-\begin{align}
-\mathrm{Var} \left[ X \right]  & =\mathrm{E} \left[ X^{2}  \right] -(\mathrm{E} \left[ X \right] ) ^{2} \\
-\mathrm{Var} \left[ X \right]  & = \frac{(2N+1)(N+1)}{6} -\left[\frac{(N+1)}{2}\right]^{2} \\
-\mathrm{Var} \left[ X \right]  & = \frac{2(2N+1)(N+1)-3(N+1)^{2}}{12} \\
-\mathrm{Var} \left[ X \right]  & = \frac{2\left(2N^{2} +3N+1\right)-3\left(N^{2} +2N+1\right)}{12} \\
-\mathrm{Var} \left[ X \right]  & = \frac{N^{2} +0-1}{12} \\
-\mathrm{Var} \left[ X \right]  & = \frac{N^{2} +0-1}{12} \\
-\mathrm{Var} \left[ X \right]  & = \frac{N^{2} -1}{12} \\
-\end{align}
-$$
-$\therefore$ The Variance of first $N$ natural numbers is $\frac{N^{2} -1}{12}$ 
+> [!exercise|10]
+>  In a sequence of Bernoulli trials let X be the length of run (of either successes or failures) started by the first trial. 
+>   - Find the distribution of X, E(X), Var(X). 
+>  -  Let Y be the length of the second run. Find the distribution of Y , E(Y ), Var(Y ), and the joint distribution of X and Y
 
-
+$$
+\begin{align}
+\frac{1}{1-x} & =x+x^{2} +x^{3} \dots x^{n}\dots  \quad \Mod[x]<1  \\
+\frac{d}{dx}\frac{1}{1-x}  & =\frac{d}{dx} (x+x^{2} +x^{3} \dots x^{n}\dots  )\\
+\frac{1}{(1-x)^{2} }  & =1x^{0} +2x^{1} +3x^{2} \dots nx^{n-1}\dots  
+\end{align}
+$$
+$$
+\begin{align}
+\text{let } A  & = \text{ Event of success in trial 1}   \\ 
+\text{let } p  & = P(\text{ success} )  \\ 
+P(X=r) & = P(X=r|A)P(A)+P(X=r|A^{c} )P(A^{c} )\\
+ & = p^{r}(p-1) +(1-p)^{r}p \quad \text{r runs followed by a diffrent outcome}   \\
+ & =p(1-p)\left[ p^{r-1} +(1-p)^{r-1}  \right]
+\end{align}
+$$
+$$
+\begin{align}
+\ex[X] & =\sum_{i=1}^{\infty} r P(X=r)\\
+& =\sum_{i=1}^{\infty} r p(1-p)\left[ p^{r-1} +(1-p)^{r-1}  \right]  \\
+& =p(1-p)\sum_{i=1}^{\infty} r \left[ p^{r-1} +(1-p)^{r-1}  \right]  \\
+& =p(1-p)\left\{ \sum_{i=1}^{\infty} r p^{r-1} +\sum_{i=1}^{\infty} r(1-p)^{r-1}  \right\} \\
+& =p(1-p)\left\{ \frac{1}{1-p} +\frac{1}{1-(1-p)} \right\} \\
+& =p(1-p)\left\{ \frac{1}{1-p} +\frac{1}{p} \right\} \\
+& =\frac{p}{1-p} +\frac{1-p}{p} 
+\end{align}
+$$
+a
 
 > [!exercise|12]  
 > 
@@ -53,8 +51,12 @@ I_{i} & =\begin{cases}
 X & =\sum_{i=1}^{10} I_{i}  \\
 P(I_{i}=1 ) & =\frac{\binom{10 }{1}\binom{10}{1}}{\binom{20 }{2}}=\frac{10}{19} \\
 \mathrm{E} \left[ X \right] & =\sum_{i=1}^{10} E[I_{i} ]    \\
-& =\sum_{i=1}^{10} \frac{10}{19}  \\
-& = \frac{10*10}{19}=\frac{100}{19}  \\ \\
+& =\sum_{i=1}^{10} \frac{10}{19}   \\
+\end{align}
+$$
+$$
+\begin{align}
+& = \frac{10*10}{19}=\frac{100}{19}  \\
 \mathrm{E} \left[ I_{i}I_{j}   \right]  & =\frac{\binom{10 }{1}\binom{10}{1}}{\binom{20 }{2}}\frac{\binom{9 }{1}\binom{9}{1}}{\binom{18 }{2}} \quad \text{ when } i\neq j \\
  & =\frac{10}{19} \frac{9}{17} \\
 \mathrm{E} \left[ I_{i}^{2}   \right] &  =\mathrm{E} \left[ I_{i}  \right] =\frac{10}{19} \\
@@ -122,11 +124,16 @@ $$
 \mathrm{E} \left[ Y^{2}  \right] &  =E\left[ \left( \sum_{i=1}^{10}I_{i}   \right)\left( \sum_{j=1}^{10}I_{j}   \right) \right] \\
  & =E\left[  \sum_{i=1}^{10} \sum_{j=1}^{10}I_{i}  I_{j}  \right]\\
  & = \sum_{i=1}^{10} \sum_{j=1}^{10}E\left[ I_{i}  I_{j}  \right]\\
- & = 2\sum_{i=1}^{10} \sum_{j=i+1}^{10}E\left[ I_{i}  I_{j}  \right]+\sum_{i=1}^{10} \mathrm{E} \left[ I_{i}^{2}   \right] \\
+ & = 2\sum_{i=1}^{10} \sum_{j=i+1}^{10}E\left[ I_{i}  I_{j}  \right]+\sum_{i=1}^{10} \mathrm{E} \left[ I_{i}^{2}   \right]  
+
+\end{align}
+$$
+$$
+\begin{align}
  & = 2\sum_{i=1}^{10} \sum_{j=i+1}^{10} \frac{1}{19\times17}+\sum_{i=1}^{10} \mathrm{E} \left[ I_{i}  \right] \\
  & = 2\times 45 \times\frac{1}{19\times17}+\sum_{i=1}^{10} \frac{1}{19}  \\
  & = \frac{90}{19\times17}+ \frac{10}{19}  \\
- & = \frac{260}{19\times17} \\
+ & = \frac{260}{19\times17} 
 \end{align}
 $$
 
@@ -137,3 +144,4 @@ $$
  & =\frac{3240}{6137} 
 \end{align}
 $$
+

@@ -26,6 +26,7 @@ $$
    \newcommand{\if}{\text{ if }}
    \newcommand{\so}{\text{ so }}
    \newcommand{\or}{\text{ or }}
+   \newcommand{\let}{\text{ let }}
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
    \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}

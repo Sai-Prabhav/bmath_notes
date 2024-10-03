@@ -13,14 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippet/old_snippet.md",
+                "file": "Probability/Exercise 4 Solutions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6123d7b0daf95fe",
+            "id": "97350c75f761cdcc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Probability/exercises_4.pdf"
+              }
+            }
+          },
+          {
+            "id": "8e13de2c7be46d77",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -31,6 +41,18 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "73aaa1b565897c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippet/old_snippet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippet/old_snippet.md",
+                "file": "Probability/Exercise 4 Solutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippet/old_snippet.md",
+                "file": "Probability/Exercise 4 Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippet/old_snippet.md"
+                "file": "Probability/Exercise 4 Solutions.md"
               }
             }
           }
@@ -148,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,18 +187,20 @@
   },
   "active": "79cf16a829a0cfff",
   "lastOpenFiles": [
-    "number_theory/3. Binary.md",
+    "Probability/exercises_4.pdf",
+    "Probability/Exercise 4 Solutions.md",
+    "Probability/1. Multinomial Distribution.md",
+    "Custom Commands.md",
     "snippet/old_snippet.md",
+    "number_theory/3. Binary.md",
     "snippet/my_snippet.md",
     "Probability/Poisson.md",
-    "Custom Commands.md",
     "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
     "real analyses/2. Limit Points.md",
     "Untitled.md",
     "number_theory/Euler's criterion.md",
     "number_theory/Infinite Primes.md",
-    "Probability/Exercise 4 Solutions.md",
     "Index.md",
     "All Quaries.md",
     "real analyses/3. Convergences of Series.md",
@@ -188,17 +213,14 @@
     "snippet/my_snippet.jmd",
     "linear algebra/3. Rank.md",
     "snippet/my_snippet.js",
-    "Probability/1. Multinomial Distribution.md",
     "number_theory/1. Pigeonhole Principle.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "snippet/old_snippet.js",
     "Untitled.canvas",
     "snippet",
-    "real analyses/Untitled.md",
     "website/probability/4.-conditional-distribution.html",
     "website/probability/3.-corelation-coefficient.html",
-    "Probability/exercises_4.pdf",
     "LICENSE",
     "website/number_theory/euler's-criterion.html",
     "html_files/lib/media/favicon.png",
