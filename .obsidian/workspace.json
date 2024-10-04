@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +186,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79cf16a829a0cfff",
+  "floating": {
+    "id": "3f1ff9adaef03ba6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aa688024a02262f6",
+        "type": "window",
+        "children": [
+          {
+            "id": "95db06f7130701b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7753c220dded8d85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Probability/Exercise 4 Solutions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7753c220dded8d85",
   "lastOpenFiles": [
     "Probability/exercises_4.pdf",
     "Probability/Exercise 4 Solutions.md",
-    "Probability/1. Multinomial Distribution.md",
+    "number_theory/1. Pigeonhole Principle.md",
     "Custom Commands.md",
+    "Probability/1. Multinomial Distribution.md",
     "snippet/old_snippet.md",
     "number_theory/3. Binary.md",
     "snippet/my_snippet.md",
@@ -213,7 +252,6 @@
     "snippet/my_snippet.jmd",
     "linear algebra/3. Rank.md",
     "snippet/my_snippet.js",
-    "number_theory/1. Pigeonhole Principle.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "snippet/old_snippet.js",
