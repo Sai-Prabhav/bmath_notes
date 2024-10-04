@@ -384,6 +384,7 @@ title
 terminates
 terminated
 trial
+total
 is
 italics
 its
@@ -3572,6 +3573,7 @@ hDX
 hWi
 hDCZd
 hDzL
+hyper
 want
 will
 wZFn
@@ -4124,6 +4126,7 @@ woH
 wWP
 wat
 wUV
+whose
 am
 and
 any
@@ -5556,6 +5559,8 @@ gkI
 gKI
 gdtG
 gKG
+geometry
+geometric
 learn
 let
 like
@@ -6470,6 +6475,7 @@ sOXN
 smsN
 singleton
 successes
+similar
 Proof
 PDF
 Producer
@@ -7558,6 +7564,7 @@ pAM
 pSfx
 pPk
 pdf
+picked
 Claim
 Creator
 Chrome
@@ -8577,6 +8584,7 @@ ERT
 EUUk
 EST
 EL
+Expectation
 element
 elements
 exactly
@@ -15633,6 +15641,7 @@ dyL
 duz
 dll
 default
+depends
 xl
 xD
 xG
@@ -25305,6 +25314,7 @@ vlj
 vpdvG
 vzj
 verified
+veriable
 Zd
 Zi
 ZUR

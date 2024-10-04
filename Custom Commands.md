@@ -2,9 +2,9 @@
 $$
 
  
-   \newcommand{\Huge}[1]{\mbox{\Huge #1}}
-   \newcommand{\Large}[1]{\mbox{\LARGE #1}}
-   \newcommand{\tiny}[1]{\mbox{\tiny #1}}
+   \newcommand{\Huge}[1]{\mbox{\Huge $#1$}}
+   \newcommand{\Large}[1]{\mbox{\LARGE $#1$}}
+   \newcommand{\tiny}[1]{\mbox{\tiny $#1$}}
    \newcommand{\ex}[1][X]{\mathrm{E}\left[ #1 \right]} 
    \newcommand{\var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
    \newcommand{\cov}[2]{\mathrm{Cov}\left[ #1,#2 \right]} 
@@ -30,15 +30,13 @@ $$
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
    \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}
-   \st \peq 
+  \Large{  \st \peq }
 $$
-
 ```latex
 
- 
-   \newcommand{\Huge}[1]{\mbox{\Huge #1}}
-   \newcommand{\Large}[1]{\mbox{\LARGE #1}}
-   \newcommand{\tiny}[1]{\mbox{\tiny #1}}
+   \newcommand{\Huge}[1]{\mbox{\Huge $#1$}}
+   \newcommand{\Large}[1]{\mbox{\LARGE $#1$}}
+   \newcommand{\tiny}[1]{\mbox{\tiny $#1$}}
    \newcommand{\ex}[1][X]{\mathrm{E}\left[ #1 \right]} 
    \newcommand{\var}[1][X]{\mathrm{Var}\left[ #1 \right]} 
    \newcommand{\cov}[2]{\mathrm{Cov}\left[ #1,#2 \right]} 
@@ -60,6 +58,7 @@ $$
    \newcommand{\if}{\text{ if }}
    \newcommand{\so}{\text{ so }}
    \newcommand{\or}{\text{ or }}
+   \newcommand{\let}{\text{ let }}
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
    \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}
