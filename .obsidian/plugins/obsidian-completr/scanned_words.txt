@@ -387,6 +387,11 @@ trial
 total
 trapped
 taken
+transparent
+tjzo
+tPhiGrk
+textAlign
+top
 is
 italics
 its
@@ -1486,6 +1491,9 @@ iUF
 iPg
 intervals
 info
+index
+isDeleted
+iQW
 note
 notes
 number
@@ -1773,6 +1781,8 @@ nxn
 nCc
 nMA
 nested
+nmC
+nEd
 made
 make
 may
@@ -2614,6 +2624,10 @@ mine
 miner
 middle
 menu
+mLqtVSTBSi
+mQS
+mJX
+mybMUFd
 check
 cool
 co
@@ -2950,6 +2964,8 @@ continue
 comes
 command
 current
+coOVCd
+containerId
 how
 hello
 hi
@@ -3585,6 +3601,7 @@ hDCZd
 hDzL
 hyper
 hours
+hgqfYfNAq
 want
 will
 wZFn
@@ -5150,6 +5167,9 @@ aRZT
 adobe
 about
 application
+angle
+autoResize
+appState
 bold
 bye
 bigest
@@ -5337,6 +5357,8 @@ bzD
 bHJ
 back
 bdc
+boundElements
+backgroundColor
 great
 gather
 ggr
@@ -5576,6 +5598,10 @@ gKG
 geometry
 geometric
 game
+groupIds
+gridSize
+gridStep
+gridModeEnabled
 learn
 let
 like
@@ -6142,6 +6168,11 @@ lang
 length
 loses
 losses
+link
+locked
+lastCommittedPoint
+ltMCw
+lineHeight
 small
 smaller
 same
@@ -6493,6 +6524,13 @@ smsN
 singleton
 successes
 similar
+source
+seed
+simulatePressure
+strokeColor
+solid
+strokeWidth
+strokeStyle
 Proof
 PDF
 Producer
@@ -7586,6 +7624,8 @@ player
 plugin
 parsed
 palette
+pressures
+pMMcsfiPE
 Claim
 Creator
 Chrome
@@ -8245,6 +8285,7 @@ CmPm
 Cwf
 CreatorTool
 CreateDate
+Che
 Ever
 Every
 Environments
@@ -8610,6 +8651,7 @@ EXCALIDRAW
 Excalidraw
 Elements
 Embedded
+EhL
 element
 elements
 exactly
@@ -8921,6 +8963,7 @@ else
 equations
 escape
 excalidraw
+etfm
 other
 one
 order
@@ -9506,6 +9549,9 @@ oOm
 oJN
 oOH
 oKUM
+opacity
+oGhupjslsbq
+originalText
 Lesson
 Little
 Linux
@@ -9962,6 +10008,8 @@ LkZ
 LlB
 LUz
 Location
+LZCLTTdCjA
+LVkHVhX
 Multiline
 Mozilla
 ModDate
@@ -10837,6 +10885,8 @@ MpCehiHzreSzNTczkc
 ModifyDate
 Maras
 Miner
+Mxy
+MBYDBIfej
 Title
 Theorem
 TH
@@ -11317,6 +11367,8 @@ TiW
 Tziu
 Tnq
 TGQ
+TFR
+TyaxuiVdKm
 Fermat
 Filter
 FlateDecode
@@ -13611,6 +13663,7 @@ Kqv
 KwA
 KXJ
 KUIsO
+KeEVoCWlaM
 Gecko
 Gq
 GVr
@@ -15036,6 +15089,7 @@ BIiU
 Bds
 Bau
 Bernoulli
+BKfptaEHj
 Normal
 Nk
 Nb
@@ -15306,6 +15360,8 @@ NaH
 NaA
 NepL
 Nums
+NgpYKk
+NfwcGh
 ds
 dR
 dr
@@ -17198,6 +17254,7 @@ zhV
 zPh
 zTp
 zaBa
+zVEGnR
 HC
 HpThk
 HCXM
@@ -17769,6 +17826,7 @@ Hca
 HHI
 HNI
 HPaU
+HxwB
 VKDG
 VR
 Vn
@@ -18025,6 +18083,7 @@ VBQB
 VCI
 Version
 VIEW
+VKi
 yk
 yT
 yp
@@ -18219,6 +18278,7 @@ yHy
 yUkj
 yqRM
 yJ
+yxF
 Qj
 Ql
 QQ
@@ -18988,6 +19048,7 @@ jCTv
 jNC
 jhA
 jBC
+jNJgN
 XT
 XA
 Xg
@@ -20134,6 +20195,13 @@ format
 ffe
 failures
 fist
+frameId
+freedraw
+fillStyle
+fontSize
+fontFamily
+ffffff
+files
 rE
 ra
 ref
@@ -20541,6 +20609,9 @@ roads
 road
 roll
 rolls
+roundness
+roughness
+rMZ
 ID
 Io
 Ie
@@ -23240,6 +23311,7 @@ Rtzp
 RZIn
 RDF
 Roll
+Rui
 DW
 DSI
 DI
@@ -25360,6 +25432,9 @@ vpdvG
 vzj
 verified
 veriable
+versionNonce
+verticalAlign
+viewBackgroundColor
 Zd
 Zi
 ZUR
@@ -26869,6 +26944,8 @@ uIq
 uZT
 uUu
 uuid
+updated
+uDpnmZ
 Wi
 WO
 Widths
@@ -27497,3 +27574,5 @@ WQW
 WIiR
 WHz
 Windows
+WQtAyOaCDTRerVxlN
+WkzgwcZ

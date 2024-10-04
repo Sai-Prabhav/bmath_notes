@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 07:19:11 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 07:18:54 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 08:01:57 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 08:01:54 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
+  ,   discrete RV the conditional pmf of    given <br>
+ only when 
+<br>Remark.
+ 
+<br><br><br>Definition ( Conditional Cumulative Distribution function ).
+  ,   discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
+of    given   
+<br><br>If  ,  are independent<br><br><br>
+<br>If pmf of  and   
+<br><br>find <br>
+<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
+conditional distribution of  given X+   
+<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>
+3.    possible outcome with probability     independent trials <br><br>suppose given <br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:42:59 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Expectation).
+Let the joint pmf of  be  the conditional expectation of  given  
+<br><br><br>
+<br> ,  are <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> and<br>
+[identical](2. Covariance#^976001) Bin(  ,  )
+
+
+<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>
+find the  of hyper-geometric distribution<br>Definition.
+ is the function of Random veriable  whose value at  is  
+<br>Remark.
+ is a Random variable depends on Y
+<br>Remark.
+If  ,  independent then  
+<br>Theorem.
+ .
+<br>Proof.<br><br><br>
+<br>Miner trapped in mine<br>
+There are 3 roads that miner can escape to each road has a equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours<br>
+<img style="max-width:400px; " class="excalidraw-svg excalidraw-embedded-img excalidraw-canvas-immersive" src="https://sai-prabhav.github.io/bmath_notes/blob://3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3" filesource="Excalidraw/minor.md" w="400" draggable="false" oncanvas="false">
+<br>Let  be the RV time taken to escape  is the door number<br><br>
+<br> independent RV with <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> with  for all <br>
+ take value <br>
+ is independent of all <br>
+what is 
+
+
+Exercise.
+Roll a pair of dice if the sum is 2,3 or 12 player loses  if 7 or 11 wins if sum is any other    then the player continues to roll the dice sum is either 7 or    if it is  7 player losses<br>
+if it is    player wins<br>
+  is a RV rolls in a game
+
+
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 08:00:08 GMT</pubDate><enclosure url="https://sai-prabhav.github.io/bmath_notes/blob:app://obsidian.md/3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://sai-prabhav.github.io/bmath_notes/blob:app://obsidian.md/3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[6. Conditional Variance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( Conditional Variance).
+
+<br>Theorem.
+
+<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:56:53 GMT</pubDate></item><item><title><![CDATA[minor]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  357]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/minor.html</link><guid isPermaLink="false">Probability/minor.excalidraw</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:26:29 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -570,7 +632,7 @@ which can be written as<br><br>Therefore either<br><br>or <br><br>Case one: ( is
 let  we a primitive root of  as  is a quadratic residue<br>
  for some <br><br>this proves that <br><br>Case two: ( is a quadratic non-residue)<br>
  for some  as  is a quadratic non-residue<br>lets assume<br><br><br>Which contradicts  is a primitive root of <br>
-Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler&apos;s-criterion.html</link><guid isPermaLink="false">number_theory/Euler&apos;s criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
+Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html</link><guid isPermaLink="false">number_theory/Euler's criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
  <br>The aim of this note is to try and make a list of all possible prove that  has infinitely many primes type of question. This is an open note in the sense it is never complete <br>Theorem (Infinite Primes ).
 There are infinite Primes of the form  equivalently there are infinity many primes
 <br>Proof.<br>
@@ -728,60 +790,7 @@ if  high degree of linearity<br>
 consider    independent trials each of which results in any of  possible outcomes with Probability  
 
 <br><br><br>if  <br>
-lets take <br><br><br><br> Verify the above result as    completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 16:26:46 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
-  ,   discrete RV the conditional pmf of    given <br>
- only when 
-<br>Remark.
- 
-<br><br><br>Definition ( Conditional Cumulative Distribution function ).
-  ,   discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
-of    given   
-<br><br>If  ,  are independent<br><br><br>
-<br>If pmf of  and   
-<br><br>find <br>
-<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
-conditional distribution of  given X+   
-<br><br>
-<br>  possible outcome with probability     independent trials 
-
-suppose given 
-
-
-<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 06:15:26 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[ 
- <br>Definition (Conditional Expectation).
-Let the joint pmf of  be  the conditional expectation of  given  
-<br><br><br>
-<br> ,  are <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> and<br>
-[identical](2. Covariance#^976001) Bin(  ,  )
-
-
-<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>
-find the  of hyper-geometric distribution<br>Definition.
- is the function of Random veriable  whose value at  is  
-<br>Remark.
- is a Random variable depends on Y
-<br>Remark.
-If  ,  independent then  
-<br>Theorem.
- .
-<br>Proof.<br><br><br>
-<br>Miner trapped in mine<br>
-There are 3 roads that miner can escape to each road has a equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours 
-<br>let  be the RV time taken to escape  is the door number<br><br>
-<br> independent RV with <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> with  for all <br>
- take value <br>
- is independent of all <br>
-what is 
-
-
-Exercise.
-Roll a pair of dice if the sum is 2,3 or 12 player loses  if 7 or 11 wins if sum is any other    then the player continues to roll the dice sum is either 7 or    if it is  7 player losses<br>
-if it is    player wins<br>
-  is a RV rolls in a game
-
-
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:16:13 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+lets take <br><br><br><br> Verify the above result as    completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 16:26:46 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
  <br>Exercise 10.
  In a sequence of Bernoulli trials let X be the length of run (of either successes or failures) started by the first trial. 
 
