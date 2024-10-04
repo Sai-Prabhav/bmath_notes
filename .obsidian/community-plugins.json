@@ -11,5 +11,6 @@
   "dataview",
   "better-export-pdf",
   "webpage-html-export",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-excalidraw-plugin"
 ]

@@ -1485,6 +1485,7 @@ iiF
 iUF
 iPg
 intervals
+info
 note
 notes
 number
@@ -2612,6 +2613,7 @@ meta
 mine
 miner
 middle
+menu
 check
 cool
 co
@@ -2946,6 +2948,8 @@ coefficients
 convention
 continue
 comes
+command
+current
 how
 hello
 hi
@@ -5332,6 +5336,7 @@ bnA
 bzD
 bHJ
 back
+bdc
 great
 gather
 ggr
@@ -7578,6 +7583,9 @@ pPk
 pdf
 picked
 player
+plugin
+parsed
+palette
 Claim
 Creator
 Chrome
@@ -8598,6 +8606,10 @@ EUUk
 EST
 EL
 Expectation
+EXCALIDRAW
+Excalidraw
+Elements
+Embedded
 element
 elements
 exactly
@@ -8908,6 +8920,7 @@ entries
 else
 equations
 escape
+excalidraw
 other
 one
 order
@@ -11513,6 +11526,7 @@ FwKcF
 Fbt
 FbQ
 Fej
+Files
 Obsidian
 Ordering
 Oo
@@ -12061,6 +12075,7 @@ OGz
 Oat
 OwUI
 OuzIl
+OPTIONS
 AppleWebKit
 AM
 AAAAAA
@@ -14473,6 +14488,8 @@ Szkj
 SKUIu
 Seq
 Subcase
+Switch
+Saving
 BM
 BVvvzK
 BH
@@ -15659,6 +15676,8 @@ default
 depends
 door
 dice
+decompress
+data
 xl
 xD
 xG
@@ -18005,6 +18024,7 @@ VPP
 VBQB
 VCI
 Version
+VIEW
 yk
 yT
 yp
@@ -23862,6 +23882,8 @@ Distiller
 DjVu
 Document
 DocumentID
+Decompress
+Data
 UxA
 UNP
 UQ
