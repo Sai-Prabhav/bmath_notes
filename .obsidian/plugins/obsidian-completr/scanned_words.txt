@@ -385,6 +385,8 @@ terminates
 terminated
 trial
 total
+trapped
+taken
 is
 italics
 its
@@ -2607,6 +2609,9 @@ mPvTz
 mRmB
 mto
 meta
+mine
+miner
+middle
 check
 cool
 co
@@ -2940,6 +2945,7 @@ creator
 coefficients
 convention
 continue
+comes
 how
 hello
 hi
@@ -3574,6 +3580,7 @@ hWi
 hDCZd
 hDzL
 hyper
+hours
 want
 will
 wZFn
@@ -4127,6 +4134,7 @@ wWP
 wat
 wUV
 whose
+wins
 am
 and
 any
@@ -5323,6 +5331,7 @@ bAl
 bnA
 bzD
 bHJ
+back
 great
 gather
 ggr
@@ -5561,6 +5570,7 @@ gdtG
 gKG
 geometry
 geometric
+game
 learn
 let
 like
@@ -6125,6 +6135,8 @@ lDZ
 lSTl
 lang
 length
+loses
+losses
 small
 smaller
 same
@@ -7565,6 +7577,7 @@ pSfx
 pPk
 pdf
 picked
+player
 Claim
 Creator
 Chrome
@@ -8894,6 +8907,7 @@ eaf
 entries
 else
 equations
+escape
 other
 one
 order
@@ -10809,6 +10823,7 @@ Metadata
 MpCehiHzreSzNTczkc
 ModifyDate
 Maras
+Miner
 Title
 Theorem
 TH
@@ -15642,6 +15657,8 @@ duz
 dll
 default
 depends
+door
+dice
 xl
 xD
 xG
@@ -20096,6 +20113,7 @@ fzM
 format
 ffe
 failures
+fist
 rE
 ra
 ref
@@ -20499,6 +20517,10 @@ rdf
 roots
 repeat
 run
+roads
+road
+roll
+rolls
 ID
 Io
 Ie
@@ -23197,6 +23219,7 @@ RSF
 Rtzp
 RZIn
 RDF
+Roll
 DW
 DSI
 DI
