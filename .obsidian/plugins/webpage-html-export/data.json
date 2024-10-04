@@ -1,6 +1,6 @@
 {
   "settingsVersion": "1.8.01",
-  "makeOfflineCompatible": false,
+  "makeOfflineCompatible": true,
   "inlineAssets": false,
   "includePluginCSS": "math-booster\nquick-preview\nmath-in-callout\nrendered-block-link-suggestions\nobsidian-tikzjax\ndataview",
   "includeSvelteCSS": true,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/greenflame/Desktop/final_note/website",
+  "exportPath": "/home/greenflame/Desktop",
   "filesToExport": [
     [
       "linear algebra",

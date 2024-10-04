@@ -6531,6 +6531,7 @@ strokeColor
 solid
 strokeWidth
 strokeStyle
+sepr
 Proof
 PDF
 Producer
@@ -11579,6 +11580,7 @@ Fbt
 FbQ
 Fej
 Files
+Functions
 Obsidian
 Ordering
 Oo
@@ -12942,6 +12944,7 @@ Acrobat
 Alt
 Author
 Adding
+Arithmetic
 KHTML
 Kg
 Kn
@@ -24899,6 +24902,7 @@ UIim
 UTBJ
 UBB
 UkT
+UNvRSO
 YL
 Yq
 Yd
@@ -26263,6 +26267,7 @@ ZuG
 Zztl
 ZHRhW
 ZaUU
+ZLLra
 uA
 ui
 uv
