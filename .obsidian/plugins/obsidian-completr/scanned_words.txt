@@ -5170,6 +5170,7 @@ application
 angle
 autoResize
 appState
+arthmetic
 bold
 bye
 bigest
@@ -6532,6 +6533,8 @@ solid
 strokeWidth
 strokeStyle
 sepr
+statement
+semidefinite
 Proof
 PDF
 Producer
@@ -7110,6 +7113,8 @@ PTl
 PxSaM
 PaSUN
 PScript
+Positive
+Psoitive
 prime
 pv
 pW
@@ -8287,6 +8292,7 @@ Cwf
 CreatorTool
 CreateDate
 Che
+Convevolution
 Ever
 Every
 Environments
@@ -10888,6 +10894,7 @@ Maras
 Miner
 Mxy
 MBYDBIfej
+Mobious
 Title
 Theorem
 TH
@@ -11370,6 +11377,8 @@ Tnq
 TGQ
 TFR
 TyaxuiVdKm
+TODO
+Terminology
 Fermat
 Filter
 FlateDecode
@@ -11581,6 +11590,7 @@ FbQ
 Fej
 Files
 Functions
+Formula
 Obsidian
 Ordering
 Oo
@@ -12945,6 +12955,7 @@ Alt
 Author
 Adding
 Arithmetic
+Associativity
 KHTML
 Kg
 Kn
@@ -15365,6 +15376,7 @@ NepL
 Nums
 NgpYKk
 NfwcGh
+Negative
 ds
 dR
 dr
@@ -20615,6 +20627,7 @@ rolls
 roundness
 roughness
 rMZ
+reduce
 ID
 Io
 Ie
@@ -21469,6 +21482,7 @@ IzA
 IiJ
 IjI
 InstanceID
+Inverse
 qq
 qk
 qH
@@ -23959,6 +23973,8 @@ Document
 DocumentID
 Decompress
 Data
+Dirichet
+Definite
 UxA
 UNP
 UQ
