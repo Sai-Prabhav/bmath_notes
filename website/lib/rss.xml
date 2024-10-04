@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 08:01:57 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 08:01:54 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 08:11:27 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 08:11:27 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
   ,   discrete RV the conditional pmf of    given <br>
  only when 
@@ -52,15 +52,7 @@ if it is    player wins<br>
 
 <br>Theorem.
 
-<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:56:53 GMT</pubDate></item><item><title><![CDATA[minor]]></title><description><![CDATA[ 
- 
-  
-  
-  
-    
-    
-  
-  357]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/minor.html</link><guid isPermaLink="false">Probability/minor.excalidraw</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:26:29 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:56:53 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
