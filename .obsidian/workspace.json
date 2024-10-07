@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "655ec4c5ef29339b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/7. Average of Arithmetic Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
+                "file": "number_theory/7. Average of Arithmetic Function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
+                "file": "number_theory/7. Average of Arithmetic Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md"
+                "file": "number_theory/7. Average of Arithmetic Function.md"
               }
             }
           }
@@ -163,12 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1375c06f0c209c",
+  "active": "b8b5c15c37ed83e0",
   "lastOpenFiles": [
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/7. Average of Arithmetic Function.md",
     "number_theory/4. Arithmetic Functions.md",
     "real analyses/4. Continuity of Functions.md",
     "number_theory/5. The Mobius Inverse Formula.md",
-    "number_theory/6. Multiplicative Functions.md",
     "real analyses/3. Convergences of Series.md",
     "number_theory/2. Sum of Two Squares.md",
     "Custom Commands.md",
@@ -191,7 +204,6 @@
     "All Quaries.md",
     "question.md",
     "Probability/3. Corelation Coefficient.md",
-    "Probability/2. Covariance.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "snippet/my_snippet.jmd",
     "snippet/my_snippet.js",

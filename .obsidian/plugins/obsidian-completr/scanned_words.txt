@@ -6539,6 +6539,7 @@ sepr
 statement
 semidefinite
 surjective
+solve
 Proof
 PDF
 Producer
@@ -7636,6 +7637,7 @@ parsed
 palette
 pressures
 pMMcsfiPE
+proved
 Claim
 Creator
 Chrome
@@ -27609,3 +27611,4 @@ WHz
 Windows
 WQtAyOaCDTRerVxlN
 WkzgwcZ
+Write
