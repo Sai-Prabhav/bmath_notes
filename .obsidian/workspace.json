@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/4. Arithmetic Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f1375c06f0c209c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/6. Multiplicative Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/6. Multiplicative Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "number_theory/6. Multiplicative Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md"
+                "file": "number_theory/6. Multiplicative Functions.md"
               }
             }
           }
@@ -150,16 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5576d1842196d040",
+  "active": "1f1375c06f0c209c",
   "lastOpenFiles": [
-    "real analyses/3. Convergences of Series.md",
-    "real analyses/4. Continuity of Functions.md",
-    "number_theory/2. Sum of Two Squares.md",
     "number_theory/4. Arithmetic Functions.md",
+    "real analyses/4. Continuity of Functions.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "real analyses/3. Convergences of Series.md",
+    "number_theory/2. Sum of Two Squares.md",
     "Custom Commands.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/4. Conditional distribution.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/3. Binary.md",
     "Index.md",
     "Probability/exercises_4.pdf",
@@ -180,7 +194,6 @@
     "Probability/2. Covariance.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "snippet/my_snippet.jmd",
-    "linear algebra/3. Rank.md",
     "snippet/my_snippet.js",
     "snippet/old_snippet.js",
     "Untitled.canvas",

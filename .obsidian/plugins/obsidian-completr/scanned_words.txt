@@ -1492,6 +1492,7 @@ index
 isDeleted
 iQW
 ixSZ
+injective
 note
 notes
 number
@@ -2627,6 +2628,7 @@ mQS
 mJX
 mybMUFd
 mUyWv
+multiplicative
 check
 cool
 co
@@ -5359,6 +5361,7 @@ back
 bdc
 boundElements
 backgroundColor
+bijection
 great
 gather
 ggr
@@ -6535,6 +6538,7 @@ strokeStyle
 sepr
 statement
 semidefinite
+surjective
 Proof
 PDF
 Producer
@@ -8295,6 +8299,7 @@ Che
 Convevolution
 CnT
 Convolution
+Completely
 Ever
 Every
 Environments
@@ -10899,6 +10904,7 @@ Mxy
 MBYDBIfej
 Mobious
 Mobius
+Multiplicative
 Title
 Theorem
 TH
