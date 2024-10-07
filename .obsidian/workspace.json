@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,40 +150,77 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1375c06f0c209c",
+  "floating": {
+    "id": "d172cfc6c1a60f68",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ed83edb80d80f180",
+        "type": "window",
+        "children": [
+          {
+            "id": "212043bda26620ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fda5329088fb608f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fda5329088fb608f",
   "lastOpenFiles": [
-    "real analyses/balzano-Wriestrs theorem.md",
-    "website/real-analyses/balzano-wriestrs-theorem.html",
-    "website/number_theory/7.-average-of-arithmetic-function.html",
-    "website/number_theory/6.-multiplicative-functions.html",
-    "website/number_theory/5.-the-mobius-inverse-formula.html",
-    "website/number_theory/4.-arithmetic-functions.html",
+    "Index.md",
+    "All Quaries.md",
+    "real analyses/4. Continuity of Functions.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
+    "Probability/Poisson.md",
+    "Probability/Exercise 4 Solutions.md",
+    "Probability/6. Conditional Variance.md",
     "Probability/5. Conditional Expectation.md",
+    "Probability/4. Conditional distribution.md",
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
+    "number_theory/Mid Sem Questions.md",
+    "number_theory/Infinite Primes.md",
+    "number_theory/Euler's criterion.md",
     "number_theory/7. Average of Arithmetic Function.md",
     "number_theory/6. Multiplicative Functions.md",
     "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/4. Arithmetic Functions.md",
     "number_theory/3. Binary.md",
     "number_theory/2. Sum of Two Squares.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "Probability/6. Conditional Variance.md",
-    "Custom Commands.md",
-    "real analyses/4. Continuity of Functions.md",
-    "Probability/4. Conditional distribution.md",
-    "Index.md",
-    "Probability/exercises_4.pdf",
-    "Probability/Exercise 4 Solutions.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "snippet/old_snippet.md",
-    "snippet/my_snippet.md",
-    "Probability/Poisson.md",
-    "Untitled.md",
+    "linear algebra/Problems.md",
+    "linear algebra/3. Rank.md",
+    "website/real-analyses/balzano-wriestrs-theorem.html",
+    "website/number_theory/7.-average-of-arithmetic-function.html",
+    "website/number_theory/6.-multiplicative-functions.html",
+    "website/number_theory/5.-the-mobius-inverse-formula.html",
+    "website/number_theory/4.-arithmetic-functions.html",
+    "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "snippet/my_snippet.jmd",
     "snippet/my_snippet.js",
