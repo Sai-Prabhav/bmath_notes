@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5576d1842196d040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "number_theory/4. Arithmetic Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f1375c06f0c209c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655ec4c5ef29339b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,45 +150,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8b5c15c37ed83e0",
+  "active": "1f1375c06f0c209c",
   "lastOpenFiles": [
-    "number_theory/6. Multiplicative Functions.md",
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/4. Arithmetic Functions.md",
-    "real analyses/4. Continuity of Functions.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
+    "real analyses/balzano-Wriestrs theorem.md",
+    "website/real-analyses/balzano-wriestrs-theorem.html",
+    "website/number_theory/7.-average-of-arithmetic-function.html",
+    "website/number_theory/6.-multiplicative-functions.html",
+    "website/number_theory/5.-the-mobius-inverse-formula.html",
+    "website/number_theory/4.-arithmetic-functions.html",
     "real analyses/3. Convergences of Series.md",
-    "number_theory/2. Sum of Two Squares.md",
-    "Custom Commands.md",
+    "real analyses/2. Limit Points.md",
+    "real analyses/1. Cauchy Criterion.md",
     "Probability/5. Conditional Expectation.md",
-    "Probability/4. Conditional distribution.md",
+    "Probability/3. Corelation Coefficient.md",
+    "Probability/2. Covariance.md",
+    "Probability/1. Multinomial Distribution.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/4. Arithmetic Functions.md",
     "number_theory/3. Binary.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "Probability/6. Conditional Variance.md",
+    "Custom Commands.md",
+    "real analyses/4. Continuity of Functions.md",
+    "Probability/4. Conditional distribution.md",
     "Index.md",
     "Probability/exercises_4.pdf",
     "Probability/Exercise 4 Solutions.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "Probability/1. Multinomial Distribution.md",
     "snippet/old_snippet.md",
     "snippet/my_snippet.md",
     "Probability/Poisson.md",
-    "real analyses/1. Cauchy Criterion.md",
-    "real analyses/2. Limit Points.md",
     "Untitled.md",
-    "number_theory/Euler's criterion.md",
-    "number_theory/Infinite Primes.md",
-    "All Quaries.md",
-    "question.md",
-    "Probability/3. Corelation Coefficient.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "snippet/my_snippet.jmd",
     "snippet/my_snippet.js",
     "snippet/old_snippet.js",
     "Untitled.canvas",
-    "snippet",
-    "website/probability/4.-conditional-distribution.html",
-    "website/probability/3.-corelation-coefficient.html",
-    "LICENSE",
-    "website/number_theory/euler's-criterion.html",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
     "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",

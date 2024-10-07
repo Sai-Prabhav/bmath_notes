@@ -1,58 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 08:11:27 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 08:11:27 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
-  ,   discrete RV the conditional pmf of    given <br>
- only when 
-<br>Remark.
- 
-<br><br><br>Definition ( Conditional Cumulative Distribution function ).
-  ,   discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
-of    given   
-<br><br>If  ,  are independent<br><br><br>
-<br>If pmf of  and   
-<br><br>find <br>
-<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
-conditional distribution of  given X+   
-<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>
-3.    possible outcome with probability     independent trials <br><br>suppose given <br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:42:59 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Expectation).
-Let the joint pmf of  be  the conditional expectation of  given  
-<br><br><br>
-<br> ,  are <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> and<br>
-[identical](2. Covariance#^976001) Bin(  ,  )
-
-
-<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>
-find the  of hyper-geometric distribution<br>Definition.
- is the function of Random veriable  whose value at  is  
-<br>Remark.
- is a Random variable depends on Y
-<br>Remark.
-If  ,  independent then  
-<br>Theorem.
- .
-<br>Proof.<br><br><br>
-<br>Miner trapped in mine<br>
-There are 3 roads that miner can escape to each road has a equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours<br>
-<img style="max-width:400px; " class="excalidraw-svg excalidraw-embedded-img excalidraw-canvas-immersive" src="https://sai-prabhav.github.io/bmath_notes/blob://3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3" filesource="Excalidraw/minor.md" w="400" draggable="false" oncanvas="false">
-<br>Let  be the RV time taken to escape  is the door number<br><br>
-<br> independent RV with <a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^e3530d</a><a data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; Definition 2.6 (Independence of Random Variable)</a> with  for all <br>
- take value <br>
- is independent of all <br>
-what is 
-
-
-Exercise.
-Roll a pair of dice if the sum is 2,3 or 12 player loses  if 7 or 11 wins if sum is any other    then the player continues to roll the dice sum is either 7 or    if it is  7 player losses<br>
-if it is    player wins<br>
-  is a RV rolls in a game
-
-
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 08:00:08 GMT</pubDate><enclosure url="https://sai-prabhav.github.io/bmath_notes/blob:app://obsidian.md/3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://sai-prabhav.github.io/bmath_notes/blob:app://obsidian.md/3b974fe2-c4bb-41c1-97ee-6ff5fb4fe8d3"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[6. Conditional Variance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( Conditional Variance).
-
-<br>Theorem.
-
-<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:56:53 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Oct 2024 14:53:22 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Oct 2024 14:53:10 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -74,7 +20,655 @@ An infinite subset  of  is said to be a basis iff  and  is linearly independent
 <br><br>If  is the sequence <br>
 If  is the sequence Infinite<br>
 and so on<br>
- is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a><a data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces &gt; ^8a560a</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 26 Sep 2024 13:41:40 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5th example</a><a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5th example</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:36:53 GMT</pubDate></item><item><title><![CDATA[2. Sum of Two Squares]]></title><description><![CDATA[ 
+ <br>Lemma.
+If  and  are each the sum of two squares then so is there product 
+<br>Proof.<br>
+<br>
+□<br>Theorem.
+A prime  of form  can not be written as a sum of two squares
+<br>Proof.<br><br>□<br>Lemma.
+let  be a prime and let <br>
+The the congruenc<br>
+<br>
+admits a solution  where<br>
+ and 
+<br>Proof.<br>
+<br>
+consider the set<br>
+<br>
+Note that <br>
+<a data-tooltip-position="top" aria-label="1. Pigeonhole Principle > ^6b5eb7" data-href="1. Pigeonhole Principle#^6b5eb7" href="https://sai-prabhav.github.io/bmath_notes/1. Pigeonhole Principle#^6b5eb7" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="1. Pigeonhole Principle > ^6b5eb7" data-href="1. Pigeonhole Principle#^6b5eb7" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html#^6b5eb7" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Pigeonhole Principle</a> implies that<br>
+ where  or  such that<br><br>take,<br><br>Note: <br><br>□<br>Theorem.
+An odd prime  is expressed as a sum of two squares iff<br>
+
+<br>Proof.<br>“only if” part is done in <a data-href="2. Sum of Two Squares#^8e7812" href="https://sai-prabhav.github.io/bmath_notes/2. Sum of Two Squares#^8e7812" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares &gt; ^8e7812</a><a data-href="2. Sum of Two Squares#^8e7812" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html#^8e7812" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares &gt; Theorem 2.2</a><br>
+let  There exists an integer a such that <br><br><br>Please help me again<br>
+In fact, we can take  where  is the primitives root of <br>
+Note that <br>
+□<br>Corollary (Uniqueness of  such that ).<br>Proof.<br>
+<br><br><br>
+<br>
+lets assume W.L.O.G  <br><br>Then<br><br>similarly we can show  <br>if we chose  then we get  and  <br>hence They are unique<br>
+□<br>Theorem.
+let the positive integers n be written as  where  is square-free. Then  can be represented as the sum of two squares if and only if  contains no prime factor of the form 
+<br>Proof.<br>
+Suppose  where  has no prime factor of the form  if  then  done.<br>
+Let  write  .<br>
+Each of the prime , being of the form , can be written as the sum of squares,<br>
+which implies there product  also can be written as .<br><br>The other way.<br>
+Suppose,<br>
+<br>
+assume that  and let  be an odd prime divisor of <br>
+let  then<br>
+ and  where <br>
+This gives <br>
+since  is square-free we have <br>
+<br>
+since  ,  cannot divide both  and <br>
+<br>
+we can find  such that <br><br><br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:39:04 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
+A binary quadratic form (bqf) is a polynomial of the form<br>
+ with <br>
+we may think of it as a function<br>
+<br>
+<br>
+In short we write  
+<br><br>Definition (Primitive QBF).
+We say that  is a primitive if 
+<br>Definition (Represents and Primitively Represents ).
+We say that  represents the integer  for some <br>
+We it represent primitively or properly if  and  
+<br>Remark.
+The same number can be represented primitively and non primitively
+<br>Definition ( Disc of Binary Quadratic Form).
+for  we define 
+<br><br>Proposition.
+Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
+i) then  represent 0   is a square<br>
+ii)  all non zero values represented by  are of the same sign
+<br>Proof.<br>
+Case I:  then<br><br>also <br><br>this proves i) for this case<br>
+for ii) <br>
+then <br>
+This shows that all values of  has the same sign of  <br>Case II:  then,<br><br><br>Clearly,  is represented when  <br><br>such that<br><br>which implies  is a square.<br>
+for ii) if  then clearly<br>
+ so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
+conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
+let  be a  <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>with .<br>
+Then for a given  there are at most a finite number of  such that 
+<br>Proof.<br>
+say  then<br><br>which show  has finitely many values<br>
+also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
+This is false for  example 
+<br> Say  then<br>
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
+<br> set of all <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> with integer coefficients
+<br> set of all  Matrices with integer entries
+<br> set of all  Invertable Matrices with integer entries note the determinant here is 1 or -1
+<br> set of all  Matrices with integer entries and determinant <br>
+Note:  and  are both groups and  is the sub group of 
+<br>let  and <br><br>Define the new <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
+Let  then
+
+<br>
+<br> 
+
+<br>Proof.<br>
+i) <br><br>ii) <br><br>□<br><br>Definition.
+let , <br>
+we say that  is equivalent to  if  st <br>
+we say  is properly equivalent to  if  st <br>
+Notation<br>
+ equivalent<br>
+ properly equivalent 
+<br>Definition (mat of Binary Quadratic Form).
+
+<br>Exercise.
+what is 
+<br>Hint:<br><br>let  <br><br><br>Hence  <br>Theorem.
+let <br>
+i) then <br>
+ii)  and  represents the same set of integers the same number of times<br>
+iii)   and  are either both primitive or both non-primitive
+<br>Proof.<br>
+i) say  with <br><br>ii) say <br>
+then <br><br>if <br><br>iii)<br><br>then  divides <br>
+since the set of the values of  and  are he same it follows that  divides <br>
+if  is primitive then  is the maximum value of  which implies   is primitive<br>
+if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
+let  and  then  represents  properly iff<br>
+<br>
+form some <br>
+moreover if  then   such that 
+<br>Proof.<br>
+suppose <br>
+say,  <br><br>then<br><br>since      primitively represent n<br>
+Now the other way<br>
+assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
+let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
+let  where <br><br>Remark (principle forms of disc ).
+ can be  and they can be simply represented by<br>
+ if <br>
+ if <br>
+these are known as principal forms of disc  
+<br>Theorem (Lagrange).
+Let . The following are equivalent 
+
+<br> is a square 
+<br>there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>   of discriminant  which properly represents  
+
+<br>1 2<br>
+say  for some  <br>
+let  then  so  properly represents <br>
+2  1<br>
+let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a><br>
+since <br>
+we get <br><br>Hence  is a square mod  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
+let  let  be a prime such that   Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
+<br> Proof.<br>
+from <a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Lagrange</a><a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lagrange</a><br>
+we know    of disc     properly represents    iff    then <br>So    represents  <br>
+By Lagrange, there is a bqf  which properly represents . Then we know that  <br><br>for some  with  Now  converts <br>
+so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
+As above we may take <br><br>with <br>
+we need to prove that <br>
+since  have the same discriminant we have<br><br> why cant 4 divide one of it and the other be odd?  for both    and  should have the same parity or the congruence to 4 wont hold<br>if  then we are done    and   <br>
+so suppose  but  <br><br>so in any case <br>
+it follows that <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
+recall that  is a discriminant  <br>Definition (Fundamental Discriminant).
+We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive
+<br><br> is a fundamental discriminant for if  is of discriminant  and if  then  which implies .<br>
+ is a fundamental discriminant.<br>
+ is a fundamental discriminant.<br>
+as if  then  can be  if  is .<br>
+ has a disc of  The second equation is also a discriminant hence it cant be equal to .<br>Proposition.
+let  be a discriminant. Then  is a fundamental discriminant if<br>
+i)  and  is square free<br>
+ii)  and  is square free and 
+<br>Proof.<br>
+Let  be a fundamental discriminant <br>Case I: <br>
+we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
+but then the above bqf is not primitive hence  should be square free<br>
+Case II: <br>If <br>
+ is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
+Finally we prove that is square free <br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:27-sep" class="tag" target="_blank" rel="noopener">#27-sep</a><br>Exercise.
+What are all the bqf of disc 0?
+<br>Suppose   has disc 0, say <br>case I: <br>
+then <br>
+hence <br>
+case II:  <br>
+then <br><br>there fore <br><br>for some  again <br><br>suppose <br>now let <br><br>is  (NO!)<br>
+as <br>
+and <br>
+hence if   and  are complete different.<br>
+hence there are infinitely many bqf of discriminant 0 which are in equivalent <br>Proposition.
+Let   with . Then up to proper equivalence there are only finitely many distinct  bqf of discriminant    
+<br>Proof.<br>
+Let  be of  hence  properly represents  and hence <br><br>write  with  then<br><br>so there are at most  distinct form up to proper equivalence<br>□<br>Lemma (Lagrange Reduction).
+Let  be a discriminant  and not a square<br>
+Then,  is properly equivalent to a form (a,  ,c) with <br>
+also, such a form  satisfying  
+<br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
+Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a>.<br><br><br>□<br>Theorem ( Lagrange).
+Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
+<br>Proof.<br>
+we know<br>
+ with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
+□<br><br>Definition.
+let  be a discriminant<br>
+ set of proper equivalence classes of bqf of <br>
+ set of proper equivalence classes of primitive bqf of disc  <br>
+we have  this is know as the Class Number of    
+<br><br>
+<br>What is <br>
+Since  we assume <br>
+then note that <br>
+than <br>
+since 
+<br><br>thus the only possibility is  hence .<br>
+Also  then<br><br>since  we have  then<br><br>also recall that if   primitively represents p<br>
+ . , if , then there exist  such that <br>
+Now, <br>
+Then every prime  can be written as a sum of square.<br>Theorem.
+let  then <br>
+Gauss conjecture that  for any other  
+<br>Conjecture (UNSOLVED).
+Are there infinitely many  ..  
+<br>Proof.<br>
+□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:30-sep" class="tag" target="_blank" rel="noopener">#30-sep</a><br>Remark.
+ set of proper equivalence classes of primitive bqf of discriminant    with convetion that bqf are assumed to be positive if    ,  . for  with  we always assume 
+<br><br>
+<br>From now on we shall assume that our bqf are of negative discriminant with positive values. That is  with 
+<br>Definition ( Gaussian Reduction).
+A bqf  with  is said to be Reduced if either<br>
+  or  
+<br>Lemma.
+Let  be reduced bqf of discriminant  , then  is the smallest value of <br>
+i) There are exactly 2 primitive vectors    .  .  namely  and exactly two primitive vectors    .  .  namely   unless  , in which case there are four vector's    .  .  namely <br>
+ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
+<br>Proof.<br>Remark.
+  if  is primitive iff 
+<br>Let  then for any  <br><br>Now at  say  first<br>
+then <br>
+now <br>
+Hence <br><br>similarly for  <br>
+now <br>
+indeed  in all other cases its grater than  <br>
+Then  unless ( ) or ( and  )<br>
+or<br>
+ unless  or(  and )<br>□<br>Theorem.
+Let<br>
+<br>
+<br>
+be reduced bqf of the same discriminant with  then   
+<br>Proof.<br>Since minimum values of are equal hence  say<br>
+Case I <br>
+in this case  has exactly 2 solutions namely <br>
+hence  also has exactly 2 solutions namely  <br>
+as if  then  has &gt;3 solutions<br>
+Also <br><br>by uniqueness we get <br>
+hence <br>
+then <br>So <br>
+Thus <br>
+since  are reduced we have  and  <br><br> <br>Adding the above 2 equations <br> <br>
+thus <br>Case II <br>In this case  so  as  is reduced<br>
+Subcase A: <br>
+In this case <br>
+has exactly four primitive solutions, <br>
+then  will also have exactly four solution hence <br>
+then <br>
+since<br><br>we get  so  since both are non negative <br>Subcase  : <br>
+thus <br>
+hence<br>
+ has six primitive solution so  also has six primitive solution thus  thus <br>□<br>Proposition.
+Let  be a reduced bqf of disc  if gcd(  ,y)=1 and <br>
+then 
+<br>Proof.<br>
+we know that  for  hence <br><br>
+if ,<br>
+when  we can have  or else  <br><br>if  and <br><br> if  and <br>
+if  and <br><br> if  and <br>
+hence for all values of  we have verified that  can only be between  ,  iff  <br>□<br>Theorem.
+Let    be a bqf of discriminant  then there is a reduced bqf  such that 
+<br>Proof. 1<br>
+by Lagrange reduction lemma there is a form  such that  and  since by convention all values are positive we have <br>
+ now if  then we are done<br>
+case I  but b&lt;0<br>
+in this case <br>case II a&lt;   but b=-a<br>
+in this case<br>
+<br>
+<br>
+□<br>Proof. 2 (Constructive )<br>Let <br>
+if  is reduced nothing to do if not either  but <br>Case I <br>
+in this case <br><br>Case II:  but <br>
+Sub-case A: <br>
+then  say<br><br>sub-case  : <br>
+in this case <br><br>here again <br>
+Sub-case   : <br>
+here <br>
+in this case the process completes<br>
+In general continues this way we get a sequence<br>
+<br>
+as the sum is reducing this will complete at some point the last step has the reduced form <br><br>
+<br><br>
+it is not reduced<br>
+lets reduce the b
+
+
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br><br>A bqf  is said to be <br>Definition ( Positive semidefinite ).
+
+<br>Definition ( Positive Definite ).
+if <br>
+and 
+<br>Definition (Negative semidefinite ).
+
+<br>Definition ( Negative  Definite ).
+if <br>
+and 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 06 Oct 2024 05:04:59 GMT</pubDate></item><item><title><![CDATA[4. Arithmetic Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( Arithmetic Functions ).
+Arithmetic Functions is a function from  
+<br><br><br><br><br><br><br>Let   ,    be <a data-tooltip-position="top" aria-label="^919b57" data-href="#^919b57" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Functions</a><a data-tooltip-position="top" aria-label="^919b57" data-href="#^919b57" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Functions</a> we define <br><br><br>
+<br>For any   we have 
+
+
+<br>
+
+Associativity 
+
+
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html</link><guid isPermaLink="false">number_theory/4. Arithmetic Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 06 Oct 2024 05:09:32 GMT</pubDate></item><item><title><![CDATA[5. The Mobius Inverse Formula]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( The Mobius Inverse Formula).
+let    ,    be  arthmetic function then<br>
+
+<br>Proof.<br><br><br>
+<br> prove the statement
+<br><br>
+and hence prove by <a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mobius Inverse Formula</a>  
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html</link><guid isPermaLink="false">number_theory/5. The Mobius Inverse Formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 08:29:23 GMT</pubDate></item><item><title><![CDATA[6. Multiplicative Functions]]></title><description><![CDATA[ 
+ <br>Definition ( Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called multiplicative if   and 
+<br>Remark.
+If    is multiplicative then 
+<br>Definition (Completely Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called Completely multiplicative if  
+<br><br> are <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> <br> are non-multiplicative<br>Theorem.
+Prove  is  <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> 
+<br>Proof.<br>
+lets show there is a bijection <br><br>let  we want to find    .  .<br><br>let <br><br>Hence <br>
+this prove  is surjective<br>
+now lets prove    is injective <br><br>hence    is bijection<br>
+□<br>Proposition.
+If    and    are multiplicative then so is . conversly if     and  is multiplicative the    is multiplicative 
+<br>Proof.<br>
+Write <br>
+let  we want to show that <br><br><br>suppose    is not multiplicative<br>
+then there    .  . <br><br>chose such   ,   so that  is the smallest possible <br>Case I suppose <br>
+then <br>
+now <br><br>then    is not multiplicative<br>
+so <br>
+now <br><br>as  is not 0 then  is not multiplicative<br><br>Corollary.
+Let    and    such that  then    is multiplicative     is multiplicative
+<br>Proposition.
+ Let    and    then  exist if 
+<br>Proof.<br>suppose  exist then <br><br>conversely suppose <br>
+suppose  then we must have<br><br>lets solve it by induction <br>suppose  is defined<br>
+we want to define  now we need<br>
+such that <br><br>this completes the proof<br>
+□ <br><br>
+<br>
+<br>find <br>
+as  is multiplicative so is   so its sufficient to find  for all primes and    
+<br><br>Remark.
+If  then 
+<br><br>proof<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html</link><guid isPermaLink="false">number_theory/6. Multiplicative Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 09:56:03 GMT</pubDate></item><item><title><![CDATA[7. Average of Arithmetic Function]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a> <br>Definition (Average of Arithmetic Function).
+ Let    be a <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a> then I define average as<br>
+
+<br><br>For example for <br><br>Theorem ( Euler maclaius summation Formula).
+Let  be real numbers and  ( .    exist and is continuous)<br>
+then
+<br><br>where  is the fractional part of t<br><br>i) <br><br>where  means something  is absolute value   .i<br><br>for some  and    Large<br>
+Here  is known as the Euler maclaurin  constant<br>proof:<br>
+Now by E-M<br><br>complete the madness<br>proof of E-M<br>we have<br><br>the rest is exercise<br>
+decide if you should complete it]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html</link><guid isPermaLink="false">number_theory/7. Average of Arithmetic Function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 14:51:58 GMT</pubDate></item><item><title><![CDATA[1. Multinomial Distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a><br>Definition (Multinomial Distribution).
+ independent and identical experiments. Each experiments results in one of  possible outcomes, with probability   such that  <br>
+ is number of results in outcome <br>
+whenever  
+<br><br>this is also written as the Multinomial <br>this is called the Multinomial <br>Remark (Multinomial as Binomial).
+when  Multinomial is same as Binomial
+<br>Remark.<br><br>Definition (Independence of Random Variable ).
+Let  take values be <br>
+let  take values <br>
+The random variables  and  are independent if<br>
+ 
+<br><br>Remark.
+Equivalently  are independent if for all <br>
+ 
+<br>Theorem.
+ and  are independent if and only if<br>
+
+<br>Proof.<br>let <br><br>The other way <br><br>□<br><br>Exercise.
+Given random number of balls of <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a> ()<br>
+Each ball is colored white with probability  and Black with probability <br>
+let<br>
+ Total number of balls<br>
+ number of white balls<br>
+ number of black balls
+<br>Solution:<br><br>Remark.
+If number of balls fixed say  then clearly  is clearly not independent
+<br>Remark.
+if  Then  are independent from<a data-href="#^716f78" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^716f78" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^716f78</a><a data-href="#^716f78" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^716f78" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.1)</a> 
+<br>Exercise.
+Let number of balls  Geometric<br>
+<br>
+Color each ball white with probability <br>
+Color each ball black with probability <br>
+ Number of white balls<br>
+ Number of black balls<br>
+show that  is not independent
+<br>Exercise (Sum of Poisson Variables).
+<br>
+<br>
+show that 
+<br>Exercise (Sum of Binomials).
+<br>
+<br>
+show that 
+<br> have joint pmf <br>
+<br><br>we saw earlier<br>
+<br><br>Theorem.
+If  and  are independent then
+<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:42:16 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
+The Covariance between  and  is 
+<br><br>Remark.
+If  is independent<br>
+The converse may not be true
+<br>Exercise.
+(i) <br>
+(ii) <br>
+(iii) <br>
+(iv) 
+<br>Proof.<br>
+(i)<br>
+(ii)<br>
+(iii)<br><br>(iv) let<br><br>Lemma.
+
+<br>Proof.<br><br>□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
+let  are random variable they are independent if 
+<br><br><br>Definition (identical Random Variable ).
+let  are random variable they are Identical if<br>
+
+<br><br>let  are independent and identically distributed random variable<br>
+let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
+Polulation of  people voting in election  is a candiditte for election
+<br>for each person  in population<br><br><br>Proportion in favor of <br>
+Take sample of size  from population.<br>
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^02f340</a><a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a>  <br><br><br><br><br><br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:42:35 GMT</pubDate></item><item><title><![CDATA[3. Corelation Coefficient]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Corelation Coefficient).
+The correlation coefficient between    and Y
+<br><br>Lemma.
+
+<br>let  standard deviation of    <br><br>similarly<br><br>Remark.
+Say  with Probability 1<br>
+if 
+<br>Remark.
+Recall for discrete Random variable, we need to focus on values that RV takes<br>
+that is  with  for all 
+<br><br> is measure of linear relation between    and  <br>
+if  high degree of linearity<br>
+ say   ,   is uncorrelated <br><br>
+<br>
+
+
+<br><br>
+<br>
+ <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> and <a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^976001" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">identically</a><a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^976001" class="internal-link mathLink-internal-link" target="_self" rel="noopener">identically</a>distribution (IID)
+
+
+
+<br>
+consider    independent trials each of which results in any of  possible outcomes with Probability  
+
+<br><br><br>if  <br>
+lets take <br><br><br><br> Verify the above result as    completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:43:19 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Expectation).
+Let the joint pmf of  be  the conditional expectation of  given  
+<br><br><br>
+<br> ,  are <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> and<br>
+<a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^976001" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">identical</a><a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^976001" class="internal-link mathLink-internal-link" target="_self" rel="noopener">identical</a>Bin(  ,  )
+
+
+<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>
+find the  of hyper-geometric distribution<br>Definition.
+ is the function of Random veriable  whose value at  is  
+<br>Remark.
+ is a Random variable depends on Y
+<br>Remark.
+If  ,  independent then  
+<br>Theorem.
+ .
+<br>Proof.<br><br><br>
+<br>Miner trapped in mine<br>
+There are 3 roads that miner can escape to each road has a equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours<br>
+
+  
+  
+  
+    
+    
+  
+  EXIT5 HOURS3 HOURS7 HOURSDOOR 1DOOR 3DOOR 2
+<br>Let  be the RV time taken to escape  is the door number<br><br>
+<br> <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> RV with  for all <br>
+ take value <br>
+ is independent of all <br>
+what is 
+
+
+<br><br>Exercise.
+Roll a pair of dice if the sum is 2,3 or 12 player loses  if 7 or 11 wins if sum is any other    then the player continues to roll the dice sum is either 7 or    if it is  7 player losses<br>
+if it is    player wins<br>
+  is a RV rolls in a game
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 06 Oct 2024 05:15:32 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
+ <br>Definition (Convergence sequence).
+A sequence  of real numbers is said to be converges to a real number  if for every , there exist  such that<br>
+
+<br>Definition (Cauchy Sequence ).
+A sequence  of real number is said to be Cauchy if for every , There exist  such that
+
+<br>Theorem (Bolzano-Weierstrass).
+Every bounded sequence of real numbers has a convergent sequence.
+<br>Theorem (Convergent Sequences are Cauchy).
+Let   be a convergent sequence of real number. Then   is a Cauchy.
+<br>Proof.<br>
+suppose  converges to <br>
+for every  such that <br><br>Now for <br><br>□<br>Lemma (Cauchy Sequences are Bounded).
+let  be a Cauchy sequence<br>
+Then it is bounded
+<br>Proof.<br>
+Take  As  is Cauchy There exist  such that <br><br>take  Then,<br><br>That is <br>
+so <br>
+then  where <br>
+□<br>Theorem (Every Cauchy Sequence is Convergent).
+Let  be a Cauchy sequence of real number. Then   is convergent
+<br>Proof.<br>By the theorem <a data-tooltip-position="top" aria-label="^0e5611" data-href="#^0e5611" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0e5611" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Cauchy Sequences are Bounded</a><a data-tooltip-position="top" aria-label="^0e5611" data-href="#^0e5611" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0e5611" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Cauchy Sequences are Bounded</a>  is bounded. Then by <a data-tooltip-position="top" aria-label="^59b909" data-href="#^59b909" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^59b909" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Bolzano-Weierstrass Theorem</a><a data-tooltip-position="top" aria-label="^59b909" data-href="#^59b909" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^59b909" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Bolzano-Weierstrass Theorem</a>  has a convergent sequence.<br>
+Suppose  is a Convergent sequence<br>
+Take <br>
+For  such that<br><br> such that<br><br>Take <br>Then  by<a data-href="#^40d31f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^40d31f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^40d31f</a><a data-href="#^40d31f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^40d31f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.2)</a><br>
+now for <br><br>from<a data-href="#^cead38" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^cead38" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^cead38</a><a data-href="#^cead38" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^cead38" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.1)</a><br>
+<br>
+<br>
+Which implies Cauchy sequence is convergent<br>
+□<br>Theorem.
+A sequence of real numbers id Cauchy iff it is convergent
+<br><br>Let  be a non-empty set<br>
+Suppose  is a function satisfying<br>
+<br> (positivity)
+<br>
+<br> (symmetry)
+<br> (Triangle inequality)
+<br>Suppose  is a metric space then  with  is said to be convergent to  if  converges to <br>
+A sequence  is said to be Cauchy if for  there exist  such that<br><br>Definition (Complete Metric Space).
+A metric space  is said to be complete if every Cauchy sequence in  converges
+<br><br>Let  <br>
+<br> is complete.
+<br>Let  consider the sequence  it is Cauchy sequence but not convergent in  so, its not complete
+<br> is not complete
+<br> is complete
+<br> is complete
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html</link><guid isPermaLink="false">real analyses/1. Cauchy Criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:34:53 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ <br>Definition (Limit Points).
+Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
+<br><br>
+<br> has no limit points
+<br> has exactly one limit points
+<br> has exactly two limit points
+<br>let  and  we define  will have infinitely many limit point 
+<br>Claim.
+The only limit points of  <a data-tooltip-position="top" aria-label="2. Limit Points > ^1146e3" data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/2. Limit Points#^1146e3" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">The above example</a><a data-tooltip-position="top" aria-label="2. Limit Points > ^1146e3" data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html#^1146e3" class="internal-link mathLink-internal-link" target="_self" rel="noopener">The above example</a> is  where 
+<br>Proof.<br>
+Zero is the limit of  as . And  is the limit of  as . Thus  are all limit points. We will show these are the only limit points. <br>Let . Then there is an  such that the interval  has no point of the form  (or 0).<br>Therefore, the sum , with least one of  or  less than , must be at a distance of at least  from . So the only such numbers in the interval  must have  and . So  and . Hence there are only a finite number of numbers of the form  in the interval . Thus  is not a limit point.<br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
+If a sequence is bounded than the set of limit points of the sequence is also bounded<br>Definition ( limit Superior and Limit Inferior).
+For a bounded sequence  the  is called as the limit Inferior<br>
+For a bounded sequence  the  is called as the superior Inferior
+<br>Notation<br><br><br>Theorem.
+Let   be a real sequence then  
+<br><br>Proof.<br>
+ fix   such that   <br><br>Conversely<br>
+ consider <br><br>such that <br><br>Inductively we can find infinite values of  <br>if conversely  such that  is finite<br>
+fix   is infinite for <br>
+ is finite for   <br>
+<br>
+<br>
+ <br>Claim ( ).<br><br>this shows  <br><br>Theorem.
+Let  be a real sequence then  
+<br><br>conversely if  is finite and  is infinite for some  and all   then  is the liminf<br><br>Theorem.
+Let  be a bounded sequence of  Then Limsup of  is a limit point of  and if  is limt point of  then  
+<br>Theorem.
+Let   be a bounded real sequence of  then all the limit points of  lies in<br>
+
+<br>Theorem.
+ be a bounded set of real numbers then the set of limits points of  is bounded
+<br>Theorem.
+ be a bounded set of real numbers then  exist iff<br>
+
+<br>Definition (properly diverges).
+note the definition later
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html</link><guid isPermaLink="false">real analyses/2. Limit Points.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:35:30 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
+ <br>Suppose  are real numbers<br>
+what is <br>
+for <br>
+let  for  then  is called the partial sum<br>
+that is <br><br>Definition.
+suppose  is a sequence of real numbers<br>
+Then the series  is said to converge if the sequence of partial sums  converges<br>
+that is 
+<br>If the series doesn't converge It is meaningless<br><br><br><br>Here  converges therefore so is the series.<br>A series converges if and only if there exist an  such that for every , there exist  such that <br><br>In terms of <a data-tooltip-position="top" aria-label="1. Cauchy Criterion > ^5cfca9" data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion#^5cfca9" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Cauchy Sequence</a><a data-tooltip-position="top" aria-label="1. Cauchy Criterion > ^5cfca9" data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html#^5cfca9" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Cauchy Sequence</a> <br>A series converges if and only if for every  there exist  such that<br><br><br>Theorem.
+For  with <br>
+
+<br>Proof.<br>
+For <br>
+ <br><br>using <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" target="_blank">Bernoulli's inequality</a> we can show  for  <br>□<br>Theorem.
+Suppose  is a convergent series of .<br>
+Then 
+<br>Proof.<br><br>using <a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a> for  such that<br><br>let  <br><br><br>□<br>
+Note the converse is not true example  does not converge we can show that  converges to infinite<br>Theorem.
+let  be sequence of <br>
+such that  and  then<br>
+
+<br>Proof.<br><br><br>Claim.
+
+<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:36:22 GMT</pubDate></item><item><title><![CDATA[balzano-Wriestrs theorem]]></title><description><![CDATA[ 
+ ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html</link><guid isPermaLink="false">real analyses/balzano-Wriestrs theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:58:15 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
+  ,   discrete RV the conditional pmf of    given <br>
+ only when 
+<br>Remark.
+ 
+<br><br><br>Definition ( Conditional Cumulative Distribution function ).
+  ,   discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
+of    given   
+<br><br>If  ,  are independent<br><br><br>
+<br>If pmf of  and   
+<br><br>find <br>
+<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
+conditional distribution of  given X+   
+<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>
+3.    possible outcome with probability     independent trials <br><br>suppose given <br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:42:59 GMT</pubDate></item><item><title><![CDATA[6. Conditional Variance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( Conditional Variance).
+
+<br>Theorem.
+
+<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 07:56:53 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
  <br>Definition (Sum of Subspaces).
 Let  we a vector space<br>
 let  be subspaces of <br>
@@ -321,300 +915,7 @@ so on,<br>
 or the   box contains at least  objects
 <br>Proof.<br>
 If  the  box contains less than  objects then the  boxes can at most contain  objects<br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html</link><guid isPermaLink="false">number_theory/1. Pigeonhole Principle.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 06:26:24 GMT</pubDate></item><item><title><![CDATA[2. Sum of Two Squares]]></title><description><![CDATA[ 
- <br>Lemma.
-If  and  are each the sum of two squares then so is there product 
-<br>Proof.<br>
-<br>
-□<br>Theorem.
-A prime  of form  can not be written as a sum of two squares
-<br>Proof.<br><br>□<br>Lemma.
-let  be a prime and let <br>
-The the congruenc<br>
-<br>
-admits a solution  where<br>
- and 
-<br>Proof.<br>
-<br>
-consider the set<br>
-<br>
-Note that <br>
-<a data-href="1. Pigeonhole Principle#^6b5eb7" href="https://sai-prabhav.github.io/bmath_notes/1. Pigeonhole Principle#^6b5eb7" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle &gt; ^6b5eb7</a><a data-href="1. Pigeonhole Principle#^6b5eb7" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html#^6b5eb7" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle &gt; Theorem 1.1 (Pigeonhole Principle)</a> implies that<br>
- where  or  such that<br><br>take,<br><br>Note: <br><br>□<br>Theorem.
-An odd prime  is expressed as a sum of two squares iff<br>
-
-<br>Proof.<br>“only if” part is done <a data-href="2. Sum of Two Squares#^8e7812" href="https://sai-prabhav.github.io/bmath_notes/2. Sum of Two Squares#^8e7812" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares &gt; ^8e7812</a><a data-href="2. Sum of Two Squares#^8e7812" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html#^8e7812" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares &gt; Theorem 2.2</a><br>
-let  There exists an integer a such that <br><br><br>Please help me again<br>
-In fact, we can take  where  is the primitives root of <br>
-Note that <br>
-□<br>Corollary (Uniqueness of  such that ).<br>Proof.<br>
-<br><br><br>
-<br>
-lets assume W.L.O.G  <br><br>Then<br><br>similarly we can show  <br>if we chose  then we get  and  <br>hence They are unique<br>
-□<br>Theorem.
-let the positive integers n be written as  where  is square-free. Then  can be represented as the sum of two squares if and only if  contains no prime factor of the form 
-<br>Proof.<br>
-Suppose  where  has no prime factor of the form  if  then  done.<br>
-Let  write  .<br>
-Each of the prime , being of the form , can be written as the sum of squares,<br>
-which implies there product  also can be written as .<br><br>The other way.<br>
-Suppose,<br>
-<br>
-assume that  and let  be an odd prime divisor of <br>
-let  then<br>
- and  where <br>
-This gives <br>
-since  is square-free we have <br>
-<br>
-since  ,  cannot divide both  and <br>
-<br>
-we can find  such that <br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:02:59 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition ( Binary Quadratic Form).
-A binary quadratic form (bqf) is a polynomial of the form<br>
- with <br>
-we may think of it as a function<br>
-<br>
-<br>
-In short we write  
-<br><br>Definition (Primitive QBF).
-We say that  is a primitive if 
-<br>Definition (Represents and Primitively Represents ).
-We say that  represents the integer  for some <br>
-We it represent primitively or properly if  and  
-<br>Remark.
-The same number can be represented primitively and non primitively
-<br>Definition ( Disc of Binary Quadratic Form).
-for  we define 
-<br><br>Proposition.
-Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
-i) then  represent 0   is a square<br>
-ii)  all non zero values represented by  are of the same sign
-<br>Proof.<br>
-Case I:  then<br><br>also <br><br>this proves i) for this case<br>
-for ii) <br>
-then <br>
-This shows that all values of  has the same sign of  <br>Case II:  then,<br><br><br>Clearly,  is represented when  <br><br>such that<br><br>which implies  is a square.<br>
-for ii) if  then clearly<br>
- so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
-conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
-let  be a  <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>with .<br>
-Then for a given  there are at most a finite number of  such that 
-<br>Proof.<br>
-say  then<br><br>which show  has finitely many values<br>
-also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
-This is false for  example 
-<br> Say  then<br>
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
-<br> set of all <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> with integer coefficients
-<br> set of all  Matrices with integer entries
-<br> set of all  Invertable Matrices with integer entries note the determinant here is 1 or -1
-<br> set of all  Matrices with integer entries and determinant <br>
-Note:  and  are both groups and  is the sub group of 
-<br>let  and <br><br>Define the new <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
-Let  then
-
-<br>
-<br> 
-
-<br>Proof.<br>
-i) <br><br>ii) <br><br>□<br><br>Definition.
-let , <br>
-we say that  is equivalent to  if  st <br>
-we say  is properly equivalent to  if  st <br>
-Notation<br>
- equivalent<br>
- properly equivalent 
-<br>Definition (mat of Binary Quadratic Form).
-
-<br>Exercise.
-what is 
-<br>Hint:<br><br>let  <br><br><br>Hence  <br>Theorem.
-let <br>
-i) then <br>
-ii)  and  represents the same set of integers the same number of times<br>
-iii)   and  are either both primitive or both non-primitive
-<br>Proof.<br>
-i) say  with <br><br>ii) say <br>
-then <br><br>if <br><br>iii)<br><br>then  divides <br>
-since the set of the values of  and  are he same it follows that  divides <br>
-if  is primitive then  is the maximum value of  which implies   is primitive<br>
-if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
-let  and  then  represents  properly iff<br>
-<br>
-form some <br>
-moreover if  then   such that 
-<br>Proof.<br>
-suppose <br>
-say,  <br><br>then<br><br>since      primitively represent n<br>
-Now the other way<br>
-assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
-let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
-let  where <br><br>Remark (principle forms of disc ).
- can be  and they can be simply represented by<br>
- if <br>
- if <br>
-these are known as principal forms of disc  
-<br>Theorem (Lagrange).
-Let . The following are equivalent 
-
-<br> is a square 
-<br>there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>   of discriminant  which properly represents  
-
-<br>1 2<br>
-say  for some  <br>
-let  then  so  properly represents <br>
-2  1<br>
-let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/3. Binary#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary &gt; ^6cf17c</a><a data-href="3. Binary#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary &gt; Theorem 3.15</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a><br>
-since <br>
-we get <br><br>Hence  is a square mod  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
-let  let  be a prime such that   Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
-<br> Proof.<br>
-from <a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^f95cab</a><a data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.17 (Lagrange)</a><br>
-we know    of disc     properly represents    iff    then <br>So    represents  <br>
-By Lagrange, there is a bqf  which properly represents . Then we know that  <br><br>for some  with  Now  converts <br>
-so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
-As above we may take <br><br>with <br>
-we need to prove that <br>
-since  have the same discriminant we have<br><br> why cant 4 divide one of it and the other be odd?  for both    and  should have the same parity or the congruence to 4 wont hold<br>if  then we are done    and   <br>
-so suppose  but  <br><br>so in any case <br>
-it follows that <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
-recall that  is a discriminant  <br>Definition (Fundamental Discriminant).
-We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive
-<br><br> is a fundamental discriminant for if  is of discriminant  and if  then  which implies .<br>
- is a fundamental discriminant.<br>
- is a fundamental discriminant.<br>
-as if  then  can be  if  is .<br>
- has a disc of  The second equation is also a discriminant hence it cant be equal to .<br>Proposition.
-let  be a discriminant. Then  is a fundamental discriminant if<br>
-i)  and  is square free<br>
-ii)  and  is square free and 
-<br>Proof.<br>
-Let  be a fundamental discriminant <br>Case I: <br>
-we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
-but then the above bqf is not primitive hence  should be square free<br>
-Case II: <br>If <br>
- is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
-Finally we prove that is square free <br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:27-sep" class="tag" target="_blank" rel="noopener">#27-sep</a><br>Exercise.
-What are all the bqf of disc 0?
-<br>Suppose   has disc 0, say <br>case I: <br>
-then <br>
-hence <br>
-case II:  <br>
-then <br><br>there fore <br><br>for some  again <br><br>suppose <br>now let <br><br>is  (NO!)<br>
-as <br>
-and <br>
-hence if   and  are complete different.<br>
-hence there are infinitely many bqf of discriminant 0 which are in equivalent <br>Proposition.
-Let   with . Then up to proper equivalence there are only finitely many distinct  bqf of discriminant    
-<br>Proof.<br>
-Let  be of  hence  properly represents  and hence <br><br>write  with  then<br><br>so there are at most  distinct form up to proper equivalence<br>□<br>Lemma (Lagrange Reduction).
-Let  be a discriminant  and not a square<br>
-Then,  is properly equivalent to a form (a,  ,c) with <br>
-also, such a form  satisfying  
-<br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
-Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a>.<br><br><br>□<br>Theorem ( Lagrange).
-Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
-<br>Proof.<br>
-we know<br>
- with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
-□<br><br>Definition.
-let  be a discriminant<br>
- set of proper equivalence classes of bqf of <br>
- set of proper equivalence classes of primitive bqf of disc  <br>
-we have  this is know as the Class Number of    
-<br><br>
-<br>What is <br>
-Since  we assume <br>
-then note that <br>
-than <br>
-since 
-<br><br>thus the only possibility is  hence .<br>
-Also  then<br><br>since  we have  then<br><br>also recall that if   primitively represents p<br>
- . , if , then there exist  such that <br>
-Now, <br>
-Then every prime  can be written as a sum of square.<br>Theorem.
-let  then <br>
-Gauss conjecture that  for any other  
-<br>Conjecture (UNSOLVED).
-Are there infinitely many  ..  
-<br>Proof.<br>
-□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:30-sep" class="tag" target="_blank" rel="noopener">#30-sep</a><br>Remark.
- set of proper equivalence classes of primitive bqf of discriminant    with convetion that bqf are assumed to be positive if    ,  . for  with  we always assume 
-<br><br>
-<br>From now on we shall assume that our bqf are of negative discriminant with positive values. That is  with 
-<br>Definition ( Gaussian Reduction).
-A bqf  with  is said to be Reduced if either<br>
-  or  
-<br>Lemma.
-Let  be reduced bqf of discriminant  , then  is the smallest value of <br>
-i) There are exactly 2 primitive vectors    .  .  namely  and exactly two primitive vectors    .  .  namely   unless  , in which case there are four vector's    .  .  namely <br>
-ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
-<br>Proof.<br>Remark.
-  if  is primitive iff 
-<br>Let  then for any  <br><br>Now at  say  first<br>
-then <br>
-now <br>
-Hence <br><br>similarly for  <br>
-now <br>
-indeed  in all other cases its grater than  <br>
-Then  unless ( ) or ( and  )<br>
-or<br>
- unless  or(  and )<br>□<br>Theorem.
-Let<br>
-<br>
-<br>
-be reduced bqf of the same discriminant with  then   
-<br>Proof.<br>Since minimum values of are equal hence  say<br>
-Case I <br>
-in this case  has exactly 2 solutions namely <br>
-hence  also has exactly 2 solutions namely  <br>
-as if  then  has &gt;3 solutions<br>
-Also <br><br>by uniqueness we get <br>
-hence <br>
-then <br>So <br>
-Thus <br>
-since  are reduced we have  and  <br><br> <br>Adding the above 2 equations <br> <br>
-thus <br>Case II <br>In this case  so  as  is reduced<br>
-Subcase A: <br>
-In this case <br>
-has exactly four primitive solutions, <br>
-then  will also have exactly four solution hence <br>
-then <br>
-since<br><br>we get  so  since both are non negative <br>Subcase  : <br>
-thus <br>
-hence<br>
- has six primitive solution so  also has six primitive solution thus  thus <br>□<br>Proposition.
-Let  be a reduced bqf of disc  if gcd(  ,y)=1 and <br>
-then <br>
-ie,  or  
-<br>Proof.<br>
-we know that  for  hence <br><br>
-if ,<br>
-when  we can have  or else  <br><br>if  and <br><br> if  and <br>
-if  and <br><br> if  and <br>
-hence for all values of  we have verified that  can only be between  ,  iff  <br>□<br>Theorem.
-Let    be a bqf of discriminant  then there is a reduced bqf  such that 
-<br>Proof. 1<br>
-by Lagrange reduction lemma there is a form  such that  and  since by convention all values are positive we have <br>
- now if  then we are done<br>
-case I  but b&lt;0<br>
-in this case <br>case II a&lt;   but b=-a<br>
-in this case<br>
-<br>
-<br>
-□<br>Proof. 2 (Constructive )<br>Let <br>
-if  is reduced nothing to do if not either  but <br>Case I <br>
-in this case <br><br>Case II:  but <br>
-Sub-case A: <br>
-then  say<br><br>sub-case  : <br>
-in this case <br><br>here again <br>
-Sub-case   : <br>
-here <br>
-in this case the process completes<br>
-In general continues this way we get a sequence<br>
-<br>
-as the sum is reducing this will complete at some point the last step has the reduced form ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 14:04:55 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html</link><guid isPermaLink="false">number_theory/1. Pigeonhole Principle.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 06:26:24 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
  <br>Theorem (Euler's criterion).
 let  be and odd prime and 
 
@@ -679,110 +980,7 @@ so <br><br>Note that <br><br>so r has at most  has at most  digits now,<br><br>w
  periodicity of  is <br>
 □<br>
 <br>last  digits of  ?
-<br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html</link><guid isPermaLink="false">number_theory/Mid Sem Questions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:20:26 GMT</pubDate></item><item><title><![CDATA[1. Multinomial Distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a><br>Definition (Multinomial Distribution).
- independent and identical experiments. Each experiments results in one of  possible outcomes, with probability   such that  <br>
- is number of results in outcome <br>
-whenever  
-<br><br>this is also written as the Multinomial <br>this is called the Multinomial <br>Remark (Multinomial as Binomial).
-when  Multinomial is same as Binomial
-<br>Remark.<br><br>Definition (Independence of Random Variable ).
-Let  take values be <br>
-let  take values <br>
-The random variables  and  are independent if<br>
- 
-<br><br>Remark.
-Equivalently  are independent if for all <br>
- 
-<br>Theorem.
- and  are independent if and only if<br>
-
-<br>Proof.<br>let <br><br>The other way <br><br>□<br><br>Exercise.
-Given random number of balls of <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a> ()<br>
-Each ball is colored white with probability  and Black with probability <br>
-let<br>
- Total number of balls<br>
- number of white balls<br>
- number of black balls
-<br>Solution:<br><br>Remark.
-If number of balls fixed say  then clearly  is clearly not independent
-<br>Remark.
-if  Then  are independent from<a data-href="1. Multinomial Distribution#^716f78" href="https://sai-prabhav.github.io/bmath_notes/1. Multinomial Distribution#^716f78" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution &gt; ^716f78</a><a data-href="1. Multinomial Distribution#^716f78" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html#^716f78" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution &gt; (1.1)</a>
-<br>Exercise.
-Let number of balls  Geometric<br>
-<br>
-Color each ball white with probability <br>
-Color each ball black with probability <br>
- Number of white balls<br>
- Number of black balls<br>
-show that  is not independent
-<br>Exercise (Sum of <a class="original-internal-link" data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" target="_blank" rel="noopener" style="display: none;">Poisson</a><a class="internal-link mathLink-internal-link" data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" target="_self" rel="noopener">Poisson</a> Variables).
-<br>
-<br>
-show that 
-<br>Exercise (Sum of Binomials).
-<br>
-<br>
-show that 
-<br> have joint pmf <br>
-<br><br>we saw earlier<br>
-<br><br>Theorem.
-If  and  are independent then
-<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:06:01 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
-The Covariance between  and  is 
-<br><br>Remark.
-If  is independent<br>
-The converse may not be true
-<br>Exercise.
-(i) <br>
-(ii) <br>
-(iii) <br>
-(iv) 
-<br>Proof.<br>
-(i)<br>
-(ii)<br>
-(iii)<br><br>(iv) let<br><br>Lemma.
-
-<br>Proof.<br><br>□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
-let  are random variable they are independent if 
-<br><br><br>Definition (identical Random Variable ).
-let  are random variable they are Identical if<br>
-
-<br><br>let  are independent and identically distributed random variable<br>
-let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find   and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
-Polulation of  people voting in election  is a candiditte for election
-<br>for each person  in population<br><br><br>Proportion in favor of <br>
-Take sample of size  from population.<br>
-Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance &gt; ^02f340</a><a data-href="2. Covariance#^02f340" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance &gt; (2.1)</a>  <br><br><br><br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 16:26:26 GMT</pubDate></item><item><title><![CDATA[3. Corelation Coefficient]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Corelation Coefficient).
-The correlation coefficient between    and Y
-<br><br>Lemma.
-
-<br>let  standard deviation of    <br><br>similarly<br><br>Remark.
-Say  with Probability 1<br>
-if 
-<br>Remark.
-Recall for discrete Random variable, we need to focus on values that RV takes<br>
-that is  with  for all 
-<br><br> is measure of linear relation between    and  <br>
-if  high degree of linearity<br>
- say   ,   is uncorrelated <br><br>
-<br>
-
-
-<br><br>
-<br>
- [independent](2. Covariance#^e3530d) and [identically](2. Covariance#^976001)distribution (IID)
-
-
-
-<br>
-consider    independent trials each of which results in any of  possible outcomes with Probability  
-
-<br><br><br>if  <br>
-lets take <br><br><br><br> Verify the above result as    completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 02 Oct 2024 16:26:46 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+<br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html</link><guid isPermaLink="false">number_theory/Mid Sem Questions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 16:20:26 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
  <br>Exercise 10.
  In a sequence of Bernoulli trials let X be the length of run (of either successes or failures) started by the first trial. 
 
@@ -802,118 +1000,7 @@ And lets redefine our indicator function and let  be the random variable number 
 <br>The number of laser photons hitting a detector in a particular time interval;
 <br>The number of students achieving a low and high mark in an exam; and
 <br>Locations of defects and dislocations in materials.
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/poisson.html</link><guid isPermaLink="false">Probability/Poisson.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 14:54:56 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
- <br>Definition (Convergence sequence).
-A sequence  of real numbers is said to be converges to a real number  if for every , there exist  such that<br>
-
-<br>Definition (Cauchy Sequence ).
-A sequence  of real number is said to be Cauchy if for every , There exist  such that
-
-<br>Theorem (Bolzano-Weierstrass).
-Every bounded sequence of real numbers has a convergent sequence.
-<br>Theorem (Convergent Sequences are Cauchy).
-Let   be a convergent sequence of real number. Then   is a Cauchy.
-<br>Proof.<br>
-suppose  converges to <br>
-for every  such that <br><br>Now for <br><br>□<br>Lemma (Cauchy Sequences are Bounded).
-let  be a Cauchy sequence<br>
-Then it is bounded
-<br>Proof.<br>
-Take  As  is Cauchy There exist  such that <br><br>take  Then,<br><br>That is <br>
-so <br>
-then  where <br>
-□<br>Theorem (Every Cauchy Sequence is Convergent).
-Let  be a Cauchy sequence of real number. Then   is convergent
-<br>Proof.<br>By <a data-href="#^0e5611" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0e5611" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^0e5611</a><a data-href="#^0e5611" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0e5611" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lemma 1.5 (Cauchy Sequences are Bounded)</a>  is bounded. Then by <a data-href="#^59b909" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^59b909" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^59b909</a><a data-href="#^59b909" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^59b909" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 1.3 (Bolzano-Weierstrass)</a>  has a convergent sequence.<br>
-Suppose  is a Convergent sequence<br>
-Take <br>
-For  such that<br><br> such that<br><br>Take <br>Then  by<a data-href="#^40d31f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^40d31f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^40d31f</a><a data-href="#^40d31f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^40d31f" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.2)</a><br>
-now for <br><br>from<a data-href="#^cead38" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^cead38" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^cead38</a><a data-href="#^cead38" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^cead38" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(1.1)</a><br>
-<br>
-<br>
-Which implies Cauchy sequence is convergent<br>
-□<br>Theorem.
-A sequence of real numbers id Cauchy iff it is convergent
-<br><br>Let  be a non-empty set<br>
-Suppose  is a function satisfying<br>
-<br> (positivity)
-<br>
-<br> (symmetry)
-<br> (Triangle inequality)
-<br>Suppose  is a metric space then  with  is said to be convergent to  if  converges to <br>
-A sequence  is said to be Cauchy if for  there exist  such that<br><br>Definition (Complete Metric Space).
-A metric space  is said to be complete if every Cauchy sequence in  converges
-<br><br>Let  <br>
-<br> is complete.
-<br>Let  consider the sequence  it is Cauchy sequence but not convergent in  so, its not complete
-<br> is not complete
-<br> is complete
-<br> is complete
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html</link><guid isPermaLink="false">real analyses/1. Cauchy Criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 20 Sep 2024 05:22:56 GMT</pubDate></item><item><title><![CDATA[2. Limit Points]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
- <br>Definition (Limit Points).
-Let  be a sequence of real number. Then  is said to be a limit point if there exist a subgroup of sequence  of  converging to 
-<br><br>
-<br> has no limit points
-<br> has exactly one limit points
-<br> has exactly two limit points
-<br>let  and  we define  will have infinitely many limit point 
-<br>Claim.
-The only limit points of  <a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/2. Limit Points#^1146e3" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points &gt; ^1146e3</a><a data-href="2. Limit Points#^1146e3" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html#^1146e3" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points &gt; ^1146e3</a> is  where 
-<br>Proof.<br>
-Zero is the limit of  as . And  is the limit of  as . Thus  are all limit points. We will show these are the only limit points. <br>Let . Then there is an  such that the interval  has no point of the form  (or 0).<br>Therefore, the sum , with least one of  or  less than , must be at a distance of at least  from . So the only such numbers in the interval  must have  and . So  and . Hence there are only a finite number of numbers of the form  in the interval . Thus  is not a limit point.<br>
-□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
-If a sequence is bounded than the set of limit points of the sequence is also bounded<br>Definition ( limit Superior and Limit Inferior).
-For a bounded sequence  the  is called as the limit Inferior<br>
-For a bounded sequence  the  is called as the superior Inferior
-<br>Notation<br><br><br>Theorem.
-Let   be a real sequence then  
-<br><br>Proof.<br>
- fix   such that   <br><br>Conversely<br>
- consider <br><br>such that <br><br>Inductively we can find infinite values of  <br>if conversely  such that  is finite<br>
-fix   is infinite for <br>
- is finite for   <br>
-<br>
-<br>
- <br>Claim ( ).<br><br>this shows  <br><br>Theorem.
-Let  be a real sequence then  
-<br><br>conversely if  is finite and  is infinite for some  and all   then  is the liminf<br><br>Theorem.
-Let  be a bounded sequence of  Then Limsup of  is a limit point of  and if  is limt point of  then  
-<br>Theorem.
-Let   be a bounded real sequence of  then all the limit points of  lies in<br>
-
-<br>Theorem.
- be a bounded set of real numbers then the set of limits points of  is bounded
-<br>Theorem.
- be a bounded set of real numbers then  exist iff<br>
-
-<br>Definition (properly diverges).
-note the definition later
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html</link><guid isPermaLink="false">real analyses/2. Limit Points.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 03 Oct 2024 08:11:05 GMT</pubDate></item><item><title><![CDATA[3. Convergences of Series]]></title><description><![CDATA[ 
- <br>Suppose  are real numbers<br>
-what is <br>
-for <br>
-let  for  then  is called the partial sum<br>
-that is <br><br>Definition.
-suppose  is a sequence of real numbers<br>
-Then the series  is said to converge if the sequence of partial sums  converges<br>
-that is 
-<br>If the series doesn't converge It is meaningless<br><br><br><br>Here  converges therefore so is the series.<br>A series converges if and only if there exist an  such that for every , there exist  such that <br><br>In terms of <a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion#^5cfca9" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion &gt; ^5cfca9</a><a data-href="1. Cauchy Criterion#^5cfca9" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html#^5cfca9" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion &gt; Definition 1.2 (Cauchy Sequence)</a> <br>A series converges if and only if for every  there exist  such that<br><br><br>Theorem.
-For  with <br>
-
-<br>Proof.<br>
-For <br>
- <br><br>using <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Bernoulli%27s_inequality" target="_blank">Bernoulli's inequality</a> we can show  for  <br>□<br>Theorem.
-Suppose  is a convergent series of .<br>
-Then 
-<br>Proof.<br><br>using <a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-href="1. Cauchy Criterion" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a> for  such that<br><br>let  <br><br><br>□<br>
-Note the converse is not true example  does not converge we can show that  converges to infinite<br>Theorem.
-let  be sequence of <br>
-such that  and  then<br>
-
-<br>Proof.<br><br><br>Claim.
-
-<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 29 Sep 2024 17:45:46 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/poisson.html</link><guid isPermaLink="false">Probability/Poisson.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 23 Sep 2024 14:54:56 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
 Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
 

@@ -2629,6 +2629,9 @@ mJX
 mybMUFd
 mUyWv
 multiplicative
+maclaius
+maclaurin
+madness
 check
 cool
 co
@@ -5172,6 +5175,7 @@ angle
 autoResize
 appState
 arthmetic
+absolute
 bold
 bye
 bigest
@@ -6540,6 +6544,9 @@ statement
 semidefinite
 surjective
 solve
+summation
+something
+sufficient
 Proof
 PDF
 Producer
@@ -8981,6 +8988,7 @@ equations
 escape
 excalidraw
 etfm
+exampe
 other
 one
 order
@@ -12966,6 +12974,8 @@ Author
 Adding
 Arithmetic
 Associativity
+Average
+Application
 KHTML
 Kg
 Kn
@@ -15760,6 +15770,7 @@ door
 dice
 decompress
 data
+decide
 xl
 xD
 xG
@@ -20230,6 +20241,7 @@ fontFamily
 ffffff
 files
 fsHH
+fractional
 rE
 ra
 ref
