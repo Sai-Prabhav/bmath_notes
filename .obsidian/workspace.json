@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md",
+                "file": "number_theory/5. The Mobius Inverse Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8595a0913241b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/6. Multiplicative Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f9c2705102a9437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +75,7 @@
               "state": {
                 "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "number_theory/6. Multiplicative Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "number_theory/6. Multiplicative Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "number_theory/6. Multiplicative Functions.md"
               }
             }
           }
@@ -150,48 +176,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "d172cfc6c1a60f68",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ed83edb80d80f180",
-        "type": "window",
-        "children": [
-          {
-            "id": "212043bda26620ba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fda5329088fb608f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fda5329088fb608f",
+  "active": "e8595a0913241b56",
   "lastOpenFiles": [
+    "Custom Commands.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/Mid Sem Questions.md",
+    "number_theory/Infinite Primes.md",
+    "number_theory/Euler's criterion.md",
+    "real analyses/4. Continuity of Functions.md",
+    "README.md",
     "Index.md",
     "All Quaries.md",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
@@ -203,18 +200,10 @@
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
-    "number_theory/Mid Sem Questions.md",
-    "number_theory/Infinite Primes.md",
-    "number_theory/Euler's criterion.md",
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/6. Multiplicative Functions.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/4. Arithmetic Functions.md",
     "number_theory/3. Binary.md",
     "number_theory/2. Sum of Two Squares.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "linear algebra/Problems.md",
-    "linear algebra/3. Rank.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",

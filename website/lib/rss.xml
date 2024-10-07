@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Oct 2024 14:59:55 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Oct 2024 14:59:36 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Oct 2024 16:14:47 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Oct 2024 16:14:45 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[5. The Mobius Inverse Formula]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( The Mobius Inverse Formula).
+let    ,    be  arthmetic function then<br>
+
+<br>Proof.<br><br><br>
+<br> prove the statement
+<br><br>
+and hence prove by <a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mobius Inverse Formula</a>  
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html</link><guid isPermaLink="false">number_theory/5. The Mobius Inverse Formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 15:34:53 GMT</pubDate></item><item><title><![CDATA[6. Multiplicative Functions]]></title><description><![CDATA[ 
+ <br>Definition ( Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called multiplicative if   and 
+<br>Remark.
+If    is multiplicative then 
+<br>Definition (Completely Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called Completely multiplicative if  
+<br><br> are <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> <br> are non-multiplicative<br>Theorem.
+Prove  is  <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> 
+<br>Proof.<br>
+lets show there is a bijection <br><br>let  we want to find    .  .<br><br>let <br><br>Hence <br>
+this prove  is surjective<br>
+now lets prove    is injective <br><br>hence    is bijection<br>
+□<br>Proposition.
+If    and    are multiplicative then so is . conversly if     and  is multiplicative the    is multiplicative 
+<br>Proof.<br>
+Write <br>
+let  we want to show that <br><br><br>suppose    is not multiplicative<br>
+then there   .  . <br><br>chose such  ,  so that  is the smallest possible <br>Case I suppose <br>
+then <br>
+now <br><br>then  is not multiplicative<br>
+So <br>
+now <br><br>as  is not 0 then  is not multiplicative<br><br>Corollary.
+Let    and    such that  then    is multiplicative     is multiplicative
+<br>Proposition.
+ Let    and    then  exist if 
+<br>Proof.<br>Suppose  exist then <br><br>conversely suppose <br>
+suppose  then we must have<br><br>Lets solve it by induction <br>Suppose  is defined<br>
+we want to define  now we need<br>
+such that <br><br>this completes the proof<br>
+□ <br><br>
+<br>
+<br>find <br>
+as  is multiplicative so is  so its sufficient to find  for all primes and    
+<br><br>Remark.
+If  then 
+<br><br>proof<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html</link><guid isPermaLink="false">number_theory/6. Multiplicative Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 16:13:59 GMT</pubDate></item><item><title><![CDATA[7. Average of Arithmetic Function]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a> <br>Definition (Average of Arithmetic Function).
+ Let    be a <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a> then I define average as<br>
+
+<br><br>For example for <br><br>Theorem (Euler Maclaurin summation Formula).
+Let  be real numbers and  ( .   exist and is continuous)<br>
+then
+<br><br>where  is the fractional part of t<br><br>i) <br><br>where  means something  is absolute value   .i<br><br>for some  and  Large<br>
+Here  is known as the Euler Maclaurin constant<br>proof:<br>
+Now by <a data-tooltip-position="top" aria-label="^29e84d" data-href="#^29e84d" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^29e84d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler Maclaurin summation Formula</a><a data-tooltip-position="top" aria-label="^29e84d" data-href="#^29e84d" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^29e84d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler Maclaurin summation Formula</a> <br><br>complete the madness<br>proof of E-M<br>we have<br><br>the rest is exercise<br>
+decide if you should complete it]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html</link><guid isPermaLink="false">number_theory/7. Average of Arithmetic Function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 16:13:32 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -587,61 +641,7 @@ Arithmetic Functions is a function from
 Associativity 
 
 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html</link><guid isPermaLink="false">number_theory/4. Arithmetic Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 06 Oct 2024 05:09:32 GMT</pubDate></item><item><title><![CDATA[5. The Mobius Inverse Formula]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition ( The Mobius Inverse Formula).
-let    ,    be  arthmetic function then<br>
-
-<br>Proof.<br><br><br>
-<br> prove the statement
-<br><br>
-and hence prove by <a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mobius Inverse Formula</a>  
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html</link><guid isPermaLink="false">number_theory/5. The Mobius Inverse Formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 08:29:23 GMT</pubDate></item><item><title><![CDATA[6. Multiplicative Functions]]></title><description><![CDATA[ 
- <br>Definition ( Multiplicative Function).
-An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called multiplicative if   and 
-<br>Remark.
-If    is multiplicative then 
-<br>Definition (Completely Multiplicative Function).
-An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>    is called Completely multiplicative if  
-<br><br> are <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> <br> are non-multiplicative<br>Theorem.
-Prove  is  <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> 
-<br>Proof.<br>
-lets show there is a bijection <br><br>let  we want to find    .  .<br><br>let <br><br>Hence <br>
-this prove  is surjective<br>
-now lets prove    is injective <br><br>hence    is bijection<br>
-□<br>Proposition.
-If    and    are multiplicative then so is . conversly if     and  is multiplicative the    is multiplicative 
-<br>Proof.<br>
-Write <br>
-let  we want to show that <br><br><br>suppose    is not multiplicative<br>
-then there    .  . <br><br>chose such   ,   so that  is the smallest possible <br>Case I suppose <br>
-then <br>
-now <br><br>then    is not multiplicative<br>
-so <br>
-now <br><br>as  is not 0 then  is not multiplicative<br><br>Corollary.
-Let    and    such that  then    is multiplicative     is multiplicative
-<br>Proposition.
- Let    and    then  exist if 
-<br>Proof.<br>suppose  exist then <br><br>conversely suppose <br>
-suppose  then we must have<br><br>lets solve it by induction <br>suppose  is defined<br>
-we want to define  now we need<br>
-such that <br><br>this completes the proof<br>
-□ <br><br>
-<br>
-<br>find <br>
-as  is multiplicative so is   so its sufficient to find  for all primes and    
-<br><br>Remark.
-If  then 
-<br><br>proof<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html</link><guid isPermaLink="false">number_theory/6. Multiplicative Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 09:56:03 GMT</pubDate></item><item><title><![CDATA[7. Average of Arithmetic Function]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a> <br>Definition (Average of Arithmetic Function).
- Let    be a <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a> then I define average as<br>
-
-<br><br>For example for <br><br>Theorem ( Euler maclaius summation Formula).
-Let  be real numbers and  ( .    exist and is continuous)<br>
-then
-<br><br>where  is the fractional part of t<br><br>i) <br><br>where  means something  is absolute value   .i<br><br>for some  and    Large<br>
-Here  is known as the Euler maclaurin  constant<br>proof:<br>
-Now by E-M<br><br>complete the madness<br>proof of E-M<br>we have<br><br>the rest is exercise<br>
-decide if you should complete it]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html</link><guid isPermaLink="false">number_theory/7. Average of Arithmetic Function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 14:51:58 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html</link><guid isPermaLink="false">number_theory/4. Arithmetic Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 06 Oct 2024 05:09:32 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
  <br>Theorem (Euler's criterion).
 let  be and odd prime and 
 
@@ -651,7 +651,7 @@ which can be written as<br><br>Therefore either<br><br>or <br><br>Case one: ( is
 let  we a primitive root of  as  is a quadratic residue<br>
  for some <br><br>this proves that <br><br>Case two: ( is a quadratic non-residue)<br>
  for some  as  is a quadratic non-residue<br>lets assume<br><br><br>Which contradicts  is a primitive root of <br>
-Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler&apos;s-criterion.html</link><guid isPermaLink="false">number_theory/Euler&apos;s criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
+Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html</link><guid isPermaLink="false">number_theory/Euler's criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 18 Sep 2024 18:04:42 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
  <br>The aim of this note is to try and make a list of all possible prove that  has infinitely many primes type of question. This is an open note in the sense it is never complete <br>Theorem (Infinite Primes ).
 There are infinite Primes of the form  equivalently there are infinity many primes
 <br>Proof.<br>
