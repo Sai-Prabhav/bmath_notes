@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4d88868910775a",
+        "id": "fb37b0ba7626242f",
         "type": "tabs",
         "children": [
           {
-            "id": "79cf16a829a0cfff",
+            "id": "5576d1842196d040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Exercise 4 Solutions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97350c75f761cdcc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Probability/exercises_4.pdf"
-              }
-            }
-          },
-          {
-            "id": "8e13de2c7be46d77",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "73aaa1b565897c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippet/old_snippet.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Exercise 4 Solutions.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Exercise 4 Solutions.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Exercise 4 Solutions.md"
+                "file": "real analyses/4. Continuity of Functions.md"
               }
             }
           }
@@ -176,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "github-sync:Sync with Remote": false,
       "graph:Open graph view": false,
@@ -186,74 +150,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "3f1ff9adaef03ba6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aa688024a02262f6",
-        "type": "window",
-        "children": [
-          {
-            "id": "95db06f7130701b9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7753c220dded8d85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Probability/Exercise 4 Solutions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7753c220dded8d85",
+  "active": "5576d1842196d040",
   "lastOpenFiles": [
+    "real analyses/3. Convergences of Series.md",
+    "real analyses/4. Continuity of Functions.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "number_theory/4. Arithmetic Functions.md",
+    "Custom Commands.md",
+    "Probability/5. Conditional Expectation.md",
+    "Probability/4. Conditional distribution.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/3. Binary.md",
+    "Index.md",
     "Probability/exercises_4.pdf",
     "Probability/Exercise 4 Solutions.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "Custom Commands.md",
     "Probability/1. Multinomial Distribution.md",
     "snippet/old_snippet.md",
-    "number_theory/3. Binary.md",
     "snippet/my_snippet.md",
     "Probability/Poisson.md",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
     "real analyses/2. Limit Points.md",
     "Untitled.md",
     "number_theory/Euler's criterion.md",
     "number_theory/Infinite Primes.md",
-    "Index.md",
     "All Quaries.md",
-    "real analyses/3. Convergences of Series.md",
     "question.md",
-    "number_theory/2. Sum of Two Squares.md",
-    "Probability/4. Conditional distribution.md",
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "snippet/my_snippet.jmd",
     "linear algebra/3. Rank.md",
     "snippet/my_snippet.js",
-    "linear algebra/2. Direct Sum.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "snippet/old_snippet.js",
     "Untitled.canvas",
     "snippet",
