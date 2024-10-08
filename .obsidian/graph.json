@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "path:\"real analyses\"  ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"linear algebra\"  ",
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.457291666666667,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 2.7796875,
+  "collapse-forces": true,
   "centerStrength": 0.71875,
   "repelStrength": 4.27083333333333,
   "linkStrength": 0.661458333333333,
   "linkDistance": 30,
-  "scale": 0.7023319615912202,
-  "close": true
+  "scale": 0.46822130772748,
+  "close": false
 }

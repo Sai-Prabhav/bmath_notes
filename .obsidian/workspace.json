@@ -4,43 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "fb37b0ba7626242f",
+        "id": "0d07ead9f15a69e9",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1375c06f0c209c",
+            "id": "f10d9bab70614d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/5. The Mobius Inverse Formula.md",
+                "file": "linear algebra/3. Rank.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8595a0913241b56",
+            "id": "6a0f701d047dd4cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
+                "file": "linear algebra/4. Rank Factorization of Matrix.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f9c2705102a9437",
+            "id": "27282f2fd8a4c2cd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Custom Commands.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -90,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
+                "file": "linear algebra/4. Rank Factorization of Matrix.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md",
+                "file": "linear algebra/4. Rank Factorization of Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/6. Multiplicative Functions.md"
+                "file": "linear algebra/4. Rank Factorization of Matrix.md"
               }
             }
           }
@@ -176,34 +177,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8595a0913241b56",
+  "active": "6a0f701d047dd4cd",
   "lastOpenFiles": [
+    "linear algebra/3. Rank.md",
+    "linear algebra/4. Rank Factorization of Matrix.md",
     "Custom Commands.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
-    "number_theory/6. Multiplicative Functions.md",
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/Mid Sem Questions.md",
-    "number_theory/Infinite Primes.md",
-    "number_theory/Euler's criterion.md",
-    "real analyses/4. Continuity of Functions.md",
-    "README.md",
+    "linear algebra/2. Direct Sum.md",
     "Index.md",
-    "All Quaries.md",
-    "real analyses/3. Convergences of Series.md",
+    "question.md",
+    "Untitled.md",
+    "README.md",
     "real analyses/2. Limit Points.md",
-    "real analyses/1. Cauchy Criterion.md",
-    "Probability/Poisson.md",
-    "Probability/Exercise 4 Solutions.md",
-    "Probability/6. Conditional Variance.md",
+    "All Queries.md",
+    "number_theory/bezout's theorem.md",
     "Probability/5. Conditional Expectation.md",
+    "Probability/6. Conditional Variance.md",
+    "linear algebra/Problems.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "real analyses/4. Continuity of Functions.md",
+    "real analyses/balzano-Wriestrs theorem.md",
+    "real analyses/3. Convergences of Series.md",
+    "real analyses/1. Cauchy Criterion.md",
     "Probability/4. Conditional distribution.md",
     "Probability/3. Corelation Coefficient.md",
     "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
-    "number_theory/4. Arithmetic Functions.md",
-    "number_theory/3. Binary.md",
-    "number_theory/2. Sum of Two Squares.md",
-    "number_theory/1. Pigeonhole Principle.md",
+    "number_theory/Mid Sem Questions.md",
+    "number_theory/Infinite Primes.md",
+    "number_theory/Euler's criterion.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",

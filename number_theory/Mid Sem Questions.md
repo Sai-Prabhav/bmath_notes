@@ -32,7 +32,7 @@ $\implies$ periodicity of $\frac{1}{p}$ is $m$
 
 $$
 \begin{align} 
-3^{\varphi(2^{2025})} & \equiv1  \pmod{2^{2025}}\\
+3^{\varphi(2^{2025})} & \equiv1 \pmod{2^{2025}}\\
 3^{2^{2024}} & \equiv{1}\pmod{2^{2025}} \\
 3^{10^{2024}} & \equiv{1}\pmod{2^{2025}} 
 \end{align}

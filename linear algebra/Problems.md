@@ -2,17 +2,17 @@
 1. Let $T:\mathbb{R}^{2}\to \mathbb{R}^{3}$ be the linear transformation 
 $$
 \begin{align}
-	T\begin{bmatrix}x \\ y\end{bmatrix}  =\begin{bmatrix}x+y \\ 2x+y\\3x+5y\end{bmatrix} 
+	T\begin{bmatrix}x \\ y\end{bmatrix} =\begin{bmatrix}x+y \\ 2x+y\\3x+5y\end{bmatrix} 
 \end{align}
 $$
 a) Find the matrix of $T$ wrt. the standard basis
 $$
 \begin{align}
-\left[ T\begin{bmatrix}1 \\ 0\end{bmatrix} \ T\begin{bmatrix}0 \\ 1\end{bmatrix}  \right] =\begin{bmatrix}1 & 1 \\ 2 & -1\\ 3 & 5\end{bmatrix} 
+\left[ T\begin{bmatrix}1 \\ 0\end{bmatrix} \ T\begin{bmatrix}0 \\ 1\end{bmatrix} \right] =\begin{bmatrix}1 & 1 \\ 2 & -1\\ 3 & 5\end{bmatrix} 
 \end{align}
 $$
-2 let $w=\left\{ (x_{1},x_{3}\dots x_{5})^{t}:\sum_{i=1}^{5}x_{i}=0 \right\}\subseteq \mathbb{R}^{5  }$
-extend the basis $\mathcal{B}=\left( \begin{bmatrix}1 \\ 0 \\ 0 \\ 2\\ -3\end{bmatrix} \begin{bmatrix}1 \\ 1 \\ 0 \\ 4\\ -6\end{bmatrix}  \right)$ to $W$ 
+2 let $w=\left\{ (x_{1},x_{3}\dots x_{5})^{t}:\sum_{i=1}^{5}x_{i}=0 \right\}\subseteq \mathbb{R}^{5 }$
+extend the basis $\mathcal{B}=\left( \begin{bmatrix}1 \\ 0 \\ 0 \\ 2\\ -3\end{bmatrix} \begin{bmatrix}1 \\ 1 \\ 0 \\ 4\\ -6\end{bmatrix} \right)$ to $W$ 
 
 3. Show that the space of all real valued continuous functions on $\mathbb{R}$ is infinite dimensional 
 
@@ -21,7 +21,7 @@ Consider the set $(x, x^{2},x^{3}\dots)$ they are linearly independent and belon
 
 $$
 \begin{align}
-V=\left\{ \begin{bmatrix}x_{1} \\ x_{2} \\ x_{3} \\ x_{4}\end{bmatrix} : 3x_{1}+x_{2}+x_{3}+x_{4}=0 , X_{1}-x_{3}+2x_{2} \right\}  \\
+V=\left\{ \begin{bmatrix}x_{1} \\ x_{2} \\ x_{3} \\ x_{4}\end{bmatrix} : 3x_{1}+x_{2}+x_{3}+x_{4}=0 , X_{1}-x_{3}+2x_{2} \right\} \\
 W=\left\{ \begin{bmatrix}x_{1} \\ x_{2} \\ x_{3} \\ x_{4}\end{bmatrix} : 5x_{1}+2x_{2}+3x_{3}=0,x_{2}+x_{3}+x_{4}=0 \right\} 
 
 \end{align}

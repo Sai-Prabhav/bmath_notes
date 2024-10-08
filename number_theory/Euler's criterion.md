@@ -3,7 +3,7 @@
 >$$
 a^{\frac{(p-1)}{2}}\equiv 
 \begin{cases}
-1 \ \pmod{p} \text{ if a was a quadratic residue}  \\
+1 \ \pmod{p} \text{ if a was a quadratic residue} \\
 -1 \pmod{p} \text{ if a was quadratic non-residue}
 \end{cases}$$
 Euler's criterion can be concisely reformulated using the [Legendre symbol](https://en.wikipedia.org/wiki/Legendre_symbol "Legendre symbol")
@@ -18,7 +18,7 @@ $$
 from [[Fermat's Little Theorem]]
 which can be written as
 $$
-\left(  a^{\frac{p-1}{2}} -1 \right)\left(  a^{\frac{p-1}{2}} +1 \right)\equiv0\pmod{p}
+\left( a^{\frac{p-1}{2}} -1 \right)\left( a^{\frac{p-1}{2}} +1 \right)\equiv0\pmod{p}
 $$
 Therefore either
 $$
@@ -35,11 +35,11 @@ $a\equiv r^{2k} \pmod{p}$ for some $k\in \mathbb{N}$
 $$
 \begin{align}
 a^{\frac{p-1}{2}} & \equiv{1} \pmod{p} \\
-\left(  r^{2k}  \right)^{\frac{p-1}{2}} & \equiv{1} \pmod{p} \\
+\left( r^{2k} \right)^{\frac{p-1}{2}} & \equiv{1} \pmod{p} \\
  r^{2k\cdot \frac{p-1}{2}} & \equiv{1} \pmod{p} \\
  r^{k\cdot {p-1}} & \equiv{1} \pmod{p} \\
- \left(  r^{{p-1}} \right) ^{k}& \equiv{1} \pmod{p} \\
- \left(  1\right) ^{k}& \equiv{1} \pmod{p} \\
+ \left( r^{{p-1}} \right) ^{k}& \equiv{1} \pmod{p} \\
+ \left( 1\right) ^{k}& \equiv{1} \pmod{p} \\
 \end{align}
 $$
 this proves that 
@@ -58,18 +58,18 @@ $$
 $$
 \begin{align}
 a^{\frac{p-1}{2}+1} & \equiv{1} \pmod{p} \\
-\left(  r^{2k}  \right)^{\frac{p-1}{2}} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
+\left( r^{2k} \right)^{\frac{p-1}{2}} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
  r^{2k\cdot \frac{p-1}{2}} \cdot r^{\frac{p-1}{2}} & \equiv{1} \pmod{p} \\
  r^{k\cdot {p-1}} \cdot r^{\frac{p-1}{2}} & \equiv{1} \pmod{p} \\
- \left(  r^{{p-1}} \right) ^{k} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
- \left(  1\right) ^{k} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
-  r^{\frac{p-1}{2}}& \equiv{1} \pmod{p}
+ \left( r^{{p-1}} \right) ^{k} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
+ \left( 1\right) ^{k} \cdot r^{\frac{p-1}{2}}& \equiv{1} \pmod{p} \\
+ r^{\frac{p-1}{2}}& \equiv{1} \pmod{p}
 \end{align}
 $$
 Which contradicts $r$ is a primitive root of $p$ 
 Therefore
 $$
-  r^{\frac{p-1}{2}} \equiv{-1} \pmod{p}
+ r^{\frac{p-1}{2}} \equiv{-1} \pmod{p}
 $$
 
 `\end{proof}`

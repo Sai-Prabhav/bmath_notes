@@ -65,7 +65,7 @@ $$
 \implies q & \equiv1,0 \pmod{3} 
 \end{align}
 $$
-This shows that q should be congruent to $1,0 \pmod{3}$ in both cases  
+This shows that q should be congruent to $1,0 \pmod{3}$ in both cases 
 If $q|3\implies q=3\implies{3}|N$ as $q$ is prime but 
 $$
 \begin{align}
@@ -98,7 +98,7 @@ $$
 N=q_{1}^{e_{1}}q_{2}^{e_{2}}\dots q_{r}^{e_{r}}
 $$
 where $q_{j}$ are prime divisors of $N$.
-Note: $q_{j}\neq p_{i}\ \  \forall \ \ i,j$
+Note: $q_{j}\neq p_{i}\ \ \forall \ \ i,j$
 All of $q_{j}$ can't be of the form $3k+1$ as then the product $N$ will also be of the form $3k+1$ so at least one of $q_{j}$ be of the form $3k-1$ but that contradict the fact that $p_{i}$ are the only primes of form $3k-1$.
 $\therefore$ There are infinitely many primes of the form $3k-1$ 
 
@@ -120,7 +120,7 @@ $$
 N=q_{1}^{e_{1}}q_{2}^{e_{2}}\dots q_{r}^{e_{r}}
 $$
 where $q_{j}$ are prime divisors of $N$.
-Note: $q_{j}\neq p_{i}\ \  \forall \ \ i,j$ 
+Note: $q_{j}\neq p_{i}\ \ \forall \ \ i,j$ 
 All of $q_{j}$ can't be of the form $4k+1$ as then the product $N$ will also be of the form $4k+1$, so at least one of $q_{j}$ must be of the form $4k-1$. But that contradict the fact that $p_{i}$ are the only primes of form $4k-1$.
 $\therefore$ There are infinitely many primes of the form $4k-1$ 
 `\end{proof}`
@@ -143,11 +143,11 @@ N & \equiv 0 \pmod{q} \\
 \left( P! \right) ^{q-1} & \equiv -1^{\frac{q-1}{2}} \pmod{q}\\
 \end{align}
 $$
-From [[Fermat's Little Theorem]]  
+From [[Fermat's Little Theorem]] 
 $$
 \begin{align}
 \left( P! \right) ^{q-1} & \equiv -1^{\frac{q-1}{2}} \pmod{q}\\
-\implies1& \equiv -1^{\frac{q-1}{2}} \pmod{q}  \\
+\implies1& \equiv -1^{\frac{q-1}{2}} \pmod{q} \\
 \implies \frac{q-1}{2} & \equiv0\pmod{2}\\
 \implies {q-1} & \equiv0\pmod{4}\\
 \implies {q} & \equiv1\pmod{4}\\
