@@ -11,5 +11,7 @@
   "promptDelete": false,
   "showRibbon": true,
   "showLineNumber": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute"
 }

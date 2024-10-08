@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d07ead9f15a69e9",
+        "id": "e0ef58e22bd15d18",
         "type": "tabs",
         "children": [
           {
-            "id": "f10d9bab70614d31",
+            "id": "eed1a643e5c22144",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0f701d047dd4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27282f2fd8a4c2cd",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Custom Commands.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md",
+                "file": "All Queries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md",
+                "file": "All Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md"
+                "file": "All Queries.md"
               }
             }
           }
@@ -178,10 +150,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0f701d047dd4cd",
+  "floating": {
+    "id": "57ceabbee1e5ffb8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "78a770dd060d6801",
+        "type": "window",
+        "children": [
+          {
+            "id": "97d4a658ab71140d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e14bce5440c67f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "All Queries.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8e14bce5440c67f0",
   "lastOpenFiles": [
-    "All Queries.md",
+    "linear algebra/5. Projector.md",
     "linear algebra/4. Rank Factorization of Matrix.md",
+    "Custom Commands.md",
+    "Untitled.md",
+    "linear algebra/3. Rank.md",
+    "All Queries.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
@@ -205,10 +218,6 @@
     "number_theory/3. Binary.md",
     "number_theory/2. Sum of Two Squares.md",
     "number_theory/1. Pigeonhole Principle.md",
-    "linear algebra/Problems.md",
-    "linear algebra/3. Rank.md",
-    "linear algebra/2. Direct Sum.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",
