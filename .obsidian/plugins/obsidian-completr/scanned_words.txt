@@ -389,6 +389,7 @@ tPhiGrk
 textAlign
 top
 tDUq
+tacking
 is
 italics
 its
@@ -1495,6 +1496,8 @@ ixSZ
 injective
 ignore
 idempotent
+increases
+increasing
 note
 notes
 number
@@ -6550,6 +6553,8 @@ summation
 something
 sufficient
 system
+subinterval
+strictly
 Proof
 PDF
 Producer
@@ -8684,6 +8689,7 @@ Elements
 Embedded
 EhL
 EXIT
+Existance
 element
 elements
 exactly
@@ -14114,6 +14120,7 @@ GaX
 GXB
 GdJ
 GjAK
+General
 Safari
 Skia
 SH
@@ -14587,6 +14594,7 @@ Seq
 Subcase
 Switch
 Saving
+SUppose
 BM
 BVvvzK
 BH
@@ -18132,6 +18140,7 @@ VCI
 Version
 VIEW
 VKi
+Value
 yk
 yT
 yp
@@ -20664,6 +20673,7 @@ roundness
 roughness
 rMZ
 reduce
+restricted
 ID
 Io
 Ie
@@ -21519,6 +21529,8 @@ IiJ
 IjI
 InstanceID
 Inverse
+Intermediate
+III
 qq
 qk
 qH

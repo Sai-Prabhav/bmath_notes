@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ef58e22bd15d18",
+        "id": "40c585d6761a1c59",
         "type": "tabs",
         "children": [
           {
-            "id": "eed1a643e5c22144",
+            "id": "71309bf7071fe86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Commands.md",
+                "file": "linear algebra/5. Projector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Queries.md",
+                "file": "linear algebra/5. Projector.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Queries.md",
+                "file": "linear algebra/5. Projector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Queries.md"
+                "file": "linear algebra/5. Projector.md"
               }
             }
           }
@@ -141,64 +141,35 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
-      "github-sync:Sync with Remote": false,
-      "graph:Open graph view": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "graph:Open graph view": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "57ceabbee1e5ffb8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "78a770dd060d6801",
-        "type": "window",
-        "children": [
-          {
-            "id": "97d4a658ab71140d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8e14bce5440c67f0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "All Queries.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8e14bce5440c67f0",
+  "active": "71309bf7071fe86a",
   "lastOpenFiles": [
-    "linear algebra/5. Projector.md",
     "linear algebra/4. Rank Factorization of Matrix.md",
+    "linear algebra/2. Direct Sum.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "real analyses/5. Intermediate Value Theorem.md",
     "Custom Commands.md",
+    "real analyses/4. Continuity of Functions.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "number_theory/4. Arithmetic Functions.md",
+    "number_theory/3. Binary.md",
+    "linear algebra/5. Projector.md",
+    "All Queries.md",
     "Untitled.md",
     "linear algebra/3. Rank.md",
-    "All Queries.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
@@ -210,14 +181,6 @@
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Mid Sem Questions.md",
     "number_theory/Infinite Primes.md",
-    "number_theory/Euler's criterion.md",
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/6. Multiplicative Functions.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
-    "number_theory/4. Arithmetic Functions.md",
-    "number_theory/3. Binary.md",
-    "number_theory/2. Sum of Two Squares.md",
-    "number_theory/1. Pigeonhole Principle.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",
