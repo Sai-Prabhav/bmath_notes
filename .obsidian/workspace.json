@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/3. Rank.md",
+                "file": "linear algebra/4. Rank Factorization of Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/4. Rank Factorization of Matrix.md",
+                "file": "All Queries.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,8 +45,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,9 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a0f701d047dd4cd",
+  "active": "e5df166a36f7e812",
   "lastOpenFiles": [
     "linear algebra/3. Rank.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
+    "All Queries.md",
     "linear algebra/4. Rank Factorization of Matrix.md",
     "Custom Commands.md",
     "linear algebra/2. Direct Sum.md",
@@ -188,7 +190,6 @@
     "Untitled.md",
     "README.md",
     "real analyses/2. Limit Points.md",
-    "All Queries.md",
     "number_theory/bezout's theorem.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/6. Conditional Variance.md",
@@ -204,7 +205,6 @@
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Mid Sem Questions.md",
     "number_theory/Infinite Primes.md",
-    "number_theory/Euler's criterion.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",
