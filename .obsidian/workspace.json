@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee89cfc84251e22b",
+            "id": "e6b48a20ce199df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1601afb0f352be55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "real analyses/7. Uniform Continuous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d360a4bfc3bc8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippet/my_snippet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/6. Continuous Bijections.md",
+                "file": "real analyses/7. Uniform Continuous.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/6. Continuous Bijections.md",
+                "file": "real analyses/7. Uniform Continuous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/6. Continuous Bijections.md"
+                "file": "real analyses/7. Uniform Continuous.md"
               }
             }
           }
@@ -150,56 +175,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "f1633b562db9d379",
-    "type": "floating",
-    "children": [
-      {
-        "id": "97b0d45261b1b436",
-        "type": "window",
-        "children": [
-          {
-            "id": "7b5ca178d8ebe8d9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6b48a20ce199df9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "real analyses/6. Continuous Bijections.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e6b48a20ce199df9",
+  "active": "1601afb0f352be55",
   "lastOpenFiles": [
+    "snippet/my_snippet.md",
+    "real analyses/7. Uniform Continuous.md",
+    "real analyses/6. Continuous Bijections.md",
+    "Custom Commands.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/6. Conditional Variance.md",
     "linear algebra/6. Question.md",
-    "real analyses/6. Continuous Bijections.md",
     "snippet/old_snippet.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md",
     "Untitled",
     "Probability/7. Continuous Random Variable.md",
-    "Custom Commands.md",
-    "snippet/my_snippet.md",
     "website/real-analyses/5.-intermediate-value-theorem.html",
     "real analyses/4. Continuity of Functions.md",
     "Probability/5. Conditional Expectation.md",
@@ -217,7 +206,6 @@
     "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/4. Arithmetic Functions.md",
     "number_theory/3. Binary.md",
-    "All Queries.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
