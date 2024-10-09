@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Oct 2024 06:48:00 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Oct 2024 06:47:58 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Oct 2024 05:48:36 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Oct 2024 05:48:30 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a><br>Definition (Rank Factorization of Matrix).
 Let  be a  matrix of rank  .  Rank factorization of  is a pair of matrices  where  is of order  and  is of order , such that  
 <br>Theorem.
@@ -51,13 +51,12 @@ Let A  be of the same order then<br>
 <br>
 equality holds iff  and  is a direct sum
 <br>Proof.<br>If <br>
-then <br><br> Suppose equality holds then show that the sum  is a direct sum<br>
-if Its a equal how to show its a direct sum<a style="display: none;" rel="noopener" class="original-internal-link" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^f2e81d" data-href="4. Rank Factorization of Matrix#^f2e81d" aria-label="4. Rank Factorization of Matrix > ^f2e81d" data-tooltip-position="top" target="_blank">Theorem 4.5</a><a style="" rel="noopener" class="mathLink-internal-link" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^f2e81d" data-href="4. Rank Factorization of Matrix#^f2e81d" aria-label="4. Rank Factorization of Matrix > ^f2e81d" data-tooltip-position="top" target="_blank">Theorem 4.5</a><br>
+then <br><br> Suppose equality holds then the sum  is a direct sum<br>
 Conversely assume that the sum  is a direct sum<br>Let  if its less than 1 ie, 0 ignore it<br>
 and let  be a rank fact of <br>let  <br><br>As each of the  's are full column rank<br>
 the set of all columns of  is a linearly independent set as the sum  is a direct sum<br>
 similarly all rows of  are linear independent<br>
-Hence  is a full column matrix and  is a full row matrix hence  is a the <a data-tooltip-position="top" aria-label="^fafafe" data-href="#^fafafe" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fafafe" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Rank Factorization</a><a data-tooltip-position="top" aria-label="^fafafe" data-href="#^fafafe" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fafafe" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Rank Factorization</a> of  <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html</link><guid isPermaLink="false">linear algebra/4. Rank Factorization of Matrix.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 06:44:52 GMT</pubDate></item><item><title><![CDATA[5. Projector]]></title><description><![CDATA[ 
+Hence  is a full column matrix and  is a full row matrix hence  is a the <a data-tooltip-position="top" aria-label="^fafafe" data-href="#^fafafe" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fafafe" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Rank Factorization</a><a data-tooltip-position="top" aria-label="^fafafe" data-href="#^fafafe" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fafafe" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Rank Factorization</a> of  <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html</link><guid isPermaLink="false">linear algebra/4. Rank Factorization of Matrix.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 16:05:38 GMT</pubDate></item><item><title><![CDATA[5. Projector]]></title><description><![CDATA[ 
  <br>Definition (Projector).
 Let  be a subspace of  and  a compliment of  . An  matrix A is said to be a projector into  along  if ,  is the projection of  into  along  
 <br>Let  be a projector into  along T<br> <br>So, elements of  are solutions of a system of finitely many hyper planes passing through origin <br>Theorem.
@@ -72,8 +71,332 @@ v)  is a direct sum
 <br>
 Let  be a basis of  and  of T<br>if <br><br><br>
 <br>
-let  ie, <br><br><br><br><br><br>How do we show  in <a style="display: none;" rel="noopener" class="original-internal-link" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^1c1e04" data-href="4. Rank Factorization of Matrix#^1c1e04" aria-label="4. Rank Factorization of Matrix > ^1c1e04" data-tooltip-position="top" target="_blank">theorem 4.7 iv-&gt;v</a><a style="" rel="noopener" class="mathLink-internal-link" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^1c1e04" data-href="4. Rank Factorization of Matrix#^1c1e04" aria-label="4. Rank Factorization of Matrix > ^1c1e04" data-tooltip-position="top" target="_blank">theorem 4.7 iv-&gt;v</a><br><br><br>A is the projection of  along <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html</link><guid isPermaLink="false">linear algebra/5. Projector.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 06:45:56 GMT</pubDate></item><item><title><![CDATA[All Queries]]></title><description><![CDATA[ 
+let  ie, <br><br><br><br><br><br><br><br>A is the projection of  along <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html</link><guid isPermaLink="false">linear algebra/5. Projector.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 16:03:53 GMT</pubDate></item><item><title><![CDATA[6. Multiplicative Functions]]></title><description><![CDATA[ 
+ <br>Definition (Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>  is called multiplicative if  and 
+<br>Remark.
+If  is multiplicative then 
+<br>Definition (Completely Multiplicative Function).
+An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>  is called Completely multiplicative if  
+<br><br> are <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> <br> are non-multiplicative<br>Theorem.
+Prove  is <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> 
+<br>Proof.<br>
+lets show there is a bijection <br><br>let  we want to find   .  .<br><br>let <br><br>Hence <br>
+this prove  is surjective<br>
+now lets prove  is injective <br><br>hence  is bijection<br>
+□<br>Proposition.
+If  and  are multiplicative then so is . conversly if  and  is multiplicative the  is multiplicative 
+<br>Proof.<br>
+Write <br>
+let  we want to show that <br><br>we have proved the first part now the second part<br>
+suppose  is not multiplicative<br>
+then there   .  . <br><br>chose such  ,  so that  is the smallest possible <br>Case I suppose <br>
+then <br>
+now <br><br>then  is not multiplicative<br>
+So <br>
+now <br><br>as  is not 0 then  is not multiplicative<br><br>Corollary.
+Let  and  such that  then  is multiplicative   is multiplicative
+<br>Proposition.
+ Let  and  then  exist if 
+<br>Proof.<br>Suppose  exist then <br><br>conversely suppose <br>
+suppose  then we must have<br><br>Lets solve it by induction <br>Suppose  is defined<br>
+we want to define  now we need<br>
+such that <br><br>this completes the proof<br>
+□ <br><br>
+<br>
+<br>find <br>
+as  is multiplicative so is  so its sufficient to find  for all primes and  
+<br><br>Remark.
+If  then 
+<br><br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html</link><guid isPermaLink="false">number_theory/6. Multiplicative Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 08:01:38 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
+The Covariance between  and  is 
+<br><br>Remark.
+If  is independent<br>
+The converse may not be true
+<br>Exercise.
+(i) <br>
+(ii) <br>
+(iii) <br>
+(iv) 
+<br>Proof.<br>
+(i)<br>
+(ii)<br>
+(iii)<br><br>(iv) let<br><br>Lemma.
+
+<br>Proof.<br><br>□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
+let  are random variable they are independent if 
+<br><br><br>Definition (identical Random Variable ).
+let  are random variable they are Identical if<br>
+
+<br><br>let  are independent and identically distributed random variable<br>
+let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find  and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
+Polulation of  people voting in election  is a candiditte for election
+<br>for each person  in population<br><br><br>Proportion in favor of <br>
+Take sample of size  from population.<br>
+Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^02f340</a><a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a> <br><br><br><br><br><br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 16:18:34 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
+ ,  discrete RV the conditional pmf of  given <br>
+ only when 
+<br>Remark.
+ 
+<br><br><br>Definition (Conditional Cumulative Distribution function ).
+ ,  discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
+of  given  
+<br><br>If  ,  are independent<br><br><br>Important
+Refer 6.4 Conditional Distribution: Discrete Case  from A first course in Probability by - Sheldon Ross (page number: 248)<br>
+Example 4a 4b  4c 4d (Basically all the examples ) which were done in class but not completely written in this notes. Don't worry they are about the same
+<br>
+<br>If pmf of  and  
+<br><br>find <br>
+<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
+conditional distribution of  given X+  
+<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>
+3.  possible outcome with probability   <a data-tooltip-position="top" aria-label="Probability/2. Covariance > ^343121" data-href="Probability/2. Covariance#^343121" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance#^343121" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance > ^343121" data-href="Probability/2. Covariance#^343121" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^343121" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> trials <br><br>suppose given <br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 18:44:08 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Expectation).
+Let the joint pmf of  be  the conditional expectation of  given  
+<br><br><br>Important
+Refer 7.5 Conditional Expectaion from A first course in Probability by - Sheldon Ross (page number: 313)<br>
+Example 5a 5c 5e 5g 5h 5i which were done in class but not may not be completely written in this notes. Don't worry they are about the same
+<br>
+<br> ,  are <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> and <a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^976001" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">identical</a><a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^976001" class="internal-link mathLink-internal-link" target="_self" rel="noopener">identical</a>Bin(  ,  )
+
+
+<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>Remark.
+Let    be hyper-geometry with  total balls and  black balls and  ball are picked from it where picking black is success   then   
+<br>Definition.
+ is the function of Random veriable  whose value at  is  
+<br>Remark.
+ is a Random variable depends on Y
+<br>Remark.
+If  ,  independent then  
+<br>Theorem.
+ .
+<br>Proof.<br><br><br>
+<br>Miner trapped in mine<br>
+There are 3 roads that miner can escape to each road has an equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours<br>
+
+  
+  
+  
+    
+    
+  
+  EXIT5 HOURS3 HOURS7 HOURSDOOR 1DOOR 3DOOR 2
+<br>Let  be the RV time taken to escape  is the door number<br><br>
+<br> <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> RV with  for all <br>
+ take value <br>
+ is independent of all <br>
+what is 
+
+
+<br><br>Exercise.
+Roll a pair of dice if the sum is 2,3 or 12 player loses if 7 or 11 wins if sum is any other  then the player continues to roll the dice sum is either 7 or  if it is 7 player losses<br>
+if it is  player wins<br>
+ is a RV rolls in a game
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 04:46:08 GMT</pubDate></item><item><title><![CDATA[6. Conditional Variance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Variance).
+
+<br>e<br>Theorem.
+
+<br>Proof.<br><br><br>Also as <br><br>by adding <a data-href="#^0630d5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0630d5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^0630d5</a><a data-href="#^0630d5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^0630d5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(6.1)</a> and <a data-href="#^c00516" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^c00516" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^c00516</a><a data-href="#^c00516" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^c00516" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(6.2)</a> we get<br><br>□<br>Important
+Refer 7.5.4 Conditional Variance from A first course in Probability by - Sheldon Ross (page number: 328)<br>
+Example 5o 5p which may be done in class but not written in this notes. Don't worry they are about the same
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 05:18:13 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
+Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
+
+<br>Example 1.
+ some non-empty subset of  fix <br>
+we can show  is continuous function with the above definition
+<br>Example 2 (Identity Function).
+Suppose  is a non empty subset of  
+<br><br>Consider any <br>
+now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
+let <br>
+consider  defined by 
+<br>Consider <br>
+we need to estimate <br><br>Take  Then for <br><br>Example 4.
+let <br>
+show that  is continuous
+<br>Fix  <br><br>if  then <br>
+Take <br>
+Then for  then  <br>complete the exercise<br>Theorem.
+Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
+<br> Proof.<br>
+Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
+for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
+so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
+so for  take  then <br>
+such that <br><br>As  do not converge to <br>□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
+Suppose  and   does that mean  converge?<br>
+No, let  and  <br>Definition (continuity at a point  version).
+Let A be a non empty subset of  let  be a function .<br>
+Fix  then  is said to be continuous at  if for every  such that
+<br><br><br>Definition.
+Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+ 
+<br>Corollary.
+suppose  is an isolated point in  . Then any function  is continuous at  
+<br><br>Definition (Continuity of function).
+Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Theorem.
+Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
+then  is defined by <br>
+is also continuous at c
+<br>Proof.<br>
+for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
+so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
+Let A be a non-empty subset of  and let  suppose  are functions continuous at c
+
+<br>For  defined by m is continuous at  
+<br> defined by  is continuous at c
+<br>if  then  defined by  is continuous at c
+
+<br>Proof.<br>
+(using sequential version of continuity.)<br>
+<br>Take  we want to show that  is continuous at  .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to 
+<br><br>
+<br>
+Take  we want to show that  is continuous at .<br>
+suppose  is a sequence in A converging to  we wan tho show that  converges to 
+
+
+<br>
+Take  we want to show that  is continuous at .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to  and  for all  in  then
+
+□
+
+<br>Example.
+Suppose  then the polynomial  defined by  is continuous
+<br>If you can't prove it leave ISI<br>Theorem.
+Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
+<br>Proof.<br>
+for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
+ is known as the restriction of  to  and is denoted by  
+<br>Corollary.
+If  is a non-empty subset of  and  is a polynomial then  is continuous<br>
+suppose  is another polynomial, with <br>
+then  defined by<br>
+ is continuous 
+<br>Theorem.
+Let A  be non empty subset of <br>
+suppose  and  be functions<br>
+Assume  suppose for some   is continuous at   is continuous at <br>
+then  defined by<br>
+ is continuous at 
+<br>Proof.<br>
+suppose  is a sequence in A converging to .<br>
+We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
+□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition.
+Let A be a non-empty subset of  and let  be a function then  is said to be bounded above if there exist <br>
+similarly  is said to be bounded below if there exist  such that <br>
+it is said to be bounded if there exist  such that<br>
+ let  be bounded above then  is called the supreimum of <br>
+it is said to be a maximum if there exist  such that  
+suppose  is bounded below<br>
+ is called the infimum of <br>
+it is said to be a minimum if the infimum is attained, that is there exist    .  . 
+<br>Theorem.
+Let  with  let   be a continuous function then  is bounded<br>
+moreover  attains its supremum and infimum in  
+<br>Proof.<br>
+suppose  is not bounded<br>
+then for any natural number  ,  is not a upper bound<br>
+this means that there exist  such that  <br>as  is bounded by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a> it has a convergent sequence <br>
+Take  then <br>
+then by continuity of   is convergent in particular it is bounded but we have<br>
+<br>
+so it cant be bounded this is a contradiction<br>take <br>
+For  is not upper bound for  so there exist  such that <br><br>once again by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>  has a convergent sequence say  converging to some <br>
+thus <br>
+as  tends to  by squeeze theorem  is convergent and converges for  as  is continuous at  <br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:3-oct" class="tag" target="_blank" rel="noopener">#3-oct</a><br>Theorem (Location of roots ).
+Let  with . Let  be a continuous function. Suppose  then there exist a  can also be called as 'root'
+<br>Proof. 1<br>
+We will use nested intervals property of <br>
+take  and  and <br>consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+take <br>Note that  and <br>
+repeat the process consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+we continue so on<br>
+if it terminates we have a <br>If it doesn't terminated we have sequence of nested interval<br><br>by nested interval property <br>
+the length of <br>
+thus the  is a singleton say <br>Claim.
+
+<br><br><br>For every every <br>
+By continuous of   hence <br>
+similarly, for every <br>
+by continuity of  at  <br>
+so, <br>
+Hence <br>□<br>
+Proof. 2<br>consider <br><br>  is non empty as <br>
+ is bounded by <br>
+by the limit upper bound property  has a supremum<br>
+Take <br>Claim.
+
+<br>for  consider .<br>
+As  is not a supremum of  there exist <br>
+such that <br><br>So  <br>
+Hence <br>
+in particular <br>
+Now consider <br>
+not for any <br>
+let <br><br>as  <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 08:41:53 GMT</pubDate></item><item><title><![CDATA[5. Intermediate Value Theorem]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:8-oct" class="tag" target="_blank" rel="noopener">#8-oct</a><br>Theorem (Intermediate Value theorem).
+Let  with  let  be a continuous function. SUppose<br>
+ or <br>
+then there exist some  such that  
+<br>Proof.<br>
+Define  by<br>
+<br>
+clearly  is continuous, also  and <br>
+using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 4.16</a> <br> such that <br>
+so  or <br>The second case <br>
+<br>
+<br>
+thus  is continues  and <br>
+using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 4.16</a><br>
+<br>Corollary.
+Let  with  let  be a continuous function then<br>
+<br>
+where    is <br>
+where    is 
+<br>\begin<br>
+We know that    is bounded and attains infimum and supremum<br>
+so there exist <br>
+Case I: <br>
+In this case    is constant function and <br>
+Case II:  <br>Then consider  <br>case III:<br>
+Then consider  <br>Definition (General interval).
+ is an interval iff  with  implies <br>
+they are one of these type ...
+<br>Theorem.
+Let I be a subinterval of  let  be a continuous function then<br>
+ is an interval 
+<br>Theorem (Existance  and uniqueness of positive   root).
+ Fix  then for  there exist unique  such that  
+<br>proof<br>
+ bt <br>Then     is a polynomial restricted to  and hence continuous <br>Claim 1.
+for  there exist  such that <br>
+as  so take 
+<br>Claim 2.
+   is strictly increases that is if  then <br>
+
+<br>Define  by tacking <br>
+that is <br><br>then  <br>By Intermediate value theorem there exist  such that<br>the uniqueness follows from the strictly increasing property of    if  and ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html</link><guid isPermaLink="false">real analyses/5. Intermediate Value Theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 09:26:47 GMT</pubDate></item><item><title><![CDATA[All Queries]]></title><description><![CDATA[ 
  <br><br><br><a data-tooltip-position="top" aria-label="All Queries.md" data-href="All Queries.md" href="https://sai-prabhav.github.io/bmath_notes/All Queries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Queries</a><a data-tooltip-position="top" aria-label="All Queries.md" data-href="All Queries.md" href="https://sai-prabhav.github.io/bmath_notes/all-queries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Queries</a>: -<br><a data-tooltip-position="top" aria-label="Custom Commands.md" data-href="Custom Commands.md" href="https://sai-prabhav.github.io/bmath_notes/Custom Commands" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Custom Commands</a><a data-tooltip-position="top" aria-label="Custom Commands.md" data-href="Custom Commands.md" href="https://sai-prabhav.github.io/bmath_notes/custom-commands.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Custom Commands</a>: -<br><a data-tooltip-position="top" aria-label="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" data-href="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" href="https://sai-prabhav.github.io/bmath_notes/Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Drawing 2024-10-04 15.41.50.excalidraw</a><a data-tooltip-position="top" aria-label="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" data-href="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" href="https://sai-prabhav.github.io/bmath_notes/excalidraw/drawing-2024-10-04-15.41.50.excalidraw.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Drawing 2024-10-04 15.41.50.excalidraw</a>: -<br><a data-tooltip-position="top" aria-label="Excalidraw/minor.md" data-href="Excalidraw/minor.md" href="https://sai-prabhav.github.io/bmath_notes/Excalidraw/minor" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">minor</a><a data-tooltip-position="top" aria-label="Excalidraw/minor.md" data-href="Excalidraw/minor.md" href="https://sai-prabhav.github.io/bmath_notes/excalidraw/minor.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">minor</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: conform the above stuff<br><a data-tooltip-position="top" aria-label="Probability/3. Corelation Coefficient.md" data-href="Probability/3. Corelation Coefficient.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/3. Corelation Coefficient" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Corelation Coefficient</a><a data-tooltip-position="top" aria-label="Probability/3. Corelation Coefficient.md" data-href="Probability/3. Corelation Coefficient.md" href="https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Corelation Coefficient</a>: Verify the above result as  completed it<br><a data-tooltip-position="top" aria-label="Probability/4. Conditional distribution.md" data-href="Probability/4. Conditional distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/4. Conditional distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Conditional distribution</a><a data-tooltip-position="top" aria-label="Probability/4. Conditional distribution.md" data-href="Probability/4. Conditional distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Conditional distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/5. Conditional Expectation.md" data-href="Probability/5. Conditional Expectation.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/5. Conditional Expectation" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. Conditional Expectation</a><a data-tooltip-position="top" aria-label="Probability/5. Conditional Expectation.md" data-href="Probability/5. Conditional Expectation.md" href="https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. Conditional Expectation</a>: -<br><a data-tooltip-position="top" aria-label="Probability/6. Conditional Variance.md" data-href="Probability/6. Conditional Variance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/6. Conditional Variance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">6. Conditional Variance</a><a data-tooltip-position="top" aria-label="Probability/6. Conditional Variance.md" data-href="Probability/6. Conditional Variance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">6. Conditional Variance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="README.md" data-href="README.md" href="https://sai-prabhav.github.io/bmath_notes/README" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">README</a><a data-tooltip-position="top" aria-label="README.md" data-href="README.md" href="https://sai-prabhav.github.io/bmath_notes/readme.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">README</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/4. Rank Factorization of Matrix.md" data-href="linear algebra/4. Rank Factorization of Matrix.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/4. Rank Factorization of Matrix" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Rank Factorization of Matrix</a><a data-tooltip-position="top" aria-label="linear algebra/4. Rank Factorization of Matrix.md" data-href="linear algebra/4. Rank Factorization of Matrix.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Rank Factorization of Matrix</a>: if Its a equal how to show its a direct sum<a data-tooltip-position="top" aria-label="4. Rank Factorization of Matrix > ^f2e81d" data-href="4. Rank Factorization of Matrix#^f2e81d" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^f2e81d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Theorem 4.5</a><a data-tooltip-position="top" aria-label="4. Rank Factorization of Matrix > ^f2e81d" data-href="4. Rank Factorization of Matrix#^f2e81d" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html#^f2e81d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 4.5</a><br><a data-tooltip-position="top" aria-label="linear algebra/5. Projector.md" data-href="linear algebra/5. Projector.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/5. Projector" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. Projector</a><a data-tooltip-position="top" aria-label="linear algebra/5. Projector.md" data-href="linear algebra/5. Projector.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. Projector</a>: How do we show  in <a data-tooltip-position="top" aria-label="4. Rank Factorization of Matrix > ^1c1e04" data-href="4. Rank Factorization of Matrix#^1c1e04" href="https://sai-prabhav.github.io/bmath_notes/4. Rank Factorization of Matrix#^1c1e04" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">theorem 4.7 iv-&gt;v</a><a data-tooltip-position="top" aria-label="4. Rank Factorization of Matrix > ^1c1e04" data-href="4. Rank Factorization of Matrix#^1c1e04" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html#^1c1e04" class="internal-link mathLink-internal-link" target="_self" rel="noopener">theorem 4.7 iv-&gt;v</a><br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: Please help me again<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/4. Arithmetic Functions.md" data-href="number_theory/4. Arithmetic Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4. Arithmetic Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Arithmetic Functions</a><a data-tooltip-position="top" aria-label="number_theory/4. Arithmetic Functions.md" data-href="number_theory/4. Arithmetic Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Arithmetic Functions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/5. The Mobius Inverse Formula.md" data-href="number_theory/5. The Mobius Inverse Formula.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/5. The Mobius Inverse Formula" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. The Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="number_theory/5. The Mobius Inverse Formula.md" data-href="number_theory/5. The Mobius Inverse Formula.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. The Mobius Inverse Formula</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/6. Multiplicative Functions.md" data-href="number_theory/6. Multiplicative Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/6. Multiplicative Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">6. Multiplicative Functions</a><a data-tooltip-position="top" aria-label="number_theory/6. Multiplicative Functions.md" data-href="number_theory/6. Multiplicative Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">6. Multiplicative Functions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/7. Average of Arithmetic Function.md" data-href="number_theory/7. Average of Arithmetic Function.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/7. Average of Arithmetic Function" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">7. Average of Arithmetic Function</a><a data-tooltip-position="top" aria-label="number_theory/7. Average of Arithmetic Function.md" data-href="number_theory/7. Average of Arithmetic Function.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">7. Average of Arithmetic Function</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/bezout's theorem.md" data-href="number_theory/bezout's theorem.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bezout's theorem</a><a data-tooltip-position="top" aria-label="number_theory/bezout's theorem.md" data-href="number_theory/bezout's theorem.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bezout's theorem</a>: -<br><a data-tooltip-position="top" aria-label="question.md" data-href="question.md" href="https://sai-prabhav.github.io/bmath_notes/question" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">question</a><a data-tooltip-position="top" aria-label="question.md" data-href="question.md" href="https://sai-prabhav.github.io/bmath_notes/question.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">question</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: Hope Sir proves this<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/balzano-Wriestrs theorem.md" data-href="real analyses/balzano-Wriestrs theorem.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-tooltip-position="top" aria-label="real analyses/balzano-Wriestrs theorem.md" data-href="real analyses/balzano-Wriestrs theorem.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>: -<br><a data-tooltip-position="top" aria-label="snippet/my_snippet.md" data-href="snippet/my_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/my_snippet" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">my_snippet</a><a data-tooltip-position="top" aria-label="snippet/my_snippet.md" data-href="snippet/my_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/my_snippet.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">my_snippet</a>: -<br><a data-tooltip-position="top" aria-label="snippet/old_snippet.md" data-href="snippet/old_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/old_snippet" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">old_snippet</a><a data-tooltip-position="top" aria-label="snippet/old_snippet.md" data-href="snippet/old_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/old_snippet.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">old_snippet</a>: -<br><a data-tooltip-position="top" aria-label="Untitled.md" data-href="Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Untitled.md" data-href="Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -<br><br><br><a data-tooltip-position="top" aria-label="All Queries.md" data-href="All Queries.md" href="https://sai-prabhav.github.io/bmath_notes/All Queries" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">All Queries</a><a data-tooltip-position="top" aria-label="All Queries.md" data-href="All Queries.md" href="https://sai-prabhav.github.io/bmath_notes/all-queries.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">All Queries</a>: -<br><a data-tooltip-position="top" aria-label="Custom Commands.md" data-href="Custom Commands.md" href="https://sai-prabhav.github.io/bmath_notes/Custom Commands" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Custom Commands</a><a data-tooltip-position="top" aria-label="Custom Commands.md" data-href="Custom Commands.md" href="https://sai-prabhav.github.io/bmath_notes/custom-commands.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Custom Commands</a>: -<br><a data-tooltip-position="top" aria-label="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" data-href="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" href="https://sai-prabhav.github.io/bmath_notes/Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Drawing 2024-10-04 15.41.50.excalidraw</a><a data-tooltip-position="top" aria-label="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" data-href="Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md" href="https://sai-prabhav.github.io/bmath_notes/excalidraw/drawing-2024-10-04-15.41.50.excalidraw.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Drawing 2024-10-04 15.41.50.excalidraw</a>: -<br><a data-tooltip-position="top" aria-label="Excalidraw/minor.md" data-href="Excalidraw/minor.md" href="https://sai-prabhav.github.io/bmath_notes/Excalidraw/minor" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">minor</a><a data-tooltip-position="top" aria-label="Excalidraw/minor.md" data-href="Excalidraw/minor.md" href="https://sai-prabhav.github.io/bmath_notes/excalidraw/minor.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">minor</a>: -<br><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/Index" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Index</a><a data-tooltip-position="top" aria-label="Index.md" data-href="Index.md" href="https://sai-prabhav.github.io/bmath_notes/index.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Index</a>: -<br><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/1. Multinomial Distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Multinomial Distribution</a><a data-tooltip-position="top" aria-label="Probability/1. Multinomial Distribution.md" data-href="Probability/1. Multinomial Distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Multinomial Distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/2. Covariance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Covariance</a><a data-tooltip-position="top" aria-label="Probability/2. Covariance.md" data-href="Probability/2. Covariance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Covariance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/3. Corelation Coefficient.md" data-href="Probability/3. Corelation Coefficient.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/3. Corelation Coefficient" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Corelation Coefficient</a><a data-tooltip-position="top" aria-label="Probability/3. Corelation Coefficient.md" data-href="Probability/3. Corelation Coefficient.md" href="https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Corelation Coefficient</a>: -<br><a data-tooltip-position="top" aria-label="Probability/4. Conditional distribution.md" data-href="Probability/4. Conditional distribution.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/4. Conditional distribution" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Conditional distribution</a><a data-tooltip-position="top" aria-label="Probability/4. Conditional distribution.md" data-href="Probability/4. Conditional distribution.md" href="https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Conditional distribution</a>: -<br><a data-tooltip-position="top" aria-label="Probability/5. Conditional Expectation.md" data-href="Probability/5. Conditional Expectation.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/5. Conditional Expectation" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. Conditional Expectation</a><a data-tooltip-position="top" aria-label="Probability/5. Conditional Expectation.md" data-href="Probability/5. Conditional Expectation.md" href="https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. Conditional Expectation</a>: find the  of hyper-geometric distribution<br><a data-tooltip-position="top" aria-label="Probability/6. Conditional Variance.md" data-href="Probability/6. Conditional Variance.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/6. Conditional Variance" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">6. Conditional Variance</a><a data-tooltip-position="top" aria-label="Probability/6. Conditional Variance.md" data-href="Probability/6. Conditional Variance.md" href="https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">6. Conditional Variance</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Exercise 4 Solutions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Exercise 4 Solutions</a><a data-tooltip-position="top" aria-label="Probability/Exercise 4 Solutions.md" data-href="Probability/Exercise 4 Solutions.md" href="https://sai-prabhav.github.io/bmath_notes/probability/exercise-4-solutions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Exercise 4 Solutions</a>: -<br><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/Probability/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-tooltip-position="top" aria-label="Probability/Poisson.md" data-href="Probability/Poisson.md" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>: -<br><a data-tooltip-position="top" aria-label="README.md" data-href="README.md" href="https://sai-prabhav.github.io/bmath_notes/README" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">README</a><a data-tooltip-position="top" aria-label="README.md" data-href="README.md" href="https://sai-prabhav.github.io/bmath_notes/readme.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">README</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/1. Infinite Dimensional Vector Spaces" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Infinite Dimensional Vector Spaces</a><a data-tooltip-position="top" aria-label="linear algebra/1. Infinite Dimensional Vector Spaces.md" data-href="linear algebra/1. Infinite Dimensional Vector Spaces.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Infinite Dimensional Vector Spaces</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/2. Direct Sum" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Direct Sum</a><a data-tooltip-position="top" aria-label="linear algebra/2. Direct Sum.md" data-href="linear algebra/2. Direct Sum.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Direct Sum</a>: Prove you dumb ass<br><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/3. Rank" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Rank</a><a data-tooltip-position="top" aria-label="linear algebra/3. Rank.md" data-href="linear algebra/3. Rank.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Rank</a>: complete it<br><a data-tooltip-position="top" aria-label="linear algebra/4. Rank Factorization of Matrix.md" data-href="linear algebra/4. Rank Factorization of Matrix.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/4. Rank Factorization of Matrix" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Rank Factorization of Matrix</a><a data-tooltip-position="top" aria-label="linear algebra/4. Rank Factorization of Matrix.md" data-href="linear algebra/4. Rank Factorization of Matrix.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/4.-rank-factorization-of-matrix.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Rank Factorization of Matrix</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/5. Projector.md" data-href="linear algebra/5. Projector.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/5. Projector" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. Projector</a><a data-tooltip-position="top" aria-label="linear algebra/5. Projector.md" data-href="linear algebra/5. Projector.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. Projector</a>: -<br><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/Problems" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Problems</a><a data-tooltip-position="top" aria-label="linear algebra/Problems.md" data-href="linear algebra/Problems.md" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Problems</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1. Pigeonhole Principle" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Pigeonhole Principle</a><a data-tooltip-position="top" aria-label="number_theory/1. Pigeonhole Principle.md" data-href="number_theory/1. Pigeonhole Principle.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/1.-pigeonhole-principle.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Pigeonhole Principle</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2. Sum of Two Squares" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Sum of Two Squares</a><a data-tooltip-position="top" aria-label="number_theory/2. Sum of Two Squares.md" data-href="number_theory/2. Sum of Two Squares.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Sum of Two Squares</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3. Binary" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Binary</a><a data-tooltip-position="top" aria-label="number_theory/3. Binary.md" data-href="number_theory/3. Binary.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Binary</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/4. Arithmetic Functions.md" data-href="number_theory/4. Arithmetic Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4. Arithmetic Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Arithmetic Functions</a><a data-tooltip-position="top" aria-label="number_theory/4. Arithmetic Functions.md" data-href="number_theory/4. Arithmetic Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Arithmetic Functions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/5. The Mobius Inverse Formula.md" data-href="number_theory/5. The Mobius Inverse Formula.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/5. The Mobius Inverse Formula" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5. The Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="number_theory/5. The Mobius Inverse Formula.md" data-href="number_theory/5. The Mobius Inverse Formula.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5. The Mobius Inverse Formula</a>: prove the statement<br><a data-tooltip-position="top" aria-label="number_theory/6. Multiplicative Functions.md" data-href="number_theory/6. Multiplicative Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/6. Multiplicative Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">6. Multiplicative Functions</a><a data-tooltip-position="top" aria-label="number_theory/6. Multiplicative Functions.md" data-href="number_theory/6. Multiplicative Functions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">6. Multiplicative Functions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/7. Average of Arithmetic Function.md" data-href="number_theory/7. Average of Arithmetic Function.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/7. Average of Arithmetic Function" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">7. Average of Arithmetic Function</a><a data-tooltip-position="top" aria-label="number_theory/7. Average of Arithmetic Function.md" data-href="number_theory/7. Average of Arithmetic Function.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">7. Average of Arithmetic Function</a>: <br>complete the madness<br>decide if you should complete it<br><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Euler's criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Euler's criterion</a><a data-tooltip-position="top" aria-label="number_theory/Euler's criterion.md" data-href="number_theory/Euler's criterion.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Euler's criterion</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Infinite Primes" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Infinite Primes</a><a data-tooltip-position="top" aria-label="number_theory/Infinite Primes.md" data-href="number_theory/Infinite Primes.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/infinite-primes.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Infinite Primes</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/Mid Sem Questions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mid Sem Questions</a><a data-tooltip-position="top" aria-label="number_theory/Mid Sem Questions.md" data-href="number_theory/Mid Sem Questions.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/mid-sem-questions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mid Sem Questions</a>: -<br><a data-tooltip-position="top" aria-label="number_theory/bezout's theorem.md" data-href="number_theory/bezout's theorem.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bezout's theorem</a><a data-tooltip-position="top" aria-label="number_theory/bezout's theorem.md" data-href="number_theory/bezout's theorem.md" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bezout's theorem</a>: -<br><a data-tooltip-position="top" aria-label="question.md" data-href="question.md" href="https://sai-prabhav.github.io/bmath_notes/question" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">question</a><a data-tooltip-position="top" aria-label="question.md" data-href="question.md" href="https://sai-prabhav.github.io/bmath_notes/question.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">question</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/1. Cauchy Criterion" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">1. Cauchy Criterion</a><a data-tooltip-position="top" aria-label="real analyses/1. Cauchy Criterion.md" data-href="real analyses/1. Cauchy Criterion.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/1.-cauchy-criterion.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">1. Cauchy Criterion</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/2. Limit Points" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">2. Limit Points</a><a data-tooltip-position="top" aria-label="real analyses/2. Limit Points.md" data-href="real analyses/2. Limit Points.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/2.-limit-points.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">2. Limit Points</a>: note the definition later<br><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/3. Convergences of Series" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">3. Convergences of Series</a><a data-tooltip-position="top" aria-label="real analyses/3. Convergences of Series.md" data-href="real analyses/3. Convergences of Series.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">3. Convergences of Series</a>: -<br><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">4. Continuity of Functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions.md" data-href="real analyses/4. Continuity of Functions.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">4. Continuity of Functions</a>: complete the exercise<br><a data-tooltip-position="top" aria-label="real analyses/balzano-Wriestrs theorem.md" data-href="real analyses/balzano-Wriestrs theorem.md" href="https://sai-prabhav.github.io/bmath_notes/real analyses/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-tooltip-position="top" aria-label="real analyses/balzano-Wriestrs theorem.md" data-href="real analyses/balzano-Wriestrs theorem.md" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>: -<br><a data-tooltip-position="top" aria-label="snippet/my_snippet.md" data-href="snippet/my_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/my_snippet" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">my_snippet</a><a data-tooltip-position="top" aria-label="snippet/my_snippet.md" data-href="snippet/my_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/my_snippet.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">my_snippet</a>: -<br><a data-tooltip-position="top" aria-label="snippet/old_snippet.md" data-href="snippet/old_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/old_snippet" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">old_snippet</a><a data-tooltip-position="top" aria-label="snippet/old_snippet.md" data-href="snippet/old_snippet.md" href="https://sai-prabhav.github.io/bmath_notes/snippet/old_snippet.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">old_snippet</a>: -<br><a data-tooltip-position="top" aria-label="Untitled.md" data-href="Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/Untitled" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Untitled</a><a data-tooltip-position="top" aria-label="Untitled.md" data-href="Untitled.md" href="https://sai-prabhav.github.io/bmath_notes/untitled.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Untitled</a>: -]]></description><link>https://sai-prabhav.github.io/bmath_notes/all-queries.html</link><guid isPermaLink="false">All Queries.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 06:09:14 GMT</pubDate></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
@@ -626,43 +949,7 @@ let  ,  be arthmetic function then<br>
 <br> prove the statement
 <br><br>
 and hence prove by <a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Mobius Inverse Formula</a><a data-tooltip-position="top" aria-label="^e5d0e5" data-href="#^e5d0e5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^e5d0e5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Mobius Inverse Formula</a> 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html</link><guid isPermaLink="false">number_theory/5. The Mobius Inverse Formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 04:34:53 GMT</pubDate></item><item><title><![CDATA[6. Multiplicative Functions]]></title><description><![CDATA[ 
- <br>Definition (Multiplicative Function).
-An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>  is called multiplicative if  and 
-<br>Remark.
-If  is multiplicative then 
-<br>Definition (Completely Multiplicative Function).
-An <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a>  is called Completely multiplicative if  
-<br><br> are <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> <br> are non-multiplicative<br>Theorem.
-Prove  is <a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Multiplicative</a><a data-tooltip-position="top" aria-label="^550189" data-href="#^550189" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^550189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Multiplicative</a> 
-<br>Proof.<br>
-lets show there is a bijection <br><br>let  we want to find   .  .<br><br>let <br><br>Hence <br>
-this prove  is surjective<br>
-now lets prove  is injective <br><br>hence  is bijection<br>
-□<br>Proposition.
-If  and  are multiplicative then so is . conversly if  and  is multiplicative the  is multiplicative 
-<br>Proof.<br>
-Write <br>
-let  we want to show that <br><br>we have proved the first part now the second part <br>suppose  is not multiplicative<br>
-then there   .  . <br><br>chose such  ,  so that  is the smallest possible <br>Case I suppose <br>
-then <br>
-now <br><br>then  is not multiplicative<br>
-So <br>
-now <br><br>as  is not 0 then  is not multiplicative<br><br>Corollary.
-Let  and  such that  then  is multiplicative   is multiplicative
-<br>Proposition.
- Let  and  then  exist if 
-<br>Proof.<br>Suppose  exist then <br><br>conversely suppose <br>
-suppose  then we must have<br><br>Lets solve it by induction <br>Suppose  is defined<br>
-we want to define  now we need<br>
-such that <br><br>this completes the proof<br>
-□ <br><br>
-<br>
-<br>find <br>
-as  is multiplicative so is  so its sufficient to find  for all primes and  
-<br><br>Remark.
-If  then 
-<br><br>proof<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/6.-multiplicative-functions.html</link><guid isPermaLink="false">number_theory/6. Multiplicative Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 07 Oct 2024 16:16:38 GMT</pubDate></item><item><title><![CDATA[7. Average of Arithmetic Function]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/5.-the-mobius-inverse-formula.html</link><guid isPermaLink="false">number_theory/5. The Mobius Inverse Formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 04:34:53 GMT</pubDate></item><item><title><![CDATA[7. Average of Arithmetic Function]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:7-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#7-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:7-oct" class="tag" target="_blank" rel="noopener">#7-oct</a> <br>Definition (Average of Arithmetic Function).
 Let  be a <a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/4. Arithmetic Functions#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Function</a><a data-tooltip-position="top" aria-label="4. Arithmetic Functions > ^919b57" data-href="4. Arithmetic Functions#^919b57" href="https://sai-prabhav.github.io/bmath_notes/number_theory/4.-arithmetic-functions.html#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Function</a> then I define average as 
 <br><br>For example for <br><br>Theorem (Euler Maclaurin summation Formula).
@@ -786,34 +1073,7 @@ show that
 <br><br>we saw earlier<br>
 <br><br>Theorem.
 If  and  are independent then
-<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:24 GMT</pubDate></item><item><title><![CDATA[2. Covariance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br>Definition (Covariance).
-The Covariance between  and  is 
-<br><br>Remark.
-If  is independent<br>
-The converse may not be true
-<br>Exercise.
-(i) <br>
-(ii) <br>
-(iii) <br>
-(iv) 
-<br>Proof.<br>
-(i)<br>
-(ii)<br>
-(iii)<br><br>(iv) let<br><br>Lemma.
-
-<br>Proof.<br><br>□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a> <br>Definition (Sample mean and Sample Variance).<br><br><br>Definition (Independence of Random Variable ).
-let  are random variable they are independent if 
-<br><br><br>Definition (identical Random Variable ).
-let  are random variable they are Identical if<br>
-
-<br><br>let  are independent and identically distributed random variable<br>
-let <br><br>lets find  and  <br><br>Find  ( is the sample variance ) <br><br>Lets separately find  and  <br><br><br><br><br>Basically fuck the above as its too lengthy and do it in a better way<br><br><br>□<br><br>Example (Sampling from finite population ).
-Polulation of  people voting in election  is a candiditte for election
-<br>for each person  in population<br><br><br>Proportion in favor of <br>
-Take sample of size  from population.<br>
-Take average of  for sample is estimator for V<br><br>let  be the number of people in flavor of  in the sample <br><br>is the proportion of people in sample who favor  <br><br><br>conform the above stuff<br><br>We second step <a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^02f340</a><a data-href="#^02f340" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^02f340" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a> <br><br><br><br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html</link><guid isPermaLink="false">Probability/2. Covariance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:27 GMT</pubDate></item><item><title><![CDATA[3. Corelation Coefficient]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+<br><br>for some <br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/1.-multinomial-distribution.html</link><guid isPermaLink="false">Probability/1. Multinomial Distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:24 GMT</pubDate></item><item><title><![CDATA[3. Corelation Coefficient]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Corelation Coefficient).
 The correlation coefficient between  and Y
 <br><br>Lemma.
@@ -840,66 +1100,7 @@ if  high degree of linearity<br>
 consider  independent trials each of which results in any of  possible outcomes with Probability  
 
 <br><br><br>if <br>
-lets take <br><br><br><br> Verify the above result as  completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:30 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
- ,  discrete RV the conditional pmf of  given <br>
- only when 
-<br>Remark.
- 
-<br><br><br>Definition (Conditional Cumulative Distribution function ).
- ,  discrete RV the conditional (cumulative ) distribution function (conditional CDF)<br>
-of  given  
-<br><br>If  ,  are independent<br><br><br>
-<br>If pmf of  and  
-<br><br>find <br>
-<br> is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()  is <a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/Poisson" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Poisson</a><a data-href="Poisson" href="https://sai-prabhav.github.io/bmath_notes/probability/poisson.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Poisson</a>()<br>
-conditional distribution of  given X+  
-<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>
-3.  possible outcome with probability   independent trials <br><br>suppose given <br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/4.-conditional-distribution.html</link><guid isPermaLink="false">Probability/4. Conditional distribution.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:33 GMT</pubDate></item><item><title><![CDATA[5. Conditional Expectation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Expectation).
-Let the joint pmf of  be  the conditional expectation of  given  
-<br><br><br>
-<br> ,  are <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> and<br>
-<a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^976001" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">identical</a><a data-tooltip-position="top" aria-label="2. Covariance > ^976001" data-href="2. Covariance#^976001" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^976001" class="internal-link mathLink-internal-link" target="_self" rel="noopener">identical</a>Bin(  ,  )
-
-
-<br><br>this distribution is similar to hyper-geometry with  total balls and  black balls and  ball are picked from it <br><br>this has the expectation <br>
-find the  of hyper-geometric distribution<br>Definition.
- is the function of Random veriable  whose value at  is  
-<br>Remark.
- is a Random variable depends on Y
-<br>Remark.
-If  ,  independent then  
-<br>Theorem.
- .
-<br>Proof.<br><br><br>
-<br>Miner trapped in mine<br>
-There are 3 roads that miner can escape to each road has an equal probability to be chose and the fist road takes 5 hours to and he comes back to the same place and the middle road 3 hours and to escape and last road comes back to the same place after 7 hours<br>
-
-  
-  
-  
-    
-    
-  
-  EXIT5 HOURS3 HOURS7 HOURSDOOR 1DOOR 3DOOR 2
-<br>Let  be the RV time taken to escape  is the door number<br><br>
-<br> <a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/2. Covariance#^e3530d" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">independent</a><a data-tooltip-position="top" aria-label="2. Covariance > ^e3530d" data-href="2. Covariance#^e3530d" href="https://sai-prabhav.github.io/bmath_notes/probability/2.-covariance.html#^e3530d" class="internal-link mathLink-internal-link" target="_self" rel="noopener">independent</a> RV with  for all <br>
- take value <br>
- is independent of all <br>
-what is 
-
-
-<br><br>Exercise.
-Roll a pair of dice if the sum is 2,3 or 12 player loses if 7 or 11 wins if sum is any other  then the player continues to roll the dice sum is either 7 or  if it is 7 player losses<br>
-if it is  player wins<br>
- is a RV rolls in a game
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/5.-conditional-expectation.html</link><guid isPermaLink="false">Probability/5. Conditional Expectation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:17:41 GMT</pubDate></item><item><title><![CDATA[6. Conditional Variance]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Conditional Variance).
-
-<br>Theorem.
-
-<br>Proof.<br><br><br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:41 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
+lets take <br><br><br><br> Verify the above result as  completed it]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/3.-corelation-coefficient.html</link><guid isPermaLink="false">Probability/3. Corelation Coefficient.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:30 GMT</pubDate></item><item><title><![CDATA[1. Cauchy Criterion]]></title><description><![CDATA[ 
  <br>Definition (Convergence sequence).
 A sequence  of real numbers is said to be converges to a real number  if for every , there exist  such that<br>
 
@@ -1010,157 +1211,7 @@ such that  and  then<br>
 
 <br>Proof.<br><br><br>Claim.
 
-<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:57 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
-Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
-
-<br>Example 1.
- some non-empty subset of  fix <br>
-we can show  is continuous function with the above definition
-<br>Example 2 (Identity Function).
-Suppose  is a non empty subset of  
-<br><br>Consider any <br>
-now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
-let <br>
-consider  defined by 
-<br>Consider <br>
-we need to estimate <br><br>Take  Then for <br><br>Example 4.
-let <br>
-show that  is continuous
-<br>Fix  <br><br>if  then <br>
-Take <br>
-Then for  then  <br>complete the exercise<br>Theorem.
-Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
-<br> Proof.<br>
-Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
-for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
-so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
-so for  take  then <br>
-such that <br><br>As  do not converge to <br>□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Suppose  and   does that mean  converge?<br>
-No, let  and  <br>Definition (continuity at a point  version).
-Let A be a non empty subset of  let  be a function .<br>
-Fix  then  is said to be continuous at  if for every  such that
-<br><br><br>Definition.
-Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
- 
-<br>Corollary.
-suppose  is an isolated point in  . Then any function  is continuous at  
-<br><br>Definition (Continuity of function).
-Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
-<br>Theorem.
-Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
-then  is defined by <br>
-is also continuous at c
-<br>Proof.<br>
-for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
-so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
-Let A be a non-empty subset of  and let  suppose  are functions continuous at c
-
-<br>For  defined by m is continuous at  
-<br> defined by  is continuous at c
-<br>if  then  defined by  is continuous at c
-
-<br>Proof.<br>
-(using sequential version of continuity.)<br>
-<br>Take  we want to show that  is continuous at  .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to 
-<br><br>
-<br>
-Take  we want to show that  is continuous at .<br>
-suppose  is a sequence in A converging to  we wan tho show that  converges to 
-
-
-<br>
-Take  we want to show that  is continuous at .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to  and  for all  in  then
-
-□
-
-<br>Example.
-Suppose  then the polynomial  defined by  is continuous
-<br>If you can't prove it leave ISI<br>Theorem.
-Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
-<br>Proof.<br>
-for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
- is known as the restriction of  to  and is denoted by  
-<br>Corollary.
-If  is a non-empty subset of  and  is a polynomial then  is continuous<br>
-suppose  is another polynomial, with <br>
-then  defined by<br>
- is continuous 
-<br>Theorem.
-Let A  be non empty subset of <br>
-suppose  and  be functions<br>
-Assume  suppose for some   is continuous at   is continuous at <br>
-then  defined by<br>
- is continuous at 
-<br>Proof.<br>
-suppose  is a sequence in A converging to .<br>
-We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
-□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition.
-Let A be a non-empty subset of  and let  be a function then  is said to be bounded above if there exist <br>
-similarly  is said to be bounded below if there exist  such that <br>
-it is said to be bounded if there exist  such that<br>
- let  be bounded above then  is called the supreimum of <br>
-it is said to be a maximum if there exist  such that  
-suppose  is bounded below<br>
- is called the infimum of <br>
-it is said to be a minimum if the infimum is attained, that is there exist    .  . 
-<br>Theorem.
-Let  with  let   be a continuous function then  is bounded<br>
-moreover  attains its supremum and infimum in  
-<br>Proof.<br>
-suppose  is not bounded<br>
-then for any natural number  ,  is not a upper bound<br>
-this means that there exist  such that  <br>as  is bounded by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a> it has a convergent sequence <br>
-Take  then <br>
-then by continuity of   is convergent in particular it is bounded but we have<br>
-<br>
-so it cant be bounded this is a contradiction<br>take <br>
-For  is not upper bound for  so there exist  such that <br><br>once again by <a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/balzano-Wriestrs theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">balzano-Wriestrs theorem</a><a data-href="balzano-Wriestrs theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/balzano-wriestrs-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">balzano-Wriestrs theorem</a>  has a convergent sequence say  converging to some <br>
-thus <br>
-as  tends to  by squeeze theorem  is convergent and converges for  as  is continuous at  <br>
-□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:3-oct" class="tag" target="_blank" rel="noopener">#3-oct</a><br>Theorem (Location of roots ).
-Let  with . Let  be a continuous function. Suppose  then there exist a  can also be called as 'root'
-<br>Proof. 1<br>
-We will use nested intervals property of <br>
-take  and  and <br>consider <br>
-if  we are done<br>
-else if  take <br>
-else if  take <br>
-take <br>Note that  and <br>
-repeat the process consider <br>
-if  we are done<br>
-else if  take <br>
-else if  take <br>
-we continue so on<br>
-if it terminates we have a <br>If it doesn't terminated we have sequence of nested interval<br><br>by nested interval property <br>
-the length of <br>
-thus the  is a singleton say <br>Claim.
-
-<br><br><br>For every every <br>
-By continuous of   hence <br>
-similarly, for every <br>
-by continuity of  at  <br>
-so, <br>
-Hence <br>□<br>
-Proof. 2<br>consider <br><br>  is non empty as <br>
- is bounded by <br>
-by the limit upper bound property  has a supremum<br>
-Take <br>Claim.
-
-<br>for  consider .<br>
-As  is not a supremum of  there exist <br>
-such that <br><br>So  <br>
-Hence <br>
-in particular <br>
-Now consider <br>
-not for any <br>
-let <br><br>as  <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:59 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+<br>To prove Both converge to same value Hope Sir proves this]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/3.-convergences-of-series.html</link><guid isPermaLink="false">real analyses/3. Convergences of Series.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:57 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
  <br>Exercise 10.
  In a sequence of Bernoulli trials let X be the length of run (of either successes or failures) started by the first trial. 
 
