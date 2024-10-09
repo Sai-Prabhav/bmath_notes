@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
+                "file": "linear algebra/6. Question.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
+                "file": "linear algebra/6. Question.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
+                "file": "linear algebra/6. Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md"
+                "file": "linear algebra/6. Question.md"
               }
             }
           }
@@ -173,56 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "96418b74e18133f9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "786126795453aeaa",
-        "type": "window",
-        "children": [
-          {
-            "id": "e8b672de78770d96",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "880192b5cf4c3b1b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "real analyses/7. Uniform Continuous.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "880192b5cf4c3b1b",
+  "active": "7b737fafae85921c",
   "lastOpenFiles": [
+    "linear algebra/6. Question.md",
+    "linear algebra/Problems.md",
+    "real analyses/7. Uniform Continuous.md",
+    "Custom Commands.md",
     "real analyses/6. Continuous Bijections.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/7. Continuous Random Variable.md",
     "Probability/6. Conditional Variance.md",
     "Probability/4. Conditional distribution.md",
-    "real analyses/7. Uniform Continuous.md",
     "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "Probability/sheldon_ross.pdf",
     "snippet/my_snippet.md",
     "Probability/5. Conditional Expectation.md",
-    "Custom Commands.md",
     "real analyses/balzano-Wriestrs theorem.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
@@ -230,7 +194,6 @@
     "question.md",
     "Untitled.md",
     "Probability/2. Covariance.md",
-    "linear algebra/6. Question.md",
     "snippet/old_snippet.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md",
@@ -242,7 +205,6 @@
     "linear algebra/4. Rank Factorization of Matrix.md",
     "Untitled 1.md",
     "Probability/3. Corelation Coefficient.md",
-    "linear algebra/2. Direct Sum.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",

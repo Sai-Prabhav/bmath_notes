@@ -1,4 +1,26 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Oct 2024 16:49:07 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Oct 2024 16:49:04 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Oct 2024 17:42:16 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Oct 2024 17:42:15 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Question
+Let  be a matrix with rank  . Then there exist invertible matrices  and  such that 
+<br><br>Let A be a  let  be the nullity of  ie, <br>
+<br>
+let  be a basis of <br>
+extend this basis to a basis of  say <br>
+ is a basis for <br>
+Extend this to  a basis of <br>
+Let  be the matrix whose columns are elements of  and  is the inverse of the matrix whose columns are formed by elements of <br><br><br>Theorem.
+Every non null matrix has a rank factorization.
+<br><br><br>
+Let  where  is of order <br>
+  is of order <br>Claim.
+
+<br><br> another proof<br>
+Let A be  of rank <br>
+Let  be a basis  where each <br>
+So, every column of A say  is a linear combination of elements in <br>
+Let <br><br><br>if  then <br>Theorem.
+If  is a rank factorization of A, then  is also a rank factorization of A for  a non-singular matrix.<br>
+Also, every rank factorization of  is of this form 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 17:00:13 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
  ,  discrete RV the conditional pmf of  given <br>
  only when 
@@ -30,18 +52,7 @@ Example 5o 5p which may be done in class but not written in this notes. Don't wo
 <br><br><br><br><br><br>When we know  and what to find what is the   we may chose  to be a predictor of  given  . A good way of judging the closeness of  is to minimize  <br>Theorem.
  is the closest predictor of  in other words<br>
  for all  
-<br>Proof.<br><br>as  is a function of  when  is given it can be considered as a constant <br><br>hence <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 16:18:26 GMT</pubDate></item><item><title><![CDATA[7. Continuous Random Variable]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Definition (Continuous Random variable).
-SaY  a Continuous Random Variable if there exist a function  such that
-<br><br>Remark.<br><br><br><br><br><br><br>but it if the set is uncountable then this does not hold true <br><br>Remark.
-Let  then  there are infinitely many values of  other than  
-<br>Definition (Cummulative distribution function).<br><br><br>
-<br> is a continuous RV
-<br><br>Definition (Exponential density function).<br><br>Theorem.
-<br>
-from first fundamental theorem of Calculus <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus" target="_blank">wiki</a><br>
- if  is continuous at 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html</link><guid isPermaLink="false">Probability/7. Continuous Random Variable.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 08:36:58 GMT</pubDate></item><item><title><![CDATA[5. Intermediate Value Theorem]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+<br>Proof.<br><br>as  is a function of  when  is given it can be considered as a constant <br><br>hence <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 16:18:26 GMT</pubDate></item><item><title><![CDATA[5. Intermediate Value Theorem]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:8-oct" class="tag" target="_blank" rel="noopener">#8-oct</a><br>Theorem (Intermediate Value theorem).
 Let  with  let  be a continuous function. SUppose<br>
  or <br>
@@ -171,29 +182,7 @@ say  converges to some  <br>we have <br><br>take  and  for  <br> converges to  a
 hence <br>
 but we have <br><br>So  are not same hence they are not continuous which contradicts the assumption that  is not uniformly continuous<br>Theorem.
 Let A be a non-empty subset of  and let  be uniform continuous. Suppose  
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html</link><guid isPermaLink="false">real analyses/7. Uniform Continuous.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 11:22:07 GMT</pubDate></item><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Question
-Let  be a matrix with rank    . Then there exist invertible matrices     and    such that 
-<br><br>Let A be a  let    be the nullity of  ie, <br>
-<br>
-let  be a basis of <br>
-extend this basis to a basis of  say <br>
- is a basis for <br>
-Extend this to  a basis of <br>
-Let    be the matrix whose columns are elements of  and     is the inverse of the matrix whose columns are formed by elements of <br><br><br>Theorem.
-Every non null matrix has a rank factorization.
-<br><br><br>
-Let  where  is of order <br>
-  is of order <br>Claim.
-
-<br><br> another proof<br>
-Let A be   of rank  <br>
-Let  be a basis  where each <br>
-so, every column of A say   is a linear combination of elements in <br>
-Let <br><br><br>if  then <br>Theorem.
-If  is a rank factorization of A, then  is also a rank factorization of A for  a non-singular matrix.<br>
-Also, every rank factorization of  is of this form 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 07:43:31 GMT</pubDate></item><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html</link><guid isPermaLink="false">real analyses/7. Uniform Continuous.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 11:22:07 GMT</pubDate></item><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a><br>Definition (Rank Factorization of Matrix).
 Let  be a  matrix of rank  .  Rank factorization of  is a pair of matrices  where  is of order  and  is of order , such that  
 <br>Theorem.
