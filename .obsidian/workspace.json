@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "40c585d6761a1c59",
+        "id": "46f8f20d976e2e44",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b48a20ce199df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "real analyses/6. Continuous Bijections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1601afb0f352be55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d360a4bfc3bc8f",
+            "id": "7b0f06a73877c0d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "snippet/my_snippet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4395986d0db4276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "real analyses/5. Intermediate Value Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
+                "file": "real analyses/5. Intermediate Value Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md",
+                "file": "real analyses/5. Intermediate Value Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/7. Uniform Continuous.md"
+                "file": "real analyses/5. Intermediate Value Theorem.md"
               }
             }
           }
@@ -175,25 +163,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1601afb0f352be55",
+  "active": "c4395986d0db4276",
   "lastOpenFiles": [
+    "All Queries.md",
+    "Custom Commands.md",
+    "question.md",
     "snippet/my_snippet.md",
     "real analyses/7. Uniform Continuous.md",
+    "Untitled.md",
+    "real analyses/balzano-Wriestrs theorem.md",
     "real analyses/6. Continuous Bijections.md",
-    "Custom Commands.md",
-    "real analyses/5. Intermediate Value Theorem.md",
+    "Probability/4. Conditional distribution.md",
+    "Probability/5. Conditional Expectation.md",
+    "Probability/2. Covariance.md",
     "Probability/6. Conditional Variance.md",
+    "Probability/7. Continuous Random Variable.md",
+    "real analyses/5. Intermediate Value Theorem.md",
     "linear algebra/6. Question.md",
     "snippet/old_snippet.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md",
     "Untitled",
-    "Probability/7. Continuous Random Variable.md",
     "website/real-analyses/5.-intermediate-value-theorem.html",
     "real analyses/4. Continuity of Functions.md",
-    "Probability/5. Conditional Expectation.md",
-    "Probability/4. Conditional distribution.md",
-    "Probability/2. Covariance.md",
     "number_theory/6. Multiplicative Functions.md",
     "linear algebra/5. Projector.md",
     "linear algebra/4. Rank Factorization of Matrix.md",
@@ -202,10 +194,6 @@
     "Probability/3. Corelation Coefficient.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/5. The Mobius Inverse Formula.md",
-    "number_theory/4. Arithmetic Functions.md",
-    "number_theory/3. Binary.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
