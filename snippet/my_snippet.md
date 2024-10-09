@@ -31,8 +31,10 @@
     { trigger: "NN", replacement: "\\NN", options: "mA" },
     { trigger: "CC", replacement: "\\CC", options: "mA" },
     { trigger: "RR", replacement: "\\RR", options: "mA" },
-    { trigger: "BB", replacement: "\\mathbb{B}", options: "mA" },
+    { trigger: "BB", replacement: "\\mathcal{B}", options: "mA" },
     { trigger: "ZZ", replacement: "\\ZZ", options: "mA" },
+    { trigger: "cal", replacement: "\\mathcal{$0} $1", options: "mA" },
+		
 
     { trigger: "pm", replacement: "\\pmod{${0:p}} $1", options: "mA" },
 
