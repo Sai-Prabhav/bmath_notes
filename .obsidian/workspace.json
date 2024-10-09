@@ -8,24 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aeb1536f6c6551d",
+            "id": "2ca61e95c402df32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/4. Conditional distribution.md",
+                "file": "Probability/6. Conditional Variance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ca61e95c402df32",
+            "id": "4ef5ec3d27c1e9aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Probability/an-introduction-to-probability-theory-and-its-applications.pdf"
+                "file": "Custom Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679d794c86fc2952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippet/old_snippet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/4. Conditional distribution.md",
+                "file": "Probability/6. Conditional Variance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/4. Conditional distribution.md",
+                "file": "Probability/6. Conditional Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/4. Conditional distribution.md"
+                "file": "Probability/6. Conditional Variance.md"
               }
             }
           }
@@ -149,29 +163,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aeb1536f6c6551d",
+  "active": "2ca61e95c402df32",
   "lastOpenFiles": [
-    "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
+    "Probability/5. Conditional Expectation.md",
+    "Custom Commands.md",
+    "snippet/old_snippet.md",
+    "snippet/my_snippet.md",
     "Probability/4. Conditional distribution.md",
+    "Probability/6. Conditional Variance.md",
+    "Untitled 1.md",
+    "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "Probability/2. Covariance.md",
     "Probability/3. Corelation Coefficient.md",
-    "Untitled 1.md",
-    "Probability/5. Conditional Expectation.md",
-    "Probability/6. Conditional Variance.md",
     "linear algebra/4. Rank Factorization of Matrix.md",
     "linear algebra/5. Projector.md",
-    "Custom Commands.md",
     "linear algebra/2. Direct Sum.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "real analyses/5. Intermediate Value Theorem.md",
@@ -190,7 +206,6 @@
     "real analyses/3. Convergences of Series.md",
     "real analyses/2. Limit Points.md",
     "real analyses/1. Cauchy Criterion.md",
-    "Probability/1. Multinomial Distribution.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",
