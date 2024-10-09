@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ef5ec3d27c1e9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linear algebra/6. Question.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6659735fe95b3287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippet/my_snippet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee89cfc84251e22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippet/old_snippet.md",
+                "file": "real analyses/6. Continuous Bijections.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/6. Question.md",
+                "file": "real analyses/6. Continuous Bijections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/6. Question.md",
+                "file": "real analyses/6. Continuous Bijections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/6. Question.md"
+                "file": "real analyses/6. Continuous Bijections.md"
               }
             }
           }
@@ -174,16 +150,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ef5ec3d27c1e9aa",
+  "floating": {
+    "id": "f1633b562db9d379",
+    "type": "floating",
+    "children": [
+      {
+        "id": "97b0d45261b1b436",
+        "type": "window",
+        "children": [
+          {
+            "id": "7b5ca178d8ebe8d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6b48a20ce199df9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "real analyses/6. Continuous Bijections.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e6b48a20ce199df9",
   "lastOpenFiles": [
-    "snippet/my_snippet.md",
-    "linear algebra/6. Question.md",
-    "snippet/old_snippet.md",
-    "Custom Commands.md",
-    "Probability/6. Conditional Variance.md",
-    "Probability/7. Continuous Random Variable.md",
-    "Untitled",
     "real analyses/5. Intermediate Value Theorem.md",
+    "Probability/6. Conditional Variance.md",
+    "linear algebra/6. Question.md",
+    "real analyses/6. Continuous Bijections.md",
+    "snippet/old_snippet.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md",
+    "Untitled",
+    "Probability/7. Continuous Random Variable.md",
+    "Custom Commands.md",
+    "snippet/my_snippet.md",
     "website/real-analyses/5.-intermediate-value-theorem.html",
     "real analyses/4. Continuity of Functions.md",
     "Probability/5. Conditional Expectation.md",
@@ -202,12 +218,9 @@
     "number_theory/4. Arithmetic Functions.md",
     "number_theory/3. Binary.md",
     "All Queries.md",
-    "Untitled.md",
-    "linear algebra/3. Rank.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
-    "real analyses/3. Convergences of Series.md",
     "website/real-analyses/balzano-wriestrs-theorem.html",
     "website/number_theory/7.-average-of-arithmetic-function.html",
     "website/number_theory/6.-multiplicative-functions.html",

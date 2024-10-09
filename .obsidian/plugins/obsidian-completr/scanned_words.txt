@@ -390,6 +390,7 @@ textAlign
 top
 tDUq
 tacking
+temperature
 is
 italics
 its
@@ -5184,6 +5185,7 @@ autoResize
 appState
 arthmetic
 absolute
+antipodal
 bold
 bye
 bigest
@@ -6559,6 +6561,7 @@ system
 subinterval
 strictly
 success
+singular
 Proof
 PDF
 Producer
@@ -8328,6 +8331,9 @@ Convevolution
 CnT
 Convolution
 Completely
+Continuous
+Cummulative
+Calculus
 Ever
 Every
 Environments
@@ -8696,6 +8702,8 @@ Embedded
 EhL
 EXIT
 Existance
+Extend
+Exponential
 element
 elements
 exactly
@@ -9010,6 +9018,7 @@ excalidraw
 etfm
 exampe
 examples
+equator
 other
 one
 order
@@ -9599,6 +9608,7 @@ opacity
 oGhupjslsbq
 originalText
 origin
+opposite
 Lesson
 Little
 Linux
@@ -15150,6 +15160,7 @@ Bau
 Bernoulli
 BKfptaEHj
 BGNPH
+Bijections
 Normal
 Nk
 Nb
@@ -15796,6 +15807,8 @@ dice
 decompress
 data
 decide
+density
+decreasing
 xl
 xD
 xG
@@ -20269,6 +20282,8 @@ files
 fsHH
 fractional
 fafafe
+formed
+functionn
 rE
 ra
 ref
@@ -27025,6 +27040,7 @@ uUu
 uuid
 updated
 uDpnmZ
+uncountable
 Wi
 WO
 Widths

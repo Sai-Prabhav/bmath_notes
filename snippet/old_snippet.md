@@ -550,7 +550,7 @@
     // (Un-comment to enable)
     {
         trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/,
-        replacement: "[[0]] $[[1]]$ [[2]]",
+        replacement: "[[0]]$[[1]]$[[2]]",
         options: "tA",
     },
 
