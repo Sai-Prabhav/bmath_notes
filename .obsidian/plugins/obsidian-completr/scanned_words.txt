@@ -2640,6 +2640,7 @@ multiplicative
 maclaius
 maclaurin
 madness
+monotonic
 check
 cool
 co
@@ -5186,6 +5187,7 @@ appState
 arthmetic
 absolute
 antipodal
+apply
 bold
 bye
 bigest
@@ -10948,6 +10950,7 @@ Mobious
 Mobius
 Multiplicative
 Maclaurin
+Monotonic
 Title
 Theorem
 TH
@@ -14612,6 +14615,7 @@ Subcase
 Switch
 Saving
 SUppose
+Strictly
 BM
 BVvvzK
 BH
@@ -21553,6 +21557,7 @@ InstanceID
 Inverse
 Intermediate
 III
+Increasing
 qq
 qk
 qH
@@ -24048,6 +24053,7 @@ Dirichet
 Definite
 DOOR
 Don
+Decreasing
 UxA
 UNP
 UQ
