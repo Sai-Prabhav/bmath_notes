@@ -62,6 +62,16 @@
         options: "rtAw",
     },
     {
+        trigger: /([A-Za-z]_\d)([\n\s.,?!:'])/,
+        replacement: "$[[0]]$[[1]]",
+        options: "rtAw",
+    },
+    {
+        trigger: /([A-Za-z]\([^)]*\))([\n\s.,?!:'])/,
+        replacement: "$[[0]]$[[1]]",
+        options: "rtAw",
+    },
+    {
         trigger: /([A-Za-z][=><][+-]?[\d]?[A-Za-z][+-]\d+)([\n\s.,?!:'])/,
         replacement: "$[[0]]$[[1]]",
         options: "rtAw",
