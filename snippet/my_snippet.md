@@ -13,6 +13,7 @@
             /([^\\])(exp|log|ln|NN|RR|CC|ZZ|where|disc|mat|if|or|so|then|st|re|im)/,
         replacement: "[[0]]\\[[1]]",
         options: "rmA",
+        priority: -100,
     },
 
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },

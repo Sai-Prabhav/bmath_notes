@@ -1,4 +1,70 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 09 Oct 2024 17:42:16 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 09 Oct 2024 17:42:15 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 10 Oct 2024 14:25:18 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 10 Oct 2024 14:25:15 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+ <br>Definition (Sum of Subspaces).
+Let  we a vector space<br>
+let  be subspaces of <br>
+The sum of theses subspaces denoted by  is the space of all <br>
+<br>
+Note:  is a subspace of  
+<br>Definition (Independence of Subspaces).
+The subspace  is said to be independent if whenever<br>
+ with  only if  
+<br>Proposition.
+The sum of  is the smallest subspace containing all  i.e,<br>
+if  is subspace of  and  then 
+<br>Definition (Direct sum).
+ is said to be the direct sum of  if<br>
+ and  are independent<br>
+we also represent direct sum by<br>
+
+<br>Proposition.
+If  is the direct sum of  then<br>
+ can be written uniquely as the sum of  
+<br>Proposition.
+let  be subspace of a finite dimensional vector space , and let  be the basis for <br>
+The order basis  obtained by listing the  in order is a basis of  iff  
+<br>Corollary.
+Let  be a subspace of . Then  of  such that<br>
+
+<br>Proof.<br>
+let  be a basis of  extend this basis to  say <br>
+let  which is linearly independent so it is the basis ow <br>
+clearly,  and  and  are independent <br>
+□ <br>Definition (Compliment).
+' is called a complement of  
+<br>Note: Compliment is not unique<br>Proposition.
+Let  be sub-spaces of finite dimensional vector space  then,
+
+<br>Proof.<br>
+let  be the dimension of subspace  and let  be the basis of it.<br>
+let basis of  be <br>
+let basis of  be <br>
+Claim:  is the basis of <br>
+Clearly  spans <br>
+lets show that  is independent<br><br><br> also <br>
+As  such that<br><br><br>which implies  as  is the basis of <br>
+so equation <a data-href="#^b488c5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^b488c5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^b488c5</a><a data-href="#^b488c5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^b488c5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a> becomes<br><br>and as  is basis of <br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>Definition.
+Let  be a subset of  and  a compliment of  in  ,. <br>
+For  let  where <br>
+ is called the projection of  into  along  
+<br><br>let  be the basis of  and  a basis of  <br><br>this is true if <br><br>Exercise.
+Let <br>
+
+<br>let basis of  be <br><br>we extend it to basis of  by adding <br>Theorem.
+Let  be a complement of  in , ie  and define  by  if  for  that is  is the projection of  into  along  .  is a linear transformation.<br>
+this is called the projection operator into  along <br>
+i) <br>
+ii)<br>
+iii) if <br>
+iv) if  then <br>
+v)
+<br> Prove you dumb ass <br>Exercise.
+In the vector space  find two diffrent compliment of  where  is  
+<br>first lets find the basis of W<br><br>we assign arbitrary variable for non pivotal columns <br><br>
+<br>
+Basis of  is<br><br>we can see that  and  are to different basis of compliment<br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html</link><guid isPermaLink="false">linear algebra/2. Direct Sum.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 10 Oct 2024 08:27:45 GMT</pubDate></item><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Question
 Let  be a matrix with rank  . Then there exist invertible matrices  and  such that 
 <br><br>Let A be a  let  be the nullity of  ie, <br>
@@ -20,7 +86,129 @@ So, every column of A say  is a linear combination of elements in <br>
 Let <br><br><br>if  then <br>Theorem.
 If  is a rank factorization of A, then  is also a rank factorization of A for  a non-singular matrix.<br>
 Also, every rank factorization of  is of this form 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 17:00:13 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener">#10-oct</a><br>Exercise.
+Determine all projectors of order  over  
+<br>there are 3 kinds of projection<br>a) <br>
+b) <br>
+c) restriction of det and trace trace=1 and det =0<br>Exercise.
+If  then show rank of A is the trace of A
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 10 Oct 2024 04:53:41 GMT</pubDate></item><item><title><![CDATA[7. Generalised Inverse]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener">#10-oct</a><br>Definition.
+Given any matrix  there exist a matrix  (generalised inverse denoted by g-inv ). Such that whenever  is a consistent system, ie <br>
+ is a solution and  dosen't depend on  
+<br>Theorem.
+Every matrix has a g-inv<br>
+Proof. 
+<br>Suppose A be a  matrix<br>
+if  as the  is trivial only consistent system is  so the  matrix suffices. In-fact any  matrix works as g-inv let  and as  there exist a rank factorization  let  be a left inverse of  and  be right inverse of  and let  <br>Let  be a consistent solution <br>Claim.
+ is solution of  
+<br>Since  <br><br><br> □<br>Theorem.
+THAE<br>
+i) <br>
+ii) <br>
+iii)  for some matrix  
+<br>Proof.<br>
+<br>
+ and the rank is same hence <br>
+<br>
+as column of A is contained in  there exist<br>
+<br>
+<br><br>
+<br> □<br>Theorem.
+TFAE<br>
+i) <br>
+ii) <br>
+iii)  for some D
+<br>Proof.<br>
+<br>
+ and the rank  same hence <br>
+<br>
+as  every row in  can we written as  where  is a column vector hence we can construct a matrix  st.  <br><br>
+<br> □<br>Theorem.
+For any 2 matrices A and  TFAE<br>
+i)  is a g-inv of A<br>
+ii) AGA=A<br>
+iii)AG is idempotent and <br>
+iV) GA is idempotent and 
+<br>Proof.<br>
+<br>
+As  is a consistent system for columns  of A <br>
+so  <br><br>Let  be a consistent system ie, there exist a  st. <br><br><br>
+ <br> <br> <br><br>
+so <br>
+□<br>Corollary.
+if  is a g-inv of A then  is a projector into  along  
+<br> is projector into  along  <br>Claim.
+
+<br>Proof.<br>
+<br>
+to show the other way<br>
+let  ie, <br>□<br>Theorem.
+Let  be a g-inv of A then the system  is consistent iff  
+<br>Corollary.
+Let  be a g-inv of A then  iff 
+<br>Theorem.
+a) If A is full column rank matrix,  is a g-inv of A iff  is a left inverse of A<br>
+b) If A is a full row rank matrix  is a g-inv of A iff  is a right inverse of A<br>
+c) If A is a Invertable  is the unique of A 
+<br>Proof.<br>Let  be a left inverse of A <br>
+conversely let  be a  - inv so  let  be a left inverse of A then <br>
+so  is left inverse of  <br> □<br>
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/7.-generalised-inverse.html</link><guid isPermaLink="false">linear algebra/7. Generalised Inverse.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 10 Oct 2024 14:21:38 GMT</pubDate></item><item><title><![CDATA[8. Limit of function]]></title><description><![CDATA[ 
+ <br><br>Definition.
+Let A be a non-empty subset of  . Then  is said to be cluster point of A is for every <br>
+<br>
+we denote a set of cluster points of a by 
+<br><br><br>
+<br>Theorem.
+Let A be a non-empty subset of . Then  is a cluster point of A iff there exist a sequence  in  converging to  
+<br><br>Definition.
+Let A be a non-empty subset of  and let  be a function let  be a cluster point of A<br>
+then  is said to have a limit  at  if for every  possible there exist  such that<br>
+ for all <br>
+this is denoted by 
+<br><br> <br><br><br>Theorem.
+Let  be a non-empty subset of  and  is a function. Suppose  is a cluseter point of A, Then  has limit  at  iff for every sequence  in  converging to ,  converges to  
+<br>Proof. <br>Suppose the <br>
+then suppose  is a sequence in  converging to c<br>Claim.
+ converges to  
+<br>For  there exist  such that <br><br>As  converges to  then there exist  such that  for <br>
+So, for <br>
+hence  for <br>Suppose  does not converges to  at  then there exist  <br><br>False for all <br>
+in particularly for  there exist <br><br>then  converges to  but  does not converge to  <br><br> □<br>Definition.
+Let A be a subset of  then  is said to be right cluster point of A if for all <br>
+ 
+<br>Theorem.
+TFAE<br>
+i)  is a right cluster point of A<br>
+ii) there exist a sequence  in  converges to c<br>
+ there exist a decreasing sequence in  converging  
+<br>Definition (Right Point Limit).
+Let A be a non-empty subset of  and let  be a function<br>
+Let  be a right cluster point A<br>
+then right hand side limit of  at  exist and equals  is for every <br>
+
+Notation:  and 
+<br><br>Definition.
+Let A be a subset of  then  is said to be left cluster point of A if for all <br>
+ 
+<br>Theorem.
+TFAE<br>
+i)  is a left cluster point of A<br>
+ii) there exist a sequence  in  converges to c<br>
+ there exist a increasing sequence in  converging  
+<br>Definition (left Point Limit).
+Let A be a non-empty subset of  and let  be a function<br>
+Let  be a left cluster point A<br>
+then left hand side limit of  at  exist and equals  is for every <br>
+
+Notation:  and 
+<br>Theorem.
+Let  with  left  be an increasing function. Then for <br>
+<br>
+
+ 
+<br>prove this as an excercise ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/8.-limit-of-function.html</link><guid isPermaLink="false">real analyses/8. Limit of function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 10 Oct 2024 14:24:56 GMT</pubDate></item><item><title><![CDATA[4. Conditional distribution]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition (Conditional distribution).
  ,  discrete RV the conditional pmf of  given <br>
  only when 
@@ -535,72 +723,7 @@ An infinite subset  of  is said to be a basis iff  and  is linearly independent
 <br><br>If  is the sequence <br>
 If  is the sequence Infinite<br>
 and so on<br>
- is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5th example</a><a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5th example</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:39 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
- <br>Definition (Sum of Subspaces).
-Let  we a vector space<br>
-let  be subspaces of <br>
-The sum of theses subspaces denoted by  is the space of all <br>
-<br>
-Note:  is a subspace of  
-<br>Definition (Independence of Subspaces).
-The subspace  is said to be independent if whenever<br>
- with  only if  
-<br>Proposition.
-The sum of  is the smallest subspace containing all  i.e,<br>
-if  is subspace of  and  then 
-<br>Definition (Direct sum).
- is said to be the direct sum of  if<br>
- and  are independent<br>
-we also represent direct sum by<br>
-
-<br>Proposition.
-If  is the direct sum of  then<br>
- can be written uniquely as the sum of  
-<br>Proposition.
-let  be subspace of a finite dimensional vector space , and let  be the basis for <br>
-The order basis  obtained by listing the  in order is a basis of  iff  
-<br>Corollary.
-Let  be a subspace of . Then  of  such that<br>
-
-<br>Proof.<br>
-let  be a basis of  extend this basis to  say <br>
-let  which is linearly independent so it is the basis ow <br>
-clearly,  and  and  are independent <br>
-□ <br>Definition (Compliment).
-' is called a complement of  
-<br>Note: Compliment is not unique<br>Proposition.
-Let  be sub-spaces of finite dimensional vector space  then,
-
-<br>Proof.<br>
-let  be the dimension of subspace  and let  be the basis of it.<br>
-let basis of  be <br>
-let basis of  be <br>
-Claim:  is the basis of <br>
-Clearly  spans <br>
-lets show that  is independent<br><br><br> also <br>
-As  such that<br><br><br>which implies  as  is the basis of <br>
-so equation <a data-href="#^b488c5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^b488c5" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^b488c5</a><a data-href="#^b488c5" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^b488c5" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(2.1)</a> becomes<br><br>and as  is basis of <br>
-□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>Definition.
-Let  be a subset of  and  a compliment of  in  ,. <br>
-For  let  where <br>
- is called the projection of  into  along  
-<br><br>let  be the basis of  and  a basis of  <br><br>this is true if <br><br>Exercise.
-Let <br>
-
-<br>let basis of  be <br><br>we extend it to basis of  by adding <br>Theorem.
-Let  be a complement of  in , ie  and define  by  if  for  that is  is the projection of  into  along  .  is a linear transformation.<br>
-this is called the projection operator into  along <br>
-i) <br>
-ii)<br>
-iii) if <br>
-iv) if  then <br>
-v)
-<br> Prove you dumb ass <br>Exercise.
-In the vector space  find two diffrent compliment of  where  is  
-<br>first lets find the basis of W<br><br>we assign arbitrary variable for non pivotal columns <br><br>
-<br>
-Basis of  is<br><br>we can see that  and  are to different basis of compliment]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/2.-direct-sum.html</link><guid isPermaLink="false">linear algebra/2. Direct Sum.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:34 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5th example</a><a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5th example</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:39 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
 Rank of a matrix Let  be a  matrix,<br>
 column space of  is the subspace of  spanned by the columns of <br>
