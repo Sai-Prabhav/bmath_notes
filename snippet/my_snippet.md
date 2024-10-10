@@ -41,6 +41,7 @@
 
     //visual operators
     { trigger: "H", replacement: "\\Huge{ ${VISUAL} }", options: "mA" },
+    { trigger: "P", replacement: "`\\begin{proof}` ${VISUAL} `\\end{proof}`", options: "t" },
     { trigger: "L", replacement: "\\Large{ ${VISUAL} }", options: "mA" },
     { trigger: "T", replacement: "\\tiny{ ${VISUAL} }", options: "mA" },
 
@@ -62,8 +63,8 @@
         options: "rtAw",
     },
     {
-        trigger: /([A-Za-z]_\d)([\n\s.,?!:'])/,
-        replacement: "$[[0]]$[[1]]",
+        trigger: /([A-Za-z]+)_([A-Za-z0-9]+)([\n\s.,?!:'])/,
+        replacement: "$[[0]]_{[[1]]}$[[2]]",
         options: "rtAw",
     },
     {

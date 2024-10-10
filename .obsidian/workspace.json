@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/6. Question.md",
+                "file": "linear algebra/7. Generalised Inverse.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1bd824257e46ec93",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md"
               }
             }
           },
@@ -35,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Commands.md",
+                "file": "real analyses/7. Uniform Continuous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f473a83fa712fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "real analyses/Limit of function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isolated",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/6. Question.md",
+                "file": "real analyses/Limit of function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/6. Question.md",
+                "file": "real analyses/Limit of function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/6. Question.md"
+                "file": "real analyses/Limit of function.md"
               }
             }
           }
@@ -172,20 +176,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b737fafae85921c",
+  "active": "5f473a83fa712fa9",
   "lastOpenFiles": [
+    "real analyses/4. Continuity of Functions.md",
+    "real analyses/Limit of function.md",
+    "real analyses/7. Uniform Continuous.md",
+    "linear algebra/2. Direct Sum.md",
+    "linear algebra/7. Generalised Inverse.md",
     "Custom Commands.md",
+    "snippet/my_snippet.md",
+    "linear algebra/5. Projector.md",
+    "linear algebra/3. Rank.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "linear algebra/6. Question.md",
     "real analyses/6. Continuous Bijections.md",
     "linear algebra/Problems.md",
-    "real analyses/7. Uniform Continuous.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/7. Continuous Random Variable.md",
     "Probability/6. Conditional Variance.md",
     "Probability/4. Conditional distribution.md",
-    "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "Probability/sheldon_ross.pdf",
-    "snippet/my_snippet.md",
     "Probability/5. Conditional Expectation.md",
     "real analyses/balzano-Wriestrs theorem.md",
     "Probability/exercises_4.pdf",
@@ -196,15 +207,8 @@
     "Probability/2. Covariance.md",
     "snippet/old_snippet.md",
     "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-10-04 15.41.50.excalidraw.md",
     "Untitled",
     "website/real-analyses/5.-intermediate-value-theorem.html",
-    "real analyses/4. Continuity of Functions.md",
-    "number_theory/6. Multiplicative Functions.md",
-    "linear algebra/5. Projector.md",
-    "linear algebra/4. Rank Factorization of Matrix.md",
-    "Untitled 1.md",
-    "Probability/3. Corelation Coefficient.md",
     "website/all-queries.html",
     "website/number_theory/bezout's-theorem.html",
     "website/linear-algebra/4.-rank-factorization-of-matrix.html",
