@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/7. Continuous Random Variable.md",
+                "file": "Custom Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/7. Continuous Random Variable.md",
+                "file": "Custom Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/7. Continuous Random Variable.md",
+                "file": "Custom Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/7. Continuous Random Variable.md"
+                "file": "Custom Commands.md"
               }
             }
           }
@@ -175,13 +174,13 @@
   },
   "active": "3fac1a7da6197b7e",
   "lastOpenFiles": [
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+    "Custom Commands.md",
     "Probability/7. Continuous Random Variable.md",
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "number_theory/Assignment Link.md",
     "number_theory/3. Binary.md",
     "Probability/sheldon_ross.pdf",
     "Probability/Exercise 4 Solutions.md",
-    "Custom Commands.md",
     "number_theory/Problem_set.pdf",
     "real analyses/1. Cauchy Criterion.md",
     "real analyses/8. Limit of function.md",
