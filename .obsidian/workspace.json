@@ -8,36 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fac1a7da6197b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2aa3798fa902ebed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+                "file": "number_theory/7. Average of Arithmetic Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a1151d8da1ebb60",
+            "id": "863759101aca55e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Probability/sheldon_ross.pdf"
+                "file": "number_theory/4. Arithmetic Functions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Commands.md",
+                "file": "number_theory/7. Average of Arithmetic Function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Commands.md",
+                "file": "number_theory/7. Average of Arithmetic Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Commands.md"
+                "file": "number_theory/7. Average of Arithmetic Function.md"
               }
             }
           }
@@ -172,14 +162,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fac1a7da6197b7e",
+  "active": "2aa3798fa902ebed",
   "lastOpenFiles": [
+    "number_theory/4. Arithmetic Functions.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "Probability/sheldon_ross.pdf",
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "Custom Commands.md",
     "Probability/7. Continuous Random Variable.md",
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "number_theory/Assignment Link.md",
     "number_theory/3. Binary.md",
-    "Probability/sheldon_ross.pdf",
     "Probability/Exercise 4 Solutions.md",
     "number_theory/Problem_set.pdf",
     "real analyses/1. Cauchy Criterion.md",
@@ -200,7 +192,6 @@
     "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/6. Conditional Variance.md",
-    "Probability/4. Conditional distribution.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "Untitled",
