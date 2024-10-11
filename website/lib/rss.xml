@@ -1,4 +1,294 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 10 Oct 2024 14:25:18 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 10 Oct 2024 14:25:15 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 11 Oct 2024 07:30:33 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 11 Oct 2024 07:30:28 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition (Binary Quadratic Form).
+A binary quadratic form (bqf) is a polynomial of the form<br>
+ with <br>
+we may think of it as a function<br>
+<br>
+<br>
+In short we write  
+<br><br>Definition (Primitive QBF).
+We say that  is a primitive if 
+<br>Definition (Represents and Primitively Represents ).
+We say that  represents the integer  for some <br>
+We it represent primitively or properly if  and  
+<br>Remark.
+The same number can be represented primitively and non primitively
+<br>Definition (Disc of Binary Quadratic Form).
+for  we define 
+<br><br>Proposition.
+Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
+i) then  represent 0   is a square<br>
+ii)  all non zero values represented by  are of the same sign
+<br>Proof.<br>
+Case I:  then<br><br>also <br><br>this proves i) for this case<br>
+for ii) <br>
+then <br>
+This shows that all values of  has the same sign of  <br>Case II:  then,<br><br><br>Clearly,  is represented when  <br><br>such that<br><br>which implies  is a square.<br>
+for ii) if  then clearly<br>
+ so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
+conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
+let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>with .<br>
+Then for a given  there are at most a finite number of  such that 
+<br>Proof.<br>
+say  then<br><br>which show  has finitely many values<br>
+also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
+This is false for  example 
+<br> Say  then<br>
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
+<br> set of all <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> with integer coefficients
+<br> set of all  Matrices with integer entries
+<br> set of all  Invertable Matrices with integer entries note the determinant here is 1 or -1
+<br> set of all  Matrices with integer entries and determinant <br>
+Note:  and  are both groups and  is the sub group of 
+<br>let  and <br><br>Define the new <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
+Let  then
+
+<br>
+<br> 
+
+<br>Proof.<br>
+i) <br><br>ii) <br><br>□<br><br>Definition.
+let , <br>
+we say that  is equivalent to  if  st <br>
+we say  is properly equivalent to  if  st <br>
+Notation<br>
+ equivalent<br>
+ properly equivalent 
+<br>Definition (mat of Binary Quadratic Form).
+
+<br>Exercise.
+what is 
+<br>Hint:<br><br>let  <br><br><br>Hence  <br>Theorem.
+let <br>
+i) then <br>
+ii)  and  represents the same set of integers the same number of times<br>
+iii)  and  are either both primitive or both non-primitive
+<br>Proof.<br>
+i) say  with <br><br>ii) say <br>
+then <br><br>if <br><br>iii)<br><br>then  divides <br>
+since the set of the values of  and  are he same it follows that  divides <br>
+if  is primitive then  is the maximum value of  which implies  is primitive<br>
+if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
+let  and  then  represents  properly iff<br>
+<br>
+form some <br>
+moreover if  then  such that 
+<br>Proof.<br>
+suppose <br>
+say,  <br><br>then<br><br>since    primitively represent n<br>
+Now the other way<br>
+assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bezout's theorem</a><a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
+let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
+let  where <br><br>Remark (principle forms of disc ).
+ can be  and they can be simply represented by<br>
+ if <br>
+ if <br>
+these are known as principal forms of disc  
+<br>Theorem (Lagrange).
+Let . The following are equivalent 
+
+<br> is a square 
+<br>there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of discriminant  which properly represents  
+
+<br>1 2<br>
+say  for some  <br>
+let  then  so  properly represents <br>
+2  1<br>
+let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a><br>
+since <br>
+we get <br><br>Hence  is a square mod  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
+let  let  be a prime such that  Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
+<br> Proof.<br>
+from <a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Lagrange</a><a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lagrange</a><br>
+we know  of disc   properly represents  iff   then <br>So  represents <br>
+By Lagrange, there is a bqf  which properly represents . Then we know that <br><br>for some  with  Now  converts <br>
+so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
+As above we may take <br><br>with <br>
+we need to prove that <br>
+since  have the same discriminant we have<br><br> why cant 4 divide one of it and the other be odd? for both  and  should have the same parity or the congruence to 4 wont hold<br>if  then we are done    and  <br>
+so suppose  but  <br><br>so in any case <br>
+it follows that <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
+recall that  is a discriminant  <br>Definition (Fundamental Discriminant).
+We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive
+<br><br> is a fundamental discriminant for if  is of discriminant  and if  then  which implies .<br>
+ is a fundamental discriminant.<br>
+ is a fundamental discriminant.<br>
+as if  then  can be  if  is .<br>
+ has a disc of  The second equation is also a discriminant hence it cant be equal to .<br>Proposition.
+let  be a discriminant. Then  is a fundamental discriminant if<br>
+i)  and  is square free<br>
+ii)  and  is square free and 
+<br>Proof.<br>
+Let  be a fundamental discriminant <br>Case I: <br>
+we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
+but then the above bqf is not primitive hence  should be square free<br>
+Case II: <br>If <br>
+ is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
+Finally we prove that is square free <br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:27-sep" class="tag" target="_blank" rel="noopener">#27-sep</a><br>Exercise.
+What are all the bqf of disc 0?
+<br>Suppose  has disc 0, say <br>case I: <br>
+then <br>
+hence <br>
+case II: <br>
+then <br><br>there fore <br><br>for some  again <br><br>suppose <br>now let <br><br>is  (NO!)<br>
+as <br>
+and <br>
+hence if   and  are complete different.<br>
+hence there are infinitely many bqf of discriminant 0 which are in equivalent <br>Proposition.
+Let  with . Then up to proper equivalence there are only finitely many distinct bqf of discriminant  
+<br>Proof.<br>
+Let  be of  hence  properly represents  and hence <br><br>write  with  then<br><br>so there are at most  distinct form up to proper equivalence<br>□<br>Lemma (Lagrange Reduction).
+Let  be a discriminant  and not a square<br>
+Then,  is properly equivalent to a form (a,  ,c) with <br>
+also, such a form  satisfying  
+<br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
+Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a>.<br><br><br>□<br>Theorem (Lagrange).
+Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
+<br>Proof.<br>
+we know<br>
+ with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
+□<br><br>Definition.
+let  be a discriminant<br>
+ set of proper equivalence classes of bqf of <br>
+ set of proper equivalence classes of primitive bqf of disc <br>
+we have  this is know as the Class Number of  
+<br><br>
+<br>What is <br>
+Since  we assume <br>
+then note that <br>
+than <br>
+since 
+<br><br>thus the only possibility is  hence .<br>
+Also  then<br><br>since  we have  then<br><br>also recall that if   primitively represents p<br>
+ . , if , then there exist  such that <br>
+Now, <br>
+Then every prime  can be written as a sum of square.<br>Theorem.
+let  then <br>
+Gauss conjecture that  for any other  
+<br>Conjecture (UNSOLVED).
+Are there infinitely many  ..  
+<br>Proof.<br>
+□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:30-sep" class="tag" target="_blank" rel="noopener">#30-sep</a><br>Remark.
+ set of proper equivalence classes of primitive bqf of discriminant  with convetion that bqf are assumed to be positive if   ,  . for  with  we always assume 
+<br><br>
+<br>From now on we shall assume that our bqf are of negative discriminant with positive values. That is  with 
+<br>Definition (Gaussian Reduction).
+A bqf  with  is said to be Reduced if either<br>
+ or  
+<br>Lemma.
+Let  be reduced bqf of discriminant  , then  is the smallest value of <br>
+i) There are exactly 2 primitive vectors   .  .  namely  and exactly two primitive vectors   .  .  namely  unless  , in which case there are four vector's   .  .  namely <br>
+ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
+<br>Proof.<br>Remark.
+ if  is primitive iff 
+<br>Let  then for any  <br><br>Now at  say  first<br>
+then <br>
+now <br>
+Hence <br><br>similarly for  <br>
+now <br>
+indeed  in all other cases its grater than <br>
+Then  unless ( ) or ( and  )<br>
+or<br>
+ unless  or(  and )<br>□<br>Theorem.
+Let<br>
+<br>
+<br>
+be reduced bqf of the same discriminant with  then  
+<br>Proof.<br>Since minimum values of are equal hence  say<br>
+Case I <br>
+in this case  has exactly 2 solutions namely <br>
+hence  also has exactly 2 solutions namely  <br>
+as if  then  has &gt;3 solutions<br>
+Also <br><br>by uniqueness we get <br>
+hence <br>
+then <br>So <br>
+Thus <br>
+since  are reduced we have  and  <br><br> <br>Adding the above 2 equations <br> <br>
+thus <br>Case II <br>In this case  so  as  is reduced<br>
+Subcase A: <br>
+In this case <br>
+has exactly four primitive solutions, <br>
+then  will also have exactly four solution hence <br>
+then <br>
+since<br><br>we get  so  since both are non negative <br>Subcase  : <br>
+thus <br>
+hence<br>
+ has six primitive solution so  also has six primitive solution thus  thus <br>□<br>Proposition.
+Let  be a reduced bqf of disc  if gcd(  ,y)=1 and <br>
+then 
+<br>Proof.<br>
+we know that  for  hence <br><br>
+if ,<br>
+when  we can have  or else  <br><br>if  and <br><br> if  and <br>
+if  and <br><br> if  and <br>
+hence for all values of  we have verified that  can only be between  ,  iff  <br>□<br>Theorem.
+Let  be a bqf of discriminant  then there is a reduced bqf  such that 
+<br>Proof. 1<br>
+by Lagrange reduction lemma there is a form  such that  and  since by convention all values are positive we have <br>
+ now if  then we are done<br>
+case I  but b&lt;0<br>
+in this case <br>case II a&lt;  but b=-a<br>
+in this case<br>
+<br>
+<br>
+□<br>Proof. 2 (Constructive )<br>Let <br>
+if  is reduced nothing to do if not either  but <br>Case I <br>
+in this case <br><br>Case II:  but <br>
+Sub-case A: <br>
+then  say<br><br>sub-case  : <br>
+in this case <br><br>here again <br>
+Sub-case  : <br>
+here <br>
+in this case the process completes<br>
+In general continues this way we get a sequence<br>
+<br>
+as the sum is reducing this will complete at some point the last step has the reduced form <br><br>
+<br><br>
+it is not reduced<br>
+lets reduce the b
+
+
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br><br>A bqf  is said to be <br>Definition (Positive semidefinite ).
+
+<br>Definition (Positive Definite ).
+if <br>
+and 
+<br>Definition (Negative semidefinite ).
+
+<br>Definition (Negative Definite ).
+if <br>
+and 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 05:59:03 GMT</pubDate></item><item><title><![CDATA[Assignment Link]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" rel="noopener" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">link</a><br>
+<a rel="noopener" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/assignment-link.html</link><guid isPermaLink="false">number_theory/Assignment Link.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 04:52:56 GMT</pubDate></item><item><title><![CDATA[7. Continuous Random Variable]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Definition (Continuous Random variable).
+SaY  a Continuous Random Variable if there exist a function  such that
+<br><br>Remark.<br><br><br><br><br><br><br>but it if the set is uncountable then this does not hold true <br><br>Remark.
+Let  then  there are infinitely many values of  other than  
+<br>Definition (Cummulative distribution function).<br><br><br>
+<br> is a continuous RV
+<br><br>Definition (Exponential density function).<br><br>Theorem.
+<br>
+from first fundamental theorem of Calculus <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus" target="_blank">wiki</a><br>
+ if  is continuous at 
+<br><br>
+<br>If X is continuous RV with distribution function  and density function f(X) , find the density function of   (pg no. 188 1d)
+
+
+<br><br>
+<br>  if <br>
+find the cdf of  
+<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html</link><guid isPermaLink="false">Probability/7. Continuous Random Variable.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 07:07:03 GMT</pubDate></item><item><title><![CDATA[8. Expectation and Variance of Continuous Random Variables]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">sheldon_ross, page 188</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="internal-link mathLink-internal-link" target="_self" rel="noopener">sheldon_ross, page 188</a><br>Definition.
+Expectation of <a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/Probability/7. Continuous Random Variable" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Continuous Random Variable</a><a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Continuous Random Variable</a> 
+<br><br><br>
+<br> a RV with pdf
+
+
+<br><br>If <br><br><br>we can check <br><br>Now the expectation <br><br>Proposition.
+ be a RV pdf  and let  then,<br>
+
+<br>Using this to prove the previous example<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/8.-expectation-and-variance-of-continuous-random-variables.html</link><guid isPermaLink="false">Probability/8. Expectation and Variance of Continuous Random Variables.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 07:30:10 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
  <br>Definition (Sum of Subspaces).
 Let  we a vector space<br>
 let  be subspaces of <br>
@@ -908,267 +1198,7 @@ since  is square-free we have <br>
 since  ,  cannot divide both  and <br>
 <br>
 we can find  such that <br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:50 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener">#20-sep</a> <br><br>Definition (Binary Quadratic Form).
-A binary quadratic form (bqf) is a polynomial of the form<br>
- with <br>
-we may think of it as a function<br>
-<br>
-<br>
-In short we write  
-<br><br>Definition (Primitive QBF).
-We say that  is a primitive if 
-<br>Definition (Represents and Primitively Represents ).
-We say that  represents the integer  for some <br>
-We it represent primitively or properly if  and  
-<br>Remark.
-The same number can be represented primitively and non primitively
-<br>Definition (Disc of Binary Quadratic Form).
-for  we define 
-<br><br>Proposition.
-Let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">Binary Quadratic Form</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">Binary Quadratic Form</a> with <br>
-i) then  represent 0   is a square<br>
-ii)  all non zero values represented by  are of the same sign
-<br>Proof.<br>
-Case I:  then<br><br>also <br><br>this proves i) for this case<br>
-for ii) <br>
-then <br>
-This shows that all values of  has the same sign of  <br>Case II:  then,<br><br><br>Clearly,  is represented when  <br><br>such that<br><br>which implies  is a square.<br>
-for ii) if  then clearly<br>
- so  is of constant sign( same as ) from <a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6d9892</a><a data-href="#^6d9892" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6d9892" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(3.1)</a><br>
-conversely suppose  is of constant sign then<br><br>and <br><br>are of the same sign (by hypothesis), so<br><br>Proposition.
-let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>with .<br>
-Then for a given  there are at most a finite number of  such that 
-<br>Proof.<br>
-say  then<br><br>which show  has finitely many values<br>
-also<br><br>this show that for any value of  there are finitely many values of   there are finitely many values of  <br>□<br>Remark.
-This is false for  example 
-<br> Say  then<br>
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a> <br><br>
-<br> set of all <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> with integer coefficients
-<br> set of all  Matrices with integer entries
-<br> set of all  Invertable Matrices with integer entries note the determinant here is 1 or -1
-<br> set of all  Matrices with integer entries and determinant <br>
-Note:  and  are both groups and  is the sub group of 
-<br>let  and <br><br>Define the new <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  by<br><br>This is just a linear change of variable<br><br>Proposition.
-Let  then
-
-<br>
-<br> 
-
-<br>Proof.<br>
-i) <br><br>ii) <br><br>□<br><br>Definition.
-let , <br>
-we say that  is equivalent to  if  st <br>
-we say  is properly equivalent to  if  st <br>
-Notation<br>
- equivalent<br>
- properly equivalent 
-<br>Definition (mat of Binary Quadratic Form).
-
-<br>Exercise.
-what is 
-<br>Hint:<br><br>let  <br><br><br>Hence  <br>Theorem.
-let <br>
-i) then <br>
-ii)  and  represents the same set of integers the same number of times<br>
-iii)  and  are either both primitive or both non-primitive
-<br>Proof.<br>
-i) say  with <br><br>ii) say <br>
-then <br><br>if <br><br>iii)<br><br>then  divides <br>
-since the set of the values of  and  are he same it follows that  divides <br>
-if  is primitive then  is the maximum value of  which implies  is primitive<br>
-if  is not primitive then  which implies  is not primitive<br>Exercise ( and  are equivalence relations on  ).<br>Theorem.
-let  and  then  represents  properly iff<br>
-<br>
-form some <br>
-moreover if  then  such that 
-<br>Proof.<br>
-suppose <br>
-say,  <br><br>then<br><br>since    primitively represent n<br>
-Now the other way<br>
-assume  properly represents  say,<br><br>we need to show that <br><br>Now  we can find  such that  <a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/bezout's theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bezout's theorem</a><a data-href="bezout's theorem" href="https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bezout's theorem</a><br>
-let <br><br>Note that <br><br>for some  this proves the first part<br>let  we can write <br><br>with <br>
-let  where <br><br>Remark (principle forms of disc ).
- can be  and they can be simply represented by<br>
- if <br>
- if <br>
-these are known as principal forms of disc  
-<br>Theorem (Lagrange).
-Let . The following are equivalent 
-
-<br> is a square 
-<br>there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of discriminant  which properly represents  
-
-<br>1 2<br>
-say  for some  <br>
-let  then  so  properly represents <br>
-2  1<br>
-let  be a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a> of disc  which properly represents  then by <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a> <br><br>for some  <a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^216a99</a><a data-href="#^216a99" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^216a99" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.13</a><br>
-since <br>
-we get <br><br>Hence  is a square mod  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br><br>Corollary.
-let  let  be a prime such that  Then there is a <a class="original-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_blank" rel="noopener" style="display: none;">BQF</a><a class="internal-link mathLink-internal-link" data-href="#^ebdd1f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ebdd1f" target="_self" rel="noopener">BQF</a>  of the disc  which properly represents  . This form is unique up to equivalence
-<br> Proof.<br>
-from <a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Lagrange</a><a data-tooltip-position="top" aria-label="^f95cab" data-href="#^f95cab" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^f95cab" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lagrange</a><br>
-we know  of disc   properly represents  iff   then <br>So  represents <br>
-By Lagrange, there is a bqf  which properly represents . Then we know that <br><br>for some  with  Now  converts <br>
-so we may chose  thus <br><br>with  so let  be another form of disc  which properly represents .<br>
-As above we may take <br><br>with <br>
-we need to prove that <br>
-since  have the same discriminant we have<br><br> why cant 4 divide one of it and the other be odd? for both  and  should have the same parity or the congruence to 4 wont hold<br>if  then we are done    and  <br>
-so suppose  but  <br><br>so in any case <br>
-it follows that <br><br>An integer  is called a discriminant if it is the discriminant of some BQF<br>
-recall that  is a discriminant  <br>Definition (Fundamental Discriminant).
-We say that a discriminant  is a Fundamental Discriminant if every bqf of discriminant  is primitive
-<br><br> is a fundamental discriminant for if  is of discriminant  and if  then  which implies .<br>
- is a fundamental discriminant.<br>
- is a fundamental discriminant.<br>
-as if  then  can be  if  is .<br>
- has a disc of  The second equation is also a discriminant hence it cant be equal to .<br>Proposition.
-let  be a discriminant. Then  is a fundamental discriminant if<br>
-i)  and  is square free<br>
-ii)  and  is square free and 
-<br>Proof.<br>
-Let  be a fundamental discriminant <br>Case I: <br>
-we claim that  is square free suppose <br><br>with  square free if  then <br><br>note that: <br>
-but then the above bqf is not primitive hence  should be square free<br>
-Case II: <br>If <br>
- is not primitive so  can be congruent to 4<br>suppose  <br> is a bqf which is not primitive <br>then we are left with<br>
-Finally we prove that is square free <br><br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:27-sep" class="tag" target="_blank" rel="noopener">#27-sep</a><br>Exercise.
-What are all the bqf of disc 0?
-<br>Suppose  has disc 0, say <br>case I: <br>
-then <br>
-hence <br>
-case II: <br>
-then <br><br>there fore <br><br>for some  again <br><br>suppose <br>now let <br><br>is  (NO!)<br>
-as <br>
-and <br>
-hence if   and  are complete different.<br>
-hence there are infinitely many bqf of discriminant 0 which are in equivalent <br>Proposition.
-Let  with . Then up to proper equivalence there are only finitely many distinct bqf of discriminant  
-<br>Proof.<br>
-Let  be of  hence  properly represents  and hence <br><br>write  with  then<br><br>so there are at most  distinct form up to proper equivalence<br>□<br>Lemma (Lagrange Reduction).
-Let  be a discriminant  and not a square<br>
-Then,  is properly equivalent to a form (a,  ,c) with <br>
-also, such a form  satisfying  
-<br>Proof.<br>Let,<br><br>Since  is not a square,  let  be such that .<br>
-Since  represents a, we have from <a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^6cf17c</a><a data-href="#^6cf17c" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^6cf17c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.15</a>.<br><br><br>□<br>Theorem (Lagrange).
-Let  be a discriminant  and  not a square then up to proper equivalence only finite many distinct bqf of discriminant D 
-<br>Proof.<br>
-we know<br>
- with <br><br>hence there are only finitely many possibilities for  and hence for  as  and since  the possibilities for  is also finite<br>
-□<br><br>Definition.
-let  be a discriminant<br>
- set of proper equivalence classes of bqf of <br>
- set of proper equivalence classes of primitive bqf of disc <br>
-we have  this is know as the Class Number of  
-<br><br>
-<br>What is <br>
-Since  we assume <br>
-then note that <br>
-than <br>
-since 
-<br><br>thus the only possibility is  hence .<br>
-Also  then<br><br>since  we have  then<br><br>also recall that if   primitively represents p<br>
- . , if , then there exist  such that <br>
-Now, <br>
-Then every prime  can be written as a sum of square.<br>Theorem.
-let  then <br>
-Gauss conjecture that  for any other  
-<br>Conjecture (UNSOLVED).
-Are there infinitely many  ..  
-<br>Proof.<br>
-□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:30-sep" class="tag" target="_blank" rel="noopener">#30-sep</a><br>Remark.
- set of proper equivalence classes of primitive bqf of discriminant  with convetion that bqf are assumed to be positive if   ,  . for  with  we always assume 
-<br><br>
-<br>From now on we shall assume that our bqf are of negative discriminant with positive values. That is  with 
-<br>Definition (Gaussian Reduction).
-A bqf  with  is said to be Reduced if either<br>
- or  
-<br>Lemma.
-Let  be reduced bqf of discriminant  , then  is the smallest value of <br>
-i) There are exactly 2 primitive vectors   .  .  namely  and exactly two primitive vectors   .  .  namely  unless  , in which case there are four vector's   .  .  namely <br>
-ii) if  then  has exactly four primitive solution  namely  unless  in which case there are six solutions namely  
-<br>Proof.<br>Remark.
- if  is primitive iff 
-<br>Let  then for any  <br><br>Now at  say  first<br>
-then <br>
-now <br>
-Hence <br><br>similarly for  <br>
-now <br>
-indeed  in all other cases its grater than <br>
-Then  unless ( ) or ( and  )<br>
-or<br>
- unless  or(  and )<br>□<br>Theorem.
-Let<br>
-<br>
-<br>
-be reduced bqf of the same discriminant with  then  
-<br>Proof.<br>Since minimum values of are equal hence  say<br>
-Case I <br>
-in this case  has exactly 2 solutions namely <br>
-hence  also has exactly 2 solutions namely  <br>
-as if  then  has &gt;3 solutions<br>
-Also <br><br>by uniqueness we get <br>
-hence <br>
-then <br>So <br>
-Thus <br>
-since  are reduced we have  and  <br><br> <br>Adding the above 2 equations <br> <br>
-thus <br>Case II <br>In this case  so  as  is reduced<br>
-Subcase A: <br>
-In this case <br>
-has exactly four primitive solutions, <br>
-then  will also have exactly four solution hence <br>
-then <br>
-since<br><br>we get  so  since both are non negative <br>Subcase  : <br>
-thus <br>
-hence<br>
- has six primitive solution so  also has six primitive solution thus  thus <br>□<br>Proposition.
-Let  be a reduced bqf of disc  if gcd(  ,y)=1 and <br>
-then 
-<br>Proof.<br>
-we know that  for  hence <br><br>
-if ,<br>
-when  we can have  or else  <br><br>if  and <br><br> if  and <br>
-if  and <br><br> if  and <br>
-hence for all values of  we have verified that  can only be between  ,  iff  <br>□<br>Theorem.
-Let  be a bqf of discriminant  then there is a reduced bqf  such that 
-<br>Proof. 1<br>
-by Lagrange reduction lemma there is a form  such that  and  since by convention all values are positive we have <br>
- now if  then we are done<br>
-case I  but b&lt;0<br>
-in this case <br>case II a&lt;  but b=-a<br>
-in this case<br>
-<br>
-<br>
-□<br>Proof. 2 (Constructive )<br>Let <br>
-if  is reduced nothing to do if not either  but <br>Case I <br>
-in this case <br><br>Case II:  but <br>
-Sub-case A: <br>
-then  say<br><br>sub-case  : <br>
-in this case <br><br>here again <br>
-Sub-case  : <br>
-here <br>
-in this case the process completes<br>
-In general continues this way we get a sequence<br>
-<br>
-as the sum is reducing this will complete at some point the last step has the reduced form <br><br>
-<br><br>
-it is not reduced<br>
-lets reduce the b
-
-
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br><br>A bqf  is said to be <br>Definition (Positive semidefinite ).
-
-<br>Definition (Positive Definite ).
-if <br>
-and 
-<br>Definition (Negative semidefinite ).
-
-<br>Definition (Negative Definite ).
-if <br>
-and 
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/3.-binary.html</link><guid isPermaLink="false">number_theory/3. Binary.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:59 GMT</pubDate></item><item><title><![CDATA[4. Arithmetic Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:50 GMT</pubDate></item><item><title><![CDATA[4. Arithmetic Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:4-oct" class="tag" target="_blank" rel="noopener">#4-oct</a><br>Definition (Arithmetic Functions ).
 Arithmetic Functions is a function from  
 <br><br><br><br><br><br><br>Let  ,  be <a data-tooltip-position="top" aria-label="^919b57" data-href="#^919b57" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^919b57" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Arithmetic Functions</a><a data-tooltip-position="top" aria-label="^919b57" data-href="#^919b57" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^919b57" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Arithmetic Functions</a> we define <br><br><br>

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2aa3798fa902ebed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0a1151d8da1ebb60",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mat path:number_theory file:3.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -75,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +175,15 @@
   },
   "active": "3fac1a7da6197b7e",
   "lastOpenFiles": [
-    "Probability/sheldon_ross.pdf",
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "Probability/7. Continuous Random Variable.md",
-    "number_theory/Problem_set.pdf",
-    "number_theory/3. Binary.md",
-    "real analyses/1. Cauchy Criterion.md",
     "number_theory/Assignment Link.md",
+    "number_theory/3. Binary.md",
+    "Probability/sheldon_ross.pdf",
+    "Probability/Exercise 4 Solutions.md",
     "Custom Commands.md",
+    "number_theory/Problem_set.pdf",
+    "real analyses/1. Cauchy Criterion.md",
     "real analyses/8. Limit of function.md",
     "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
@@ -187,8 +202,6 @@
     "real analyses/5. Intermediate Value Theorem.md",
     "Probability/6. Conditional Variance.md",
     "Probability/4. Conditional distribution.md",
-    "Probability/5. Conditional Expectation.md",
-    "real analyses/balzano-Wriestrs theorem.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "Untitled",
