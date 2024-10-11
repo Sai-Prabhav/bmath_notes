@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c6dcd990d3f378",
+        "id": "910262419044eb9b",
         "type": "tabs",
         "children": [
           {
             "id": "3fac1a7da6197b7e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "number_theory/Problem_set.pdf"
+                "file": "Probability/7. Continuous Random Variable.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "d2491bc4ab353a06",
+            "id": "0a1151d8da1ebb60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "number_theory/3. Binary.md",
-                "mode": "source",
-                "source": false
+                "file": "Probability/sheldon_ross.pdf"
               }
             }
           }
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/Problem_set.pdf",
+                "file": "Probability/7. Continuous Random Variable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/Problem_set.pdf",
+                "file": "Probability/7. Continuous Random Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/Problem_set.pdf"
+                "file": "Probability/7. Continuous Random Variable.md"
               }
             }
           }
@@ -145,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,9 +162,11 @@
   },
   "active": "3fac1a7da6197b7e",
   "lastOpenFiles": [
+    "Probability/sheldon_ross.pdf",
+    "Probability/7. Continuous Random Variable.md",
+    "number_theory/Problem_set.pdf",
     "number_theory/3. Binary.md",
     "real analyses/1. Cauchy Criterion.md",
-    "number_theory/Problem_set.pdf",
     "number_theory/Assignment Link.md",
     "Custom Commands.md",
     "real analyses/8. Limit of function.md",
@@ -183,15 +185,12 @@
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "real analyses/5. Intermediate Value Theorem.md",
-    "Probability/7. Continuous Random Variable.md",
     "Probability/6. Conditional Variance.md",
     "Probability/4. Conditional distribution.md",
-    "Probability/sheldon_ross.pdf",
     "Probability/5. Conditional Expectation.md",
     "real analyses/balzano-Wriestrs theorem.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
-    "All Queries.md",
     "Untitled",
     "website/real-analyses/5.-intermediate-value-theorem.html",
     "website/all-queries.html",
