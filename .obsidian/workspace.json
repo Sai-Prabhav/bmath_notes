@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/1. Cauchy Criterion.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/1. Cauchy Criterion.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/1. Cauchy Criterion.md",
+                "file": "real analyses/4. Continuity of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/1. Cauchy Criterion.md"
+                "file": "real analyses/4. Continuity of Functions.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "b0e40b99a8fbf706",
   "lastOpenFiles": [
+    "real analyses/1. Cauchy Criterion.md",
     "real analyses/balzano-Wriestrs theorem.md",
     "number_theory/8. Linear Diophantine Equation.md",
     "number_theory/9. Linear  Recurrences.md",
@@ -191,7 +192,6 @@
     "number_theory/3. Binary.md",
     "Probability/Exercise 4 Solutions.md",
     "number_theory/Problem_set.pdf",
-    "real analyses/1. Cauchy Criterion.md",
     "real analyses/8. Limit of function.md",
     "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
