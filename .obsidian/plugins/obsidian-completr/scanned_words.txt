@@ -3190,6 +3190,7 @@ mZB
 mLw
 mfG
 method
+mostly
 check
 cool
 co
@@ -3671,6 +3672,7 @@ cNu
 cuHXO
 cdf
 coosing
+complex
 how
 hello
 hi
@@ -6280,6 +6282,7 @@ aoQV
 aBr
 aQA
 arithmetic
+algorithm
 bold
 bye
 bigest
@@ -8233,6 +8236,8 @@ saQ
 sFFn
 sut
 shl
+satisfy
+soution
 Proof
 PDF
 Producer
@@ -11377,6 +11382,7 @@ eOD
 ewd
 eRj
 efc
+euclidian
 other
 one
 order
@@ -14688,6 +14694,7 @@ FJF
 FOa
 FZj
 Ftv
+Fibonacci
 Obsidian
 Ordering
 Oo
@@ -18358,6 +18365,7 @@ SUx
 Spq
 Shekm
 SprjR
+Satisfying
 BM
 BVvvzK
 BH
@@ -19993,6 +20001,8 @@ dJb
 dwk
 dBU
 dpn
+determine
+dependent
 xl
 xD
 xG
@@ -26218,6 +26228,8 @@ rCL
 rytt
 rRT
 rtk
+reccurrence
+recurrence
 ID
 Io
 Ie

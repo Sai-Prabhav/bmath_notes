@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/9. Linear  Recurrences.md",
-                "mode": "source",
+                "file": "real analyses/1. Cauchy Criterion.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "number_theory/9. Linear  Recurrences.md",
+                "file": "real analyses/1. Cauchy Criterion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "number_theory/9. Linear  Recurrences.md",
+                "file": "real analyses/1. Cauchy Criterion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/9. Linear  Recurrences.md"
+                "file": "real analyses/1. Cauchy Criterion.md"
               }
             }
           }
@@ -177,10 +177,11 @@
   },
   "active": "b0e40b99a8fbf706",
   "lastOpenFiles": [
-    "number_theory/7. Average of Arithmetic Function.md",
-    "number_theory/9. Linear  Recurrences.md",
-    "Untitled",
+    "real analyses/balzano-Wriestrs theorem.md",
     "number_theory/8. Linear Diophantine Equation.md",
+    "number_theory/9. Linear  Recurrences.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "Untitled",
     "number_theory/4. Arithmetic Functions.md",
     "Probability/sheldon_ross.pdf",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
@@ -205,7 +206,6 @@
     "linear algebra/5. Projector.md",
     "linear algebra/3. Rank.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-    "Excalidraw/Drawing 2024-10-09 22.06.07.excalidraw.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "website/real-analyses/5.-intermediate-value-theorem.html",

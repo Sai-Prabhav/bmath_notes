@@ -12,3 +12,5 @@ INv
 invs
 \quad
 \cal
+\in
+\inf
