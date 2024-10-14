@@ -14,3 +14,7 @@ invs
 \cal
 \in
 \inf
+\int
+\int^{#}_{#}
+\infty
+\intop

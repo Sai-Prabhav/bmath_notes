@@ -4,42 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "910262419044eb9b",
+        "id": "22110db4aa859c68",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa3798fa902ebed",
+            "id": "20ef4647cceba12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e40b99a8fbf706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "Probability/5. Conditional Expectation.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "863759101aca55e2",
+            "id": "316149fdf083005a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "number_theory/4. Arithmetic Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Probability/sheldon_ross.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ee2a257cae7bc49",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Probability/sheldon_ross.pdf"
               }
             }
           }
@@ -94,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "acb74afee061b65f",
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "Probability/sheldon_ross.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md",
+                "file": "Probability/sheldon_ross.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/4. Continuity of Functions.md"
+                "file": "Probability/sheldon_ross.pdf"
               }
             }
           }
@@ -175,24 +172,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0e40b99a8fbf706",
+  "active": "316149fdf083005a",
   "lastOpenFiles": [
+    "Probability/5. Conditional Expectation.md",
+    "Probability/sheldon_ross.pdf",
+    "Probability/4. Conditional distribution.md",
+    "Custom Commands.md",
+    "number_theory/9. Linear  Recurrences.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/4. Arithmetic Functions.md",
+    "real analyses/8. Limit of function.md",
+    "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
     "real analyses/balzano-Wriestrs theorem.md",
     "number_theory/8. Linear Diophantine Equation.md",
-    "number_theory/9. Linear  Recurrences.md",
-    "number_theory/7. Average of Arithmetic Function.md",
     "Untitled",
-    "number_theory/4. Arithmetic Functions.md",
-    "Probability/sheldon_ross.pdf",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
-    "Custom Commands.md",
     "Probability/7. Continuous Random Variable.md",
     "number_theory/Assignment Link.md",
     "number_theory/3. Binary.md",
     "Probability/Exercise 4 Solutions.md",
     "number_theory/Problem_set.pdf",
-    "real analyses/8. Limit of function.md",
     "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
     "linear algebra/2. Direct Sum.md",
@@ -202,10 +202,6 @@
     "linear algebra/Problems.md",
     "real analyses/3. Convergences of Series.md",
     "snippet/my_snippet.md",
-    "real analyses/4. Continuity of Functions.md",
-    "linear algebra/5. Projector.md",
-    "linear algebra/3. Rank.md",
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "website/real-analyses/5.-intermediate-value-theorem.html",
