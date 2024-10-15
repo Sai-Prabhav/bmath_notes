@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "22110db4aa859c68",
+        "id": "7803e16493cb07d9",
         "type": "tabs",
         "children": [
           {
-            "id": "20ef4647cceba12f",
+            "id": "420c3a4fb34c2a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Commands.md",
+                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6e39314a8421fb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8. Hermite conical form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee2a257cae7bc49",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Probability/sheldon_ross.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Wriestrs",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Hermite conical form.md",
+                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Hermite conical form.md",
+                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Hermite conical form.md"
+                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md"
               }
             }
           }
@@ -173,16 +150,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e39314a8421fb6e",
+  "active": "b8b5c15c37ed83e0",
   "lastOpenFiles": [
+    "real analyses/bolzano-Weierstrass theorem.md",
+    "real analyses/7. Uniform Continuous.md",
+    "real analyses/4. Continuity of Functions.md",
+    "Probability/sheldon_ross.pdf",
     "Custom Commands.md",
-    "8. Hermite conical form.md",
+    "linear algebra/8. Hermite conical form.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
     "linear algebra/5. Projector.md",
     "Probability/6. Conditional Variance.md",
-    "Probability/sheldon_ross.pdf",
     "Probability/Exercise 4 Solutions.md",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "Probability/7. Continuous Random Variable.md",
@@ -192,9 +172,7 @@
     "number_theory/7. Average of Arithmetic Function.md",
     "number_theory/4. Arithmetic Functions.md",
     "real analyses/8. Limit of function.md",
-    "real analyses/4. Continuity of Functions.md",
     "real analyses/1. Cauchy Criterion.md",
-    "real analyses/balzano-Wriestrs theorem.md",
     "number_theory/8. Linear Diophantine Equation.md",
     "Untitled",
     "number_theory/Assignment Link.md",
@@ -202,8 +180,6 @@
     "number_theory/Problem_set.pdf",
     "linear algebra/2. Direct Sum.md",
     "2024-10-10.md",
-    "real analyses/7. Uniform Continuous.md",
-    "real analyses/6. Continuous Bijections.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "website/real-analyses/5.-intermediate-value-theorem.html",
