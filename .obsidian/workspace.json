@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/5. Conditional Expectation.md",
-                "mode": "preview",
+                "file": "Custom Commands.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "316149fdf083005a",
+            "id": "6e39314a8421fb6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Probability/sheldon_ross.pdf"
+                "file": "8. Hermite conical form.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -90,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "acb74afee061b65f",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/sheldon_ross.pdf",
+                "file": "8. Hermite conical form.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/sheldon_ross.pdf",
+                "file": "8. Hermite conical form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/sheldon_ross.pdf"
+                "file": "8. Hermite conical form.md"
               }
             }
           }
@@ -172,12 +173,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "316149fdf083005a",
+  "active": "6e39314a8421fb6e",
   "lastOpenFiles": [
-    "Probability/5. Conditional Expectation.md",
-    "Probability/sheldon_ross.pdf",
-    "Probability/4. Conditional distribution.md",
     "Custom Commands.md",
+    "8. Hermite conical form.md",
+    "real analyses/5. Intermediate Value Theorem.md",
+    "linear algebra/7. Generalised Inverse.md",
+    "linear algebra/6. Question.md",
+    "linear algebra/5. Projector.md",
+    "Probability/6. Conditional Variance.md",
+    "Probability/sheldon_ross.pdf",
+    "Probability/Exercise 4 Solutions.md",
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+    "Probability/7. Continuous Random Variable.md",
+    "Probability/5. Conditional Expectation.md",
+    "Probability/4. Conditional distribution.md",
     "number_theory/9. Linear  Recurrences.md",
     "number_theory/7. Average of Arithmetic Function.md",
     "number_theory/4. Arithmetic Functions.md",
@@ -187,21 +197,13 @@
     "real analyses/balzano-Wriestrs theorem.md",
     "number_theory/8. Linear Diophantine Equation.md",
     "Untitled",
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
-    "Probability/7. Continuous Random Variable.md",
     "number_theory/Assignment Link.md",
     "number_theory/3. Binary.md",
-    "Probability/Exercise 4 Solutions.md",
     "number_theory/Problem_set.pdf",
-    "linear algebra/7. Generalised Inverse.md",
-    "linear algebra/6. Question.md",
     "linear algebra/2. Direct Sum.md",
     "2024-10-10.md",
     "real analyses/7. Uniform Continuous.md",
     "real analyses/6. Continuous Bijections.md",
-    "linear algebra/Problems.md",
-    "real analyses/3. Convergences of Series.md",
-    "snippet/my_snippet.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "website/real-analyses/5.-intermediate-value-theorem.html",

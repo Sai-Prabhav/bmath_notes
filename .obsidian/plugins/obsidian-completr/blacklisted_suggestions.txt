@@ -18,3 +18,4 @@ invs
 \int^{#}_{#}
 \infty
 \intop
+hc
