@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "7803e16493cb07d9",
-        "type": "tabs",
+        "id": "1d0e04ec7f82c6a1",
+        "type": "split",
         "children": [
           {
-            "id": "420c3a4fb34c2a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
-                "mode": "source",
-                "source": false
+            "id": "05d2f024ae299335",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b53477031a4feef",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Probability/sheldon_ross.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "12cbdfd496dae9f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "420c3a4fb34c2a2b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Probability/sheldon_ross.pdf"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wriestrs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "acb74afee061b65f",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+                "file": "Probability/sheldon_ross.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+                "file": "Probability/sheldon_ross.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/8. Expectation and Variance of Continuous Random Variables.md"
+                "file": "Probability/sheldon_ross.pdf"
               }
             }
           }
@@ -150,22 +172,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8b5c15c37ed83e0",
+  "active": "420c3a4fb34c2a2b",
   "lastOpenFiles": [
+    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
+    "Probability/sheldon_ross.pdf",
+    "Probability/7. Continuous Random Variable.md",
+    "linear algebra/8. Hermite conical form.md",
+    "All Queries.md",
+    "Index.md",
     "real analyses/bolzano-Weierstrass theorem.md",
     "real analyses/7. Uniform Continuous.md",
     "real analyses/4. Continuity of Functions.md",
-    "Probability/sheldon_ross.pdf",
     "Custom Commands.md",
-    "linear algebra/8. Hermite conical form.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
     "linear algebra/5. Projector.md",
     "Probability/6. Conditional Variance.md",
     "Probability/Exercise 4 Solutions.md",
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
-    "Probability/7. Continuous Random Variable.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/4. Conditional distribution.md",
     "number_theory/9. Linear  Recurrences.md",
@@ -178,8 +202,6 @@
     "number_theory/Assignment Link.md",
     "number_theory/3. Binary.md",
     "number_theory/Problem_set.pdf",
-    "linear algebra/2. Direct Sum.md",
-    "2024-10-10.md",
     "Probability/exercises_4.pdf",
     "Probability/an-introduction-to-probability-theory-and-its-applications.pdf",
     "website/real-analyses/5.-intermediate-value-theorem.html",
