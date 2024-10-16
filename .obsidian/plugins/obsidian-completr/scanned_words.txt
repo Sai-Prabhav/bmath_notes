@@ -7731,6 +7731,7 @@ lTlm
 lgg
 lWIa
 ldOchGg
+lower
 small
 smaller
 same
@@ -20024,6 +20025,7 @@ determine
 dependent
 dioganal
 diagonal
+differentiable
 xl
 xD
 xG
