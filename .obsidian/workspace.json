@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/8. Limit of function.md",
+                "file": "real analyses/9. Differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111851024b7c4c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippet/my_snippet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/8. Limit of function.md",
+                "file": "real analyses/9. Differentiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/8. Limit of function.md",
+                "file": "real analyses/9. Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/8. Limit of function.md"
+                "file": "real analyses/9. Differentiation.md"
               }
             }
           }
@@ -152,14 +164,15 @@
   },
   "active": "35f037757c22a4b4",
   "lastOpenFiles": [
+    "snippet/my_snippet.md",
+    "real analyses/9. Differentiation.md",
+    "real analyses/8. Limit of function.md",
     "real analyses/bolzano-Weierstrass theorem.md",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
     "website/real-analyses/9.-differentiation.html",
     "website/number_theory/9.-linear-recurrences.html",
     "website/number_theory/8.-linear-diophantine-equation.html",
     "website/linear-algebra/8.-hermite-conical-form.html",
-    "real analyses/9. Differentiation.md",
-    "real analyses/8. Limit of function.md",
     "real analyses/7. Uniform Continuous.md",
     "real analyses/4. Continuity of Functions.md",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",

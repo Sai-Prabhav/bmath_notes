@@ -19,3 +19,6 @@ invs
 \infty
 \intop
 hc
+diffrentiable
+diFf
+diffrent
