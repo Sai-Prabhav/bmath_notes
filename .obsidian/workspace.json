@@ -162,10 +162,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35f037757c22a4b4",
+  "floating": {
+    "id": "18b613cc2901b777",
+    "type": "floating",
+    "children": [
+      {
+        "id": "17c9587d88935c92",
+        "type": "window",
+        "children": [
+          {
+            "id": "1546ee7b1b2acd30",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d8fad139eccfc95",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "real analyses/9. Differentiation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1d8fad139eccfc95",
   "lastOpenFiles": [
-    "snippet/my_snippet.md",
     "real analyses/9. Differentiation.md",
+    "snippet/my_snippet.md",
     "real analyses/8. Limit of function.md",
     "real analyses/bolzano-Weierstrass theorem.md",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
