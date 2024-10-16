@@ -8254,7 +8254,6 @@ saQ
 sFFn
 sut
 shl
-satisfy
 soution
 single
 satisfyes
@@ -19615,7 +19614,6 @@ disc
 discriminant
 did
 dumb
-diffrent
 different
 denote
 document
@@ -19945,7 +19943,6 @@ dPy
 dzO
 dcM
 dsv
-diFf
 dFg
 dFr
 dyd
@@ -20040,8 +20037,6 @@ dependent
 dioganal
 diagonal
 differentiable
-diffrentiatable
-diffrentiable
 xl
 xD
 xG
