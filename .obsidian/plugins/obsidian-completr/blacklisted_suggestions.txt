@@ -22,3 +22,5 @@ hc
 diffrentiable
 diFf
 diffrent
+diffrentiatable
+satisfy
