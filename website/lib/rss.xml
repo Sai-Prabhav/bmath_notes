@@ -1,4 +1,61 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 17 Oct 2024 05:04:47 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 17 Oct 2024 05:04:43 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[7. Generalised Inverse]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 17 Oct 2024 08:39:53 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 17 Oct 2024 08:39:50 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:17-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#17-oct</a> 
+ <br> <a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
+Let  be a square matrix.  is said to be on Hermite canonical form (HCF) if<br>
+i)  is upper triangle matrix<br>
+i) each dioganal entry is either 0 or 1<br>
+iii) the ith row of  is a zero if <br>
+iv) the ith column of  is  if 
+<br>Theorem.
+Let  be a  matrix in HCF then  is the number of  1 on the the diagonal of  Also if the 1s ones are at the  th positions then the  th columns of  form a basis of the <br>
+ 
+<br>Proof.<br>
+The no. of zero rows in  is  so, row rank of   But the  columns are  which are linearly independent , so thre are atleast  linearly independent vectors hence <br> forms a basis of  <br> □<br>let  be a group of all bijections on the set <br>
+ be a set of all bijections from  we can define a binary operation on  as follows<br>
+<br>
+<br>
+this makes  as a group <br><br>let  be a permutation. Then there is a  matrix associated to  say  st. the ith row of  is  where  ie the ith row of  is <br>
+let  <br><br>A permutation matrix is a square matrix, containing only 's and 1's more over excatly one 1 in each row and one in each column <br>Every permutation matrix  is  for some  <br>Exercise.
+det 
+<br>Pre-multiplication of a matrix by a permutation matrix  permutes the rows of A, the ith row of  it the  the row of A<br>
+the post multiplication of  permutes the columns of A  th column of A permutes to  of A <br>Lemma.
+Let  be a  matrix in HCF with rank  then there exist a permutaion matrix  such that  is of the form 
+<br>Proposition (If  is a HCF then  is an idempotent).<br>Proof.<br>
+<br><br> □<br>Exercise.
+If  is a permutaion matrix what is  where  
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:17-oct" class="tag" target="_blank" rel="noopener nofollow">#17-oct</a><br>Theorem.
+Any square matrix can be reduced to a matrix in HCF by elementary row operations 
+<br>Proof.<br>
+Let A be a   matrix<br>
+we say that the first  columns of A have Hermite property is they are the first  columns of a matrix in the HCF, ie<br>i) <br>
+ii) <br>
+iii) <br>
+iv) <br>If the first column is a zero column then it is already in Hermite form.<br>
+If first column is non-zero, and  then we normalize  to 1 by dividing row 1 by  if  then we do a row interchange and make  and repeat as in the case <br>
+we make the entries by elementary row operations this makes the first column in hermite for suppose by elementary row operations we made the first  columns into hermite form.<br>Case 1:<br>
+There exist a non-zero entry on or below the diagonal in the th column,ie  an <br>
+such that  if  is not zero then do a suitable row interchange normalize  into a pivot and make all other entries in the  column zeros. if  then normalize and proceed<br>Case 2:<br>If the jth column is zero then we are done <br>case 3:<br> and  ie all elements on and below the diagonal in the jth column are zeros but  a non-zero element  but <br>
+then we interchange the  row and make all entries in the  colum zeros using  as the pivot<br>Case 4:<br>
+ and for  either  or  we leave it as it is<br>□<br>Let  be a system of equation where A is  form the matrix  <br>If A is non-singular applying row operation of A reduces A to its RREF<br>
+and applying the same operation on  gives us <br>
+applying same operations on  gives us the unique solution <br>If A is singular reduce A to its HCF by applying row operations and apply same row operation on  and   as well Let us arrive at the following <br><br>Remark.
+<br>
+let  be a particular solution of  all general solutions of  is<br>
+
+<br>Theorem.
+The system  is consistent iff  whenever  then  is a particular solution and  is a general solution for any arbitrary <br>
+The non-zero columns of  form a basis of the   is a <a data-tooltip-position="top" aria-label="linear algebra/7. Generalised Inverse > ^b20e1b" data-href="linear algebra/7. Generalised Inverse#^b20e1b" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/7. Generalised Inverse#^b20e1b" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">G-Inverse</a><a data-tooltip-position="top" aria-label="linear algebra/7. Generalised Inverse > ^b20e1b" data-href="linear algebra/7. Generalised Inverse#^b20e1b" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/7.-generalised-inverse.html#^b20e1b" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">G-Inverse</a>  of a if the  in the dioganal of  occur in  th places  BC as a rank factorization of A where<br>
+ and   where  is the ith column of A and  is the  row of  
+<br>Proof. <br><br>Let  be the product of all the row operations applied<br>
+<br> <br>As  is Hermite form  is idempotent. <br>
+this shows  is the g-inv of A<br>
+ is an idempotent<br>
+<br>
+  is a g-inv of   so, <br>
+so  is the solution of  then  is a solution of  is  <br>Now  But  is idempotent so  so a general solution of  is  ie,  for any <br> □<br>Let  be a linear map let  be a basis of <br>
+Matrix of  with respective to  say A is obtained as follows ith column of A is the coordinate vector of  wrt  <br> <br>Let <br>
+ an invertable  matrix  such that  <br>Claim.
+The matrix of  wrt new basis  in  
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/8.-hermite-conical-form.html</link><guid isPermaLink="false">linear algebra/8. Hermite conical form.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 08:24:09 GMT</pubDate></item><item><title><![CDATA[7. Generalised Inverse]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener nofollow">#10-oct</a><br>Definition.
 Given any matrix  there exist a matrix  (generalised inverse denoted by g-inv ). Such that whenever  is a consistent system, ie <br>
  is a solution and  dosen't depend on  
@@ -59,61 +116,7 @@ b) If A is a full row rank matrix  is a g-inv of A iff  is a right inverse of A<
 c) If A is a Invertable  is the unique of A 
 <br>Proof.<br>Let  be a left inverse of A <br>
 conversely let  be a  - inv so  let  be a left inverse of A then <br>
-so  is left inverse of  <br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/7.-generalised-inverse.html</link><guid isPermaLink="false">linear algebra/7. Generalised Inverse.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 04:37:01 GMT</pubDate></item><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> 
- <br> <a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
-Let  be a square matrix.  is said to be on Hermite canonical form (HCF) if<br>
-i)  is upper triangle matrix<br>
-i) each dioganal entry is either 0 or 1<br>
-iii) the ith row of  is a zero if <br>
-iv) the ith column of  is  if 
-<br>Theorem.
-Let  be a  matrix in HCF then  is the number of  1 on the the diagonal of  Also if the 1s ones are at the  th positions then the  th columns of  form a basis of the <br>
- 
-<br>Proof.<br>
-The no. of zero rows in  is  so, row rank of   But the  columns are  which are linearly independent , so thre are atleast  linearly independent vectors hence <br> forms a basis of  <br> □<br>let  be a group of all bijections on the set <br>
- be a set of all bijections from  we can define a binary operation on  as follows<br>
-<br>
-<br>
-this makes  as a group <br><br>let  be a permutation. Then there is a  matrix associated to  say  st. the ith row of  is  where  ie the ith row of  is <br>
-let  <br><br>A permutation matrix is a square matrix, containing only 's and 1's more over excatly one 1 in each row and one in each column <br>Every permutation matrix  is  for some  <br>Exercise.
-det 
-<br>Pre-multiplication of a matrix by a permutation matrix  permutes the rows of A, the ith row of  it the  the row of A<br>
-the post multiplication of  permutes the columns of A  th column of A permutes to  of A <br>Lemma.
-Let  be a  matrix in HCF with rank  then there exist a permutaion matrix  such that  is of the form 
-<br>Proposition (If  is a HCF then  is an idempotent).<br>Proof.<br>
-<br><br> □<br>Exercise.
-If  is a permutaion matrix what is  where  
-<br>Theorem.
-Any square matrix can be reduced to a matrix in HCF by elementary row operations 
-<br>Proof.<br>
-Let A be a   matrix<br>
-we say that the first  columns of A have Hermite property is they are the first  columns of a matrix in the HCF, ie<br>i) <br>
-ii) <br>
-iii) <br>
-iv) <br>If the first column is a zero column then it is already in Hermite form.<br>
-If first column is non-zero, and  then we normalize  to 1 by dividing row 1 by  if  then we do a row interchange and make  and repeat as in the case <br>
-we make the entries by elementary row operations this makes the first column in hermite for suppose by elementary row operations we made the first  columns into hermite form.<br>Case 1:<br>
-There exist a non-zero entry on or below the diagonal in the th column,ie  an <br>
-such that  if  is not zero then do a suitable row interchange normalize  into a pivot and make all other entries in the  column zeros. if  then normalize and proceed<br>Case 2:<br>If the jth column is zero then we are done <br>case 3:<br> and  ie all elements on and below the diagonal in the jth column are zeros but  a non-zero element  but <br>
-then we interchange the  row and make all entries in the  colum zeros using  as the pivot<br>Case 4:<br>
- and for  either  or  we leave it as it is<br>□<br>Let  be a system of equation where A is  form the matrix  <br>If A is non-singular applying row operation of A reduces A to its RREF<br>
-and applying the same operation on  gives us <br>
-applying same operations on  gives us the unique solution <br>If A is singular reduce A to its HCF by applying row operations and apply same row operation on  and   as well Let us arrive at the following <br><br>Remark.
-<br>
-let  be a particular solution of  all general solutions of  is<br>
-
-<br>Theorem.
-The system  is consistent iff  whenever  then  is a particular solution and  is a general solution for any arbitrary <br>
-The non-zero columns of  form a basis of the   is a <a data-tooltip-position="top" aria-label="linear algebra/7. Generalised Inverse > ^b20e1b" data-href="linear algebra/7. Generalised Inverse#^b20e1b" href="https://sai-prabhav.github.io/bmath_notes/linear algebra/7. Generalised Inverse#^b20e1b" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">G-Inverse</a><a data-tooltip-position="top" aria-label="linear algebra/7. Generalised Inverse > ^b20e1b" data-href="linear algebra/7. Generalised Inverse#^b20e1b" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/7.-generalised-inverse.html#^b20e1b" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">G-Inverse</a>  of a if the  in the dioganal of  occur in  th places  BC as a rank factorization of A where<br>
- and   where  is the ith column of A and  is the  row of  
-<br>Proof. <br><br>Let  be the product of all the row operations applied<br>
-<br> <br>As  is Hermite form  is idempotent. <br>
-this shows  is the g-inv of A<br>
- is an idempotent<br>
-<br>
-  is a g-inv of   so, <br>
-so  is the solution of  then  is a solution of  is  <br>Now  But  is idempotent so  so a general solution of  is  ie,  for any <br> □<br>Let  be a linear map let  be a basis of <br>
-Matrix of  with respective to  say A is obtained as follows ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/8.-hermite-conical-form.html</link><guid isPermaLink="false">linear algebra/8. Hermite conical form.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 05:04:35 GMT</pubDate></item><item><title><![CDATA[2. Sum of Two Squares]]></title><description><![CDATA[ 
+so  is left inverse of  <br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/7.-generalised-inverse.html</link><guid isPermaLink="false">linear algebra/7. Generalised Inverse.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 04:37:01 GMT</pubDate></item><item><title><![CDATA[2. Sum of Two Squares]]></title><description><![CDATA[ 
  <br>Lemma.
 If  and  are each the sum of two squares then so is there product 
 <br>Proof.<br>
