@@ -1,4 +1,22 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 17 Oct 2024 08:39:53 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 17 Oct 2024 08:39:50 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:17-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#17-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 17 Oct 2024 13:58:17 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 17 Oct 2024 13:58:16 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
+ <br>Theorem.
+Let  with a,   not both zeros then LDE<br>
+<br>
+has a solution over <br>
+Also if  is a solution af the LDE then every other soution  has the form<br>
+<br>
+<br>
+where  and  
+<br>Proof.<br>
+If LDE has a solution  then clearly<br><br> suppose <br>
+then we can write <br> for some  then <br><br>and <br>
+let  be a given solution<br>
+let  be any other solution then<br><br>then <br>
+<br>□<br><br>Find all solution of<br>
+<br>
+solution we apply the euclidian algorithm to 7 and 19 we can do it<br>method 2<br><br>Let  be the non-zero column and  the zero column<br>
+and value of <br>
+then <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 13:58:05 GMT</pubDate></item><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:17-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#17-oct</a> 
  <br> <a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
 Let  be a square matrix.  is said to be on Hermite canonical form (HCF) if<br>
 i)  is upper triangle matrix<br>
@@ -255,36 +273,7 @@ decide if you should complete it<br><br>We have <br><br><br>Proof. <br><br> □<
 then <br><br>Proof. <br><br> □<br><br><br>Proof.<br>
 we have <br><br>	Hence coosing $L=M=\sqrt{ x },N=x$ we have
 Copy<br><br> □<br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html</link><guid isPermaLink="false">number_theory/7. Average of Arithmetic Function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 09:38:45 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
- <br>Theorem.
-Let  with a,   not both zeros then LDE<br>
-<br>
-has a solution over <br>
-Also if  is a solution af the LDE then every other soution  has the form<br>
-<br>
-<br>
-where  and  
-<br>Proof.<br>
-If LDE has a solution  then clearly<br><br> suppose <br>
-then we can write <br> for some  then <br><br>and $\frac{ac}{d}, \frac{vc}{d}\in \ZZ$
-Copy<br>let  be a given solution<br>
-let  be any other solution then<br>
-$$<br>
-\begin{align}<br>
-ax+by &amp; =c  \<br>
-ax{o} +by{o} &amp; =c \<br>
-\implies a(x-x{o} ) &amp; = b(y{0}-y  ) \<br>
-\implies \frac{a}{d}(x-x{o} ) &amp; =\frac{b}{d}(y{o}-y ) \<br>
-\implies \frac{b}{d}|x-x{o}  &amp; = \frac{b}{d}(y{o} -y)<br>
-\end{align}<br><br>\begin{align}<br>
-\begin{bmatrix}7 &amp; 19 &amp; 25\ 1 &amp; 0&amp; \ 0 &amp; 1&amp;  \end{bmatrix}   \to \begin{bmatrix}7 &amp; 5 &amp; 25\ 1 &amp; -2&amp;  \ 0 &amp; 1 &amp;  \end{bmatrix}  \to\begin{bmatrix}2 &amp; 5 &amp; 25\ 3 &amp; -2&amp;  \ -1 &amp; 1&amp;  \end{bmatrix} \to \begin{bmatrix}2 &amp; 1 &amp; 25\ 3 &amp; -8&amp;  \ -1 &amp; 3&amp;  \end{bmatrix} \to \begin{bmatrix}0 &amp; 1 &amp; 25\ 19 &amp; -8&amp;  \ -7 &amp; 3&amp;  \end{bmatrix}<br>
-\end{align}<br><br>\begin{align}<br>
-x &amp; =19u-8t  \<br>
-&amp; = 19u -200 \<br>
-y &amp; = -7u+3t  \<br>
-&amp; = -7 u +75<br>
-\end{align}<br>
-$$]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 09:25:05 GMT</pubDate></item><item><title><![CDATA[9. Linear  Recurrences]]></title><description><![CDATA[ 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/7.-average-of-arithmetic-function.html</link><guid isPermaLink="false">number_theory/7. Average of Arithmetic Function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 09:38:45 GMT</pubDate></item><item><title><![CDATA[9. Linear  Recurrences]]></title><description><![CDATA[ 
  <br>Let  a complex sequence  is said to be satisfy a Linear reccurrence of order  if there are fixed complex numbers  <br><br><br> a Fibonacci sequence defined by <br>
 satisfies a LR of order 2<br>We will be mostly interested in k=2<br>
 then   <br>for all <br>Let  be a sequence satisfying <a data-tooltip-position="top" aria-label="^8a8953" data-href="#^8a8953" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8a8953" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">*</a><a data-tooltip-position="top" aria-label="^8a8953" data-href="#^8a8953" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8a8953" class="internal-link mathLink-internal-link" target="_self" rel="noopener">*</a><br>
