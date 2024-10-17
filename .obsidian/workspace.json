@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/9. Differentiation.md",
+                "file": "linear algebra/8. Hermite conical form.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "8. Hermite conical form"
+            }
+          },
+          {
+            "id": "f2bca4e3ce07d2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear algebra/7. Generalised Inverse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Generalised Inverse"
+            }
+          },
+          {
+            "id": "d625a08bd59fc007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear algebra/8. Hermite conical form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Hermite conical form"
             }
           }
         ]
@@ -39,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real analyses/9. Differentiation.md",
+                "file": "linear algebra/8. Hermite conical form.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +129,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8. Hermite conical form"
             }
           },
           {
@@ -102,10 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real analyses/9. Differentiation.md",
+                "file": "linear algebra/8. Hermite conical form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8. Hermite conical form"
             }
           },
           {
@@ -116,7 +156,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real analyses/9. Differentiation.md"
-              }
+                "file": "linear algebra/8. Hermite conical form.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8. Hermite conical form"
             }
           }
         ],
@@ -152,9 +196,13 @@
   },
   "active": "35f037757c22a4b4",
   "lastOpenFiles": [
-    "snippet/my_snippet.md",
-    "real analyses/9. Differentiation.md",
+    "linear algebra/8. Hermite conical form.md",
+    "linear algebra/7. Generalised Inverse.md",
     "Custom Commands.md",
+    "number_theory/2. Sum of Two Squares.md",
+    "number_theory/9. Linear  Recurrences.md",
+    "real analyses/9. Differentiation.md",
+    "snippet/my_snippet.md",
     "real analyses/8. Limit of function.md",
     "real analyses/bolzano-Weierstrass theorem.md",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
@@ -168,22 +216,18 @@
     "Probability/7. Continuous Random Variable.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/4. Conditional distribution.md",
-    "number_theory/9. Linear  Recurrences.md",
     "number_theory/8. Linear Diophantine Equation.md",
     "number_theory/7. Average of Arithmetic Function.md",
-    "linear algebra/8. Hermite conical form.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "real analyses/5. Intermediate Value Theorem.md",
     "real analyses/6. Continuous Bijections.md",
     "Probability/sheldon_ross.pdf",
     "All Queries.md",
     "Index.md",
-    "linear algebra/7. Generalised Inverse.md",
     "linear algebra/6. Question.md",
     "linear algebra/5. Projector.md",
     "Probability/6. Conditional Variance.md",
     "Probability/Exercise 4 Solutions.md",
-    "number_theory/4. Arithmetic Functions.md",
     "Untitled",
     "number_theory/Problem_set.pdf",
     "Probability/exercises_4.pdf",
