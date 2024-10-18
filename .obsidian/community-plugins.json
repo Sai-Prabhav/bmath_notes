@@ -11,5 +11,6 @@
   "dataview",
   "better-export-pdf",
   "webpage-html-export",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "latex-ocr"
 ]
