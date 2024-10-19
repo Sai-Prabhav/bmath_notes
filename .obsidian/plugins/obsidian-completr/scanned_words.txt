@@ -665,6 +665,8 @@ tLc
 topOutsetlong
 tech
 tables
+tEXtSoftware
+tEXtCreation
 is
 italics
 its
@@ -5342,6 +5344,7 @@ horzAlignenum
 hVL
 hvc
 hhW
+hHNJ
 want
 will
 wZFn
@@ -7968,6 +7971,8 @@ bDfrL
 bMF
 bQQ
 bius
+bbb
+bbJf
 great
 gather
 ggr
@@ -8492,6 +8497,7 @@ gkoc
 gkdpc
 gcqLmcj
 gwT
+gnome
 learn
 let
 like
@@ -10014,6 +10020,8 @@ swT
 sEn
 sZu
 sEU
+sBIT
+screenshot
 Proof
 PDF
 Producer
@@ -10922,6 +10930,8 @@ Preface
 Pseudoprimes
 Perfect
 Primality
+PNG
+PSW
 prime
 pv
 pW
@@ -15668,6 +15678,7 @@ Last
 Louis
 Law
 Leonhard
+LLNK
 Multiline
 Mozilla
 ModDate
@@ -17688,6 +17699,7 @@ Two
 Theoretic
 Their
 Testing
+Time
 Fermat
 Filter
 FlateDecode
@@ -21960,6 +21972,9 @@ Gog
 Generalization
 Goldbach
 Greatest
+GSS
+GoO
+GNv
 Safari
 Skia
 SH
@@ -22738,6 +22753,7 @@ Squares
 Special
 Sieve
 Stirling
+SRRL
 BM
 BVvvzK
 BH
@@ -23566,6 +23582,7 @@ BrB
 BsZ
 BMn
 BMK
+BBX
 Normal
 Nk
 Nb
@@ -24804,6 +24821,7 @@ desc
 dmnd
 dkq
 ditributed
+dgg
 xl
 xD
 xG
@@ -27758,6 +27776,8 @@ Hdd
 HmKq
 Hardy
 Having
+HMNa
+HKNe
 VKDG
 VR
 Vn
@@ -28327,6 +28347,7 @@ VGG
 VZU
 VfZ
 VKS
+VKWW
 yk
 yT
 yp
@@ -29549,6 +29570,7 @@ QPQ
 QuT
 QUG
 QRgf
+QRSS
 jU
 jo
 join
@@ -30213,6 +30235,7 @@ jIL
 jFX
 jWq
 jUB
+jjjq
 XT
 XA
 Xg
@@ -32649,6 +32672,7 @@ rwF
 rNOx
 ram
 rQEZ
+rcH
 ID
 Io
 Ie
@@ -33834,6 +33858,9 @@ Integer
 Induction
 Inversion
 Indepented
+IHDR
+IDATx
+IEND
 qq
 qk
 qH
@@ -34606,6 +34633,7 @@ qvS
 qon
 qVfTE
 qRg
+qNJ
 kn
 kN
 kx
@@ -36028,6 +36056,7 @@ JaS
 JFIF
 JMfb
 Joseph
+JIVz
 Registry
 Rkh
 RF
@@ -37826,6 +37855,7 @@ Diophantine
 Divisors
 Divisor
 Decimal
+DFF
 UxA
 UNP
 UQ
@@ -40192,6 +40222,7 @@ view
 vRZA
 vqHa
 vuW
+vSS
 Zd
 Zi
 ZUR
@@ -41286,6 +41317,7 @@ ZrDa
 ZZs
 Zbs
 Zeta
+ZZj
 uA
 ui
 uv
@@ -42241,6 +42273,7 @@ unT
 ubk
 urlTEXT
 uWYK
+undff
 Wi
 WO
 Widths
