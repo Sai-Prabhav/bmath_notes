@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "247cdfa0628995b1",
+        "id": "4360e89feab6bf09",
         "type": "tabs",
         "children": [
           {
-            "id": "15a172eff52f847c",
+            "id": "0de23ed10907cc0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "number_theory/4. Arithmetic Functions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. Arithmetic Functions"
-            }
-          },
-          {
-            "id": "131f030a9bf1129e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Probability/sheldon_ross.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sheldon_ross"
+              "title": "New tab"
             }
           }
         ]
@@ -179,19 +163,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a172eff52f847c",
+  "active": "0de23ed10907cc0e",
   "lastOpenFiles": [
+    "Probability/sheldon_ross.pdf",
     "Custom Commands.md",
     "number_theory/4. Arithmetic Functions.md",
+    "Pasted image 20241019115554.png",
+    "Pasted image 20241019115547.png",
+    "number_theory/8. Linear Diophantine Equation.md",
+    "number_theory/7. Average of Arithmetic Function.md",
+    "number_theory/6. Multiplicative Functions.md",
+    "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/3. Binary.md",
     "Probability/9. Common densities.md",
-    "Probability/sheldon_ross.pdf",
     "Probability/10. Stirling's formula.md",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
     "linear algebra/8. Hermite conical form.md",
     "linear algebra/7. Generalised Inverse.md",
-    "number_theory/8. Linear Diophantine Equation.md",
     "number_theory/2. Sum of Two Squares.md",
     "real analyses/7. Uniform Continuous.md",
     "real analyses/8. Limit of function.md",
@@ -208,12 +197,8 @@
     "Probability/7. Continuous Random Variable.md",
     "Probability/5. Conditional Expectation.md",
     "Probability/4. Conditional distribution.md",
-    "number_theory/7. Average of Arithmetic Function.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "real analyses/5. Intermediate Value Theorem.md",
-    "real analyses/6. Continuous Bijections.md",
-    "All Queries.md",
-    "Index.md",
     "Untitled",
     "number_theory/Problem_set.pdf",
     "Probability/exercises_4.pdf",
