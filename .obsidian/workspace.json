@@ -11,10 +11,14 @@
             "id": "0de23ed10907cc0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/6. Multiplicative Functions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6. Multiplicative Functions"
             }
           }
         ]
