@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/7. Average of Arithmetic Function.md",
+                "file": "number_theory/4. Arithmetic Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Average of Arithmetic Function"
+              "title": "4. Arithmetic Functions"
             }
           }
         ],
@@ -184,11 +184,11 @@
   },
   "active": "0bd0d15001652a9a",
   "lastOpenFiles": [
+    "number_theory/7. Average of Arithmetic Function.md",
     "number_theory/6. Multiplicative Functions.md",
     "number_theory/5. The Mobius Inverse Formula.md",
     "number_theory/4. Arithmetic Functions.md",
     "Custom Commands.md",
-    "number_theory/7. Average of Arithmetic Function.md",
     "Probability/sheldon_ross.pdf",
     "Pasted image 20241019115554.png",
     "Pasted image 20241019115547.png",
