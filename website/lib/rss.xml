@@ -1,4 +1,100 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 19 Oct 2024 16:25:41 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 19 Oct 2024 16:25:08 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Oct 2024 09:22:03 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Oct 2024 09:21:57 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
+ <br>Theorem.
+Let  with a,   not both zeros then LDE<br>
+<br>
+has a solution over <br>
+Also if  is a solution af the LDE then every other soution  has the form<br>
+<br>
+<br>
+where  and  
+<br>Proof.<br>
+If LDE has a solution  then clearly<br><br> suppose <br>
+then we can write <br> for some  then <br><br>and <br>
+let  be a given solution<br>
+let  be any other solution then<br><br>then <br>
+<br>□<br><br>Find all solution of<br>
+<br>
+solution we apply the euclidian algorithm to 7 and 19 we can do it<br>method 2<br><br>Let  be the non-zero column and  the zero column<br>
+and value of <br>
+then <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 20 Oct 2024 05:33:42 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
+ is said to be differentiable at  if<br>
+	then we write  
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:16-oct" class="tag" target="_blank" rel="noopener nofollow">#16-oct</a> <br>let  and  is not a single ton <br>Definition.
+Let  be a function suppose  then  is said to be differentiable at  if   exist then 
+<br>Theorem.
+Suppose  is differentiable at    then  is continuous at  converse is not true
+<br>Proof. <br><br> □<br><br>
+<br>Consider <br>
+take  
+<br><br>Theorem.
+suppose   are functions differentiable at   then
+
+<br> is differentiable at  for   and 
+<br> is differentiable at  and 
+
+<br>Proof. <br>
+<br>
+
+
+<br>
+
+
+<br> □<br>Theorem.
+Suppose  are functions diffrentiatable ar  <br>
+if  then  is same interval I containing  on I  is well defined and diffrentiable at <br>
+with<br>
+
+<br>Proof.<br>
+As  is diffrentiatable at  it is continuous at  <br>takr  as  we have <br>
+so  <br><br>so  for <br>take <br><br> □<br>Corollary.
+Suppose  is a real polynomial<br>
+<br>
+then at any   is differentiable at  and 
+
+<br>Definition.
+Let   be a function 
+
+<br> said to be differentiable it is differentiable at every <br>
+ is a function on I called the first Derivative of f
+<br>if  is differentiable at every  then  is said to be twice differentiable and  is a function  on I defined by 
+<br>for   is differentiable at every  then  is said to be  times differentiable<br>
+ 
+<br> is said to be infinite differentiable if  is n-times differentiable for every 
+<br> is said to be continuously differentiable if  is differentiable and  is continuous
+
+<br>Theorem ( Carathéodory's theorem).
+Let  be a function. Then  is differentiable at  iff there exist a function  continuous at  and satisfying<br>
+<br>
+In such a case  is unique and 
+<br>Proof.<br>
+suppose  is differentiable at <br>
+take <br><br>Then clearly  satisfies * and  is continuous at  <br>if there exist   satisfyes  and continuous then   so  is differentiable and <br>
+□<br>Theorem ((chain rule)).
+suppose  and  are function such that  take  suppose  is differentiable at  and  is differentiable at  then  is differentiable at  and<br>
+ 
+<br>Proof. <br><br>by <a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a> there exist a function  continuous at  satisfying <br><br>as  is differentiable at   a function  continuous at  satisfying <br><br>^050adc<br>
+<a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">**</a><a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">**</a> is true for every  taking  we get <br><br>take  then  is continuous at  as<br>
+ is continuous at ,<br>
+ is continues at  and<br>
+ is continuous at <br>
+□<br>Theorem (Inverse of function).
+Suppose  are non-trivial intervels of  and  is a bijection, Take  suppose  is diffrentiatable at  and  is differentiable at <br>
+then <br>
+(in perticular )
+<br>Proof.<br>
+Take  so <br>
+By <a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Chain Rule</a><a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Chain Rule</a>  <br><br> □<br>Theorem.
+Suppose I ,  are non-trivial intervals in  and   is abijection take   suppose  is diffrentiable at  and  suppose  is Continuous at . then  is differentiable at  and  
+<br>Proof.<br>
+By <a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^d7f876</a><a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 9.8 (Carathéodory's theorem)</a> there exist a function   continuous at  satisfying <br><br>Claim.
+
+<br>for  as  is injective so <br>
+for ,  <br>take  then<br>
+<br>
+<br>
+□<br>
+It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 09:20:39 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener nofollow">#20-sep</a> <br><br>Definition (Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
@@ -330,25 +426,7 @@ There are normal tables
 <br><br>Fix   <br><br>CDF <br><br><br><br><br>Remark.
 Exponential RV is said to be the only RV which has has memory property.
 <br> <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/9.-common-densities.html</link><guid isPermaLink="false">Probability/9. Common densities.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 07:18:50 GMT</pubDate></item><item><title><![CDATA[10. Stirling's formula]]></title><description><![CDATA[ 
- ]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/10.-stirling's-formula.html</link><guid isPermaLink="false">Probability/10. Stirling's formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 06:06:15 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
- <br>Theorem.
-Let  with a,   not both zeros then LDE<br>
-<br>
-has a solution over <br>
-Also if  is a solution af the LDE then every other soution  has the form<br>
-<br>
-<br>
-where  and  
-<br>Proof.<br>
-If LDE has a solution  then clearly<br><br> suppose <br>
-then we can write <br> for some  then <br><br>and <br>
-let  be a given solution<br>
-let  be any other solution then<br><br>then <br>
-<br>□<br><br>Find all solution of<br>
-<br>
-solution we apply the euclidian algorithm to 7 and 19 we can do it<br>method 2<br><br>Let  be the non-zero column and  the zero column<br>
-and value of <br>
-then <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 13:58:05 GMT</pubDate></item><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:17-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#17-oct</a> 
+ ]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/10.-stirling's-formula.html</link><guid isPermaLink="false">Probability/10. Stirling's formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 06:06:15 GMT</pubDate></item><item><title><![CDATA[8. Hermite conical form]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:17-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#17-oct</a> 
  <br> <a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
 Let  be a square matrix.  is said to be on Hermite canonical form (HCF) if<br>
 i)  is upper triangle matrix<br>
@@ -514,85 +592,7 @@ since  is square-free we have <br>
 since  ,  cannot divide both  and <br>
 <br>
 we can find  such that <br><br><br>
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 03:29:40 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
- is said to be differentiable at  if<br>
-	then we write  
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:16-oct" class="tag" target="_blank" rel="noopener nofollow">#16-oct</a> <br>let  and  is not a single ton <br>Definition.
-Let  be a function suppose  then  is said to be differentiable at  if   exist then 
-<br>Theorem.
-Suppose  is differentiable at    then  is continuous at  converse is not true
-<br>Proof. <br><br> □<br><br>
-<br>Consider <br>
-take  
-<br><br>Theorem.
-suppose   are functions differentiable at   then
-
-<br> is differentiable at  for   and 
-<br> is differentiable at  and 
-
-<br>Proof. <br>
-<br>
-
-
-<br>
-
-
-<br> □<br>Theorem.
-Suppose  are functions diffrentiatable ar  <br>
-if  then  is same interval I containing  on I  is well defined and diffrentiable at <br>
-with<br>
-
-<br>Proof.<br>
-As  is diffrentiatable at  it is continuous at  <br>takr  as  we have <br>
-so  <br><br>so  for <br>take <br><br> □<br>Corollary.
-Suppose  is a real polynomial<br>
-<br>
-then at any   is differentiable at  and 
-
-<br>Definition.
-Let   be a function 
-
-<br> said to be differentiable it is differentiable at every <br>
- is a function on I called the first Derivative of f
-<br>if  is differentiable at every  then  is said to be twice differentiable and  is a function  on I defined by 
-<br>for   is differentiable at every  then  is said to be  times differentiable<br>
- 
-<br> is said to be infinite differentiable if  is n-times differentiable for every 
-<br> is said to be continuously differentiable if  is differentiable and  is continuous
-
-<br>Theorem ( Carathéodory's theorem).
-Let  be a function. Then  is differentiable at  iff there exist a function  continuous at  and satisfying<br>
-<br>
-In such a case  is unique and 
-<br>Proof.<br>
-suppose  is differentiable at <br>
-take <br><br>Then clearly  satisfies * and  is continuous at  <br>if there exist   satisfyes  and continuous then   so  is differentiable and <br>
-□<br>Theorem ((chain rule)).
-suppose  and  are function such that  take  suppose  is differentiable at  and  is differentiable at  then  is differentiable at  and<br>
- 
-<br>Proof. <br><br>by <a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a> there exist a function  continuous at  satisfying <br><br>as  is differentiable at   a function  continuous at  satisfying <br><br>^050adc<br>
-<a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">**</a><a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">**</a> is true for every  taking  we get <br><br>take  then  is continuous at  as<br>
- is continuous at ,<br>
- is continues at  and<br>
- is continuous at <br>
-□<br>Theorem (Inverse of function).
-Suppose  are non-trivial intervels of  and  is a bijection, Take  suppose  is diffrentiatable at  and  is differentiable at <br>
-then <br>
-(in perticular )
-<br>Proof.<br>
-Take  so <br>
-By <a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Chain Rule</a><a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Chain Rule</a>  <br><br> □<br>Theorem.
-Suppose I ,  are non-trivial intervals in  and   is abijection take   suppose  is diffrentiable at  and  suppose  is Continuous at . then  is differentiable at  and  
-<br>Proof.<br>
-By <a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^d7f876</a><a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 9.8 (Carathéodory's theorem)</a> there exist a function   continuous at  satisfying <br><br>Claim.
-
-<br>for  as  is injective so <br>
-for ,  <br>take  then<br>
-<br>
-<br>
-□<br>
-It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 16 Oct 2024 10:35:26 GMT</pubDate></item><item><title><![CDATA[9. Linear  Recurrences]]></title><description><![CDATA[ 
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/2.-sum-of-two-squares.html</link><guid isPermaLink="false">number_theory/2. Sum of Two Squares.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 17 Oct 2024 03:29:40 GMT</pubDate></item><item><title><![CDATA[9. Linear  Recurrences]]></title><description><![CDATA[ 
  <br>Let  a complex sequence  is said to be satisfy a Linear reccurrence of order  if there are fixed complex numbers  <br><br><br> a Fibonacci sequence defined by <br>
 satisfies a LR of order 2<br>We will be mostly interested in k=2<br>
 then   <br>for all <br>Let  be a sequence satisfying <a data-tooltip-position="top" aria-label="^8a8953" data-href="#^8a8953" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8a8953" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">*</a><a data-tooltip-position="top" aria-label="^8a8953" data-href="#^8a8953" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8a8953" class="internal-link mathLink-internal-link" target="_self" rel="noopener">*</a><br>
