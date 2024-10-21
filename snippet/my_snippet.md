@@ -1,6 +1,10 @@
 [
     //custom commands
-
+{
+        trigger: /(inn)([\n\s.,?!:'])/,
+        replacement: "$\\in$[[1]]",
+        options: "rtAw",
+    },
     {
         trigger: /(?<!\\)(\b[0-9a-zA-Z]*[a-zA-Z])(\d+)(\b)/,
         replacement: "[[0]]_{[[1]]}",
@@ -15,7 +19,7 @@
         options: "rmA",
         priority: -100,
     },
-
+	
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },
     { trigger: "sset", replacement: "\\left\\{${0:x}_${1:n} \\right\\}_${2:{n \\in \\NN}} $3", options: "mA" },
     { trigger: "mod", replacement: "\\Mod[${0:X}] $1", options: "mA" },

@@ -667,6 +667,7 @@ tech
 tables
 tEXtSoftware
 tEXtCreation
+ther
 is
 italics
 its
@@ -2090,6 +2091,10 @@ iKXo
 iDI
 icX
 imk
+ixTU
+interior
+interor
+inter
 note
 notes
 number
@@ -3785,6 +3790,9 @@ mncM
 mvbPZ
 mKZz
 memory
+mcG
+maxima
+minima
 check
 cool
 co
@@ -8498,6 +8506,7 @@ gkdpc
 gcqLmcj
 gwT
 gnome
+global
 learn
 let
 like
@@ -9346,6 +9355,7 @@ lWl
 lLKco
 ljFb
 lnsG
+local
 small
 smaller
 same
@@ -13445,6 +13455,7 @@ Early
 Edition
 Euclidean
 Eratosthenes
+Extrimum
 element
 elements
 exactly
@@ -14097,6 +14108,10 @@ eJF
 egm
 esv
 eKqd
+exrtimum
+extrimum
+extremum
+exit
 other
 one
 order
@@ -15679,6 +15694,8 @@ Louis
 Law
 Leonhard
 LLNK
+LEt
+Local
 Multiline
 Mozilla
 ModDate
@@ -16895,6 +16912,9 @@ Method
 Mathematical
 Mat
 Memory
+Maxima
+Minima
+Maximum
 Title
 Theorem
 TH
@@ -18222,6 +18242,7 @@ Farey
 Finite
 Factoring
 Flipping
+FSXT
 Obsidian
 Ordering
 Oo
@@ -21975,6 +21996,7 @@ Greatest
 GSS
 GoO
 GNv
+Global
 Safari
 Skia
 SH
@@ -24822,6 +24844,7 @@ dmnd
 dkq
 ditributed
 dgg
+dbt
 xl
 xD
 xG
@@ -25882,6 +25905,7 @@ xWY
 xwN
 xoM
 xnf
+xyy
 zzr
 zj
 zV
@@ -31934,6 +31958,8 @@ ffc
 fZo
 fZnmiQCU
 formula
+fNO
+forall
 rE
 ra
 ref
@@ -33861,6 +33887,7 @@ Indepented
 IHDR
 IDATx
 IEND
+Interior
 qq
 qk
 qH
@@ -36057,6 +36084,7 @@ JFIF
 JMfb
 Joseph
 JIVz
+JUu
 Registry
 Rkh
 RF
@@ -36881,6 +36909,7 @@ Remainder
 Representations
 Remote
 RVs
+Rolle
 DW
 DSI
 DI
@@ -41318,6 +41347,8 @@ ZZs
 Zbs
 Zeta
 ZZj
+Zpp
+ZMN
 uA
 ui
 uv

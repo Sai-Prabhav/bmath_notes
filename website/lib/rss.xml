@@ -1,22 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Oct 2024 09:22:03 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Oct 2024 09:21:57 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
- <br>Theorem.
-Let  with a,   not both zeros then LDE<br>
-<br>
-has a solution over <br>
-Also if  is a solution af the LDE then every other soution  has the form<br>
-<br>
-<br>
-where  and  
-<br>Proof.<br>
-If LDE has a solution  then clearly<br><br> suppose <br>
-then we can write <br> for some  then <br><br>and <br>
-let  be a given solution<br>
-let  be any other solution then<br><br>then <br>
-<br>□<br><br>Find all solution of<br>
-<br>
-solution we apply the euclidian algorithm to 7 and 19 we can do it<br>method 2<br><br>Let  be the non-zero column and  the zero column<br>
-and value of <br>
-then <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 20 Oct 2024 05:33:42 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Oct 2024 10:46:21 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Oct 2024 10:46:14 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
  is said to be differentiable at  if<br>
 	then we write  
@@ -94,7 +76,52 @@ for ,  <br>take  then<br>
 <br>
 <br>
 □<br>
-It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 09:20:39 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
+It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable <br><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real analyses/10. Local Maxima Minima" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Local Maxima Minima</a><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Local Maxima Minima</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:09:24 GMT</pubDate></item><item><title><![CDATA[10. Local Maxima Minima]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:21-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#21-oct</a> 
+ <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:21-oct" class="tag" target="_blank" rel="noopener nofollow">#21-oct</a><br>Definition (local maxima).
+LEt  be a function then  is said to be a local maximum for  if  there exist  such that<br>
+ 
+<br>Definition (Local minima).
+Let  be a function then  is said to be a local minimum for  if  there exist  such that<br>
+ 
+<br>Definition ( Local Extrimum ).
+   is said to be a local exrtimum if it is either local maxima or minima
+<br>Definition ( Global Maximum).
+Let  be a function then  is said to be a global maximum if<br>
+  
+<br>Definition ( Global minima).
+Let  be a function then  is said to be a global minima if<br>
+  
+<br>Definition (Global Extrimum).
+If   is said to be global extrimum if its either global maximum or minimum 
+<br>Definition (Interior point).
+Let  be an interval then  is said to be interior point if there exist  such that  
+<br>Theorem (Interior extremum).
+Let  be a function suppose  is an interor point of I and is a local extremum. If  is differentiable at  then 
+<br>Proof. <br>Assume that  is a  is a local exrtimum and  is differentiable at c<br>
+assume ther exist   such that <br><br>as  is local maximum  for  there exist   st.<br><br>take   check then <br><br>consider any sequence   ( , )<br>
+converging to  then<br><br> forall   hence <br>complete it<br> □<br>Theorem (Rolle's).
+Let  with  let  be continuous function suppose  and  is differentiable in  Then there exist  such that 
+<br>Proof. <br>case i)  Suppose there exist   (a , )  such that  then   is at some interior point say  and from previous theorem  <br>case ii) suppose  and  for some  then  hence ther exit some  st.  note  <br>case iii)  =0  for all <br>
+then  for all <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html</link><guid isPermaLink="false">real analyses/10. Local Maxima Minima.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:44:37 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
+ <br>Theorem.
+Let  with a,   not both zeros then LDE<br>
+<br>
+has a solution over <br>
+Also if  is a solution af the LDE then every other soution  has the form<br>
+<br>
+<br>
+where  and  
+<br>Proof.<br>
+If LDE has a solution  then clearly<br><br> suppose <br>
+then we can write <br> for some  then <br><br>and <br>
+let  be a given solution<br>
+let  be any other solution then<br><br>then <br>
+<br>□<br><br>Find all solution of<br>
+<br>
+solution we apply the euclidian algorithm to 7 and 19 we can do it<br>method 2<br><br>Let  be the non-zero column and  the zero column<br>
+and value of <br>
+then <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/8.-linear-diophantine-equation.html</link><guid isPermaLink="false">number_theory/8. Linear Diophantine Equation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 20 Oct 2024 05:33:42 GMT</pubDate></item><item><title><![CDATA[3. Binary]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:20-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#20-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:27-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#27-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:30-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#30-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:4-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#4-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:20-sep" class="tag" target="_blank" rel="noopener nofollow">#20-sep</a> <br><br>Definition (Binary Quadratic Form).
 A binary quadratic form (bqf) is a polynomial of the form<br>
  with <br>
