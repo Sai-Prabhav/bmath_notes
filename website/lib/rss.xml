@@ -1,4 +1,150 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Oct 2024 10:46:21 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Oct 2024 10:46:14 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 22 Oct 2024 13:58:22 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 22 Oct 2024 13:57:57 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener nofollow">#24-sep</a><br>
+Rank of a matrix Let  be a  matrix,<br>
+column space of  is the subspace of  spanned by the columns of <br>
+if  are the columns of  and  is in  then,<br>
+column space of <br>So, column space of  is all  such that <br><br>has a solution.<br>In terms of liner transformation defined by the linear matrix <br>
+<br>
+<br>Column rank of  is the dimension of the column space of <br>
+Row rank of  is the dimension of the row space of  <br>Theorem.
+For a  matrix  the row rank is same as the column space of  and is called the rank of  
+<br><br>Let  denote the rank of <br>
+Let us try to find an upper bound for  <br>Theorem.
+Let  and  be matrices with same number of rows<br>
+Then, column space   column space of  iff  for some matrix C
+<br> Let <br>
+Let  columns space of <br>
+Let  column space of <br>
+Conversely assume column space   column space of <br>
+In particular every column of  lies in the column space of  .<br>
+Which implies every column of  can be written as the linear combination of the columns of <br>
+So if  are the column vectors of  then there exist scalars <br>
+<br>
+Let  and <br>Theorem.
+Let  ,  be matrices with same number of columns then the row space of   row space of A iff  for a matrix <br>
+complete it
+<br>Definition (let  be a  matrix  is said to be of full column rank if ).
+ and is said to be full row rank is  
+<br>Lemma.
+if  have full column rank, then  has a left inverse, ie,  a  such that 
+<br> has a full column rank, the columns of  are linear independent <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener nofollow">#26-sep</a><br><br>Theorem.
+Let  be a  matrix. Then the following are equivalent<br>
+i)  has a right inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie,  is a full row rank<br>
+V) column space of A is 
+<br>Proof.<br>
+  ii<br>
+If  has a right inverse such that <br>
+if <br><br>ii) iii)<br>
+clear<br>
+iii) =&gt; iv)<br>let the rows of  be  <br><br><br>by iii) <br>
+ the rows are linear independent<br>
+iv)v)<br>
+<br>
+<br>
+column space of <br>
+But <br>
+<br>
+V)i)<br>Col space of A <br>
+let  be the unit vectors in <br>as columns space  each  is a linear combination of columns in :<br>
+so there exist scalars  such that <br><br>so, <br>
+ <br>Theorem.
+Let  be a  matrix. The following are equvalent<br>
+i)  has a left inverse<br>
+ii) <br>
+iii) <br>
+iv)  ie, A has full column rank<br>
+row space of 
+<br>iii)iv)<br>
+let the columns be <br>
+let  be a linear relation<br><br>iii)  that is <br>iv)  V) <br><br>v) i)<br>
+As row space  each of the basis vectors  of  in a linear combination of the rows of A let the rows be . So, there exist scalars <br>
+Take  and <br>Theorem.
+Let  a square matrix of order A TFAE<br>
+i) A has a right inverse<br>
+ii)<br>
+iii) A has a left inverse<br>
+iv) A has an inverse
+<br>Theorem.
+
+<br>Proof.<br>
+by <a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^8cc1ad</a><a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 3.2</a> <br>
+also by <a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^72e467</a><a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 3.3</a> <br>
+thus <br>
+□<br>Corollary.
+ if  is of full column rank 
+<br>Proof.<br>
+ has a left inverse say  <br><br>ii)  if  is a full row rank<br>
+□<br>Exercise.
+A is a matrix of rank 1 iff  where  and  are column vectors 
+<br>Proof.<br>
+If  then rank  as  and  as <br>Conversely let <br>
+That is, the dimension of column space <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener nofollow">#1-oct</a><br>Let  denote the column space<br>
+ denote row space<br>
+ denote the null space of A<br>Theorem.
+Let  be an  matrix over  and  be a subspace of   is a field let   <br>
+Let  be null space of   then  is a subspace of  and<br>
+Then  
+<br>Proof.<br>
+<br>
+<br>
+<a data-href="Rank Nullity" href="https://sai-prabhav.github.io/bmath_notes/Rank Nullity" class="internal-link" target="_self" rel="noopener nofollow">Rank Nullity</a> for  says that <br>
+□<br>Theorem.
+If  is defined, then<br>
+ 
+<br>Proof.<br>
+<br><br>□<br>Theorem (Sylvester's inequality).
+Let  be matrices of order  and  ,<br>
+then <br>
+the equality holds iff  
+<br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 08:13:46 GMT</pubDate></item><item><title><![CDATA[9. LU decomposition]]></title><description><![CDATA[ 
+ <br>new command for <br>Let A be a  matrix we want to decompose A into a lover triangle matrix  with diagonal entries 1 and a upper triangle matrix  , ie  <br>A row echelon is matrix is such that the<br>
+<br>all non-zero rows are at the bottom  
+<br>the first non-zero elements of a row  it to the left of the first non-zero elements of row i+1 at the bottom<br>
+Let A be a nxn matrix so that A can be reduced to a row echelon form by only using the row operation adding a row with a scalar multiplier of another row ie. A can be reduced to row echelon form by multiplying A from the left by elementary matrices of type I ie,   
+<br><br>
+<br> is a lower triangle matrix and product of them is a lower triangle matrix with diagonal 1<br>Theorem.
+For  matrix A which can be reduced to row echelon form without interchanging the row then there exit a lower triangle matrix   with diagonal entries and an  matrix  such that  
+<br> Let A be a  matrix such that A can be reduced to row echelon form, without row interchanges so there exist a  lower triangular and  such that <br>
+so,  let  we solve  <br>Let  be a solution then we solve for  <br>Suppose A is a square matrix and A admits a LU decomposition  has all diagonal entries 1<br>Let  then we mutliply the ith row of  by  and produce an upper triangle matrix  with dioganal entries 1<br>
+we create nxxn diagonal matrix  with  <br><br>hence  where <br>
+<br> is lower triangular with dioganal entries 1
+<br> is upper triangular with diagonal entries 1
+<br> is diagonal matrix with diagonals entries non-zero
+<br>invertible matrices admit a LU decomposition if all its leading principal minor are non-zero<br>
+A singular matrix of rank  admits a LU decompsition if the first  leading principal minors are non-zero <br>If a is a  matrix such that we need to use a row interchange to bring it to its row echelon form then we multiply A by a suitable permutation matrix  from left so that PA (which has a rearrangement of the rows of A) uses no row interchange to get its row echelon form and then  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/9.-lu-decomposition.html</link><guid isPermaLink="false">linear algebra/9. LU decomposition.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 04:56:31 GMT</pubDate></item><item><title><![CDATA[10. Local Maxima Minima]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:21-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#21-oct</a> 
+ <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:21-oct" class="tag" target="_blank" rel="noopener nofollow">#21-oct</a><br>Definition (local maxima).
+LEt  be a function then  is said to be a local maximum for  if  there exist  such that<br>
+ 
+<br>Definition (Local minima).
+Let  be a function then  is said to be a local minimum for  if  there exist  such that<br>
+ 
+<br>Definition ( Local Extrimum ).
+   is said to be a local exrtimum if it is either local maxima or minima
+<br>Definition ( Global Maximum).
+Let  be a function then  is said to be a global maximum if<br>
+  
+<br>Definition ( Global minima).
+Let  be a function then  is said to be a global minima if<br>
+  
+<br>Definition (Global Extrimum).
+If   is said to be global extrimum if its either global maximum or minimum 
+<br>Definition (Interior point).
+Let  be an interval then  is said to be interior point if there exist  such that  
+<br>Theorem (Interior extremum).
+Let  be a function suppose  is an interor point of I and is a local extremum. If  is differentiable at  then 
+<br>Proof. <br>Assume that  is a  is a local exrtimum and  is differentiable at c<br>
+assume ther exist   such that <br><br>as  is local maximum  for  there exist   st.<br><br>take   check then <br><br>consider any sequence   ( , )<br>
+converging to  then<br><br> forall   hence <br>complete it<br> □<br>Theorem (Rolle's).
+Let  with  let  be continuous function suppose  and  is differentiable in  Then there exist  such that 
+<br>Proof. <br>case i)  Suppose there exist   (a , )  such that  then   is at some interior point say  and from previous theorem  <br>case ii) suppose  and  for some  then  hence ther exit some  st.  note  <br>case iii)  =0  for all <br>
+then  for all <br>
+□<br>Theorem ( Mean Value theorem ).
+Let   with  let  be a continuous function, diffrentiable in  then there exist  such that<br>
+
+<br>Proof. <br><br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html</link><guid isPermaLink="false">real analyses/10. Local Maxima Minima.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:53:04 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
  is said to be differentiable at  if<br>
 	then we write  
@@ -76,34 +222,7 @@ for ,  <br>take  then<br>
 <br>
 <br>
 □<br>
-It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable <br><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real analyses/10. Local Maxima Minima" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Local Maxima Minima</a><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Local Maxima Minima</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:09:24 GMT</pubDate></item><item><title><![CDATA[10. Local Maxima Minima]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:21-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#21-oct</a> 
- <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:21-oct" class="tag" target="_blank" rel="noopener nofollow">#21-oct</a><br>Definition (local maxima).
-LEt  be a function then  is said to be a local maximum for  if  there exist  such that<br>
- 
-<br>Definition (Local minima).
-Let  be a function then  is said to be a local minimum for  if  there exist  such that<br>
- 
-<br>Definition ( Local Extrimum ).
-   is said to be a local exrtimum if it is either local maxima or minima
-<br>Definition ( Global Maximum).
-Let  be a function then  is said to be a global maximum if<br>
-  
-<br>Definition ( Global minima).
-Let  be a function then  is said to be a global minima if<br>
-  
-<br>Definition (Global Extrimum).
-If   is said to be global extrimum if its either global maximum or minimum 
-<br>Definition (Interior point).
-Let  be an interval then  is said to be interior point if there exist  such that  
-<br>Theorem (Interior extremum).
-Let  be a function suppose  is an interor point of I and is a local extremum. If  is differentiable at  then 
-<br>Proof. <br>Assume that  is a  is a local exrtimum and  is differentiable at c<br>
-assume ther exist   such that <br><br>as  is local maximum  for  there exist   st.<br><br>take   check then <br><br>consider any sequence   ( , )<br>
-converging to  then<br><br> forall   hence <br>complete it<br> □<br>Theorem (Rolle's).
-Let  with  let  be continuous function suppose  and  is differentiable in  Then there exist  such that 
-<br>Proof. <br>case i)  Suppose there exist   (a , )  such that  then   is at some interior point say  and from previous theorem  <br>case ii) suppose  and  for some  then  hence ther exit some  st.  note  <br>case iii)  =0  for all <br>
-then  for all <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html</link><guid isPermaLink="false">real analyses/10. Local Maxima Minima.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:44:37 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
+It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable <br><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real analyses/10. Local Maxima Minima" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Local Maxima Minima</a><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Local Maxima Minima</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:09:24 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
  <br>Theorem.
 Let  with a,   not both zeros then LDE<br>
 <br>
@@ -1311,108 +1430,7 @@ An infinite subset  of  is said to be a basis iff  and  is linearly independent
 <br><br>If  is the sequence <br>
 If  is the sequence Infinite<br>
 and so on<br>
- is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5th example</a><a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5th example</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:39 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Rank of a matrix Let  be a  matrix,<br>
-column space of  is the subspace of  spanned by the columns of <br>
-if  are the columns of  and  is in  then,<br>
-column space of <br>so, column space of  is all  such that <br><br>has a solution.<br>In terms of liner transformation defined by the linear matrix <br>
-<br>
-<br>Column rank of  is the dimension of the column space of <br>
-Row rank of  is the dimension of the row space of  <br>Theorem.
-For a  matrix  the row rank is same as the column space of  and is called the rank of  
-<br><br>Let  denote the rank of <br>
-Let us try to find an upper bound for  <br>Theorem.
-Let  and  be matrices with same number of rows<br>
-Then, column space   column space of  iff  for some matrix C
-<br> Let <br>
-Let  columns space of <br>
-Let  column space of <br>
-Conversely assume column space   column space of <br>
-In particular every column of  lies in the column space of  .<br>
-Which implies every column of  can be written as the linear combination of the columns of <br>
-So if  are the column vectors of  then there exist scalars <br>
-<br>
-Let  and <br>Theorem.
-Let  ,  be matrices with same number of columns then the row space of   row space of A iff  for a matrix <br>
-complete it
-<br>Definition (let  be a  matrix  is said to be of full column rank if ).
- and is said to be full row rank is  
-<br>Lemma.
-if  have full column rank, then  has a left inverse, ie,  a  such that 
-<br> has a full column rank, the columns of  are linear independent <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a><br><br>Theorem.
-Let  be a  matrix. Then the following are equivalent<br>
-i)  has a right inverse<br>
-ii) <br>
-iii) <br>
-iv)  ie,  is a full row rank<br>
-V) column space of A is 
-<br>Proof.<br>
-  ii<br>
-If  has a right inverse such that <br>
-if <br><br>ii) iii)<br>
-clear<br>
-iii) =&gt; iv)<br>let the rows of  be  <br><br><br>by iii) <br>
- the rows are linear independent<br>
-iv)v)<br>
-<br>
-<br>
-column space of <br>
-But <br>
-<br>
-V)i)<br>Col space of A <br>
-let  be the unit vectors in <br>as columns space  each  is a linear combination of columns in :<br>
-so there exist scalars  such that <br><br>so, <br>
- <br>Theorem.
-Let  be a  matrix. The following are equvalent<br>
-i)  has a left inverse<br>
-ii) <br>
-iii) <br>
-iv)  ie, A has full column rank<br>
-row space of 
-<br>iii)iv)<br>
-let the columns be <br>
-let  be a linear relation<br><br>iii)  that is <br>iv)  V) <br><br>v) i)<br>
-As row space  each of the basis vectors  of  in a linear combination of the rows of A let the rows be . So, there exist scalars <br>
-Take  and <br>Theorem.
-Let  a square matrix of order A TFAE<br>
-i) A has a right inverse<br>
-ii)<br>
-iii) A has a left inverse<br>
-iv) A has an inverse
-<br>Theorem.
-
-<br>Proof.<br>
-by <a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^8cc1ad</a><a data-href="#^8cc1ad" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^8cc1ad" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.2</a> <br>
-also by <a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^72e467</a><a data-href="#^72e467" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^72e467" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 3.3</a> <br>
-thus <br>
-□<br>Corollary.
- if  is of full column rank 
-<br>Proof.<br>
- has a left inverse say  <br><br>ii)  if  is a full row rank<br>
-□<br>Exercise.
-A is a matrix of rank 1 iff  where  and  are column vectors 
-<br>Proof.<br>
-If  then rank  as  and  as <br>Conversely let <br>
-That is, the dimension of column space <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a><br>Let  denote the column space<br>
- denote row space<br>
- denote the null space of A<br>Theorem.
-Let  be an  matrix over  and  be a subspace of   is a field let   <br>
-Let  be null space of   then  is a subspace of  and<br>
-Then  
-<br>Proof.<br>
-<br>
-<br>
-<a data-href="Rank Nullity" href="https://sai-prabhav.github.io/bmath_notes/Rank Nullity" class="internal-link" target="_self" rel="noopener">Rank Nullity</a> for  says that <br>
-□<br>Theorem.
-If  is defined, then<br>
- 
-<br>Proof.<br>
-<br><br>□<br>Theorem (Sylvester's inequality).
-Let  be matrices of order  and  ,<br>
-then <br>
-the equality holds iff  
-<br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:59:35 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ is the sequence  where  in  place <br>The infinite set  will be the basis of infinite space in <a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/1. Infinite Dimensional Vector Spaces#^8a560a" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">5th example</a><a data-tooltip-position="top" aria-label="1. Infinite Dimensional Vector Spaces > ^8a560a" data-href="1. Infinite Dimensional Vector Spaces#^8a560a" href="https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html#^8a560a" class="internal-link mathLink-internal-link" target="_self" rel="noopener">5th example</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/1.-infinite-dimensional-vector-spaces.html</link><guid isPermaLink="false">linear algebra/1. Infinite Dimensional Vector Spaces.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:14:39 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener">#25-sep</a><br>
 <br>
 Let  be the linear transformation 
