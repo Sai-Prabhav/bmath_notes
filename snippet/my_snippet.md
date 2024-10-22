@@ -6,6 +6,11 @@
         options: "rtAw",
     },
     {
+        trigger: /([A-Za-z])x([A-Za-z])([\n\s.,?!:'])/,
+        replacement: "$[[0]] \\times [[1]]$ [[2]]",
+        options: "rtAw",
+    },
+    {
         trigger: /(RR)([\n\s.,?!:'])/,
         replacement: "$\\\RR$[[1]]",
         options: "rtAw",
