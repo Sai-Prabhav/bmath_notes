@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1f01c80a2e0728",
+        "id": "59d019ea72f42433",
         "type": "tabs",
         "children": [
           {
-            "id": "a67d8eda94c2b684",
+            "id": "0ab63263c369cf2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/9. LU decomposition.md",
+                "file": "linear algebra/7. Generalised Inverse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. LU decomposition"
-            }
-          },
-          {
-            "id": "b9a214e52867022b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All Queries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "All Queries"
-            }
-          },
-          {
-            "id": "8425aa5da6624043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippet/my_snippet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "my_snippet"
+              "title": "7. Generalised Inverse"
             }
           }
         ]
@@ -194,17 +166,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8b5c15c37ed83e0",
+  "active": "0ab63263c369cf2e",
   "lastOpenFiles": [
-    "linear algebra/8. Hermite conical form.md",
-    "All Queries.md",
-    "question.md",
+    "linear algebra/5. Projector.md",
+    "linear algebra/6. Question.md",
+    "linear algebra/4. Rank Factorization of Matrix.md",
+    "linear algebra/3. Rank.md",
+    "Custom Commands.md",
     "linear algebra/9. LU decomposition.md",
     "snippet/my_snippet.md",
+    "All Queries.md",
+    "linear algebra/8. Hermite conical form.md",
+    "question.md",
     "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "number_theory/1. Pigeonhole Principle.md",
     "real analyses/10. Local Maxima Minima.md",
-    "Custom Commands.md",
     "real analyses/9. Differentiation.md",
     "snippet/old_snippet.md",
     "Pasted image 20241019224117.png",
@@ -221,14 +197,10 @@
     "website/probability/10.-stirling's-formula.html",
     "website/probability/9.-common-densities.html",
     "Probability/9. Common densities.md",
-    "number_theory/3. Binary.md",
     "Pasted image 20241019115547.png",
     "Probability/sheldon_ross.pdf",
     "Pasted image 20241019115554.png",
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
-    "linear algebra/7. Generalised Inverse.md",
-    "number_theory/2. Sum of Two Squares.md",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
     "website/real-analyses/9.-differentiation.html",
     "website/number_theory/9.-linear-recurrences.html",

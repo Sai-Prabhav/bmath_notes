@@ -24,3 +24,5 @@ diFf
 diffrent
 diffrentiatable
 satisfy
+\le
+dioganal

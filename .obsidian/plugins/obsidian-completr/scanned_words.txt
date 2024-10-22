@@ -668,6 +668,7 @@ tables
 tEXtSoftware
 tEXtCreation
 ther
+triangular
 is
 italics
 its
@@ -2095,6 +2096,8 @@ ixTU
 interior
 interor
 inter
+interchanging
+interchanges
 note
 notes
 number
@@ -2671,6 +2674,7 @@ nOZ
 njvm
 notation
 normal
+nxxn
 made
 make
 may
@@ -3795,6 +3799,10 @@ maxima
 minima
 multiplier
 multiplying
+mutliply
+minor
+minors
+multiply
 check
 cool
 co
@@ -4433,6 +4441,7 @@ ccx
 cly
 ccOh
 choosing
+create
 how
 hello
 hi
@@ -7487,6 +7496,7 @@ acspMSFT
 aOa
 aQsC
 aCq
+admit
 bold
 bye
 bigest
@@ -7984,6 +7994,7 @@ bius
 bbb
 bbJf
 bottom
+bring
 great
 gather
 ggr
@@ -9360,6 +9371,7 @@ ljFb
 lnsG
 local
 lover
+leading
 small
 smaller
 same
@@ -11767,6 +11779,7 @@ pNA
 pdmdd
 psA
 pZe
+produce
 Claim
 Creator
 Chrome
@@ -24693,7 +24706,6 @@ dBU
 dpn
 determine
 dependent
-dioganal
 diagonal
 differentiable
 dividing
@@ -24853,6 +24865,9 @@ ditributed
 dgg
 dbt
 decompose
+decomposition
+diagonals
+decompsition
 xl
 xD
 xG
@@ -32707,6 +32722,7 @@ rNOx
 ram
 rQEZ
 rcH
+rearrangement
 ID
 Io
 Ie
@@ -42313,6 +42329,7 @@ ubk
 urlTEXT
 uWYK
 undff
+uses
 Wi
 WO
 Widths
