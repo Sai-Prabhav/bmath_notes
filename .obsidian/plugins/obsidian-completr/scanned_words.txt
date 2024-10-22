@@ -3793,6 +3793,8 @@ memory
 mcG
 maxima
 minima
+multiplier
+multiplying
 check
 cool
 co
@@ -7981,6 +7983,7 @@ bQQ
 bius
 bbb
 bbJf
+bottom
 great
 gather
 ggr
@@ -9356,6 +9359,7 @@ lLKco
 ljFb
 lnsG
 local
+lover
 small
 smaller
 same
@@ -10032,6 +10036,7 @@ sZu
 sEU
 sBIT
 screenshot
+scalar
 Proof
 PDF
 Producer
@@ -14112,6 +14117,7 @@ exrtimum
 extrimum
 extremum
 exit
+echelon
 other
 one
 order
@@ -16915,6 +16921,7 @@ Memory
 Maxima
 Minima
 Maximum
+Mean
 Title
 Theorem
 TH
@@ -24845,6 +24852,7 @@ dkq
 ditributed
 dgg
 dbt
+decompose
 xl
 xD
 xG

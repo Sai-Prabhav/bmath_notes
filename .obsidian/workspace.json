@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real analyses/10. Local Maxima Minima.md",
+                "file": "linear algebra/9. LU decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Local Maxima Minima"
+              "title": "9. LU decomposition"
             }
           },
           {
-            "id": "974ec25666357f55",
+            "id": "b9a214e52867022b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question.md",
+                "file": "All Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "question"
+              "title": "All Queries"
             }
           },
           {
@@ -194,54 +194,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "5dc56aa5a133a353",
-    "type": "floating",
-    "children": [
-      {
-        "id": "99778ffcdc50795c",
-        "type": "window",
-        "children": [
-          {
-            "id": "6a9bcd24b69e5a07",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc210ca129291e1d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "real analyses/10. Local Maxima Minima.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "10. Local Maxima Minima"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fc210ca129291e1d",
+  "active": "b8b5c15c37ed83e0",
   "lastOpenFiles": [
-    "real analyses/9. Differentiation.md",
-    "real analyses/10. Local Maxima Minima.md",
-    "snippet/my_snippet.md",
+    "linear algebra/8. Hermite conical form.md",
+    "All Queries.md",
     "question.md",
-    "snippet/old_snippet.md",
+    "linear algebra/9. LU decomposition.md",
+    "snippet/my_snippet.md",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "number_theory/1. Pigeonhole Principle.md",
+    "real analyses/10. Local Maxima Minima.md",
     "Custom Commands.md",
+    "real analyses/9. Differentiation.md",
+    "snippet/old_snippet.md",
     "Pasted image 20241019224117.png",
     "number_theory/8. Linear Diophantine Equation.md",
     "real analyses/7. Uniform Continuous.md",
@@ -262,17 +227,13 @@
     "Pasted image 20241019115554.png",
     "Probability/8. Expectation and Variance of Continuous Random Variables.md",
     "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
-    "linear algebra/8. Hermite conical form.md",
     "linear algebra/7. Generalised Inverse.md",
     "number_theory/2. Sum of Two Squares.md",
-    "real analyses/bolzano-Weierstrass theorem.md",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
     "website/real-analyses/9.-differentiation.html",
     "website/number_theory/9.-linear-recurrences.html",
     "website/number_theory/8.-linear-diophantine-equation.html",
     "website/linear-algebra/8.-hermite-conical-form.html",
-    "real analyses/4. Continuity of Functions.md",
-    "Probability/7. Continuous Random Variable.md",
     "Untitled",
     "Untitled.canvas",
     "html_files/lib/media/favicon.png",
