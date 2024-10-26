@@ -1,6 +1,7 @@
 [
+
     //custom commands
-{
+    {
         trigger: /(inn)([\n\s.,?!:'])/,
         replacement: "$\\in$[[1]]",
         options: "rtAw",
@@ -12,7 +13,7 @@
     },
     {
         trigger: /(RR)([\n\s.,?!:'])/,
-        replacement: "$\\\RR$[[1]]",
+        replacement: "$\\RR$[[1]]",
         options: "rtAw",
     },
     {
@@ -23,9 +24,12 @@
         priority: -1,
     },
     
-	
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },
-    { trigger: "sset", replacement: "\\left\\{${0:x}_${1:n} \\right\\}_${2:{n \\in \\NN}} $3", options: "mA" },
+    {
+        trigger: "sset",
+        replacement: "\\left\\{${0:x}_${1:n} \\right\\}_${2:{n \\in \\NN}} $3",
+        options: "mA",
+    },
     { trigger: "mod", replacement: "\\Mod[${0:X}] $1", options: "mA" },
     { trigger: "var", replacement: "\\var[${0:X}] $1", options: "mA" },
     { trigger: "cov", replacement: "\\cov{${0:X}}{${1:X}} $2", options: "mA" },
@@ -42,20 +46,22 @@
     { trigger: "BB", replacement: "\\mathcal{B}", options: "mA" },
 
     { trigger: "cal", replacement: "\\mathcal{$0} $1", options: "mA" },
-		
 
     { trigger: "pm", replacement: "\\pmod{${0:p}} $1", options: "mA" },
 
     //visual operators
     { trigger: "H", replacement: "\\Huge{ ${VISUAL} }", options: "mA" },
-    { trigger: "P", replacement: "`\\begin{proof}` ${VISUAL} `\\end{proof}`", options: "t" },
+    {
+        trigger: "P",
+        replacement: "`\\begin{proof}` ${VISUAL} `\\end{proof}`",
+        options: "t",
+    },
     { trigger: "L", replacement: "\\Large{ ${VISUAL} }", options: "mA" },
     { trigger: "T", replacement: "\\tiny{ ${VISUAL} }", options: "mA" },
-	// Colors
+    // Colors
     { trigger: "r", replacement: "{\\color{red} ${VISUAL} }", options: "mA" },
     { trigger: "g", replacement: "{\\color{green} ${VISUAL} }", options: "mA" },
     { trigger: "b", replacement: "{\\color{blue} ${VISUAL} }", options: "mA" },
-	
 
     // Automatically convert text of the form "x=2" and "x=n+1" to math.
     {
