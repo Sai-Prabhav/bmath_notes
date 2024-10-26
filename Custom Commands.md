@@ -1,6 +1,5 @@
 
 
-
 $$
 
  
@@ -16,11 +15,13 @@ $$
    \newcommand{\nsp}[1]{\mathcal{N}\left( #1 \right)} 
    \newcommand{\Mod}[1][X]{\left| #1 \right|} 
    \newcommand{\res}[2][f]{\left. #1\right| _{#2}} 
+   
    \newcommand{\NN}{\mathbb{N }} 
    \newcommand{\RR}{\mathbb{R }} 
    \newcommand{\CC}{\mathbb{C }} 
    \newcommand{\ZZ}{\mathbb{Z }} 
    \newcommand{\re}{\mathrm{Re}} 
+   \newcommand{\fa}{ \ \forall \ } 
    \newcommand{\im}{\mathrm{Im}} 
    \newcommand{\where}{\text{ where }} 
    \newcommand{\disc}{\text{disc }} 
@@ -32,12 +33,14 @@ $$
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
    \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}
-  \Large{  \st \peq }
+
 $$
+
+
+
+
+
 ```latex
-
-
- 
    \newcommand{\Huge}[1]{\mbox{\Huge $#1$}}
    \newcommand{\Large}[1]{\mbox{\LARGE $#1$}}
    \newcommand{\tiny}[1]{\mbox{\tiny $#1$}}
@@ -50,11 +53,14 @@ $$
    \newcommand{\nsp}[1]{\mathcal{N}\left( #1 \right)} 
    \newcommand{\Mod}[1][X]{\left| #1 \right|} 
    \newcommand{\res}[2][f]{\left. #1\right| _{#2}} 
+   \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}
+   
    \newcommand{\NN}{\mathbb{N }} 
    \newcommand{\RR}{\mathbb{R }} 
    \newcommand{\CC}{\mathbb{C }} 
    \newcommand{\ZZ}{\mathbb{Z }} 
    \newcommand{\re}{\mathrm{Re}} 
+   \newcommand{\fa}{ \ \forall \ } 
    \newcommand{\im}{\mathrm{Im}} 
    \newcommand{\where}{\text{ where }} 
    \newcommand{\disc}{\text{disc }} 
@@ -65,8 +71,6 @@ $$
    \newcommand{\let}{\text{ let }}
    \newcommand{\then}{\text{ then }}
    \newcommand{\st}{\text{ such that }}
-   \newcommand\peq{\stackrel{\mathclap{\tiny{ + }}}{\sim}}
-  \Large{  \st \peq }
 
 ```
 

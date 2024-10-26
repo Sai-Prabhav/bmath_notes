@@ -22,13 +22,7 @@
         description: "Auto letter subscript",
         priority: -1,
     },
-    {
-        trigger:
-            /([^\\])(exp|log|ln|NN|RR|CC|ZZ|where|disc|mat|if|or|so|then|st|re|im)/,
-        replacement: "[[0]]\\[[1]]",
-        options: "rmA",
-        priority: -100,
-    },
+    
 	
     { trigger: "Ex", replacement: "\\ex[${0:X}] $1", options: "mA" },
     { trigger: "sset", replacement: "\\left\\{${0:x}_${1:n} \\right\\}_${2:{n \\in \\NN}} $3", options: "mA" },
@@ -44,11 +38,9 @@
     { trigger: "-RR", replacement: "\\RR^{-}", options: "mA" },
     { trigger: "+ZZ", replacement: "\\ZZ^{+}", options: "mA" },
     { trigger: "-ZZ", replacement: "\\ZZ^{-}", options: "mA" },
-    { trigger: "NN", replacement: "\\NN", options: "mA" },
-    { trigger: "CC", replacement: "\\CC", options: "mA" },
-    { trigger: "RR", replacement: "\\RR", options: "mA" },
+
     { trigger: "BB", replacement: "\\mathcal{B}", options: "mA" },
-    { trigger: "ZZ", replacement: "\\ZZ", options: "mA" },
+
     { trigger: "cal", replacement: "\\mathcal{$0} $1", options: "mA" },
 		
 
@@ -59,7 +51,11 @@
     { trigger: "P", replacement: "`\\begin{proof}` ${VISUAL} `\\end{proof}`", options: "t" },
     { trigger: "L", replacement: "\\Large{ ${VISUAL} }", options: "mA" },
     { trigger: "T", replacement: "\\tiny{ ${VISUAL} }", options: "mA" },
-
+	// Colors
+    { trigger: "r", replacement: "{\\color{red} ${VISUAL} }", options: "mA" },
+    { trigger: "g", replacement: "{\\color{green} ${VISUAL} }", options: "mA" },
+    { trigger: "b", replacement: "{\\color{blue} ${VISUAL} }", options: "mA" },
+	
 
     // Automatically convert text of the form "x=2" and "x=n+1" to math.
     {

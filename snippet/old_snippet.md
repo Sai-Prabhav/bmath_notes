@@ -246,8 +246,9 @@
 
     { trigger: "and", replacement: "\\cap", options: "mA" },
     { trigger: "band", replacement: "\\bigcap_{$0}^{$1}", options: "mA" },
-    { trigger: "orr", replacement: "\\cup", options: "mA" },
-    { trigger: "borr", replacement: "\\bigcup_{$0}^{$1}", options: "mA" },
+    { trigger: "b\\orr", replacement: "\\bigcup_{$0}^{$1}", priority: 20, options: "mA" },
+    { trigger: "\\orr", replacement: "\\cup", priority: 10, options: "mA" },
+    
 
     { trigger: "inn", replacement: "\\in", options: "mA" },
     { trigger: "notin", replacement: "\\not\\in", options: "mA" },
