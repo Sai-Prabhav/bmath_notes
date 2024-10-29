@@ -1,4 +1,489 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 22 Oct 2024 13:58:22 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 22 Oct 2024 13:57:57 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 29 Oct 2024 03:53:15 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 29 Oct 2024 03:52:49 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[9. LU decomposition]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:oct-28" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#oct-28</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:oct-28" class="tag" target="_blank" rel="noopener nofollow">#oct-28</a><br>Let A be a  matrix we want to decompose A into a lover triangle matrix  with diagonal entries 1 and a upper triangle matrix  , ie  <br>A row echelon is matrix is such that the<br>
+<br>all non-zero rows are at the bottom  
+<br>the first non-zero elements of a row  it to the left of the first non-zero elements of row i+1 at the bottom<br>
+Let A be a nxn matrix so that A can be reduced to a row echelon form by only using the row operation adding a row with a scalar multiplier of another row ie. A can be reduced to row echelon form by multiplying A from the left by elementary matrices of type I ie,   
+<br><br>
+<br> is a lower triangle matrix and product of them is a lower triangle matrix with diagonal 1<br>Theorem.
+For  matrix A which can be reduced to row echelon form without interchanging the row then there exit a lower triangle matrix   with diagonal entries and an  matrix  such that  
+<br> Let A be a  matrix such that A can be reduced to row echelon form, without row interchanges so there exist a  lower triangular and  such that <br>
+so,  let  we solve  <br>Let  be a solution then we solve for  <br>Suppose A is a square matrix and A admits a LU decomposition  has all diagonal entries 1<br>Let  then we mutliply the ith row of  by  and produce an upper triangle matrix  with dioganal entries 1<br>
+we create nxxn diagonal matrix  with  <br><br>hence  where <br>
+<br> is lower triangular with dioganal entries 1
+<br> is upper triangular with diagonal entries 1
+<br> is diagonal matrix with diagonals entries non-zero
+<br>invertible matrices admit a LU decomposition if all its leading principal minor are non-zero<br>
+A singular matrix of rank  admits a LU decompsition if the first  leading principal minors are non-zero <br>If a is a  matrix such that we need to use a row interchange to bring it to its row echelon form then we multiply A by a suitable permutation matrix  from left so that PA (which has a rearrangement of the rows of A) uses no row interchange to get its row echelon form and then  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/9.-lu-decomposition.html</link><guid isPermaLink="false">linear algebra/9. LU decomposition.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 14:01:42 GMT</pubDate></item><item><title><![CDATA[8. Expectation and Variance of Continuous Random Variables]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-Oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-Oct</a> 
+ <br><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">sheldon_ross, page 188</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">sheldon_ross, page 188</a><br>Definition.
+Expectation of <a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/Probability/7. Continuous Random Variable" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Continuous Random Variable</a><a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Continuous Random Variable</a> 
+<br><br><br>
+<br> a RV with pdf
+
+
+<br><br>If <br><br><br>we can check <br><br>Now the expectation <br><br>Lemma.
+For non-negative RV The expected value of  is  
+<br>Proof.<br>
+Assume  has density  <br><br> □<br>Proposition ( <a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=189" data-href="Probability/sheldon_ross.pdf#page=189" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=189" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">prop 2.1</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=189" data-href="Probability/sheldon_ross.pdf#page=189" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=189" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">prop 2.1</a>).
+ be a RV pdf  and let  then,<br>
+
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-Oct" class="tag" target="_blank" rel="noopener nofollow">#15-Oct</a><br>Proof. <br><br> □<br><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=190" data-href="Probability/sheldon_ross.pdf#page=190" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=190" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Lemma 2.1</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=190" data-href="Probability/sheldon_ross.pdf#page=190" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=190" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Lemma 2.1</a><br>Using this to prove the previous example<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/8.-expectation-and-variance-of-continuous-random-variables.html</link><guid isPermaLink="false">Probability/8. Expectation and Variance of Continuous Random Variables.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sun, 27 Oct 2024 16:57:39 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener nofollow">#23-sep</a><br>Definition.
+Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
+
+<br>Example 1.
+ some non-empty subset of  fix <br>
+we can show  is continuous function with the above definition
+<br>Example 2 (Identity Function).
+Suppose  is a non empty subset of  
+<br><br>Consider any <br>
+now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
+let <br>
+consider  defined by 
+<br>Consider <br>
+we need to estimate <br><br>Take  Then for <br><br>Example 4.
+let <br>
+show that  is continuous
+<br>Fix  <br><br>if  then <br>
+Take <br>
+Then for  then  <br>complete the exercise<br>Theorem.
+Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
+<br> Proof.<br>
+Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
+for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">(4.1)</a><br>
+so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
+so for  take  then <br>
+such that <br><br>As  do not converge to <br>□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener nofollow">#24-sep</a><br>
+Suppose  and   does that mean  converge?<br>
+No, let  and  <br>Definition (continuity at a point  version).
+Let A be a non empty subset of  let  be a function .<br>
+Fix  then  is said to be continuous at  if for every  such that
+<br><br><br>Definition.
+Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
+ 
+<br>Corollary.
+suppose  is an isolated point in  . Then any function  is continuous at  
+<br><br>Definition (Continuity of function).
+Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
+<br>Theorem.
+Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
+then  is defined by <br>
+is also continuous at c
+<br>Proof.<br>
+for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
+so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener nofollow">#26-sep</a> <br>Theorem.
+Let A be a non-empty subset of  and let  suppose  are functions continuous at c
+
+<br>For  defined by m is continuous at  
+<br> defined by  is continuous at c
+<br>if  then  defined by  is continuous at c
+
+<br>Proof.<br>
+(using sequential version of continuity.)<br>
+<br>Take  we want to show that  is continuous at  .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to 
+<br><br>
+<br>
+Take  we want to show that  is continuous at .<br>
+suppose  is a sequence in A converging to  we wan tho show that  converges to 
+
+
+<br>
+Take  we want to show that  is continuous at .<br>
+Suppose  is a sequence in A converging to  we wan tho show that  converges to  and  for all  in  then
+
+□
+
+<br>Example.
+Suppose  then the polynomial  defined by  is continuous
+<br>If you can't prove it leave ISI<br>Theorem.
+Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
+<br>Proof.<br>
+for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
+ is known as the restriction of  to  and is denoted by  
+<br>Corollary.
+If  is a non-empty subset of  and  is a polynomial then  is continuous<br>
+suppose  is another polynomial, with <br>
+then  defined by<br>
+ is continuous 
+<br>Theorem.
+Let A  be non empty subset of <br>
+suppose  and  be functions<br>
+Assume  suppose for some   is continuous at   is continuous at <br>
+then  defined by<br>
+ is continuous at 
+<br>Proof.<br>
+suppose  is a sequence in A converging to .<br>
+We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
+□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener nofollow">#1-oct</a> <br>Definition.
+Let A be a non-empty subset of  and let  be a function then  is said to be bounded above if there exist <br>
+similarly  is said to be bounded below if there exist  such that <br>
+it is said to be bounded if there exist  such that<br>
+ let  be bounded above then  is called the supreimum of <br>
+it is said to be a maximum if there exist  such that  
+suppose  is bounded below<br>
+ is called the infimum of <br>
+it is said to be a minimum if the infimum is attained, that is there exist    .  . 
+<br>Theorem.
+Let  with  let   be a continuous function then  is bounded<br>
+moreover  attains its supremum and infimum in  
+<br>Proof.<br>
+suppose  is not bounded<br>
+then for any natural number  ,  is not a upper bound<br>
+this means that there exist  such that  <br>as  is bounded by <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">bolzano-Weierstrass theorem</a> it has a convergent sequence <br>
+Take  then <br>
+then by continuity of   is convergent in particular it is bounded but we have<br>
+<br>
+so it cant be bounded this is a contradiction<br>take <br>
+For  is not upper bound for  so there exist  such that <br><br>once again by <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">bolzano-Weierstrass theorem</a>  has a convergent sequence say  converging to some <br>
+thus <br>
+as  tends to  by squeeze theorem  is convergent and converges for  as  is continuous at  <br>
+□<br>
+<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:3-oct" class="tag" target="_blank" rel="noopener nofollow">#3-oct</a><br>Theorem (Location of roots ).
+Let  with . Let  be a continuous function. Suppose  then there exist a  can also be called as 'root'
+<br>Proof. 1<br>
+We will use nested intervals property of <br>
+take  and  and <br>consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+take <br>Note that  and <br>
+repeat the process consider <br>
+if  we are done<br>
+else if  take <br>
+else if  take <br>
+we continue so on<br>
+if it terminates we have a <br>If it doesn't terminated we have sequence of nested interval<br><br>by nested interval property <br>
+the length of <br>
+thus the  is a singleton say <br>
+then <br>Claim.
+
+<br><br><br>For every every <br>
+By continuous of   hence <br>
+similarly, for every <br>
+by continuity of  at  <br>
+so, <br>
+Hence <br>□<br>
+Proof. 2<br>consider <br><br>  is non empty as <br>
+ is bounded by <br>
+by the limit upper bound property  has a supremum<br>
+Take <br>Claim.
+
+<br>for  consider .<br>
+As  is not a supremum of  there exist <br>
+such that <br><br>So  <br>
+Hence <br>
+in particular <br>
+Now consider <br>
+note for any <br>
+let  <br><br>as  <br>
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 05:39:29 GMT</pubDate></item><item><title><![CDATA[5. Intermediate Value Theorem]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:8-oct" class="tag" target="_blank" rel="noopener nofollow">#8-oct</a><br>Theorem (Intermediate Value theorem).
+Let  with  let  be a continuous function. Suppose<br>
+ or <br>
+then there exist some  such that  
+<br>Proof.<br>
+Define  by<br>
+<br>
+clearly  is continuous, also  and <br>
+using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 4.16</a> <br> such that <br>
+so  or <br>The second case <br>
+<br>
+<br>
+thus  is continues  and <br>
+using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 4.16</a><br>
+<br>
+□<br>Corollary.
+Let  with  let  be a continuous function then<br>
+<br>
+where  is <br>
+where  is 
+<br>Proof.<br>We know that  is bounded and attains infimum and supremum<br>
+so there exist <br>
+Case I: <br>
+In this case  is constant function and <br>
+Case II:  <br>Then consider  <br>case III:<br>
+Then consider <br>
+□<br>Definition (General interval).
+ is an interval iff  with  implies <br>
+they are one of these type ...
+<br>Theorem.
+Let I be a subinterval of  let  be a continuous function then<br>
+ is an interval 
+<br>Theorem (Existance and uniqueness of positive  root).
+Fix  then for  there exist unique  such that  
+<br>Proof. <br> st <br>Then  is a polynomial restricted to  and hence continuous <br>Claim 1.
+for  there exist  such that <br>
+as  so take 
+<br>Claim 2.
+ is strictly increases that is if  then <br>
+
+<br>Define  by tacking <br>
+that is <br><br>then,  <br>By Intermediate value theorem there exist  such that<br>The uniqueness follows from the strictly increasing property of  if  and <br>
+□<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener nofollow">#9-oct</a> <br>Claim.
+At any time there are two antipodal points(opposite) in the equator with equal temperature 
+<br>Proof.<br>
+We model the equator by the unit interval  0,1 are identical<br>
+we define  where  is temperature at <br>
+we assume that  is continuous<br>
+we have <br>
+Now consider  define by<br><br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html</link><guid isPermaLink="false">real analyses/5. Intermediate Value Theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 05:29:52 GMT</pubDate></item><item><title><![CDATA[6. Continuous Bijections]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener nofollow">#9-oct</a><br>Definition (Increasing Decreasing Functions).
+Let  be a non empty subset of  and  be a functionn
+i)  is said to be increasing (non-decreasing) if <br>
+ii)  is said to be strictly increasing if <br>
+iii)  is said to be decreasing (non-increasing) if <br>
+iv)  is said to be strictly decreasing if  
+<br>Definition (Monotonic function).
+If a function  is increasing or decreasing it is said to be  Monotonic 
+<br>Definition (Strictly Monotonic function).
+If a function  is strictly increasing or strictly decreasing it is said to be  strictly monotonic function
+<br>Theorem.
+Let  with  let  be a continuous function and <br>
+assume  is a bijection<br>
+then  is said strictly monotonic 
+<br>Proof.<br>
+
+  
+  
+  
+    
+    
+  
+  <br>We claim  or <br>
+Suppose <br>
+then there exist some <br>
+also there exist some  such that <br>
+take  then by <a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real analyses/5. Intermediate Value Theorem#^bb30ef" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Intermediate Value Theorem</a><a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html#^bb30ef" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Intermediate Value Theorem</a><br>
+there exist  such that<br>
+<br>
+this contradicts the fact that  is injective<br>
+So, either  or <br>Claim.
+if  then  and  is strictly increasing
+<br>Assume that this is not true and apply <a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real analyses/5. Intermediate Value Theorem#^bb30ef" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Intermediate Value Theorem</a><a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html#^bb30ef" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Intermediate Value Theorem</a><br>
+If  is not strictly increasing as  is not increasing we can get  such that <br>
+ there exist  also there exist  and  such that  hence it is not injective<br>
+similarly we can show<br>Claim.
+if  then  and  is strictly decreasing
+<br>
+  
+  
+  
+    
+    
+  
+  <br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/6.-continuous-bijections.html</link><guid isPermaLink="false">real analyses/6. Continuous Bijections.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 05:36:36 GMT</pubDate></item><item><title><![CDATA[7. Uniform Continuous]]></title><description><![CDATA[ 
+ <br>Definition (Uniform continuous).
+Let A be a non-empty subset of  and let  be a function<br>
+then  is said to be uniform continuous if for every  there exist  such that<br>
+ for all  ,   with  
+<br>Remark.
+Here  is not dependent on  or  where as in <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^c071ac" data-href="real analyses/4. Continuity of Functions#^c071ac" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^c071ac" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">continuous functions</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^c071ac" data-href="real analyses/4. Continuity of Functions#^c071ac" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^c071ac" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">continuous functions</a>  depends on  
+<br>Clearly every uniform continuous functions is continuous<br><br>
+<br>
+Consider  defined by<br>
+<br>
+We need to estimate 
+
+Take  then for  we have  so  is uniformly continuity
+
+<br>
+Consider 
+
+<br><br>Claim.
+ is not <a data-tooltip-position="top" aria-label="^fa98e8" data-href="#^fa98e8" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fa98e8" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Uniformly Continuous</a><a data-tooltip-position="top" aria-label="^fa98e8" data-href="#^fa98e8" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fa98e8" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Uniformly Continuous</a> 
+<br>Take  suppose there exist  such that <br><br>take  with <br><br>we shall have  for <br>We shall have  <br>Take  then we have  so <a data-tooltip-position="top" aria-label="real analyses/7. Uniform Continuous > ^bb893c" data-href="real analyses/7. Uniform Continuous#^bb893c" href="https://sai-prabhav.github.io/bmath_notes/real analyses/7. Uniform Continuous#^bb893c" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">above</a><a data-tooltip-position="top" aria-label="real analyses/7. Uniform Continuous > ^bb893c" data-href="real analyses/7. Uniform Continuous#^bb893c" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html#^bb893c" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">above</a> dosen't hold for  <br>Theorem.
+Let  with  Let  be a continuous function. Then  is uniformly continuous
+<br>Proof.<br>
+Suppose  is not uniformly continuous we will arrive at a contradiction<br>
+if  is not uniformly continuous then there exist  for which no <br>
+satisfies <br><br>So for  taking  there exist <br>
+such that  and  <br>By <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">bolzano-Weierstrass theorem</a>  has a convergent subsequent<br>
+say  converges to some  <br>We have <br><br>take  and  for  <br> converges to  and   <br>We also have<br><br><a data-tooltip-position="top" aria-label="^153c6f" data-href="#^153c6f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^153c6f" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">$*$</a><a data-tooltip-position="top" aria-label="^153c6f" data-href="#^153c6f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^153c6f" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow"></a> imply <br><br>We have taken  so  and  converges to the same value<br>
+hence <br>
+but we have <br><br>So  are not same hence they are not continuous which contradicts that  is continuous<br>
+Hence our assumption that  is not uniformly Continuous is false<br>Theorem.
+Let A be a non-empty subset of  and let  be uniform continuous. Suppose  
+]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html</link><guid isPermaLink="false">real analyses/7. Uniform Continuous.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 06:32:22 GMT</pubDate></item><item><title><![CDATA[8. Limit of function]]></title><description><![CDATA[ 
+ <br><br>Definition.
+Let A be a non-empty subset of  . Then  is said to be cluster point of A is for every <br>
+<br>
+we denote a set of cluster points of a by 
+<br><br><br>
+<br>Theorem.
+Let A be a non-empty subset of . Then  is a cluster point of A iff there exist a sequence  in  converging to  
+<br><br>Definition.
+Let A be a non-empty subset of  and let  be a function let  be a cluster point of A<br>
+then  is said to have a limit  at  if for every  possible there exist  such that<br>
+ for all <br>
+this is denoted by 
+<br><br> <br><br><br>Theorem.
+Let  be a non-empty subset of  and  is a function. Suppose  is a cluseter point of A, Then  has limit  at  iff for every sequence  in  converging to ,  converges to  
+<br>Proof. <br>Suppose the <br>
+then suppose  is a sequence in  converging to c<br>Claim.
+ converges to  
+<br>For  there exist  such that <br><br>As  converges to  then there exist  such that  for <br>
+So, for <br>
+hence  for <br>Suppose  does not converges to  at  then there exist  <br><br>False for all <br>
+in particularly for  there exist <br><br>then  converges to  but  does not converge to  <br> □<br><br>Definition.
+Let A be a subset of  then  is said to be right cluster point of A if for all <br>
+ 
+<br>Theorem.
+TFAE<br>
+i)  is a right cluster point of A<br>
+ii) there exist a sequence  in  converges to c<br>
+ there exist a decreasing sequence in  converging  
+<br>Definition (Right Point Limit).
+Let A be a non-empty subset of  and let  be a function<br>
+Let  be a right cluster point A<br>
+then right hand side limit of  at  exist and equals  is for every <br>
+
+Notation:  and 
+<br><br>Definition.
+Let A be a subset of  then  is said to be left cluster point of A if for all <br>
+ 
+<br>Theorem.
+TFAE<br>
+i)  is a left cluster point of A<br>
+ii) there exist a sequence  in  converges to c<br>
+ there exist a increasing sequence in  converging  
+<br>Definition (left Point Limit).
+Let A be a non-empty subset of  and let  be a function<br>
+Let  be a left cluster point A<br>
+then left hand side limit of  at  exist and equals  is for every <br>
+
+Notation:  and 
+<br>Theorem.
+Let  with  left  be an increasing function. Then for <br>
+<br>
+
+ 
+<br>prove this as an excercise <br>Theorem.
+let  be an increasing function then for <br>
+
+<br>Proof.<br>
+Fix <br>
+take   is defined as  is non-empty and bounded by <br><br>
+for   is not a lower bound<br>
+hence there exist  with <br>
+as  is increasing <br>
+Take  then <br><br>hence <br>□<br>Theorem.
+Let  with  and  let  be a continuous bijection then  is continuous
+<br>Proof. <br> is strictly monotonic<br>case 1:<br>
+if  is increasing <br><br>=&gt;  is increasing<br>similarly if  is decreasing then  is also decreasing<br>take  from previous theorem <br><br>suppose <br>
+then  <br><br>this shows that  is not surjective  <br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/8.-limit-of-function.html</link><guid isPermaLink="false">real analyses/8. Limit of function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 06:53:33 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
+ is said to be differentiable at  if<br>
+	then we write  
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:16-oct" class="tag" target="_blank" rel="noopener nofollow">#16-oct</a> <br>let  and  is not a single ton <br>Definition.
+Let  be a function suppose  then  is said to be differentiable at  if   exist then 
+<br>Theorem.
+Suppose  is differentiable at    then  is continuous at  converse is not true
+<br>Proof. <br><br> □<br><br>
+<br>Consider <br>
+take  
+<br><br>Theorem.
+suppose   are functions differentiable at   then
+
+<br> is differentiable at  for   and 
+<br> is differentiable at  and 
+
+<br>Proof. <br>
+<br>
+
+
+<br>
+
+
+<br> □<br>Theorem.
+Suppose  are functions diffrentiatable ar  <br>
+if  then  is same interval I containing  on I  is well defined and diffrentiable at <br>
+with<br>
+
+<br>Proof.<br>
+As  is differentiable at  it is continuous at  <br>takr  as  we have <br>
+so  <br><br>so  for <br>Take <br><br> □<br>Corollary.
+Suppose  is a real polynomial<br>
+<br>
+then at any   is differentiable at  and 
+
+<br>Definition.
+Let   be a function 
+
+<br> said to be differentiable it is differentiable at every <br>
+ is a function on I called the first Derivative of f
+<br>if  is differentiable at every  then  is said to be twice differentiable and  is a function  on I defined by 
+<br>for   is differentiable at every  then  is said to be  times differentiable<br>
+ 
+<br> is said to be infinite differentiable if  is n-times differentiable for every 
+<br> is said to be continuously differentiable if  is differentiable and  is continuous
+
+<br>Theorem ( Carathéodory's theorem).
+Let  be a function. Then  is differentiable at  iff there exist a function  continuous at  and satisfying<br>
+<br>
+In such a case  is unique and 
+<br>Proof.<br>
+suppose  is differentiable at <br>
+take <br><br>Then clearly  satisfies * and  is continuous at  <br>If there exist  satisfies  and continuous then  so  is differentiable and <br>
+□<br>Theorem (chain rule).
+suppose  and  are function such that  take  suppose  is differentiable at  and  is differentiable at  then  is differentiable at  and<br>
+ 
+<br>Proof. <br><br>by <a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a> there exist a function  continuous at  satisfying <br><br>as  is differentiable at   a function  continuous at  satisfying <br><br>^050adc<br>
+<a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">**</a><a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">**</a> is true for every  taking  we get <br><br>take  then  is continuous at  as<br>
+ is continuous at ,<br>
+ is continues at  and<br>
+ is continuous at <br>
+□<br>Theorem (Inverse of function).
+Suppose  are non-trivial intervels of  and  is a bijection, Take  suppose  is diffrentiatable at  and  is differentiable at <br>
+then <br>
+(in perticular )
+<br>Proof.<br>
+Take  so <br>
+By <a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Chain Rule</a><a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Chain Rule</a>  <br><br> □<br>Theorem.
+Suppose I ,  are non-trivial intervals in  and   is abijection take   suppose  is diffrentiable at  and  suppose  is Continuous at . then  is differentiable at  and  
+<br>Proof.<br>
+By <a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a> there exist a function   continuous at  satisfying <br><br>Claim.
+
+<br>for  as  is injective so <br>
+for ,  <br>take  then<br>
+<br>
+<br>
+□<br>
+It is assumed that  is continuous at  and  is continuous at  so by<a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a>  is differentiable <br><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real analyses/10. Local Maxima Minima" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Local Maxima Minima</a><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Local Maxima Minima</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 07:10:47 GMT</pubDate></item><item><title><![CDATA[10. Local Maxima Minima]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:21-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#21-oct</a> 
+ <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:21-oct" class="tag" target="_blank" rel="noopener nofollow">#21-oct</a><br>Definition (local maxima).
+LEt  be a function then  is said to be a local maximum for  if  there exist  such that<br>
+ 
+<br>Definition (Local minima).
+Let  be a function then  is said to be a local minimum for  if  there exist  such that<br>
+ 
+<br>Definition ( Local Extrimum ).
+   is said to be a local exrtimum if it is either local maxima or minima
+<br>Definition ( Global Maximum).
+Let  be a function then  is said to be a global maximum if<br>
+  
+<br>Definition ( Global minima).
+Let  be a function then  is said to be a global minima if<br>
+  
+<br>Definition (Global Extrimum).
+If   is said to be global extrimum if its either global maximum or minimum 
+<br>Definition (Interior point).
+Let  be an interval then  is said to be interior point if there exist  such that  
+<br>Theorem (Interior extremum).
+Let  be a function suppose  is an interor point of I and is a local extremum. If  is differentiable at  then 
+<br>Proof. <br>Assume that  is a is a local extremum and  is differentiable at c<br>
+assume there exist  such that <br><br>as  is local maximum  for  there exist   st.<br><br>take   check then <br><br>consider any sequence   ( , )<br>
+converging to  then<br><br>    hence <br>
+then <br>similarly consider any sequence   ( , )<br>
+converging to  then<br><br>     hence <br>
+then <br>
+since <br> □<br>Theorem (Rolle's).
+Let  with  let  be continuous function suppose  and  is differentiable in  Then there exist  such that 
+<br>Proof. <br>case i)  Suppose there exist   (a , )  such that  then   is at some interior point say  and from previous theorem  <br>case ii) suppose  and  for some  then  hence ther exit some  st.  note  <br>case iii)  =0  for all <br>
+then  for all <br>
+□<br>Theorem ( Mean Value theorem ).
+Let   with  let  be a continuous function, diffrentiable in  then there exist  such that<br>
+
+<br>Proof. <br><br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html</link><guid isPermaLink="false">real analyses/10. Local Maxima Minima.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Sat, 26 Oct 2024 07:22:20 GMT</pubDate></item><item><title><![CDATA[3. Rank]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener nofollow">#24-sep</a><br>
 Rank of a matrix Let  be a  matrix,<br>
 column space of  is the subspace of  spanned by the columns of <br>
@@ -99,130 +584,7 @@ If  is defined, then<br>
 Let  be matrices of order  and  ,<br>
 then <br>
 the equality holds iff  
-<br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 08:13:46 GMT</pubDate></item><item><title><![CDATA[9. LU decomposition]]></title><description><![CDATA[ 
- <br>new command for <br>Let A be a  matrix we want to decompose A into a lover triangle matrix  with diagonal entries 1 and a upper triangle matrix  , ie  <br>A row echelon is matrix is such that the<br>
-<br>all non-zero rows are at the bottom  
-<br>the first non-zero elements of a row  it to the left of the first non-zero elements of row i+1 at the bottom<br>
-Let A be a nxn matrix so that A can be reduced to a row echelon form by only using the row operation adding a row with a scalar multiplier of another row ie. A can be reduced to row echelon form by multiplying A from the left by elementary matrices of type I ie,   
-<br><br>
-<br> is a lower triangle matrix and product of them is a lower triangle matrix with diagonal 1<br>Theorem.
-For  matrix A which can be reduced to row echelon form without interchanging the row then there exit a lower triangle matrix   with diagonal entries and an  matrix  such that  
-<br> Let A be a  matrix such that A can be reduced to row echelon form, without row interchanges so there exist a  lower triangular and  such that <br>
-so,  let  we solve  <br>Let  be a solution then we solve for  <br>Suppose A is a square matrix and A admits a LU decomposition  has all diagonal entries 1<br>Let  then we mutliply the ith row of  by  and produce an upper triangle matrix  with dioganal entries 1<br>
-we create nxxn diagonal matrix  with  <br><br>hence  where <br>
-<br> is lower triangular with dioganal entries 1
-<br> is upper triangular with diagonal entries 1
-<br> is diagonal matrix with diagonals entries non-zero
-<br>invertible matrices admit a LU decomposition if all its leading principal minor are non-zero<br>
-A singular matrix of rank  admits a LU decompsition if the first  leading principal minors are non-zero <br>If a is a  matrix such that we need to use a row interchange to bring it to its row echelon form then we multiply A by a suitable permutation matrix  from left so that PA (which has a rearrangement of the rows of A) uses no row interchange to get its row echelon form and then  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/9.-lu-decomposition.html</link><guid isPermaLink="false">linear algebra/9. LU decomposition.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 04:56:31 GMT</pubDate></item><item><title><![CDATA[10. Local Maxima Minima]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:21-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#21-oct</a> 
- <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:21-oct" class="tag" target="_blank" rel="noopener nofollow">#21-oct</a><br>Definition (local maxima).
-LEt  be a function then  is said to be a local maximum for  if  there exist  such that<br>
- 
-<br>Definition (Local minima).
-Let  be a function then  is said to be a local minimum for  if  there exist  such that<br>
- 
-<br>Definition ( Local Extrimum ).
-   is said to be a local exrtimum if it is either local maxima or minima
-<br>Definition ( Global Maximum).
-Let  be a function then  is said to be a global maximum if<br>
-  
-<br>Definition ( Global minima).
-Let  be a function then  is said to be a global minima if<br>
-  
-<br>Definition (Global Extrimum).
-If   is said to be global extrimum if its either global maximum or minimum 
-<br>Definition (Interior point).
-Let  be an interval then  is said to be interior point if there exist  such that  
-<br>Theorem (Interior extremum).
-Let  be a function suppose  is an interor point of I and is a local extremum. If  is differentiable at  then 
-<br>Proof. <br>Assume that  is a  is a local exrtimum and  is differentiable at c<br>
-assume ther exist   such that <br><br>as  is local maximum  for  there exist   st.<br><br>take   check then <br><br>consider any sequence   ( , )<br>
-converging to  then<br><br> forall   hence <br>complete it<br> □<br>Theorem (Rolle's).
-Let  with  let  be continuous function suppose  and  is differentiable in  Then there exist  such that 
-<br>Proof. <br>case i)  Suppose there exist   (a , )  such that  then   is at some interior point say  and from previous theorem  <br>case ii) suppose  and  for some  then  hence ther exit some  st.  note  <br>case iii)  =0  for all <br>
-then  for all <br>
-□<br>Theorem ( Mean Value theorem ).
-Let   with  let  be a continuous function, diffrentiable in  then there exist  such that<br>
-
-<br>Proof. <br><br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html</link><guid isPermaLink="false">real analyses/10. Local Maxima Minima.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:53:04 GMT</pubDate></item><item><title><![CDATA[9. Differentiation]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:16-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#16-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-oct" class="tag" target="_blank" rel="noopener nofollow">#15-oct</a><br>Definition.
- is said to be differentiable at  if<br>
-	then we write  
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:16-oct" class="tag" target="_blank" rel="noopener nofollow">#16-oct</a> <br>let  and  is not a single ton <br>Definition.
-Let  be a function suppose  then  is said to be differentiable at  if   exist then 
-<br>Theorem.
-Suppose  is differentiable at    then  is continuous at  converse is not true
-<br>Proof. <br><br> □<br><br>
-<br>Consider <br>
-take  
-<br><br>Theorem.
-suppose   are functions differentiable at   then
-
-<br> is differentiable at  for   and 
-<br> is differentiable at  and 
-
-<br>Proof. <br>
-<br>
-
-
-<br>
-
-
-<br> □<br>Theorem.
-Suppose  are functions diffrentiatable ar  <br>
-if  then  is same interval I containing  on I  is well defined and diffrentiable at <br>
-with<br>
-
-<br>Proof.<br>
-As  is diffrentiatable at  it is continuous at  <br>takr  as  we have <br>
-so  <br><br>so  for <br>take <br><br> □<br>Corollary.
-Suppose  is a real polynomial<br>
-<br>
-then at any   is differentiable at  and 
-
-<br>Definition.
-Let   be a function 
-
-<br> said to be differentiable it is differentiable at every <br>
- is a function on I called the first Derivative of f
-<br>if  is differentiable at every  then  is said to be twice differentiable and  is a function  on I defined by 
-<br>for   is differentiable at every  then  is said to be  times differentiable<br>
- 
-<br> is said to be infinite differentiable if  is n-times differentiable for every 
-<br> is said to be continuously differentiable if  is differentiable and  is continuous
-
-<br>Theorem ( Carathéodory's theorem).
-Let  be a function. Then  is differentiable at  iff there exist a function  continuous at  and satisfying<br>
-<br>
-In such a case  is unique and 
-<br>Proof.<br>
-suppose  is differentiable at <br>
-take <br><br>Then clearly  satisfies * and  is continuous at  <br>if there exist   satisfyes  and continuous then   so  is differentiable and <br>
-□<br>Theorem ((chain rule)).
-suppose  and  are function such that  take  suppose  is differentiable at  and  is differentiable at  then  is differentiable at  and<br>
- 
-<br>Proof. <br><br>by <a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Carathéodory theorem</a><a data-tooltip-position="top" aria-label="^d7f876" data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Carathéodory theorem</a> there exist a function  continuous at  satisfying <br><br>as  is differentiable at   a function  continuous at  satisfying <br><br>^050adc<br>
-<a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">**</a><a data-tooltip-position="top" aria-label="^050adc" data-href="#^050adc" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^050adc" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">**</a> is true for every  taking  we get <br><br>take  then  is continuous at  as<br>
- is continuous at ,<br>
- is continues at  and<br>
- is continuous at <br>
-□<br>Theorem (Inverse of function).
-Suppose  are non-trivial intervels of  and  is a bijection, Take  suppose  is diffrentiatable at  and  is differentiable at <br>
-then <br>
-(in perticular )
-<br>Proof.<br>
-Take  so <br>
-By <a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Chain Rule</a><a data-tooltip-position="top" aria-label="^925987" data-href="#^925987" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^925987" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Chain Rule</a>  <br><br> □<br>Theorem.
-Suppose I ,  are non-trivial intervals in  and   is abijection take   suppose  is diffrentiable at  and  suppose  is Continuous at . then  is differentiable at  and  
-<br>Proof.<br>
-By <a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">^d7f876</a><a data-href="#^d7f876" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^d7f876" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Theorem 9.8 (Carathéodory's theorem)</a> there exist a function   continuous at  satisfying <br><br>Claim.
-
-<br>for  as  is injective so <br>
-for ,  <br>take  then<br>
-<br>
-<br>
-□<br>
-It is assumed that  is continuous at  and  is continuous at  so by carathoes  is differentiable <br><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real analyses/10. Local Maxima Minima" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Local Maxima Minima</a><a data-tooltip-position="top" aria-label="real analyses/10. Local Maxima Minima" data-href="real analyses/10. Local Maxima Minima" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/10.-local-maxima-minima.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Local Maxima Minima</a> ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/9.-differentiation.html</link><guid isPermaLink="false">real analyses/9. Differentiation.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 21 Oct 2024 10:09:24 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
+<br>Proof.<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/3.-rank.html</link><guid isPermaLink="false">linear algebra/3. Rank.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 08:13:46 GMT</pubDate></item><item><title><![CDATA[8. Linear Diophantine Equation]]></title><description><![CDATA[ 
  <br>Theorem.
 Let  with a,   not both zeros then LDE<br>
 <br>
@@ -836,263 +1198,7 @@ from first fundamental theorem of Calculus <a data-tooltip-position="top" aria-l
 <br><br>
 <br>  if <br>
 find the cdf of  
-<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html</link><guid isPermaLink="false">Probability/7. Continuous Random Variable.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 14 Oct 2024 15:48:01 GMT</pubDate></item><item><title><![CDATA[8. Expectation and Variance of Continuous Random Variables]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:15-Oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#15-Oct</a> 
- <br><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">sheldon_ross, page 188</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=188&amp;annotation=1215R" data-href="Probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=188&amp;annotation=1215R" class="internal-link mathLink-internal-link" target="_self" rel="noopener">sheldon_ross, page 188</a><br>Definition.
-Expectation of <a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/Probability/7. Continuous Random Variable" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Continuous Random Variable</a><a data-tooltip-position="top" aria-label="Probability/7. Continuous Random Variable" data-href="Probability/7. Continuous Random Variable" href="https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Continuous Random Variable</a> 
-<br><br><br>
-<br> a RV with pdf
-
-
-<br><br>If <br><br><br>we can check <br><br>Now the expectation <br><br>Lemma.
-For non-negative RV The expected value of  is  
-<br>Proof.<br>
-Assume  has density  <br><br> □<br>Proposition ( <a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=189" data-href="Probability/sheldon_ross.pdf#page=189" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=189" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">prop 2.1</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=189" data-href="Probability/sheldon_ross.pdf#page=189" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=189" class="internal-link mathLink-internal-link" target="_self" rel="noopener">prop 2.1</a>).
- be a RV pdf  and let  then,<br>
-
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:15-Oct" class="tag" target="_blank" rel="noopener">#15-Oct</a><br>Proof. <br><br> □<br><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=190" data-href="Probability/sheldon_ross.pdf#page=190" href="https://sai-prabhav.github.io/bmath_notes/Probability/sheldon_ross.pdf#page=190" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Lemma 2.1</a><a data-tooltip-position="top" aria-label="Probability/sheldon_ross.pdf > page=190" data-href="Probability/sheldon_ross.pdf#page=190" href="https://sai-prabhav.github.io/bmath_notes/probability/sheldon_ross.pdf#page=190" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Lemma 2.1</a><br>Using this to prove the previous example<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/8.-expectation-and-variance-of-continuous-random-variables.html</link><guid isPermaLink="false">Probability/8. Expectation and Variance of Continuous Random Variables.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 15 Oct 2024 06:35:22 GMT</pubDate></item><item><title><![CDATA[4. Continuity of Functions]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:23-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#23-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:26-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#26-sep</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:3-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#3-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:23-sep" class="tag" target="_blank" rel="noopener">#23-sep</a><br>Definition.
-Let  be a non-empty subset of  and let  a function. Suppose . Then  is said to be continuous at  if for every ,  such that
-
-<br>Example 1.
- some non-empty subset of  fix <br>
-we can show  is continuous function with the above definition
-<br>Example 2 (Identity Function).
-Suppose  is a non empty subset of  
-<br><br>Consider any <br>
-now, <br><br>take  then for  <br><br>so  is continuous at all  <br>Example 3.
-let <br>
-consider  defined by 
-<br>Consider <br>
-we need to estimate <br><br>Take  Then for <br><br>Example 4.
-let <br>
-show that  is continuous
-<br>Fix  <br><br>if  then <br>
-Take <br>
-Then for  then  <br>complete the exercise<br>Theorem.
-Let A be a non-empty subset of  and let  be function suppose  Then  is a continuous at  iff for every sequence  in , converges to  .  converges to  
-<br> Proof.<br>
-Suppose  is continuous at . Suppose  is a sequence in  converges to .<br>
-for  such that<br><br>As  converges to , there exist  such that <br><br>Hence for ,  and hence from <a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^089c2b</a><a data-href="#^089c2b" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^089c2b" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.1)</a><br>
-so  converges to .<br>Suppose  is not continuous at . Then there exist  such that for no <br><br>holds<br>
-so for  take  then <br>
-such that <br><br>As  do not converge to <br>□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:24-sep" class="tag" target="_blank" rel="noopener">#24-sep</a><br>
-Suppose  and   does that mean  converge?<br>
-No, let  and  <br>Definition (continuity at a point  version).
-Let A be a non empty subset of  let  be a function .<br>
-Fix  then  is said to be continuous at  if for every  such that
-<br><br><br>Definition.
-Let  be a non-empty subset of . Then  is said to be isolated in  if there exist  such that<br>
- 
-<br>Corollary.
-suppose  is an isolated point in  . Then any function  is continuous at  
-<br><br>Definition (Continuity of function).
-Let  be a non-empty and let  be a function. Then  is said to be continuous if it is continuous at every 
-<br>Theorem.
-Let A be a non-empty subset of  Let  and  be functions. Fix . Suppose  and  are continuous at .<br>
-then  is defined by <br>
-is also continuous at c
-<br>Proof.<br>
-for , there exist  such that<br><br>similarly there exist  such that<br><br>Take  then <br>
-so for this value of  both <a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^ba9cbb</a><a data-href="#^ba9cbb" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^ba9cbb" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.2)</a> and <a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">^1eabe6</a><a data-href="#^1eabe6" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^1eabe6" class="internal-link mathLink-internal-link" target="_self" rel="noopener">(4.3)</a> are true<br><br>□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:26-sep" class="tag" target="_blank" rel="noopener">#26-sep</a> <br>Theorem.
-Let A be a non-empty subset of  and let  suppose  are functions continuous at c
-
-<br>For  defined by m is continuous at  
-<br> defined by  is continuous at c
-<br>if  then  defined by  is continuous at c
-
-<br>Proof.<br>
-(using sequential version of continuity.)<br>
-<br>Take  we want to show that  is continuous at  .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to 
-<br><br>
-<br>
-Take  we want to show that  is continuous at .<br>
-suppose  is a sequence in A converging to  we wan tho show that  converges to 
-
-
-<br>
-Take  we want to show that  is continuous at .<br>
-Suppose  is a sequence in A converging to  we wan tho show that  converges to  and  for all  in  then
-
-□
-
-<br>Example.
-Suppose  then the polynomial  defined by  is continuous
-<br>If you can't prove it leave ISI<br>Theorem.
-Let  and let . Suppose  is continuous at . Suppose  define  by  then  is continuous at c
-<br>Proof.<br>
-for  there exist  such that<br><br>consider  then  and <br><br>□<br>Remark.
- is known as the restriction of  to  and is denoted by  
-<br>Corollary.
-If  is a non-empty subset of  and  is a polynomial then  is continuous<br>
-suppose  is another polynomial, with <br>
-then  defined by<br>
- is continuous 
-<br>Theorem.
-Let A  be non empty subset of <br>
-suppose  and  be functions<br>
-Assume  suppose for some   is continuous at   is continuous at <br>
-then  defined by<br>
- is continuous at 
-<br>Proof.<br>
-suppose  is a sequence in A converging to .<br>
-We want to show that  converges to  <br><br>as  is continuous  is also continuous<br>
-□<br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a> <br>Definition.
-Let A be a non-empty subset of  and let  be a function then  is said to be bounded above if there exist <br>
-similarly  is said to be bounded below if there exist  such that <br>
-it is said to be bounded if there exist  such that<br>
- let  be bounded above then  is called the supreimum of <br>
-it is said to be a maximum if there exist  such that  
-suppose  is bounded below<br>
- is called the infimum of <br>
-it is said to be a minimum if the infimum is attained, that is there exist    .  . 
-<br>Theorem.
-Let  with  let   be a continuous function then  is bounded<br>
-moreover  attains its supremum and infimum in  
-<br>Proof.<br>
-suppose  is not bounded<br>
-then for any natural number  ,  is not a upper bound<br>
-this means that there exist  such that  <br>as  is bounded by <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bolzano-Weierstrass theorem</a> it has a convergent sequence <br>
-Take  then <br>
-then by continuity of   is convergent in particular it is bounded but we have<br>
-<br>
-so it cant be bounded this is a contradiction<br>take <br>
-For  is not upper bound for  so there exist  such that <br><br>once again by <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bolzano-Weierstrass theorem</a>  has a convergent sequence say  converging to some <br>
-thus <br>
-as  tends to  by squeeze theorem  is convergent and converges for  as  is continuous at  <br>
-□<br>
-<a href="https://sai-prabhav.github.io/bmath_notes?query=tag:3-oct" class="tag" target="_blank" rel="noopener">#3-oct</a><br>Theorem (Location of roots ).
-Let  with . Let  be a continuous function. Suppose  then there exist a  can also be called as 'root'
-<br>Proof. 1<br>
-We will use nested intervals property of <br>
-take  and  and <br>consider <br>
-if  we are done<br>
-else if  take <br>
-else if  take <br>
-take <br>Note that  and <br>
-repeat the process consider <br>
-if  we are done<br>
-else if  take <br>
-else if  take <br>
-we continue so on<br>
-if it terminates we have a <br>If it doesn't terminated we have sequence of nested interval<br><br>by nested interval property <br>
-the length of <br>
-thus the  is a singleton say <br>Claim.
-
-<br><br><br>For every every <br>
-By continuous of   hence <br>
-similarly, for every <br>
-by continuity of  at  <br>
-so, <br>
-Hence <br>□<br>
-Proof. 2<br>consider <br><br>  is non empty as <br>
- is bounded by <br>
-by the limit upper bound property  has a supremum<br>
-Take <br>Claim.
-
-<br>for  consider .<br>
-As  is not a supremum of  there exist <br>
-such that <br><br>So  <br>
-Hence <br>
-in particular <br>
-Now consider <br>
-not for any <br>
-let <br><br>as  <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html</link><guid isPermaLink="false">real analyses/4. Continuity of Functions.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 15 Oct 2024 05:47:03 GMT</pubDate></item><item><title><![CDATA[7. Uniform Continuous]]></title><description><![CDATA[ 
- <br>Definition (Uniform continuous).
-Let A be a non-empty subset of  and let  be a function<br>
-then  is said to be uniform continuous if for every  there exist  such that<br>
- for all  ,   with  
-<br>Clearly every uniform continuous functions is continuous<br><br>
-<br>Consider  defined by<br>
-<br>
-We need to estimate 
-
-Take  then for  we have  so  is uniformly continuity
-<br>Consider 
-
-Claim.
- is not <a data-tooltip-position="top" aria-label="^fa98e8" data-href="#^fa98e8" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fa98e8" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Uniformly Continuous</a><a data-tooltip-position="top" aria-label="^fa98e8" data-href="#^fa98e8" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^fa98e8" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Uniformly Continuous</a> 
-
-
-<br>Take  suppose there exist  such that <br><br>take  with <br><br>we shall have  for <br>We shall have  <br>Take  then we have  so <a data-tooltip-position="top" aria-label="real analyses/7. Uniform Continuous > ^bb893c" data-href="real analyses/7. Uniform Continuous#^bb893c" href="https://sai-prabhav.github.io/bmath_notes/real analyses/7. Uniform Continuous#^bb893c" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">above</a><a data-tooltip-position="top" aria-label="real analyses/7. Uniform Continuous > ^bb893c" data-href="real analyses/7. Uniform Continuous#^bb893c" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html#^bb893c" class="internal-link mathLink-internal-link" target="_self" rel="noopener">above</a> dosen't hold for  <br>Theorem.
-Let  with  Let  be a continuous function. Then  is uniformly continuous
-<br>Proof.<br>
-Suppose  is not uniformly continuous we will arrive at a contradiction <br>if  is not uniformly continuous then there exist  for which no <br>
-satisfies <br><br>so for  taking  there exist <br>
-such that  and  <br>By <a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/bolzano-Weierstrass theorem" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">bolzano-Weierstrass theorem</a><a data-href="bolzano-Weierstrass theorem" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener">bolzano-Weierstrass theorem</a>  has a convergent subsequent<br>
-say  converges to some  <br>we have <br><br>take  and  for  <br> converges to  and   <br>We also have<br><br><a data-tooltip-position="top" aria-label="^153c6f" data-href="#^153c6f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^153c6f" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">$*$</a><a data-tooltip-position="top" aria-label="^153c6f" data-href="#^153c6f" href="https://sai-prabhav.github.io/bmath_notes/about:blank#^153c6f" class="internal-link mathLink-internal-link" target="_self" rel="noopener"></a> imply <br><br>We have taken  so  and  converges to the same value<br>
-hence <br>
-but we have <br><br>So  are not same hence they are not continuous which contradicts the assumption that  is not uniformly continuous<br>Theorem.
-Let A be a non-empty subset of  and let  be uniform continuous. Suppose  
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/7.-uniform-continuous.html</link><guid isPermaLink="false">real analyses/7. Uniform Continuous.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 15 Oct 2024 05:47:15 GMT</pubDate></item><item><title><![CDATA[8. Limit of function]]></title><description><![CDATA[ 
- <br><br>Definition.
-Let A be a non-empty subset of  . Then  is said to be cluster point of A is for every <br>
-<br>
-we denote a set of cluster points of a by 
-<br><br><br>
-<br>Theorem.
-Let A be a non-empty subset of . Then  is a cluster point of A iff there exist a sequence  in  converging to  
-<br><br>Definition.
-Let A be a non-empty subset of  and let  be a function let  be a cluster point of A<br>
-then  is said to have a limit  at  if for every  possible there exist  such that<br>
- for all <br>
-this is denoted by 
-<br><br> <br><br><br>Theorem.
-Let  be a non-empty subset of  and  is a function. Suppose  is a cluseter point of A, Then  has limit  at  iff for every sequence  in  converging to ,  converges to  
-<br>Proof. <br>Suppose the <br>
-then suppose  is a sequence in  converging to c<br>Claim.
- converges to  
-<br>For  there exist  such that <br><br>As  converges to  then there exist  such that  for <br>
-So, for <br>
-hence  for <br>Suppose  does not converges to  at  then there exist  <br><br>False for all <br>
-in particularly for  there exist <br><br>then  converges to  but  does not converge to  <br><br> □<br>Definition.
-Let A be a subset of  then  is said to be right cluster point of A if for all <br>
- 
-<br>Theorem.
-TFAE<br>
-i)  is a right cluster point of A<br>
-ii) there exist a sequence  in  converges to c<br>
- there exist a decreasing sequence in  converging  
-<br>Definition (Right Point Limit).
-Let A be a non-empty subset of  and let  be a function<br>
-Let  be a right cluster point A<br>
-then right hand side limit of  at  exist and equals  is for every <br>
-
-Notation:  and 
-<br><br>Definition.
-Let A be a subset of  then  is said to be left cluster point of A if for all <br>
- 
-<br>Theorem.
-TFAE<br>
-i)  is a left cluster point of A<br>
-ii) there exist a sequence  in  converges to c<br>
- there exist a increasing sequence in  converging  
-<br>Definition (left Point Limit).
-Let A be a non-empty subset of  and let  be a function<br>
-Let  be a left cluster point A<br>
-then left hand side limit of  at  exist and equals  is for every <br>
-
-Notation:  and 
-<br>Theorem.
-Let  with  left  be an increasing function. Then for <br>
-<br>
-
- 
-<br>prove this as an excercise <br>Theorem (let  be an increasing function then for  ).
-
-<br>Proof.<br>
-Fix <br>
-take   is defined as  is non-empty and bounded by <br><br>
-for   is not a lower bound<br>
-hence there exist  with <br>
-as  is increasing <br>
-Take  then <br><br>hence <br>□<br>Theorem.
-Let  with  and  let  be a continuous bijection then  is continuous
-<br>Proof. <br> is strictly monotonic<br>case 1:<br>
-if  is increasing <br><br>=&gt;  is increasing<br>similarly if  is decreasing then  is also decreasing<br>take  from previous theorem <br><br>suppose <br>
-then  <br><br>this shows that  is not surjective  <br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/8.-limit-of-function.html</link><guid isPermaLink="false">real analyses/8. Limit of function.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 15 Oct 2024 09:18:03 GMT</pubDate></item><item><title><![CDATA[bolzano-Weierstrass theorem]]></title><description><![CDATA[ 
+<br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/7.-continuous-random-variable.html</link><guid isPermaLink="false">Probability/7. Continuous Random Variable.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 14 Oct 2024 15:48:01 GMT</pubDate></item><item><title><![CDATA[bolzano-Weierstrass theorem]]></title><description><![CDATA[ 
  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/bolzano-weierstrass-theorem.html</link><guid isPermaLink="false">real analyses/bolzano-Weierstrass theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 04 Oct 2024 09:58:15 GMT</pubDate></item><item><title><![CDATA[Assignment Link]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" rel="noopener" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">link</a><br>
 <a rel="noopener" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/assignment-link.html</link><guid isPermaLink="false">number_theory/Assignment Link.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 04:52:56 GMT</pubDate></item><item><title><![CDATA[2. Direct Sum]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:24-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#24-sep</a> 
@@ -1203,110 +1309,7 @@ Example 5o 5p which may be done in class but not written in this notes. Don't wo
 <br><br><br><br><br><br>When we know  and what to find what is the   we may chose  to be a predictor of  given  . A good way of judging the closeness of  is to minimize  <br>Theorem.
  is the closest predictor of  in other words<br>
  for all  
-<br>Proof.<br><br>as  is a function of  when  is given it can be considered as a constant <br><br>hence <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 16:18:26 GMT</pubDate></item><item><title><![CDATA[5. Intermediate Value Theorem]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:8-oct" class="tag" target="_blank" rel="noopener">#8-oct</a><br>Theorem (Intermediate Value theorem).
-Let  with  let  be a continuous function. SUppose<br>
- or <br>
-then there exist some  such that  
-<br>Proof.<br>
-Define  by<br>
-<br>
-clearly  is continuous, also  and <br>
-using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 4.16</a> <br> such that <br>
-so  or <br>The second case <br>
-<br>
-<br>
-thus  is continues  and <br>
-using the previous theorem <a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real analyses/4. Continuity of Functions#^8b45aa" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Theorem 4.16</a><a data-tooltip-position="top" aria-label="real analyses/4. Continuity of Functions > ^8b45aa" data-href="real analyses/4. Continuity of Functions#^8b45aa" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/4.-continuity-of-functions.html#^8b45aa" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Theorem 4.16</a><br>
-<br>
-□<br>Corollary.
-Let  with  let  be a continuous function then<br>
-<br>
-where  is <br>
-where  is 
-<br>Proof.<br>We know that  is bounded and attains infimum and supremum<br>
-so there exist <br>
-Case I: <br>
-In this case  is constant function and <br>
-Case II:  <br>Then consider  <br>case III:<br>
-Then consider <br>
-□<br>Definition (General interval).
- is an interval iff  with  implies <br>
-they are one of these type ...
-<br>Theorem.
-Let I be a subinterval of  let  be a continuous function then<br>
- is an interval 
-<br>Theorem (Existance and uniqueness of positive  root).
-Fix  then for  there exist unique  such that  
-<br>proof<br>
- bt <br>Then  is a polynomial restricted to  and hence continuous <br>Claim 1.
-for  there exist  such that <br>
-as  so take 
-<br>Claim 2.
- is strictly increases that is if  then <br>
-
-<br>Define  by tacking <br>
-that is <br><br>then,  <br>By Intermediate value theorem there exist  such that<br>The uniqueness follows from the strictly increasing property of  if  and <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a> <br>Claim.
-At any time there are two antipodal points(opposite) in the equator with equal temperature 
-<br>Proof.<br>
-We model the equator by the unit interval  0,1 are identical<br>
-we define  where  is temperature at  <br>
-we assume that    is continuous<br>
-we have <br>
-Now consider  define by<br><br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html</link><guid isPermaLink="false">real analyses/5. Intermediate Value Theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 09:14:28 GMT</pubDate></item><item><title><![CDATA[Continuous Bijections]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> 
- <br><br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener">#9-oct</a><br>Definition (Increasing Decreasing Functions).
-Let  be a non empty subset of  and  be a functionn
-i)  is said to be increasing (non-decreasing) if <br>
-ii)  is said to be strictly increasing if <br>
-iii)  is said to be decreasing (non-increasing) if <br>
-iv)  is said to be strictly decreasing if  
-<br>Definition (Monotonic function).
-If a function  is increasing or decreasing it is said to be  Monotonic 
-<br>Definition (Strictly Monotonic function).
-If a function  is strictly increasing or strictly decreasing it is said to be  strictly monotonic function
-<br>Theorem.
-Let  with  let  be a continuous function and <br>
-assume  is a bijection<br>
-then  is said strictly monotonic 
-<br>Proof.<br>
-
-  
-  
-  
-    
-    
-  
-  <br>We claim  or <br>
-Suppose <br>
-then there exist some <br>
-also there exist some  such that <br>
-take  then by <a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real analyses/5. Intermediate Value Theorem#^bb30ef" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Intermediate Value Theorem</a><a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html#^bb30ef" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Intermediate Value Theorem</a><br>
-there exist  such that<br>
-<br>
-this contradicts the fact that  is injective<br>
-So, either  or <br>Claim.
-if  then  and  is strictly increasing
-<br>
-  
-  
-  
-    
-    
-  
-  <br>
-Assume that this is not true and apply <a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real analyses/5. Intermediate Value Theorem#^bb30ef" class="original-internal-link" target="_blank" rel="noopener" style="display: none;">Intermediate Value Theorem</a><a data-tooltip-position="top" aria-label="real analyses/5. Intermediate Value Theorem > ^bb30ef" data-href="real analyses/5. Intermediate Value Theorem#^bb30ef" href="https://sai-prabhav.github.io/bmath_notes/real-analyses/5.-intermediate-value-theorem.html#^bb30ef" class="internal-link mathLink-internal-link" target="_self" rel="noopener">Intermediate Value Theorem</a><br>
-If  is not strictly increasing as  is not increasing we can get  such that <br>
- there exist  also there exist  and  such that  hence it is not injective<br>
-similarly we can show<br>Claim.
-if  then  and  is strictly decreasing
-<br>
-  
-  
-  
-    
-    
-  
-  <br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/real-analyses/6.-continuous-bijections.html</link><guid isPermaLink="false">real analyses/6. Continuous Bijections.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 16:48:41 GMT</pubDate></item><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
+<br>Proof.<br><br>as  is a function of  when  is given it can be considered as a constant <br><br>hence <br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/6.-conditional-variance.html</link><guid isPermaLink="false">Probability/6. Conditional Variance.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Wed, 09 Oct 2024 16:18:26 GMT</pubDate></item><item><title><![CDATA[4. Rank Factorization of Matrix]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:1-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:8-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#8-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:1-oct" class="tag" target="_blank" rel="noopener">#1-oct</a><br>Definition (Rank Factorization of Matrix).
 Let  be a  matrix of rank  .  Rank factorization of  is a pair of matrices  where  is of order  and  is of order , such that  
 <br>Theorem.

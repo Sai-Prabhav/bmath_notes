@@ -15722,6 +15722,7 @@ LLNK
 LEt
 Local
 LARGE
+Left
 Multiline
 Mozilla
 ModDate
