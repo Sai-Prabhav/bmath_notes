@@ -11,14 +11,12 @@
             "id": "37c203d56b63d9f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "linear algebra/1. Infinite Dimensional Vector Spaces.md",
-                "mode": "source",
-                "source": false
+                "file": "real analyses/real-analysis-by-bartle.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Infinite Dimensional Vector Spaces"
+              "icon": "lucide-file-text",
+              "title": "real-analysis-by-bartle"
             }
           }
         ]
@@ -166,47 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "64913c71d769a66b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dbc404359e4c370b",
-        "type": "window",
-        "children": [
-          {
-            "id": "afb057f449dfa3de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5922b66b38680536",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "README"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5922b66b38680536",
+  "active": "37c203d56b63d9f1",
   "lastOpenFiles": [
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "real analyses/real-analysis-by-bartle.pdf",
+    "README.md",
     "Index.md",
     "All Queries.md",
     "real analyses/10. Local Maxima Minima.md",
@@ -231,8 +193,6 @@
     "Probability/2. Covariance.md",
     "Probability/1. Multinomial Distribution.md",
     "number_theory/Mid Sem Questions.md",
-    "number_theory/Infinite Primes.md",
-    "number_theory/Euler's criterion.md",
     "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
     "Probability/sheldon_ross.pdf",
     "snippet/old_snippet.js",
@@ -245,7 +205,6 @@
     "Pasted image 20241019115554.png",
     "website/real-analyses/bolzano-weierstrass-theorem.html",
     "website/real-analyses/9.-differentiation.html",
-    "website/number_theory/9.-linear-recurrences.html",
     "Untitled.canvas",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
