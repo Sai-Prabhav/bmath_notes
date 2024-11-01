@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88187606f85e27ed",
+        "id": "6f6f6eec91e58119",
         "type": "tabs",
         "children": [
           {
-            "id": "37c203d56b63d9f1",
+            "id": "9eb1873fa1360086",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "real analyses/real-analysis-by-bartle.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "real-analysis-by-bartle"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -153,21 +151,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "37c203d56b63d9f1",
+  "active": "9eb1873fa1360086",
   "lastOpenFiles": [
-    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.43.jpeg",
+    "linear algebra/6. Question.md",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.59.27.jpeg",
+    "linear algebra/7. Generalised Inverse.md",
+    "linear algebra/3. Rank.md",
+    "linear algebra/Problems.md",
+    "linear algebra/Problems on.md",
+    "number_theory/Problem_set.pdf",
+    "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.55.jpeg",
+    "linear algebra/problems",
+    "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
+    "real analyses/3. Convergences of Series.md",
+    "number_theory/Mid Sem Questions.md",
+    "number_theory/Assignment Link.md",
+    "linear algebra/5. Projector.md",
+    "linear algebra/8. Hermite conical form.md",
+    "Custom Commands.md",
+    "number_theory/8. Linear Diophantine Equation.md",
+    "number_theory/9. Linear  Recurrences.md",
+    "number_theory/Euler's criterion.md",
+    "number_theory/bezout's theorem.md",
+    "number_theory/Infinite Primes.md",
     "real analyses/real-analysis-by-bartle.pdf",
+    "linear algebra/1. Infinite Dimensional Vector Spaces.md",
     "README.md",
     "Index.md",
     "All Queries.md",
@@ -176,24 +197,6 @@
     "real analyses/8. Limit of function.md",
     "real analyses/7. Uniform Continuous.md",
     "real analyses/6. Continuous Bijections.md",
-    "real analyses/5. Intermediate Value Theorem.md",
-    "real analyses/4. Continuity of Functions.md",
-    "real analyses/3. Convergences of Series.md",
-    "real analyses/2. Limit Points.md",
-    "real analyses/1. Cauchy Criterion.md",
-    "Probability/Poisson.md",
-    "Probability/Exercise 4 Solutions.md",
-    "Probability/9. Common densities.md",
-    "Probability/8. Expectation and Variance of Continuous Random Variables.md",
-    "Probability/7. Continuous Random Variable.md",
-    "Probability/6. Conditional Variance.md",
-    "Probability/5. Conditional Expectation.md",
-    "Probability/4. Conditional distribution.md",
-    "Probability/3. Corelation Coefficient.md",
-    "Probability/2. Covariance.md",
-    "Probability/1. Multinomial Distribution.md",
-    "number_theory/Mid Sem Questions.md",
-    "number_theory/david_m-_burton_elementary_number_theory_seventbook4you.pdf",
     "Probability/sheldon_ross.pdf",
     "snippet/old_snippet.js",
     "snippet/my_snippet.md.js",
@@ -203,13 +206,9 @@
     "website/probability/9.-common-densities.html",
     "Pasted image 20241019115547.png",
     "Pasted image 20241019115554.png",
-    "website/real-analyses/bolzano-weierstrass-theorem.html",
-    "website/real-analyses/9.-differentiation.html",
     "Untitled.canvas",
     "html_files/lib/media/favicon.png",
     "html_files/html_files/lib/media/874d8b8e340f75575caa.svg",
-    "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg",
-    "html_files/lib/media/874d8b8e340f75575caa.svg",
-    "html_files/lib/media/3d6c1bdc4d87cde4de67.svg"
+    "html_files/html_files/lib/media/3d6c1bdc4d87cde4de67.svg"
   ]
 }

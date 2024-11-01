@@ -36,3 +36,8 @@ basis of $V\cap W$ $\mathcal{B}=\left\{ \begin{bmatrix}0 \\ 3 \\ 2 \\ 1\end{bmat
 a) Find the basis of $\text{span }(v_{1},v_{3},v_{2})$ 
 b)Find a complement $U$ of $\text{span }(v_{1},v_{2},v_{3})$ containing $u=\begin{bmatrix}4 \\ 0 \\ 8 \\ 0\end{bmatrix}$
 c) Modify $U$ and get a complement $W$ of span $v_{1},v_{2},v_{3}$ not containing $u$ and find a projection $u$ into the span $v_{1},v_{2},v_{3}$ along $W$ 
+
+
+
+
+![[linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg]]
