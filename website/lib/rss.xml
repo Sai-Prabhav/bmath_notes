@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 29 Oct 2024 17:29:19 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 29 Oct 2024 17:27:58 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bmath_notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sai-prabhav.github.io/bmath_notes/</link><image><url>https://sai-prabhav.github.io/bmath_notes/lib/media/favicon.png</url><title>Bmath_notes</title><link>https://sai-prabhav.github.io/bmath_notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 04 Nov 2024 05:10:36 GMT</lastBuildDate><atom:link href="https://sai-prabhav.github.io/bmath_notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 04 Nov 2024 05:10:34 GMT</pubDate><copyright><![CDATA[V Sai Prabhav]]></copyright><ttl>60</ttl><dc:creator>V Sai Prabhav</dc:creator><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener nofollow">#9-oct</a><br>Question
+Let  be a matrix with rank  . Then there exist invertible matrices  and  such that 
+<br><br>Let A be a  let  be the nullity of  ie, <br>
+<br>
+let  be a basis of <br>
+extend this basis to a basis of  say <br>
+ is a basis for <br>
+Extend this to  a basis of <br>
+Let  be the matrix whose columns are elements of  and  is the inverse of the matrix whose columns are formed by elements of <br><br><br>Theorem.
+Every non null matrix has a rank factorization.
+<br><br><br>
+Let  where  is of order <br>
+  is of order <br>Claim.
+
+<br><br> another proof<br>
+Let A be  of rank <br>
+Let  be a basis  where each <br>
+So, every column of A say  is a linear combination of elements in <br>
+Let <br><br><br>if  then <br>Theorem.
+If  is a rank factorization of A, then  is also a rank factorization of A for  a non-singular matrix.<br>
+Also, every rank factorization of  is of this form 
+<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener nofollow">#10-oct</a><br>Exercise.
+Determine all projectors of order  over  
+<br>there are 3 kinds of projection<br>a) <br>
+b) <br>
+c) restriction of det and trace trace=1 and det =0<br>Exercise.
+If  then show rank of A is the trace of A
+<br><img alt="linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg" src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg"><br>
+<img alt="linear algebra/problems/WhatsApp Image 2024-10-30 at 20.59.27.jpeg" src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.59.27.jpeg"><br>
+<img alt="linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.43.jpeg" src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.43.jpeg"><br>
+<img alt="linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.55.jpeg" src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.55.jpeg">]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 01 Nov 2024 15:02:50 GMT</pubDate><enclosure url="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
+ <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener nofollow">#25-sep</a><br>
+<br>
+Let  be the linear transformation 
+
+a) Find the matrix of  wrt. the standard basis
+
+2 let <br>
+extend the basis  to  
+
+<br>
+Show that the space of all real valued continuous functions on  is infinite dimensional 
+
+<br>Consider the set  they are linearly independent and belong to the above space hence the space should be infinite<br>
+4. Consider the subspace of  and  in  <br><br>a) find bases for  and <br>basis of   we can extend this to basis of  and  <br>
+<br>Let 
+<br>a) Find the basis of <br>
+b)Find a complement  of  containing <br>
+c) Modify  and get a complement  of span  not containing  and find a projection  into the span  along  <br><img alt="linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg" src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg">]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html</link><guid isPermaLink="false">linear algebra/Problems.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 01 Nov 2024 14:55:52 GMT</pubDate><enclosure url="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems/whatsapp-image-2024-10-30-at-20.58.29.jpeg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1. Infinite Dimensional Vector Spaces]]></title><description><![CDATA[ 
  <br>Vector spaces which are not finite dimensional are infinite dimensional vector spaces.<br>
 That is if  is not is not spanned by a finite set.<br><br>
 <br>All real polynomial space is a vector space 
@@ -261,35 +310,7 @@ v)  is a direct sum
 Let  be a basis of  and  of T<br>if <br><br><br>
 <br>
 let  ie, <br><br><br><br><br><br><br><br>A is the projection of  along <br>
-□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html</link><guid isPermaLink="false">linear algebra/5. Projector.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 16:03:53 GMT</pubDate></item><item><title><![CDATA[6. Question]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:9-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#9-oct</a> <a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:9-oct" class="tag" target="_blank" rel="noopener nofollow">#9-oct</a><br>Question
-Let  be a matrix with rank  . Then there exist invertible matrices  and  such that 
-<br><br>Let A be a  let  be the nullity of  ie, <br>
-<br>
-let  be a basis of <br>
-extend this basis to a basis of  say <br>
- is a basis for <br>
-Extend this to  a basis of <br>
-Let  be the matrix whose columns are elements of  and  is the inverse of the matrix whose columns are formed by elements of <br><br><br>Theorem.
-Every non null matrix has a rank factorization.
-<br><br><br>
-Let  where  is of order <br>
-  is of order <br>Claim.
-
-<br><br> another proof<br>
-Let A be  of rank <br>
-Let  be a basis  where each <br>
-So, every column of A say  is a linear combination of elements in <br>
-Let <br><br><br>if  then <br>Theorem.
-If  is a rank factorization of A, then  is also a rank factorization of A for  a non-singular matrix.<br>
-Also, every rank factorization of  is of this form 
-<br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener nofollow">#10-oct</a><br>Exercise.
-Determine all projectors of order  over  
-<br>there are 3 kinds of projection<br>a) <br>
-b) <br>
-c) restriction of det and trace trace=1 and det =0<br>Exercise.
-If  then show rank of A is the trace of A
-]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/6.-question.html</link><guid isPermaLink="false">linear algebra/6. Question.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Thu, 10 Oct 2024 04:53:41 GMT</pubDate></item><item><title><![CDATA[7. Generalised Inverse]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
+□]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/5.-projector.html</link><guid isPermaLink="false">linear algebra/5. Projector.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 16:03:53 GMT</pubDate></item><item><title><![CDATA[7. Generalised Inverse]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:10-oct" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#10-oct</a> 
  <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:10-oct" class="tag" target="_blank" rel="noopener nofollow">#10-oct</a><br>Definition.
 Given any matrix  there exist a matrix  (generalised inverse denoted by g-inv ). Such that whenever  is a consistent system, ie <br>
  is a solution and  dosen't depend on  
@@ -422,25 +443,7 @@ we create nxxn diagonal matrix  with  <br><br>hence  where <br>
 <br> is upper triangular with diagonal entries 1
 <br> is diagonal matrix with diagonals entries non-zero
 <br>invertible matrices admit a LU decomposition if all its leading principal minor are non-zero<br>
-A singular matrix of rank  admits a LU decompsition if the first  leading principal minors are non-zero <br>If a is a  matrix such that we need to use a row interchange to bring it to its row echelon form then we multiply A by a suitable permutation matrix  from left so that PA (which has a rearrangement of the rows of A) uses no row interchange to get its row echelon form and then  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/9.-lu-decomposition.html</link><guid isPermaLink="false">linear algebra/9. LU decomposition.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 14:01:42 GMT</pubDate></item><item><title><![CDATA[Problems]]></title><description><![CDATA[<a class="tag" href="https://sai-prabhav.github.io/bmath_notes/?query=tag:25-sep" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#25-sep</a> 
- <br><a href="https://sai-prabhav.github.io/bmath_notes?query=tag:25-sep" class="tag" target="_blank" rel="noopener nofollow">#25-sep</a><br>
-<br>
-Let  be the linear transformation 
-
-a) Find the matrix of  wrt. the standard basis
-
-2 let <br>
-extend the basis  to  
-
-<br>
-Show that the space of all real valued continuous functions on  is infinite dimensional 
-
-<br>Consider the set  they are linearly independent and belong to the above space hence the space should be infinite<br>
-4. Consider the subspace of  and  in  <br><br>a) find bases for  and <br>basis of   we can extend this to basis of  and  <br>
-<br>Let 
-<br>a) Find the basis of <br>
-b)Find a complement  of  containing <br>
-c) Modify  and get a complement  of span  not containing  and find a projection  into the span  along  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/problems.html</link><guid isPermaLink="false">linear algebra/Problems.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:16:21 GMT</pubDate></item><item><title><![CDATA[1. Pigeonhole Principle]]></title><description><![CDATA[ 
+A singular matrix of rank  admits a LU decompsition if the first  leading principal minors are non-zero <br>If a is a  matrix such that we need to use a row interchange to bring it to its row echelon form then we multiply A by a suitable permutation matrix  from left so that PA (which has a rearrangement of the rows of A) uses no row interchange to get its row echelon form and then  ]]></description><link>https://sai-prabhav.github.io/bmath_notes/linear-algebra/9.-lu-decomposition.html</link><guid isPermaLink="false">linear algebra/9. LU decomposition.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 22 Oct 2024 14:01:42 GMT</pubDate></item><item><title><![CDATA[1. Pigeonhole Principle]]></title><description><![CDATA[ 
  <br>Theorem (Pigeonhole Principle).
 if  objects are distributed into  boxes then at least one box contains two or more of the objects
 <br><br>Let  be  integers<br>
@@ -876,7 +879,7 @@ also  are linearly independent<br>
 for if they were linearly independent then we would have <br><br>for some  <br>ie, <br><br>for  <br><br>hence <br><br> □]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/9.-linear-recurrences.html</link><guid isPermaLink="false">number_theory/9. Linear  Recurrences.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Mon, 14 Oct 2024 08:47:32 GMT</pubDate></item><item><title><![CDATA[Assignment Link]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" rel="noopener nofollow" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">link</a><br>
 <a rel="noopener nofollow" class="external-link" href="https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0" target="_blank">https://www.dropbox.com/scl/fi/gv5f41b9f2rx8uysh7nit/20240730ProblemSet00.pdf?rlkey=7obblm7yklpncti9231jlxj3a&amp;e=1&amp;st=idvaa1f1&amp;dl=0</a>]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/assignment-link.html</link><guid isPermaLink="false">number_theory/Assignment Link.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 11 Oct 2024 04:52:56 GMT</pubDate></item><item><title><![CDATA[bezout's theorem]]></title><description><![CDATA[ 
- ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/bezout&apos;s-theorem.html</link><guid isPermaLink="false">number_theory/bezout&apos;s theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:19:18 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
+ ]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/bezout's-theorem.html</link><guid isPermaLink="false">number_theory/bezout's theorem.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:19:18 GMT</pubDate></item><item><title><![CDATA[Euler's criterion]]></title><description><![CDATA[ 
  <br>Theorem (Euler's criterion).
 let  be and odd prime and 
 
@@ -886,7 +889,7 @@ which can be written as<br><br>Therefore either<br><br>or <br><br>Case one: ( is
 let  we a primitive root of  as  is a quadratic residue<br>
  for some <br><br>this proves that <br><br>Case two: ( is a quadratic non-residue)<br>
  for some  as  is a quadratic non-residue<br>lets assume<br><br><br>Which contradicts  is a primitive root of <br>
-Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler&apos;s-criterion.html</link><guid isPermaLink="false">number_theory/Euler&apos;s criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:13 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
+Therefore<br><br>□]]></description><link>https://sai-prabhav.github.io/bmath_notes/number_theory/euler's-criterion.html</link><guid isPermaLink="false">number_theory/Euler's criterion.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Tue, 08 Oct 2024 03:15:13 GMT</pubDate></item><item><title><![CDATA[Infinite Primes]]></title><description><![CDATA[ 
  <br>The aim of this note is to try and make a list of all possible prove that  has infinitely many primes type of question. This is an open note in the sense it is never complete <br>Theorem (Infinite Primes ).
 There are infinite Primes of the form  equivalently there are infinity many primes
 <br>Proof.<br>
@@ -1160,7 +1163,7 @@ There are normal tables
 <br><br>Fix   <br><br>CDF <br><br><br><br><br>Remark.
 Exponential RV is said to be the only RV which has has memory property.
 <br> <br>]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/9.-common-densities.html</link><guid isPermaLink="false">Probability/9. Common densities.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 07:18:50 GMT</pubDate></item><item><title><![CDATA[10. Stirling's formula]]></title><description><![CDATA[ 
- ]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/10.-stirling&apos;s-formula.html</link><guid isPermaLink="false">Probability/10. Stirling&apos;s formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 06:06:15 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
+ ]]></description><link>https://sai-prabhav.github.io/bmath_notes/probability/10.-stirling's-formula.html</link><guid isPermaLink="false">Probability/10. Stirling's formula.md</guid><dc:creator><![CDATA[V Sai Prabhav]]></dc:creator><pubDate>Fri, 18 Oct 2024 06:06:15 GMT</pubDate></item><item><title><![CDATA[Exercise 4 Solutions]]></title><description><![CDATA[ 
  <br>Exercise 10.
  In a sequence of Bernoulli trials let X be the length of run (of either successes or failures) started by the first trial. 
 
