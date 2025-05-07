@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "3. Binary"
             }
+          },
+          {
+            "id": "9c28ac6e0862be1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "number_theory/3. Binary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Binary"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d044461e9838f0f8",
+  "active": "9c28ac6e0862be1d",
   "lastOpenFiles": [
-    "Custom Commands.md",
+    "number_theory/Untitled.md",
     "number_theory/3. Binary.md",
+    "Untitled",
+    "Custom Commands.md",
     "number_theory/Infinite Primes.md",
     "number_theory/Problem_set.pdf",
     "real analyses/9. Differentiation.md",
@@ -204,14 +221,12 @@
     "real analyses/10. Local Maxima Minima.md",
     "real analyses/8. Limit of function.md",
     "real analyses/7. Uniform Continuous.md",
-    "real analyses/6. Continuous Bijections.md",
     "Probability/sheldon_ross.pdf",
     "snippet/old_snippet.js",
     "snippet/my_snippet.md.js",
     "website/linear-algebra/9.-lu-decomposition.html",
     "Pasted image 20241019224117.png",
     "website/probability/10.-stirling's-formula.html",
-    "website/probability/9.-common-densities.html",
     "Pasted image 20241019115547.png",
     "Pasted image 20241019115554.png",
     "Untitled.canvas",
