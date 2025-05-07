@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/sheldon_ross.pdf"
+                "file": "number_theory/3. Binary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sheldon_ross"
+              "title": "Outline of 3. Binary"
             }
           }
         ],
@@ -151,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d78ab1db400ee874",
+  "active": "d044461e9838f0f8",
   "lastOpenFiles": [
+    "Custom Commands.md",
+    "number_theory/3. Binary.md",
     "number_theory/Infinite Primes.md",
     "number_theory/Problem_set.pdf",
     "real analyses/9. Differentiation.md",
     "linear algebra/Problems.md",
     "linear algebra/6. Question.md",
-    "Custom Commands.md",
     "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.29.jpeg",
     "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.58.43.jpeg",
     "linear algebra/problems/WhatsApp Image 2024-10-30 at 20.59.27.jpeg",
