@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "number_theory/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Binary"
+              "title": "Untitled"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "number_theory/3. Binary.md",
+                "file": "number_theory/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Binary"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "9c28ac6e0862be1d",
   "lastOpenFiles": [
-    "number_theory/Untitled.md",
     "number_theory/3. Binary.md",
+    "number_theory/Untitled.md",
     "Untitled",
     "Custom Commands.md",
     "number_theory/Infinite Primes.md",
