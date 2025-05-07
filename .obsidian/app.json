@@ -9,7 +9,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "showRibbon": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",

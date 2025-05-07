@@ -4,5 +4,6 @@
   "textFontFamily": "Liberation Serif",
   "cssTheme": "Obsidian Nord",
   "accentColor": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }
