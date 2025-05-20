@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippet/my_snippet.md",
+                "file": "snippet/old_snippet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my_snippet"
+              "title": "old_snippet"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "cc9ce1d93b543c0a",
   "lastOpenFiles": [
+    "snippet/my_snippet.md",
     "snippet/old_snippet.md",
     "Custom Commands.md",
-    "snippet/my_snippet.md",
     "number_theory/Untitled.md",
     "number_theory/3. Binary.md",
     "Untitled",
